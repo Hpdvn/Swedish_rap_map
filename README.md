@@ -1,2 +1,6 @@
 # Swedish_rap_map
-Swedish rap artists map based on lyrics provided by genius.com
+Swedish rap artists map based on lyrics provided by www.genius.com
+
+interesting points :
+- the name of some artists was causing troubles to the Api library (a with 2 points, &, etc...)
+- the mix of Swedish, english, arabic
