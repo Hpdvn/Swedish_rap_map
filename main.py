@@ -13,7 +13,6 @@ def get_artist_lyrics(artist_name, max_songs=10):
     os.replace(filename, "./Lyrics/" + filename)
 
 
-
 def get_all_artists(filename="artist_list.json"):
     input_file = open(filename)
     json_array = json.load(input_file)
@@ -23,6 +22,7 @@ def get_all_artists(filename="artist_list.json"):
 def get_all_artists_lyrics():
     artists_list = get_all_artists(filename="artist_list.json")
     for artist in artists_list:
-        get_artist_lyrics(artist_name=artist, max_songs=1)
+        print("Artiste : ", artist)
+        get_artist_lyrics(artist_name=artist, max_songs=10)
 
-get_all_artists_lyrics()
+
