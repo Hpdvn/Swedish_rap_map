@@ -1,0 +1,4286 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/81306",
+ "description": {
+  "plain": "Linda Pira, f\u00f6dd 1985 i H\u00e4sselby, \u00e4r en svensk hiphopmusiker. Hon slog igenom 2012 n\u00e4r hon g\u00e4stade Stor i l\u00e5ten \u201cRom och Kush\u201d. 2013 sl\u00e4ppte hon EP:n Matriarken p\u00e5 Redline Records."
+ },
+ "facebook_name": null,
+ "followers_count": 8,
+ "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+ "id": 81306,
+ "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Linda Pira",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Linda-pira",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3952600,
+  "annotator_login": "kikki_d",
+  "api_path": "/referents/6990757",
+  "classification": "accepted",
+  "fragment": "Linda Pira",
+  "id": 6990757,
+  "is_description": true,
+  "path": "/6990757/Linda-pira/Linda-pira",
+  "range": {
+   "content": "Linda Pira"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6990757/Linda-pira/Linda-pira",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/81306",
+   "context": null,
+   "id": 81306,
+   "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+   "link_title": "Linda Pira",
+   "title": "Linda Pira",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Linda-pira"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6990757",
+    "body": {
+     "plain": "Linda Pira, f\u00f6dd 1985 i H\u00e4sselby, \u00e4r en svensk hiphopmusiker. Hon slog igenom 2012 n\u00e4r hon g\u00e4stade Stor i l\u00e5ten \u201cRom och Kush\u201d. 2013 sl\u00e4ppte hon EP:n Matriarken p\u00e5 Redline Records."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 6990757,
+    "pinned": false,
+    "share_url": "https://genius.com/6990757",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6990757/Linda-pira/Linda-pira",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3952600",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/1c5b1b0b04d2be447ae9ddaf85418cd6",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/1c5b1b0b04d2be447ae9ddaf85418cd6",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/1c5b1b0b04d2be447ae9ddaf85418cd6",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/1c5b1b0b04d2be447ae9ddaf85418cd6",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/1c5b1b0b04d2be447ae9ddaf85418cd6",
+       "human_readable_role_for_display": null,
+       "id": 3952600,
+       "iq": 246,
+       "login": "kikki_d",
+       "name": "kikki_d",
+       "role_for_display": null,
+       "url": "https://genius.com/kikki_d",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 13,
+   "api_path": "/songs/372795",
+   "artist_names": "Linda Pira (Ft. Cleo (SWE), Joy (SWE), Julia Spada, Kumba, Rawda, Rosh (Swedish), Sep & Vanessa Falk)",
+   "full_title": "Kn\u00e4pper Mina Fingrar [Remix] by\u00a0Linda\u00a0Pira (Ft.\u00a0Cleo\u00a0(SWE), Joy\u00a0(SWE), Julia\u00a0Spada, Kumba, Rawda, Rosh\u00a0(Swedish), Sep & Vanessa\u00a0Falk)",
+   "header_image_thumbnail_url": "https://images.genius.com/dedb388350db0b22ae8813c6f61e77be.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/dedb388350db0b22ae8813c6f61e77be.580x580x1.jpg",
+   "id": 372795,
+   "language": "sv",
+   "lyrics_owner_id": 625103,
+   "lyrics_state": "complete",
+   "path": "/Linda-pira-knapper-mina-fingrar-remix-lyrics",
+   "pyongs_count": 3,
+   "relationships_index_url": "https://genius.com/Linda-pira-knapper-mina-fingrar-remix-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 2,
+    "day": 21
+   },
+   "release_date_for_display": "February 21, 2014",
+   "release_date_with_abbreviated_month_for_display": "Feb. 21, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/dedb388350db0b22ae8813c6f61e77be.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/dedb388350db0b22ae8813c6f61e77be.580x580x1.jpg",
+   "stats": {
+    "accepted_annotations": 10,
+    "contributors": 22,
+    "iq_earners": 22,
+    "transcribers": 3,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 76098
+   },
+   "title": "Kn\u00e4pper Mina Fingrar [Remix]",
+   "title_with_featured": "Kn\u00e4pper Mina Fingrar [Remix] (Ft.\u00a0Cleo\u00a0(SWE), Joy\u00a0(SWE), Julia\u00a0Spada, Kumba, Rawda, Rosh\u00a0(Swedish), Sep & Vanessa\u00a0Falk)",
+   "url": "https://genius.com/Linda-pira-knapper-mina-fingrar-remix-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/159833",
+     "header_image_url": "https://images.genius.com/783997a29821820a6e16e23f52615e5b.1000x667x1.jpg",
+     "id": 159833,
+     "image_url": "https://images.genius.com/783997a29821820a6e16e23f52615e5b.1000x667x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joy (SWE)",
+     "url": "https://genius.com/artists/Joy-swe"
+    },
+    {
+     "api_path": "/artists/151910",
+     "header_image_url": "https://images.genius.com/ae61c55252186fe4e4a397b5a0ae853c.1000x1000x1.png",
+     "id": 151910,
+     "image_url": "https://images.genius.com/26709948bde82e944597394ae63e81ee.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Julia Spada",
+     "url": "https://genius.com/artists/Julia-spada"
+    },
+    {
+     "api_path": "/artists/149087",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 149087,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kumba",
+     "url": "https://genius.com/artists/Kumba"
+    },
+    {
+     "api_path": "/artists/125177",
+     "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+     "id": 125177,
+     "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Cleo (SWE)",
+     "url": "https://genius.com/artists/Cleo-swe",
+     "iq": 292
+    },
+    {
+     "api_path": "/artists/149090",
+     "header_image_url": "https://images.genius.com/4ff6ce27a74bf9d61ca81aa137a1fc77.1000x458x1.jpg",
+     "id": 149090,
+     "image_url": "https://images.genius.com/20879f4a07e217ce6eb487dccc96e0b3.563x563x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rawda",
+     "url": "https://genius.com/artists/Rawda"
+    },
+    {
+     "api_path": "/artists/149089",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 149089,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vanessa Falk",
+     "url": "https://genius.com/artists/Vanessa-falk"
+    },
+    {
+     "api_path": "/artists/144600",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 144600,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rosh (Swedish)",
+     "url": "https://genius.com/artists/Rosh-swedish"
+    },
+    {
+     "api_path": "/artists/149088",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 149088,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sep",
+     "url": "https://genius.com/artists/Sep"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/81306",
+    "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+    "id": 81306,
+    "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Linda Pira",
+    "url": "https://genius.com/artists/Linda-pira"
+   },
+   "apple_music_id": "1559278850",
+   "apple_music_player_url": "https://genius.com/songs/372795/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_372795' class='rg_embed_link' data-song-id='372795'>Read <a href='https://genius.com/Linda-pira-knapper-mina-fingrar-remix-lyrics'>\u201cKn\u00e4pper Mina Fingrar [Remix]\u201d by Linda\u00a0Pira</a> on Genius</div> <script crossorigin src='//genius.com/songs/372795/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-02-21",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 625103,
+    "annotator_login": "lgh",
+    "api_path": "/referents/3750459",
+    "classification": "needs_exegesis",
+    "fragment": "Kn\u00e4pper Mina Fingrar [Remix]",
+    "id": 3750459,
+    "is_description": true,
+    "path": "/3750459/Linda-pira-knapper-mina-fingrar-remix/Knapper-mina-fingrar-remix",
+    "range": {
+     "content": "Kn\u00e4pper Mina Fingrar [Remix]"
+    },
+    "song_id": 372795,
+    "url": "https://genius.com/3750459/Linda-pira-knapper-mina-fingrar-remix/Knapper-mina-fingrar-remix",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/372795",
+     "client_timestamps": {
+      "updated_by_human_at": 1631278193,
+      "lyrics_updated_at": 1631278174
+     },
+     "context": "Linda Pira",
+     "id": 372795,
+     "image_url": "https://images.genius.com/dedb388350db0b22ae8813c6f61e77be.580x580x1.jpg",
+     "link_title": "Kn\u00e4pper Mina Fingrar [Remix] by\u00a0Linda\u00a0Pira (Ft.\u00a0Cleo\u00a0(SWE), Joy\u00a0(SWE), Julia\u00a0Spada, Kumba, Rawda, Rosh\u00a0(Swedish), Sep & Vanessa\u00a0Falk)",
+     "title": "Kn\u00e4pper Mina Fingrar [Remix]",
+     "type": "Song",
+     "url": "https://genius.com/Linda-pira-knapper-mina-fingrar-remix-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3750459",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3750459,
+      "pinned": false,
+      "share_url": "https://genius.com/3750459",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3750459/Linda-pira-knapper-mina-fingrar-remix/Knapper-mina-fingrar-remix",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/625103",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1669064443",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1669064443",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1669064443",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "human_readable_role_for_display": null,
+         "id": 625103,
+         "iq": 182,
+         "login": "lgh",
+         "name": "lgh",
+         "role_for_display": null,
+         "url": "https://genius.com/lgh",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=CloPMxoqWeA"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/36309",
+     "header_image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "id": 36309,
+     "image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Masse",
+     "url": "https://genius.com/artists/Masse"
+    },
+    {
+     "api_path": "/artists/149092",
+     "header_image_url": "https://images.genius.com/0cc49535834e3da8744bf4fb5ce67b5e.1000x1000x1.jpg",
+     "id": 149092,
+     "image_url": "https://images.genius.com/0cc49535834e3da8744bf4fb5ce67b5e.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Salazar Brothers",
+     "url": "https://genius.com/artists/Salazar-brothers"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2012829",
+       "artist_names": "Linda Pira (Ft. STOR)",
+       "full_title": "Kn\u00e4pper Mina Fingrar by\u00a0Linda\u00a0Pira (Ft.\u00a0STOR)",
+       "header_image_thumbnail_url": "https://images.genius.com/80993b791819e8ecf379d160a4c43629.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/80993b791819e8ecf379d160a4c43629.640x640x1.jpg",
+       "id": 2012829,
+       "language": "sv",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Linda-pira-knapper-mina-fingrar-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Linda-pira-knapper-mina-fingrar-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/80993b791819e8ecf379d160a4c43629.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/80993b791819e8ecf379d160a4c43629.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 9340
+       },
+       "title": "Kn\u00e4pper Mina Fingrar",
+       "title_with_featured": "Kn\u00e4pper Mina Fingrar (Ft.\u00a0STOR)",
+       "url": "https://genius.com/Linda-pira-knapper-mina-fingrar-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/16542",
+         "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+         "id": 16542,
+         "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "STOR",
+         "url": "https://genius.com/artists/Stor"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/81306",
+        "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+        "id": 81306,
+        "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Linda Pira",
+        "url": "https://genius.com/artists/Linda-pira"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/81306",
+     "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+     "id": 81306,
+     "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Linda Pira",
+     "url": "https://genius.com/artists/Linda-pira"
+    }
+   ],
+   "artist": "Linda Pira",
+   "lyrics": "Kn\u00e4pper Mina Fingrar [Remix] Lyrics[Intro: Kumba]\nFlyger n\u00e4r vi glider\nSmider planer med musiken\nSpinner hos varenda DJ, DJ\nFlyger n\u00e4r vi glider\nSmider planer med musiken\nSpinner hos varenda DJ, DJ\n\n[Vers 1]\nJag och min clique\nIngen dick, vi river hela klubben\nF\u00e5nga allas blick med sjuka trix, ey, vi lever f\u00f6r stunden\nHon whinear ner den\nPoppar den droppar den kan inte stoppa den\nShuno vill plocka den, ingen sk\u00e4ms\nHaffla hela natten, t\u00e4nker aldrig g\u00e5 hem\n[Vers 2: Rosh]\nSluta eka som du vore med i P1\nHelt r\u00e4tt Rosh, varje move blir en nyhet\nMode:n skithet\nRewind selecta\nMin flow och min show, min rhyme-perfekta\nAldrig sett oss f\u00f6rr, s\u00e5 de b\u00f6rjar snabbt undra\nJag och min clique vi kom bara f\u00f6r att plundra\nNamnet var Ro-ro\nSprider hot och oro\nKastar shuno som en docka, chokad av min vodoo\n\n[Vers 3: Cleo]\nFemtastic jaa..\n\nKleopatra, ja' har lika m\u00e5nga tj\u00e4nstem\u00e4n\nStyr med hela facking handen som en dirigent\nHur m\u00e5nga shunnos verkar avis\nFestar s\u00f6nder st\u00e4llet s\u00e5 en nykterist blir bakis, aa visst\nMina ord hettar munnen som wasabi\nVad sa vi? Backa bak fr\u00e5n henne hon \u00e4r farlig\nMan kan fr\u00e5ga sig om min stil \u00e4r laglig\nF\u00e5r allt som jag pekar p\u00e5 f\u00f6r jag \u00e4r boss bitch\n\n[Vers 4: Sep]\nKn\u00e4pper fingrar, n\u00e4r vi g\u00e5r loss\nBaby h\u00f6r du 2Pac, alla \u00f6gon p\u00e5 oss\nJag gillar hur du r\u00f6r dig\nDet \u00e4r som du l\u00e4ser mig exakt\nDu vet hur man uppf\u00f6r sig\nDet \u00e4r s\u00e5 sv\u00e5rt f\u00f6r mig att vara p\u00e5 min vakt\nYou might also like[Chorus: Linda Pira]\nSa de hade st\u00e4ngt insl\u00e4ppet\nKn\u00e4ppte mina fingrar\nOch in rulla hela min clique\nTr\u00e4ngde mig till baren\nKn\u00e4ppte dem igen (tjoo)\nB\u00f6rja blanda min drink\nF\u00f6r vi f\u00e5r allt som vi pekar p\u00e5\nRichie Rich\nAllt som vi pekar p\u00e5\nRichie Rich\nRullar h\u00e4nderna i luften s\u00e5 dom ser\nKn\u00e4pper fingret varje g\u00e5ng vi g\u00f6r entr\u00e9\n\n[Vers 5: Vanessa Falk]\nOm din flickv\u00e4n visste om\nAtt du var h\u00e4r med mig\nHon skulle inte tycka om\nAaliyah l\u00e4rde mig\nOm jag bara kn\u00e4ppte mina fingrar\nSkulle vi nog redan vara p\u00e5 v\u00e4g\nGillar dig men jag kan inte g\u00e5\nGillar dig men jag \u00e4r inte s\u00e5d\u00e4r\n\n[Vers 6 Rawda]\nChilla laid back\nVad ska jag bevisa?\nTuffah i min shisha\nOldschool Queen Latifa\nRappers ockuperar distrikt\nDe vill ha tax f\u00f6r mina v\u00e4ggar\nDiplomerade hits\nYo, l\u00e5t mig va\nKom ej n\u00e4ra mitt space\nJag klipper skallar\nSom dom kr\u00e4ver en fejd\nNamnet var Rawda\nSpelar min l\u00e5t, kan aldrig pausa\nX in da house vi g\u00f6r kaos\nYa'ni fawda (Fawda)\n[Vers 7: Julia Spada]\nKn\u00e4pper v\u00e5ra fingrar som s\u00e5h\u00e4r\nMassorna skingras ba s\u00e5d\u00e4r\nDe kn\u00e4pper sina h\u00e4nder ber p\u00e5 kn\u00e4n, jo jag sv\u00e4r\nF\u00f6r att f\u00e5 va del av v\u00e5r sf\u00e4r\nKom med bl\u00e5 t\u00e5get med hon med bl\u00e5 h\u00e5ret\nSkavs\u00e5r p\u00e5 l\u00e5ret av pluntan i res\u00e5ret\nRing p\u00e5 varje fing v\u00e4rda ingenting\nNu till min po\u00e4ng: jag ser ut som pengaregn\nJag vet att vi kommer ol\u00e4gligt - k\u00e4nns det tungt?\nJag kommer bli v\u00e4ldig odr\u00e4glig om en liten liten stund\nMutar in tum f\u00f6r tum av era rum\nMedan ni k\u00e4mpar f\u00f6r att komma underfund\n\n[Chorus: Linda Pira]\nSa de hade st\u00e4ngt insl\u00e4ppet\nKn\u00e4ppte mina fingrar\nOch in rulla hela min clique\nTr\u00e4ngde mig till baren\nKn\u00e4ppte dem igen (tjoo)\nB\u00f6rja blanda min drink\nF\u00f6r vi f\u00e5r allt som vi pekar p\u00e5\nRichie Rich\nAllt som vi pekar p\u00e5\nRichie Rich\nRullar h\u00e4nderna i luften s\u00e5 dom ser\nKn\u00e4pper fingret varje g\u00e5ng vi g\u00f6r entr\u00e9\n\n[Vers 8: Joy]\nJag \u00e4r ingen brud som leker f\u00f6lja John\nJag skiter i vad Simon says det spelar ingen roll\nS\u00e5 var beredd att va p\u00e5 spr\u00e5ng\nAlla v\u00e4nder rygg och sviker dig n\u00e5gon g\u00e5ng\nJag \u00e4r en bitch med attityd\nMamma skapade mig\nJag s\u00e4ger black bitch stereotyp\nSharkeisha - se mig och fly\nVill off the tv jag fl\u00f6dar\nF\u00f6r knark och pengar jag d\u00f6dar\nJag slaktar allt i min v\u00e4g\nJa allt f\u00f6r n\u00f6jet jag pr\u00f6var\n\n[Vers 9: Linda Pira]\nQueen B Pira fr\u00e5n the red line recs\nHeadline shows blir till headline checks\nJag st\u00e4nger ingen, st\u00e4nger igen\nBaby jag spr\u00e4ngde jantelagen, big bang, l\u00e4nge sen\nSl\u00e4nger ut en remix \u00e4r att samla hop de tyngsta\nGuzz som kn\u00e4pper fingrarar alla bajtar fr\u00e5n min insta\nSim salabim du som saladin crew\nMasse Salazar beat\nWallah alla rim mord3Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2012829",
+   "artist_names": "Linda Pira (Ft. STOR)",
+   "full_title": "Kn\u00e4pper Mina Fingrar by\u00a0Linda\u00a0Pira (Ft.\u00a0STOR)",
+   "header_image_thumbnail_url": "https://images.genius.com/80993b791819e8ecf379d160a4c43629.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/80993b791819e8ecf379d160a4c43629.640x640x1.jpg",
+   "id": 2012829,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Linda-pira-knapper-mina-fingrar-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Linda-pira-knapper-mina-fingrar-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/80993b791819e8ecf379d160a4c43629.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/80993b791819e8ecf379d160a4c43629.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 9340
+   },
+   "title": "Kn\u00e4pper Mina Fingrar",
+   "title_with_featured": "Kn\u00e4pper Mina Fingrar (Ft.\u00a0STOR)",
+   "url": "https://genius.com/Linda-pira-knapper-mina-fingrar-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/81306",
+    "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+    "id": 81306,
+    "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Linda Pira",
+    "url": "https://genius.com/artists/Linda-pira"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2012829/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2012829' class='rg_embed_link' data-song-id='2012829'>Read <a href='https://genius.com/Linda-pira-knapper-mina-fingrar-lyrics'>\u201cKn\u00e4pper Mina Fingrar\u201d by Linda\u00a0Pira</a> on Genius</div> <script crossorigin src='//genius.com/songs/2012829/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/61783",
+    "cover_art_url": "https://images.genius.com/80993b791819e8ecf379d160a4c43629.640x640x1.jpg",
+    "full_title": "Matriarken by Linda Pira",
+    "id": 61783,
+    "name": "Matriarken",
+    "url": "https://genius.com/albums/Linda-pira/Matriarken",
+    "artist": {
+     "api_path": "/artists/81306",
+     "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+     "id": 81306,
+     "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Linda Pira",
+     "url": "https://genius.com/artists/Linda-pira"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6700668",
+    "classification": "needs_exegesis",
+    "fragment": "Kn\u00e4pper Mina Fingrar",
+    "id": 6700668,
+    "is_description": true,
+    "path": "/6700668/Linda-pira-knapper-mina-fingrar/Knapper-mina-fingrar",
+    "range": {
+     "content": "Kn\u00e4pper Mina Fingrar"
+    },
+    "song_id": 2012829,
+    "url": "https://genius.com/6700668/Linda-pira-knapper-mina-fingrar/Knapper-mina-fingrar",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2012829",
+     "client_timestamps": {
+      "updated_by_human_at": 1475096150,
+      "lyrics_updated_at": 1475095928
+     },
+     "context": "Linda Pira",
+     "id": 2012829,
+     "image_url": "https://images.genius.com/80993b791819e8ecf379d160a4c43629.640x640x1.jpg",
+     "link_title": "Kn\u00e4pper Mina Fingrar by\u00a0Linda\u00a0Pira (Ft.\u00a0STOR)",
+     "title": "Kn\u00e4pper Mina Fingrar",
+     "type": "Song",
+     "url": "https://genius.com/Linda-pira-knapper-mina-fingrar-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6700668",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6700668,
+      "pinned": false,
+      "share_url": "https://genius.com/6700668",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6700668/Linda-pira-knapper-mina-fingrar/Knapper-mina-fingrar",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Ir2p8OvMn2k"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 13,
+       "api_path": "/songs/372795",
+       "artist_names": "Linda Pira (Ft. Cleo (SWE), Joy (SWE), Julia Spada, Kumba, Rawda, Rosh (Swedish), Sep & Vanessa Falk)",
+       "full_title": "Kn\u00e4pper Mina Fingrar [Remix] by\u00a0Linda\u00a0Pira (Ft.\u00a0Cleo\u00a0(SWE), Joy\u00a0(SWE), Julia\u00a0Spada, Kumba, Rawda, Rosh\u00a0(Swedish), Sep & Vanessa\u00a0Falk)",
+       "header_image_thumbnail_url": "https://images.genius.com/dedb388350db0b22ae8813c6f61e77be.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/dedb388350db0b22ae8813c6f61e77be.580x580x1.jpg",
+       "id": 372795,
+       "language": "sv",
+       "lyrics_owner_id": 625103,
+       "lyrics_state": "complete",
+       "path": "/Linda-pira-knapper-mina-fingrar-remix-lyrics",
+       "pyongs_count": 3,
+       "relationships_index_url": "https://genius.com/Linda-pira-knapper-mina-fingrar-remix-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 2,
+        "day": 21
+       },
+       "release_date_for_display": "February 21, 2014",
+       "release_date_with_abbreviated_month_for_display": "Feb. 21, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/dedb388350db0b22ae8813c6f61e77be.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/dedb388350db0b22ae8813c6f61e77be.580x580x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 76098
+       },
+       "title": "Kn\u00e4pper Mina Fingrar [Remix]",
+       "title_with_featured": "Kn\u00e4pper Mina Fingrar [Remix] (Ft.\u00a0Cleo\u00a0(SWE), Joy\u00a0(SWE), Julia\u00a0Spada, Kumba, Rawda, Rosh\u00a0(Swedish), Sep & Vanessa\u00a0Falk)",
+       "url": "https://genius.com/Linda-pira-knapper-mina-fingrar-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/159833",
+         "header_image_url": "https://images.genius.com/783997a29821820a6e16e23f52615e5b.1000x667x1.jpg",
+         "id": 159833,
+         "image_url": "https://images.genius.com/783997a29821820a6e16e23f52615e5b.1000x667x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Joy (SWE)",
+         "url": "https://genius.com/artists/Joy-swe"
+        },
+        {
+         "api_path": "/artists/151910",
+         "header_image_url": "https://images.genius.com/ae61c55252186fe4e4a397b5a0ae853c.1000x1000x1.png",
+         "id": 151910,
+         "image_url": "https://images.genius.com/26709948bde82e944597394ae63e81ee.1000x1000x1.png",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Julia Spada",
+         "url": "https://genius.com/artists/Julia-spada"
+        },
+        {
+         "api_path": "/artists/149087",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "id": 149087,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Kumba",
+         "url": "https://genius.com/artists/Kumba"
+        },
+        {
+         "api_path": "/artists/125177",
+         "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+         "id": 125177,
+         "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Cleo (SWE)",
+         "url": "https://genius.com/artists/Cleo-swe",
+         "iq": 292
+        },
+        {
+         "api_path": "/artists/149090",
+         "header_image_url": "https://images.genius.com/4ff6ce27a74bf9d61ca81aa137a1fc77.1000x458x1.jpg",
+         "id": 149090,
+         "image_url": "https://images.genius.com/20879f4a07e217ce6eb487dccc96e0b3.563x563x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Rawda",
+         "url": "https://genius.com/artists/Rawda"
+        },
+        {
+         "api_path": "/artists/149089",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "id": 149089,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Vanessa Falk",
+         "url": "https://genius.com/artists/Vanessa-falk"
+        },
+        {
+         "api_path": "/artists/144600",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "id": 144600,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Rosh (Swedish)",
+         "url": "https://genius.com/artists/Rosh-swedish"
+        },
+        {
+         "api_path": "/artists/149088",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "id": 149088,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Sep",
+         "url": "https://genius.com/artists/Sep"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/81306",
+        "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+        "id": 81306,
+        "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Linda Pira",
+        "url": "https://genius.com/artists/Linda-pira"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Linda Pira",
+   "lyrics": "Kn\u00e4pper Mina Fingrar Lyrics[Linda Pira]\nKlockan den var ett, var p\u00e5 plats\nExakt alla ville sitta d\u00e4r vi satt\nDansgolvet b\u00e4cksvart, dansa som vid sexakt\nDJ:n v\u00e4xla musiken, svettas som p\u00e5 Sats\nIII Na Na, k\u00e4nd fr\u00e5n Brown och marijuana\nSom shuno Cobain fr\u00e5n Nirvana\nFidel Castro, camouflage och bandana\nFiffel cash flow, vill ha gash som Rihanna\nJag rullar aldrig solo\nMina tjejer hypas upp av varje shuno\nSupermodeller utan n\u00e5n portfolio\nPumpar v\u00e5ran l\u00e5t, skriker \"Polo!\"\nSa dom hade st\u00e4ngt insl\u00e4ppet, kn\u00e4ppte mina fingrar\nG\u00e5r in, rullar hela min clique\nTr\u00e4ngde mig till baren, kn\u00e4ppte dom igen\nShoo, b\u00f6rja blanda min drink\nVi f\u00e5r allt som vi pekar p\u00e5, Richie Rich\nAllt som du pekar p\u00e5, Richie Rich\nUpp med handerna i luften s\u00e5 dom ser\nKn\u00e4pper fingret varje g\u00e5ng vi g\u00f6r entre\n\nKlockan den var tre n\u00e4r vi ax\nExakt alla ville gitta n\u00e4r vi stack\nShotgun i bilen, axa sick-sack\nSaxa i filen snabbt som gunshot\nKnack, knack, knack dags att \u00f6ppna nu fort\nFem guldringar st\u00e5r och bankar p\u00e5 din port\nGina dress right, kraschar din fest som\nLisa Left Eye Yes I, Biggie best I, flow es a loca\nMed en touch som Donnie Doka\nAlla dina rhymes och flows \u00e4r mediokra\nDu \u00e4r bara f\u00f6rband \u00e5t din deadline bitch\nLinda Pira med sin Redline clique, thats it\n\nSa dom hade st\u00e4ngt insl\u00e4ppet, kn\u00e4ppte mina fingrar\nG\u00e5r in, rullar hela min clique\nTr\u00e4ngde mig till baren, kn\u00e4ppe dom igen\nShoo, b\u00f6rja blanda min drink\nVi f\u00e5r allt som vi pekar p\u00e5, Richie Rich\nAllt som du pekar p\u00e5, Richie Rich\nUpp med h\u00e4nderna i luften s\u00e5 dom ser\nKn\u00e4pper fingret varje g\u00e5ng vi g\u00f6r entre\nYou might also like[Stor]\nShoo, n\u00e4r man var liten och man valde glass\nGr\u00e4vde genom l\u00e5dan i en kvart\nM\u00e5ste inspektera hela sortimentet\nSorter och smaker ifr\u00e5n flera j\u00e4vla kontinenter\nVi har haft Pochahontas och Prinsessan Jasmine\nT\u00f6rnrosa, somnat in, j\u00e4vligt fin\nGilla min dingaling, king som jag var l\u00e4vi\nKista Habesh G\u00e4ri, liknar Halle Berry\n(Return of the Mack)\nEsta rico suave\nFrankie did it my way\nKlubb hetare 'n Zimbawe\nFan 'r mina boys in the hood?\nMenace II society, up to no good\n\n[Linda Pira]\nSa dom hade st\u00e4ngt insl\u00e4ppet, kn\u00e4ppte mina fingrar\nG\u00e5r in, rullar hela min clique\nTr\u00e4ngde mig till baren, kn\u00e4ppte dom igen\nShoo, b\u00f6rja blanda min drink\nVi f\u00e5r allt som vi pekar p\u00e5, Richie Rich\nAllt som du pekar p\u00e5, Richie Rich\nUpp med h\u00e4nderna i luften s\u00e5 dom ser\nKn\u00e4pper fingret varje g\u00e5ng vi g\u00f6r entreEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/4901557",
+   "artist_names": "Linda Pira",
+   "full_title": "Gang Gang by\u00a0Linda\u00a0Pira",
+   "header_image_thumbnail_url": "https://images.genius.com/b8f034f28bdf19bfef7f932ed502f308.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/b8f034f28bdf19bfef7f932ed502f308.874x874x1.jpg",
+   "id": 4901557,
+   "language": "sv",
+   "lyrics_owner_id": 4205685,
+   "lyrics_state": "complete",
+   "path": "/Linda-pira-gang-gang-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Linda-pira-gang-gang-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 9,
+    "day": 27
+   },
+   "release_date_for_display": "September 27, 2019",
+   "release_date_with_abbreviated_month_for_display": "Sep. 27, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/b8f034f28bdf19bfef7f932ed502f308.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b8f034f28bdf19bfef7f932ed502f308.874x874x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 8240
+   },
+   "title": "Gang Gang",
+   "title_with_featured": "Gang Gang",
+   "url": "https://genius.com/Linda-pira-gang-gang-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/81306",
+    "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+    "id": 81306,
+    "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Linda Pira",
+    "url": "https://genius.com/artists/Linda-pira"
+   },
+   "apple_music_id": "1480535499",
+   "apple_music_player_url": "https://genius.com/songs/4901557/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4901557' class='rg_embed_link' data-song-id='4901557'>Read <a href='https://genius.com/Linda-pira-gang-gang-lyrics'>\u201cGang Gang\u201d by Linda\u00a0Pira</a> on Genius</div> <script crossorigin src='//genius.com/songs/4901557/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-09-27",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/580279",
+    "cover_art_url": "https://images.genius.com/845c15c31d9b74b6647dada09c4a83e3.1000x1000x1.png",
+    "full_title": "Legendarisk by Linda Pira",
+    "id": 580279,
+    "name": "Legendarisk",
+    "url": "https://genius.com/albums/Linda-pira/Legendarisk",
+    "artist": {
+     "api_path": "/artists/81306",
+     "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+     "id": 81306,
+     "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Linda Pira",
+     "url": "https://genius.com/artists/Linda-pira"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Gaffer",
+     "artists": [
+      {
+       "api_path": "/artists/1967656",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1967656,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Anton Adielsson",
+       "url": "https://genius.com/artists/Anton-adielsson"
+      }
+     ]
+    },
+    {
+     "label": "Music Video Producer",
+     "artists": [
+      {
+       "api_path": "/artists/1967655",
+       "header_image_url": "https://images.genius.com/403d54e18546e72f3950f5320213b296.1000x1000x1.jpg",
+       "id": 1967655,
+       "image_url": "https://images.genius.com/403d54e18546e72f3950f5320213b296.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tchikana",
+       "url": "https://genius.com/artists/Tchikana"
+      },
+      {
+       "api_path": "/artists/1967654",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1967654,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tilda R\u00f6hlander",
+       "url": "https://genius.com/artists/Tilda-rohlander"
+      }
+     ]
+    },
+    {
+     "label": "Director of Photography",
+     "artists": [
+      {
+       "api_path": "/artists/1708367",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1708367,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Fabian Engstr\u00f6m",
+       "url": "https://genius.com/artists/Fabian-engstrom"
+      }
+     ]
+    },
+    {
+     "label": "Music Video Editor",
+     "artists": [
+      {
+       "api_path": "/artists/1445731",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1445731,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Karim Fakih",
+       "url": "https://genius.com/artists/Karim-fakih"
+      }
+     ]
+    },
+    {
+     "label": "Music Video Director",
+     "artists": [
+      {
+       "api_path": "/artists/1445731",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1445731,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Karim Fakih",
+       "url": "https://genius.com/artists/Karim-fakih"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6612308,
+    "annotator_login": "emikael",
+    "api_path": "/referents/18121577",
+    "classification": "needs_exegesis",
+    "fragment": "Gang Gang",
+    "id": 18121577,
+    "is_description": true,
+    "path": "/18121577/Linda-pira-gang-gang/Gang-gang",
+    "range": {
+     "content": "Gang Gang"
+    },
+    "song_id": 4901557,
+    "url": "https://genius.com/18121577/Linda-pira-gang-gang/Gang-gang",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4901557",
+     "client_timestamps": {
+      "updated_by_human_at": 1663062420,
+      "lyrics_updated_at": 1663071318
+     },
+     "context": "Linda Pira",
+     "id": 4901557,
+     "image_url": "https://images.genius.com/b8f034f28bdf19bfef7f932ed502f308.874x874x1.jpg",
+     "link_title": "Gang Gang by\u00a0Linda\u00a0Pira",
+     "title": "Gang Gang",
+     "type": "Song",
+     "url": "https://genius.com/Linda-pira-gang-gang-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18121577",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18121577,
+      "pinned": false,
+      "share_url": "https://genius.com/18121577",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18121577/Linda-pira-gang-gang/Gang-gang",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6612308",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/143423ca521346fd78ca6dbd68c588f8",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/143423ca521346fd78ca6dbd68c588f8",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/143423ca521346fd78ca6dbd68c588f8",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/143423ca521346fd78ca6dbd68c588f8",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/0ae47f1bf7eeed48d7ce7d2eff1b3bd9.497x280x10.gif",
+         "human_readable_role_for_display": "Editor",
+         "id": 6612308,
+         "iq": 506999,
+         "login": "emikael",
+         "name": "\u200bemikael",
+         "role_for_display": "editor",
+         "url": "https://genius.com/emikael",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=wDArSyXw8g0"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/36309",
+     "header_image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "id": 36309,
+     "image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Masse",
+     "url": "https://genius.com/artists/Masse"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/81306",
+     "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+     "id": 81306,
+     "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Linda Pira",
+     "url": "https://genius.com/artists/Linda-pira"
+    },
+    {
+     "api_path": "/artists/24303",
+     "header_image_url": "https://images.genius.com/78b0c8fda314a857ef17abd9933b03eb.1000x563x1.jpg",
+     "id": 24303,
+     "image_url": "https://images.genius.com/a6dc72d1a9973bcf6dc34adcd12a0eb4.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dani M",
+     "url": "https://genius.com/artists/Dani-m"
+    },
+    {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   ],
+   "artist": "Linda Pira",
+   "lyrics": "Gang Gang Lyrics[Vers 1]\nJag lovade mig sj\u00e4lv att inte bli som en av er \u00e4r industrin\nS\u00e5g er alla\u2005som\u2005ett sk\u00e4mt\nJag bruka\u2005inte h\u00e4nga i stan, vad har\u2005h\u00e4nt?\nNu ni ser mig d\u00e4r bland hipsters, tugga p\u00e5 evebt\nJag lovade mig sj\u00e4lv att inte bli s\u00e5d\u00e4r\nDet som natt och dag, man kan tro jag bipol\u00e4r\nF\u00f6rr i tiden det va Johnnys, 20kr f\u00f6r en b\u00e4rs\nNu det VIPen d\u00e4r i Berns\nJag blir gittig, helt bel\u00e4sh\nMellan oss, jag var lost, helt b\u00e4ng, kicka ett bloss\nNu det soft, \u00f6ppnar post fr\u00e5n systrarna Hoss\nKicka cross, finta bl\u00e5tt, nu man chillar i slott\nM\u00e5ste s\u00e4ga det \u00e4r cok nice att bli kallad boss\n[Refr\u00e4ng]\nVem h\u00e4r g\u00f6r det som oss? (Vem, vem, vem?)\nVem h\u00e4r g\u00f6r det som oss? (Gang gang gang)\nVem h\u00e4r g\u00f6r det som oss? (Det bara jag som kan)\nVem h\u00e4r g\u00f6r det som oss?\n\n[Vers 2]\nJag lovade mig sj\u00e4lv att jag skulle bli en star\nTrodde jag va klar men visste inte hur det var\nFr\u00e4schare lokal men i grunden samma sak\nMin v\u00e4ninna hon \u00e4r kran, jag tar med henne till stan\nFlera hundra tusen f\u00f6ljare, de h\u00e4mtar av dig j\u00e4mt, l\u00e4n\nInfluerar influencers med substansern p\u00e5 eventen\nIbland jag t\u00e4nker tanken, denna branschen v\u00e4rsta sk\u00e4mtet\nHon har det i sin hand, v\u00e4rsta svansen den 25:e\nVad fan var det som h\u00e4nde? Vad fan var det som h\u00e4nde?\nS\u00e5 m\u00e5nga h\u00e4r \u00e4r falska, de kallar dig f\u00f6r v\u00e4nner\nIbland n\u00e4r det g\u00e5r b\u00e4ttre, du ringer och jag hj\u00e4lper\nIbland n\u00e4r det \u00e4r s\u00e4mre, d\u00e5 det abonnenten\n(Abonnenten du f\u00f6rs\u00f6ker n\u00e5 kan inte ta ditt samtal just nu)\nSamma skit bara nya skitfolk, parasit\nFantasi, varf\u00f6r leka fint folk? Parodi\nSnacka skit, wallah ni finito alla ni\nWannabe, jag \u00e4r p\u00e5 min beast mode (Jag \u00e4r beast)\n\n[Refr\u00e4ng]\nVem h\u00e4r g\u00f6r det som oss? (Vem, vem, vem?)\nVem h\u00e4r g\u00f6r det som oss? (Gang gang gang)\nVem h\u00e4r g\u00f6r det som oss? (Det bara jag som kan)\nVem h\u00e4r g\u00f6r det som oss?\nYou might also like[Vers 3]\nJag lovade mig sj\u00e4lv att jag ska bli s\u00e5h\u00e4r\nEn riktig self made, young age miljon\u00e4r\nK\u00e4nner lukten utav para d\u00e5 ni vet att vi \u00e4r h\u00e4r\nMamma fostra mig, hon kriga, riktig Pira-milit\u00e4r\nDu vet att allting handlar bara om din egen vilja\nL\u00e4ra dig att chilla, folk de \u00e4r f\u00f6r ivriga\nNu det enda viktiga det \u00e4r la familia\nAxar ner f\u00f6r gatan, sex pers p\u00e5 en Aprilia\nCross, vi g\u00e5r loss, tar oss genom terr\u00e4ng\nTar ett bloss, br\u00e4nner skott genom din Philippe Plein\nDu \u00e4r lost, mannen, h\u00e5ll dig borta fr\u00e5n min lane\nGer dig stress, skickar treinta y tres, det gang gang\n\n[Outro]\nToaletten\nEn efter en\nDe vet vad dom g\u00f6r d\u00e4r\nDe sniff kokain d\u00e4rEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2822159",
+   "artist_names": "Linda Pira (Ft. Molly Sand\u00e9n)",
+   "full_title": "Ey G\u00e4ri by\u00a0Linda\u00a0Pira (Ft.\u00a0Molly\u00a0Sand\u00e9n)",
+   "header_image_thumbnail_url": "https://images.genius.com/b8852171cfde36c116aedbce44d7c05a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/b8852171cfde36c116aedbce44d7c05a.1000x1000x1.jpg",
+   "id": 2822159,
+   "language": "sv",
+   "lyrics_owner_id": 2889906,
+   "lyrics_state": "complete",
+   "path": "/Linda-pira-ey-gari-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Linda-pira-ey-gari-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 6,
+    "day": 29
+   },
+   "release_date_for_display": "June 29, 2016",
+   "release_date_with_abbreviated_month_for_display": "Jun. 29, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/b8852171cfde36c116aedbce44d7c05a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b8852171cfde36c116aedbce44d7c05a.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 7,
+    "iq_earners": 5,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 6414
+   },
+   "title": "Ey G\u00e4ri",
+   "title_with_featured": "Ey G\u00e4ri (Ft.\u00a0Molly\u00a0Sand\u00e9n)",
+   "url": "https://genius.com/Linda-pira-ey-gari-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/381965",
+     "header_image_url": "https://images.genius.com/fe29f666171c327646a6037d73d602fa.1000x500x1.jpg",
+     "id": 381965,
+     "image_url": "https://images.genius.com/499183cfe5bca523a084baebd1e68641.274x274x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Molly Sand\u00e9n",
+     "url": "https://genius.com/artists/Molly-sanden"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/81306",
+    "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+    "id": 81306,
+    "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Linda Pira",
+    "url": "https://genius.com/artists/Linda-pira"
+   },
+   "apple_music_id": "1444588228",
+   "apple_music_player_url": "https://genius.com/songs/2822159/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2822159' class='rg_embed_link' data-song-id='2822159'>Read <a href='https://genius.com/Linda-pira-ey-gari-lyrics'>\u201cEy G\u00e4ri\u201d by Linda\u00a0Pira</a> on Genius</div> <script crossorigin src='//genius.com/songs/2822159/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-06-29",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2889906,
+    "annotator_login": "NBLSOUND",
+    "api_path": "/referents/10109901",
+    "classification": "needs_exegesis",
+    "fragment": "Ey G\u00e4ri",
+    "id": 10109901,
+    "is_description": true,
+    "path": "/10109901/Linda-pira-ey-gari/Ey-gari",
+    "range": {
+     "content": "Ey G\u00e4ri"
+    },
+    "song_id": 2822159,
+    "url": "https://genius.com/10109901/Linda-pira-ey-gari/Ey-gari",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2822159",
+     "client_timestamps": {
+      "updated_by_human_at": 1586653785,
+      "lyrics_updated_at": 1512740597
+     },
+     "context": "Linda Pira",
+     "id": 2822159,
+     "image_url": "https://images.genius.com/b8852171cfde36c116aedbce44d7c05a.1000x1000x1.jpg",
+     "link_title": "Ey G\u00e4ri by\u00a0Linda\u00a0Pira (Ft.\u00a0Molly\u00a0Sand\u00e9n)",
+     "title": "Ey G\u00e4ri",
+     "type": "Song",
+     "url": "https://genius.com/Linda-pira-ey-gari-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10109901",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10109901,
+      "pinned": false,
+      "share_url": "https://genius.com/10109901",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10109901/Linda-pira-ey-gari/Ey-gari",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2889906",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ce96ab795bba5859d7e7e81725042d75",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ce96ab795bba5859d7e7e81725042d75",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ce96ab795bba5859d7e7e81725042d75",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ce96ab795bba5859d7e7e81725042d75",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/npl6i6e4SouDipwByB0e_waves.artwork.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2889906,
+         "iq": 3157,
+         "login": "NBLSOUND",
+         "name": "NBLSOUND",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/NBLSOUND",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=yvwCEdE6pqQ"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1184954",
+     "header_image_url": "https://images.genius.com/03bb96241862dbaaf2315ea340bf5ce2.800x1000x1.jpg",
+     "id": 1184954,
+     "image_url": "https://images.genius.com/9ad5d3ce14f9e8746d6f3b20abe169e0.874x874x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Yei Gonzalez",
+     "url": "https://genius.com/artists/Yei-gonzalez"
+    },
+    {
+     "api_path": "/artists/269310",
+     "header_image_url": "https://images.genius.com/4e42fba49c20879704032b5691edcb65.1000x563x1.jpg",
+     "id": 269310,
+     "image_url": "https://images.genius.com/2f0f330b924eaed7363f934a73dee892.593x593x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pablo Paz",
+     "url": "https://genius.com/artists/Pablo-paz"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1955492",
+     "header_image_url": "https://images.genius.com/1846019fc14e364aabcdb15b22e807e3.800x1000x1.jpg",
+     "id": 1955492,
+     "image_url": "https://images.genius.com/43085fc19b337179de61b2c89557b312.330x330x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "EEVA (SWE)",
+     "url": "https://genius.com/artists/Eeva-swe"
+    },
+    {
+     "api_path": "/artists/381965",
+     "header_image_url": "https://images.genius.com/fe29f666171c327646a6037d73d602fa.1000x500x1.jpg",
+     "id": 381965,
+     "image_url": "https://images.genius.com/499183cfe5bca523a084baebd1e68641.274x274x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Molly Sand\u00e9n",
+     "url": "https://genius.com/artists/Molly-sanden"
+    },
+    {
+     "api_path": "/artists/81306",
+     "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+     "id": 81306,
+     "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Linda Pira",
+     "url": "https://genius.com/artists/Linda-pira"
+    },
+    {
+     "api_path": "/artists/198482",
+     "header_image_url": "https://images.genius.com/9f71507699f951e48d742962938d0f4e.667x1000x1.jpg",
+     "id": 198482,
+     "image_url": "https://images.genius.com/c76c848eccae1faa5a760c33a4e55aa2.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pato Pooh",
+     "url": "https://genius.com/artists/Pato-pooh"
+    }
+   ],
+   "artist": "Linda Pira",
+   "lyrics": "Ey G\u00e4ri Lyrics[Refr\u00e4ng: Linda & Molly]\nHan ropar Ey g\u00e4ri\nShht shht. Ey g\u00e4ri\nJag sa du talar med en kvinna nu\nS\u00e5 ta och kamma dig och uppf\u00f6r dig\nHan ropar Ey g\u00e4ri\nEj du kom hit g\u00e4ri\nJag sa du tallar till en kvinna nu\nJag vette fan va du har f\u00e5tt f\u00f6r dig\n\n[Vers 1: Linda]\nJag ser hur han kollar\nEj bak hur shono kollar\nHan ropade kan du komma\nSp\u00e4nner sig som anabola\nS\u00e4ger framtiden \u00e4r v\u00e5ran\nJag \u00e4r inte imponerad\nJag m\u00e5ste ha mera\nMer \u00e4n bara en man beh\u00f6ver fan en allierad\nN\u00e5gon jag kan dela, 50 50 lika inget mindre inget mera\nB\u00e5da krigar lika mycket. tv\u00e5 player n\u00e4r vi spelar\nInget illa menat , men \u00e4r ingen hemma fru\nJag \u00e4r den som g\u00e5r och knega, ny kvinna ny era\n[Refr\u00e4ng: Linda & Molly]\nHan ropar Ey g\u00e4ri\nShht shht. Ey g\u00e4ri\nJag sa du talar med en kvinna nu\nS\u00e5 ta och kamma dig och uppf\u00f6r dig\nHan ropar Ey g\u00e4ri\nEj du kom hit g\u00e4ri\nJag sa du tallar till en kvinna nu\nJag vette fan va du har f\u00e5tt f\u00f6r dig\n\n[Vers 2: Molly]\nS\u00e5 sluta stamma\nN\u00e4r du talar med en kvinna som mig\nL\u00e4r dig behandla\nBehandla en kvinna som mig\nF\u00f6r du och jag\nBlir aldrig av\nVa fan kan du g\u00f6ra f\u00f6r mig\nProva n\u00e5n annan\nN\u00e5n annan \u00e4n mig\n\n[Refr\u00e4ng: Linda & Molly]\nHan ropar Ey g\u00e4ri\nShht shht. Ey g\u00e4ri\nJag sa du talar med en kvinna nu\nS\u00e5 ta och kamma dig och uppf\u00f6r dig\nHan ropar Ey g\u00e4ri\nEj du kom hit g\u00e4ri\nJag sa du tallar till en kvinna nu\nJag vette fan va du har f\u00e5tt f\u00f6r dig\nYou might also like[Vers 3: Linda]\nOm de l\u00e5ter Ching, Ching\n\u00c4r det paran i min ficka\nDom \u00e4r mina, ingen annans, jag har krigat\nStartade fr\u00e5n nada och jag kan fan inte minnas\nAtt du str\u00e4ckte ut din hand men nu \u00e4r du h\u00e4r n\u00e4r jag ska fira\nEj lugn nu , ej lugn nu\nDet \u00e4r Linda Pira papi om dom fr\u00e5gar vem \u00e4r kung nu\nJag betalar hyran skickar shonos till sitt rum nu\nHatare f\u00e5r lida. l\u00e4gger den i deras mun nu\n\n[Refr\u00e4ng: Linda & Molly]\nHan ropar Ey g\u00e4ri\nShht shht. Ey g\u00e4ri\nJag sa du talar med en kvinna nu\nS\u00e5 ta och kamma dig och uppf\u00f6r dig\nHan ropar Ey g\u00e4ri\nEj du kom hit g\u00e4ri\nJag sa du tallar till en kvinna nu\nJag vette fan va du har f\u00e5tt f\u00f6r dig\n\n[Brygga: Molly]\nJag vet inte vem du tror du \u00e4r\nJag vet inte vem du tror jag \u00e4r\nTitta p\u00e5 dig, titta p\u00e5 mig\nJag tror nog du kan b\u00e4ttre \u00e4n s\u00e5d\u00e4r\nJag vet inte vem du tror du \u00e4r\nVerkar inte veta vem jag \u00e4r\nTitta p\u00e5 dig, titta p\u00e5 mig\nF\u00f6r \u00e4rligt nu, jag vet vad jag \u00e4r v\u00e4rd\n[Refr\u00e4ng: Linda & Molly]\nHan ropar Ey g\u00e4ri\nShht shht. Ey g\u00e4ri\nJag sa du talar med en kvinna nu\nS\u00e5 ta och kamma dig och uppf\u00f6r dig\nHan ropar Ey g\u00e4ri\nEj du kom hit g\u00e4ri\nJag sa du tallar till en kvinna nu\nJag vette fan va du har f\u00e5tt f\u00f6r digEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/707820",
+   "artist_names": "Linda Pira",
+   "full_title": "Visa vid vindens \u00e4ngar by\u00a0Linda\u00a0Pira",
+   "header_image_thumbnail_url": "https://images.genius.com/dfdc273c1e0eb4c73cb719059f279014.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/dfdc273c1e0eb4c73cb719059f279014.800x800x1.jpg",
+   "id": 707820,
+   "language": "sv",
+   "lyrics_owner_id": 1243771,
+   "lyrics_state": "complete",
+   "path": "/Linda-pira-visa-vid-vindens-angar-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Linda-pira-visa-vid-vindens-angar-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/dfdc273c1e0eb4c73cb719059f279014.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/dfdc273c1e0eb4c73cb719059f279014.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Visa vid vindens \u00e4ngar",
+   "title_with_featured": "Visa vid vindens \u00e4ngar",
+   "url": "https://genius.com/Linda-pira-visa-vid-vindens-angar-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/81306",
+    "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+    "id": 81306,
+    "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Linda Pira",
+    "url": "https://genius.com/artists/Linda-pira"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/707820/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_707820' class='rg_embed_link' data-song-id='707820'>Read <a href='https://genius.com/Linda-pira-visa-vid-vindens-angar-lyrics'>\u201cVisa vid vindens \u00e4ngar\u201d by Linda\u00a0Pira</a> on Genius</div> <script crossorigin src='//genius.com/songs/707820/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1243771,
+    "annotator_login": "dzg",
+    "api_path": "/referents/4917527",
+    "classification": "needs_exegesis",
+    "fragment": "Visa vid vindens \u00e4ngar",
+    "id": 4917527,
+    "is_description": true,
+    "path": "/4917527/Linda-pira-visa-vid-vindens-angar/Visa-vid-vindens-angar",
+    "range": {
+     "content": "Visa vid vindens \u00e4ngar"
+    },
+    "song_id": 707820,
+    "url": "https://genius.com/4917527/Linda-pira-visa-vid-vindens-angar/Visa-vid-vindens-angar",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/707820",
+     "client_timestamps": {
+      "updated_by_human_at": 1479428679,
+      "lyrics_updated_at": 1458552704
+     },
+     "context": "Linda Pira",
+     "id": 707820,
+     "image_url": "https://images.genius.com/dfdc273c1e0eb4c73cb719059f279014.800x800x1.jpg",
+     "link_title": "Visa vid vindens \u00e4ngar by\u00a0Linda\u00a0Pira",
+     "title": "Visa vid vindens \u00e4ngar",
+     "type": "Song",
+     "url": "https://genius.com/Linda-pira-visa-vid-vindens-angar-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4917527",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 4917527,
+      "pinned": false,
+      "share_url": "https://genius.com/4917527",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/4917527/Linda-pira-visa-vid-vindens-angar/Visa-vid-vindens-angar",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1243771",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/85b497be986f3273e1ee50676717b207",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/85b497be986f3273e1ee50676717b207",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/85b497be986f3273e1ee50676717b207",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/85b497be986f3273e1ee50676717b207",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/85b497be986f3273e1ee50676717b207",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1243771,
+         "iq": 1723,
+         "login": "dzg",
+         "name": "dzg",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/dzg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Z0dBFfORglk"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Linda Pira",
+   "lyrics": "Visa vid vindens \u00e4ngar LyricsJag tar mig dit vinden b\u00e4r mig\nJag krigar p\u00e5, p\u00e5, p\u00e5\nJag tar mig dit vinden b\u00e4r mig\nJag krigar p\u00e5, p\u00e5, p\u00e5\nJag tar mig dit vinden b\u00e4r mig\nJag s\u00e4ger g\u00e5, g\u00e5, g\u00e5\n\nD\u00e4r h\u00f6ghusen st\u00e5r\nJag v\u00e4xte upp d\u00e4r\nH\u00e4sselbyg\u00e5rd vet vem jag \u00e4r (Det var d\u00e5)\nS\u00e5 ta mig dit varth\u00e4n vinden b\u00e4r mig\nG\u00e5, g\u00e5, g\u00e5\nEy sluta \u00e4lta vad som kunde vart\nVad hade jag d\u00e5 blivit?\nMaxar ut min kvart, inte en minut f\u00f6r tidig huh\nJag \u00e4r kvinna, jag f\u00f6ljer mina dr\u00f6mmar\nVi \u00e4r krabbor i en hink, drar ner varandra, snabba att d\u00f6ma\nFan vad leker du? Vem tror du att du \u00e4r?\nDu tror att du \u00e4r b\u00e4ttre \u00e4n oss, hah?\nUnga vi har l\u00e4rt oss\nAtt dr\u00f6mmar inte \u00e4r v\u00e4rt n\u00e5t\nAtt sticka ut och g\u00e5 mot str\u00f6mmen \u00e4r inte heller l\u00e4tt hah\n\u00c5ngest blir n\u00e5t vi b\u00e4r p\u00e5\nPassar som ett plagg vi kl\u00e4r oss\nDet \u00e4r hennes sil dom h\u00e4ller i\nVill br\u00e4nna tid, vill inte k\u00e4nnas vid\nVi v\u00e5gar inte sl\u00e4ppa taget \u00e4n\nS\u00e4g mig vem \u00e4r jag? S\u00e4g mig vem \u00e4r ni?\nVill hellre fly\n\u00d6det kan vara framf\u00f6r oss, v\u00e5gar du greppa tag i den?\n\nJag tar mig dit vinden b\u00e4r mig\nJag krigar p\u00e5, p\u00e5, p\u00e5\nJag tar mig dit vinden b\u00e4r mig\nJag s\u00e4ger g\u00e5, g\u00e5, g\u00e5\n\nD\u00e4r h\u00f6ghusen st\u00e5r\nJag v\u00e4xte upp d\u00e4r\nH\u00e4sselbyg\u00e5rd vet vem jag \u00e4r (Det var d\u00e5)\nS\u00e5 ta mig dit varth\u00e4n vinden b\u00e4r mig\nG\u00e5, g\u00e5, g\u00e5\nYou might also likeSkulle inte tro dina \u00f6gon, huh\nSkulle inte fatta dina \u00f6ron\nPlanerar som jag skulle leva 100 \u00e5r till\nMen lever livet som jag skulle d\u00f6 imorgon\nD\u00f6mda i f\u00f6rv\u00e4g\nInnan vi vet vad vi vill bli\nDr\u00f6mmar blir bara fr\u00f6n, finns inget vatten, v\u00e4xer inget liv\nSom gamla gaddningar, vi blekna bort, blir slagg och s\u00f6rja\nVi gl\u00f6mde bort var vi stod f\u00f6r k\u00e4rlek var varm i b\u00f6rjan\nMitt st\u00f6rsta hinder \u00e4r mig sj\u00e4lv, det \u00e4r s\u00e5 det \u00e4r i min v\u00e4rld\nIndoktrinerad att f\u00f6rlora, hat \u00e4r n\u00e5nting inl\u00e4rt\nS\u00e5 lev ditt liv f\u00f6r morgondagen kanske aldrig kommer\nV\u00e5ga sl\u00e4pp tag\nV\u00e4nd blad s\u00e5 f\u00e5r du aldrig \u00e5ngest\n\nJag tar mig dit vinden b\u00e4r mig\nJag krigar p\u00e5, p\u00e5, p\u00e5\nJag tar mig dit vinden b\u00e4r mig\nJag s\u00e4ger g\u00e5, g\u00e5, g\u00e5\n\nD\u00e4r h\u00f6ghusen st\u00e5r\nJag v\u00e4xte upp d\u00e4r\nH\u00e4sselbyg\u00e5rd vet vem jag \u00e4r (Det var d\u00e5)\nS\u00e5 ta mig dit varth\u00e4n vinden b\u00e4r mig\nG\u00e5, g\u00e5, g\u00e5\nJag sjunger min visa\nBl\u00e5ser ner vid midnatt\nCentrum, tugg och h\u00e4ng\nIngen g\u00e5r hem\nF\u00e5gelfr\u00f6n eller pipas\nTuggas snabbt till midnatt\nBarn leker p\u00e5 g\u00e5rden tills portarna st\u00e4ngsEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1852179",
+   "artist_names": "Linda Pira",
+   "full_title": "B\u00e4sta V\u00e4n by\u00a0Linda\u00a0Pira",
+   "header_image_thumbnail_url": "https://images.genius.com/80993b791819e8ecf379d160a4c43629.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/80993b791819e8ecf379d160a4c43629.640x640x1.jpg",
+   "id": 1852179,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Linda-pira-basta-van-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Linda-pira-basta-van-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/80993b791819e8ecf379d160a4c43629.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/80993b791819e8ecf379d160a4c43629.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "B\u00e4sta V\u00e4n",
+   "title_with_featured": "B\u00e4sta V\u00e4n",
+   "url": "https://genius.com/Linda-pira-basta-van-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/81306",
+    "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+    "id": 81306,
+    "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Linda Pira",
+    "url": "https://genius.com/artists/Linda-pira"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1852179/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1852179' class='rg_embed_link' data-song-id='1852179'>Read <a href='https://genius.com/Linda-pira-basta-van-lyrics'>\u201cB\u00e4sta V\u00e4n\u201d by Linda\u00a0Pira</a> on Genius</div> <script crossorigin src='//genius.com/songs/1852179/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/61783",
+    "cover_art_url": "https://images.genius.com/80993b791819e8ecf379d160a4c43629.640x640x1.jpg",
+    "full_title": "Matriarken by Linda Pira",
+    "id": 61783,
+    "name": "Matriarken",
+    "url": "https://genius.com/albums/Linda-pira/Matriarken",
+    "artist": {
+     "api_path": "/artists/81306",
+     "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+     "id": 81306,
+     "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Linda Pira",
+     "url": "https://genius.com/artists/Linda-pira"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6466482",
+    "classification": "needs_exegesis",
+    "fragment": "B\u00e4sta V\u00e4n",
+    "id": 6466482,
+    "is_description": true,
+    "path": "/6466482/Linda-pira-basta-van/Basta-van",
+    "range": {
+     "content": "B\u00e4sta V\u00e4n"
+    },
+    "song_id": 1852179,
+    "url": "https://genius.com/6466482/Linda-pira-basta-van/Basta-van",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1852179",
+     "client_timestamps": {
+      "updated_by_human_at": 1475095712,
+      "lyrics_updated_at": 1431634297
+     },
+     "context": "Linda Pira",
+     "id": 1852179,
+     "image_url": "https://images.genius.com/80993b791819e8ecf379d160a4c43629.640x640x1.jpg",
+     "link_title": "B\u00e4sta V\u00e4n by\u00a0Linda\u00a0Pira",
+     "title": "B\u00e4sta V\u00e4n",
+     "type": "Song",
+     "url": "https://genius.com/Linda-pira-basta-van-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6466482",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6466482,
+      "pinned": false,
+      "share_url": "https://genius.com/6466482",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6466482/Linda-pira-basta-van/Basta-van",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Linda Pira",
+   "lyrics": "B\u00e4sta V\u00e4n LyricsDu va den jag \u00e4lska, min b\u00e4sta v\u00e4n\nDu va den jag lita p\u00e5\nDu va den jag \u00e4lska, min b\u00e4sta v\u00e4n\nDu va den jag lita p\u00e5\nMen det var l\u00e4nge sen\nSommaren ta mig tillbaka till n\u00e5t old school\nLiten bit av nostalgi, tiden g\u00e5r f\u00f6rbi\nDu m\u00e5ste varit 11 bast, gick i femte klass\nTiden var bekymmerfri\nMicky Mouse backpack i skolkorridoren\nYes, prinsesskl\u00e4nning upp i skolkatalogen\nVar tre \u00e5r \u00e4ldre, s\u00e5g dig som ett barn\nK\u00e4nns som ig\u00e5r, jag minns den d\u00e4r dan\nDu ville vara sexig s\u00e5, din mammas l\u00e4ppstift p\u00e5\nDet \u00e4r s\u00e5 sjukt n\u00e4r man t\u00e4nker p\u00e5 det efter\u00e5t\nDu hade papper i din BH\nSnodde Marlboro Light, fick bjuda alla f\u00f6r ens kunna f\u00f6lja med d\u00e5\nJag tog h\u00e5l i n\u00e4san, d\u00e5 hon tog h\u00e5l i n\u00e4san\nJag skaffa buffalos och d\u00e5 hon v\u00e4xte en decimeter\nMinnena \u00e4r tagna slitna r\u00e4tt ur verkligheten\nKorta shorts, lockigt h\u00e5r, dela v\u00e5ra hemligheter\nEn liten systra mi, vi satt i H\u00e4sselby\nKunde aldrig n\u00e5nsin ana hur det skulle bli\nDu var mitt hj\u00e4rta, du svek mig, sv\u00e5rt att f\u00f6rst\u00e5\nMen ey fuck it, tiden l\u00e4ker alla s\u00e5r\nDu va den jag \u00e4lska, min b\u00e4sta v\u00e4n\nDu va den jag lita p\u00e5\nDu va den jag \u00e4lska, min b\u00e4sta v\u00e4n\nDu va den jag lita p\u00e5\nMen det var l\u00e4nge sen\nEyo Niv\u00e5 22 jag minns tiden, gick ut vid klockan 10\nStaden, jag och du, G\u00f6ttligan, h\u00e4sselbyare\nDe trodde vi var systrar, det var tur\nF\u00f6r du kunde ta mitt pass n\u00e4r vi gick och fucka ur\nDu \u00e4lska spela ball, du visste jag var d\u00e4r\nBacka din stora mun, avsluta dina gr\u00e4l\nGick d\u00e4rifr\u00e5n med en ny telefon\nI n\u00e5gons Goosejacka, floos i BHn shit\nVi dela alltid taxi, garva \u00e5t livet fuck it\nDu tar parfymen jag tar busskortet, shoo hayati\nHur m\u00e5nga minnen har man inte gl\u00f6mt?\nVi dela garderob, festa n\u00e4tter utan s\u00f6mn, men du svek\nDu va den jag \u00e4lska, min b\u00e4sta v\u00e4n\nDu va den jag lita p\u00e5\nDu va den jag \u00e4lska, min b\u00e4sta v\u00e4n\nDu va den jag lita p\u00e5\nMen det var l\u00e4nge sen\nTiden hade satt sina sp\u00e5r, vi b\u00f6rja sjunka\nJag simmade upp och s\u00e5g dig drunkna\nGled is\u00e4r som isen p\u00e5 v\u00e5ren\nL\u00e5ngt ifr\u00e5n den flickan som jag s\u00e5g p\u00e5 skolg\u00e5rden\nEn trasig kvinna, pundarliv fick mascaran rinna\nJag m\u00e4rkte du blev bitter inget var som innan\nEy yo du svek mig, du \u00e4ckla mig\nFucking smutsfolk, var aldrig \u00e4kta nej\nSen jag hitta dig i s\u00e4ngen med min shuno\nOch sen du spela din snyftfiol solo\nDet \u00e4r lugnt jag f\u00f6rl\u00e5ter dig, jag l\u00e4t det d\u00e4r g\u00e5\nSt\u00f6rre \u00e4n s\u00e5, tiden l\u00e4ker alla s\u00e5r\nDu va den jag \u00e4lska, min b\u00e4sta v\u00e4n\nDu va den jag lita p\u00e5\nDu va den jag \u00e4lska, min b\u00e4sta v\u00e4n\nDu va den jag lita p\u00e5\nMen det var l\u00e4nge sen\nSkitfolk kan aldrig komma l\u00e5ngt\nSkitfolk kan aldrig komma l\u00e5ngt\nSkitfolk kan aldrig komma l\u00e5ngt\nSkitfolk kan aldrig komma l\u00e5ngt\nSkitfolk kan aldrig komma l\u00e5ngt\nS\u00e5 h\u00e5ll dom l\u00e5ngt l\u00e5ngt l\u00e5ngt l\u00e5ngt l\u00e5ngt borta ifr\u00e5n\nOch bara va med dom bra\nF\u00f6r dom e v\u00e4ldigt f\u00e5\nMack beatsYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/5001274",
+   "artist_names": "Linda Pira (Ft. Z.E)",
+   "full_title": "Alla r\u00e4tt by\u00a0Linda\u00a0Pira (Ft.\u00a0Z.E)",
+   "header_image_thumbnail_url": "https://images.genius.com/7dfd77ef87a0a6f5c8e2636e99f1e3dc.300x300x1.png",
+   "header_image_url": "https://images.genius.com/7dfd77ef87a0a6f5c8e2636e99f1e3dc.581x581x1.png",
+   "id": 5001274,
+   "language": "sv",
+   "lyrics_owner_id": 5788985,
+   "lyrics_state": "complete",
+   "path": "/Linda-pira-alla-ratt-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Linda-pira-alla-ratt-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 11,
+    "day": 6
+   },
+   "release_date_for_display": "November 6, 2019",
+   "release_date_with_abbreviated_month_for_display": "Nov. 6, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/7dfd77ef87a0a6f5c8e2636e99f1e3dc.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/7dfd77ef87a0a6f5c8e2636e99f1e3dc.581x581x1.png",
+   "stats": {
+    "accepted_annotations": 2,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Alla r\u00e4tt",
+   "title_with_featured": "Alla r\u00e4tt (Ft.\u00a0Z.E)",
+   "url": "https://genius.com/Linda-pira-alla-ratt-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1270597",
+     "header_image_url": "https://images.genius.com/5e602bd797d07c85ec86e2cdea7b32cd.800x531x1.jpg",
+     "id": 1270597,
+     "image_url": "https://images.genius.com/1dc89274be15c3efcc2ee334da9b0ab6.726x726x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Z.E",
+     "url": "https://genius.com/artists/Ze"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/81306",
+    "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+    "id": 81306,
+    "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Linda Pira",
+    "url": "https://genius.com/artists/Linda-pira"
+   },
+   "apple_music_id": "1486341562",
+   "apple_music_player_url": "https://genius.com/songs/5001274/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5001274' class='rg_embed_link' data-song-id='5001274'>Read <a href='https://genius.com/Linda-pira-alla-ratt-lyrics'>\u201cAlla r\u00e4tt\u201d by Linda\u00a0Pira</a> on Genius</div> <script crossorigin src='//genius.com/songs/5001274/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-11-06",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/580279",
+    "cover_art_url": "https://images.genius.com/845c15c31d9b74b6647dada09c4a83e3.1000x1000x1.png",
+    "full_title": "Legendarisk by Linda Pira",
+    "id": 580279,
+    "name": "Legendarisk",
+    "url": "https://genius.com/albums/Linda-pira/Legendarisk",
+    "artist": {
+     "api_path": "/artists/81306",
+     "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+     "id": 81306,
+     "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Linda Pira",
+     "url": "https://genius.com/artists/Linda-pira"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5788985,
+    "annotator_login": "johan",
+    "api_path": "/referents/18388087",
+    "classification": "needs_exegesis",
+    "fragment": "Alla r\u00e4tt",
+    "id": 18388087,
+    "is_description": true,
+    "path": "/18388087/Linda-pira-alla-ratt/Alla-ratt",
+    "range": {
+     "content": "Alla r\u00e4tt"
+    },
+    "song_id": 5001274,
+    "url": "https://genius.com/18388087/Linda-pira-alla-ratt/Alla-ratt",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5001274",
+     "client_timestamps": {
+      "updated_by_human_at": 1576022136,
+      "lyrics_updated_at": 1573159601
+     },
+     "context": "Linda Pira",
+     "id": 5001274,
+     "image_url": "https://images.genius.com/7dfd77ef87a0a6f5c8e2636e99f1e3dc.581x581x1.png",
+     "link_title": "Alla r\u00e4tt by\u00a0Linda\u00a0Pira (Ft.\u00a0Z.E)",
+     "title": "Alla r\u00e4tt",
+     "type": "Song",
+     "url": "https://genius.com/Linda-pira-alla-ratt-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18388087",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18388087,
+      "pinned": false,
+      "share_url": "https://genius.com/18388087",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18388087/Linda-pira-alla-ratt/Alla-ratt",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5788985",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/f53b31a85af54f88d66acec1594b3e8d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/f53b31a85af54f88d66acec1594b3e8d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/f53b31a85af54f88d66acec1594b3e8d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/f53b31a85af54f88d66acec1594b3e8d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/ae151e16213edfb900e791d4e4b1b14a.750x1000x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 5788985,
+         "iq": 61130,
+         "login": "johan",
+         "name": "\u200bmj\u00f6lk",
+         "role_for_display": "editor",
+         "url": "https://genius.com/johan",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=UDCCZlwJ8i8"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/36309",
+     "header_image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "id": 36309,
+     "image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Masse",
+     "url": "https://genius.com/artists/Masse"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    },
+    {
+     "api_path": "/artists/24303",
+     "header_image_url": "https://images.genius.com/78b0c8fda314a857ef17abd9933b03eb.1000x563x1.jpg",
+     "id": 24303,
+     "image_url": "https://images.genius.com/a6dc72d1a9973bcf6dc34adcd12a0eb4.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dani M",
+     "url": "https://genius.com/artists/Dani-m"
+    },
+    {
+     "api_path": "/artists/81306",
+     "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+     "id": 81306,
+     "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Linda Pira",
+     "url": "https://genius.com/artists/Linda-pira"
+    },
+    {
+     "api_path": "/artists/1270597",
+     "header_image_url": "https://images.genius.com/5e602bd797d07c85ec86e2cdea7b32cd.800x531x1.jpg",
+     "id": 1270597,
+     "image_url": "https://images.genius.com/1dc89274be15c3efcc2ee334da9b0ab6.726x726x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Z.E",
+     "url": "https://genius.com/artists/Ze"
+    },
+    {
+     "api_path": "/artists/36309",
+     "header_image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "id": 36309,
+     "image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Masse",
+     "url": "https://genius.com/artists/Masse"
+    }
+   ],
+   "artist": "Linda Pira",
+   "lyrics": "Alla r\u00e4tt Lyrics[Vers 1: Linda Pira]\nSplitterny arre, det s\u00e5n ax i den\nAkta, vi kan hamna i en accident\nVarje match \u00e4r\u2005som\u2005\"El Cl\u00e1sico\", det\u2005klassikern\nSe hur d\u00e4cken ryker som det\u2005var godnatt'ishen\nSe mig bl\u00e5sa ut Marocko, ah Agadiha\nMina grabbar kastar stenar som det Palestina\nSl\u00e4pper g\u00e4ri fr\u00e5n Peru, Adriana Lima\nN\u00e4r jag trycker p\u00e5 pedalen, k\u00e4nn adrenalin-a\nVilka vill ha?\nS\u00e4g till mig en enda kvinna som jag, en enda inna som jag\nLovar dig, jag lovar dig benim \u00e4r inte normal\nFenomenal, varf\u00f6r du gr\u00e5ter ha?\nTrodde du gillade fart\nMin flow \u00e4r som vatten, akta bort fr\u00e5n ratten, du borde sitta d\u00e4r bak\nBygger the rap, 500 h\u00e4star \u00e4r h\u00e4r\nSe hur jag flyger iv\u00e4g, give me the bag\nAllting jag ser nu min v\u00e4g, jag kommer vinna, jag sv\u00e4r\nSv\u00e4r jag g\u00e5r loss, 2020 kaross, jag \u00e4r som Hugo the Boss\nDe ringer till oss, f\u00f6r benim \u00e4r f\u00f6rsta klass, har aldrig vart numero dos\n[Refr\u00e4ng: Linda Pira]\nMm, arraban den l\u00e5ter som en jet (Jet set)\nSackar fram n\u00e5nting du aldrig sett (Quick)\nMina h\u00e4star d\u00e4r vi bettar, alla r\u00e4tt (Alla r\u00e4tt)\nMm, du vill veta vem \u00e4r b\u00e4st\nKom och testa, l\u00e4gger dig som marionett (Ooh)\nVi \u00e4r inte de som viker under stress (\u00c5\u00e5h)\nMina h\u00e4star, sv\u00e4r vi bettar alla r\u00e4tt  (Alla r\u00e4tt)\nAlla, alla r\u00e4tt (Alla r\u00e4tt)\n\n[Brygga: Z.E]\nOm du jiddrar med truppen, brushan det lika med trubbel (Vi kommer till dig)\nJag h\u00e5ller koll \u00f6ver ryggen, sover med st\u00e5l under kudden (Sover med gunnen)\nAina planterar in buggen, tar bilder p\u00e5 h\u00e5ret och luggen (Tar bilder p\u00e5 grabben)\nHoppade snabbt in i tugget, bytte en gun emot plugget (Jag bytte mot gunnen)\nOm du jiddrar med truppen, brushan det lika med trubbel (Brushan det lika med knas)\nJag h\u00e5ller koll \u00f6ver ryggen, sover med st\u00e5l under kudden (Vi kommer med guns)\nAina planterar in buggen, tar bilder p\u00e5 h\u00e5ret och luggen (Tar bilder p\u00e5 grabben)\nHoppade snabbt in i tugget, bytte en gun emot plugget (Jag bytte mot tototo)\n\n[Vers 2: Z.E]\nRepet i klubben, beh\u00f6ver fan inte n\u00e5n lista (Nope, nope)\nHar n\u00e5t som l\u00e4gger en i kistan (P\u00e5 gud), resten, m\u00e5ste du gissa (Haha)\nDubbla, stacka och plussa (Dubbla), fienden hoppas jag missar (P\u00e5 gud)\nProfessionella, jag fuskar (Proffs)\nKasta, du kommer bli piskad (Pisk)\nHon vill ha Louis, guzzen har smak, pe-, peka p\u00e5 det du vill ha\nSk\u00e4ms inte bitch, idag \u00e4r din dag (ZE, jag \u00e4r din bitch, men h\u00e5ll det privat)\nHon har fetisch, vill ha den d\u00e4r bak\nJag har fetisch, vill ha det oralt\nHon sa \"Kom i\", f\u00f6r hon har spiral\nJag sa \"Kom rid den, tills den \u00e4r slak\" (Slak)\nYou might also like[Refr\u00e4ng: Linda Pira]\nMm, arraban den l\u00e5ter som en jet (Jet set)\nSackar fram n\u00e5nting du aldrig sett (Quick)\nMina h\u00e4star d\u00e4r vi bettar, alla r\u00e4tt (Alla r\u00e4tt)\nMm, du vill veta vem \u00e4r b\u00e4st\nKom och testa, l\u00e4gger dig som marionett (Ooh)\nVi \u00e4r inte de som viker under stress (\u00c5\u00e5h)\nMina h\u00e4star, sv\u00e4r vi bettar alla r\u00e4tt  (Alla r\u00e4tt)\nAlla, alla r\u00e4tt (Alla r\u00e4tt)\n\n[Vers 3: Linda Pira]\nYeah, l\u00e4gger allting svart och vitt som om det var piano\nRappare de jobbar skift uppe p\u00e5 Vapiano\nMen \u00e4nd\u00e5 snackar checkar, sv\u00e4r de slickar mycket anos\nSen n\u00e4r de blir checka, d\u00e5 de l\u00e4gger en chicano, gjorde mig lack\nS\u00e5 nu \u00e4r det dags, f\u00f6r alla de h\u00e4r att veta sin plats\nDu gr\u00e4t som en bitch, om du vore en man, du skulle ha sagt:\n\"Kolla vad s\u00f6t\", d\u00e5 du blir nerv\u00f6s men det g\u00e5r f\u00f6r snabbt\nHur ska ni hinna ikapp mig?\n\n[Outro: Z.E]\nOm du jiddrar med truppen, brushan det lika med trubbel (Vi kommer till dig)\nJag h\u00e5ller koll \u00f6ver ryggen, sover med st\u00e5l under kudden (Sover med gunnen)\nAina planterar in buggen, tar bilder p\u00e5 h\u00e5ret och luggen (Tar bilder p\u00e5 grabben)\nHoppade snabbt in i tugget, bytte en gun emot plugget (Plugget)Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6144106",
+   "artist_names": "Linda Pira",
+   "full_title": "S\u00e4g mitt namn by\u00a0Linda\u00a0Pira",
+   "header_image_thumbnail_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+   "id": 6144106,
+   "language": "sv",
+   "lyrics_owner_id": 11635947,
+   "lyrics_state": "complete",
+   "path": "/Linda-pira-sag-mitt-namn-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Linda-pira-sag-mitt-namn-sample",
+   "release_date_components": {
+    "year": 2020,
+    "month": 11,
+    "day": 7
+   },
+   "release_date_for_display": "November 7, 2020",
+   "release_date_with_abbreviated_month_for_display": "Nov. 7, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "S\u00e4g mitt namn",
+   "title_with_featured": "S\u00e4g mitt namn",
+   "url": "https://genius.com/Linda-pira-sag-mitt-namn-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/81306",
+    "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+    "id": 81306,
+    "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Linda Pira",
+    "url": "https://genius.com/artists/Linda-pira"
+   },
+   "apple_music_id": "1536408084",
+   "apple_music_player_url": "https://genius.com/songs/6144106/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6144106' class='rg_embed_link' data-song-id='6144106'>Read <a href='https://genius.com/Linda-pira-sag-mitt-namn-lyrics'>\u201cS\u00e4g mitt namn\u201d by Linda\u00a0Pira</a> on Genius</div> <script crossorigin src='//genius.com/songs/6144106/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2020-11-07",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 11635947,
+    "annotator_login": "IzzHansson",
+    "api_path": "/referents/21272150",
+    "classification": "needs_exegesis",
+    "fragment": "S\u00e4g mitt namn",
+    "id": 21272150,
+    "is_description": true,
+    "path": "/21272150/Linda-pira-sag-mitt-namn/Sag-mitt-namn",
+    "range": {
+     "content": "S\u00e4g mitt namn"
+    },
+    "song_id": 6144106,
+    "url": "https://genius.com/21272150/Linda-pira-sag-mitt-namn/Sag-mitt-namn",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6144106",
+     "client_timestamps": {
+      "updated_by_human_at": 1605964904,
+      "lyrics_updated_at": 1604826906
+     },
+     "context": "Linda Pira",
+     "id": 6144106,
+     "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+     "link_title": "S\u00e4g mitt namn by\u00a0Linda\u00a0Pira",
+     "title": "S\u00e4g mitt namn",
+     "type": "Song",
+     "url": "https://genius.com/Linda-pira-sag-mitt-namn-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21272150",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21272150,
+      "pinned": false,
+      "share_url": "https://genius.com/21272150",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/21272150/Linda-pira-sag-mitt-namn/Sag-mitt-namn",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/11635947",
+         "avatar": {
+          "tiny": {
+           "url": "https://i.genius.com/0ff1df7b43d7d32cc280dc6d09939f7055e571d6?url=https%3A%2F%2Flh5.googleusercontent.com%2F-3nLkF-ZG0vQ%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FAMZuucma9V_x7Qkj0oscSGtlImQHmqmC_Q%2Fs50%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://i.genius.com/0ff1df7b43d7d32cc280dc6d09939f7055e571d6?url=https%3A%2F%2Flh5.googleusercontent.com%2F-3nLkF-ZG0vQ%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FAMZuucma9V_x7Qkj0oscSGtlImQHmqmC_Q%2Fs50%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://i.genius.com/0ff1df7b43d7d32cc280dc6d09939f7055e571d6?url=https%3A%2F%2Flh5.googleusercontent.com%2F-3nLkF-ZG0vQ%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FAMZuucma9V_x7Qkj0oscSGtlImQHmqmC_Q%2Fs50%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://i.genius.com/0ff1df7b43d7d32cc280dc6d09939f7055e571d6?url=https%3A%2F%2Flh5.googleusercontent.com%2F-3nLkF-ZG0vQ%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FAMZuucma9V_x7Qkj0oscSGtlImQHmqmC_Q%2Fs50%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8o3wxbhselq",
+         "human_readable_role_for_display": "Contributor",
+         "id": 11635947,
+         "iq": 13440,
+         "login": "IzzHansson",
+         "name": "IzzHansson",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/IzzHansson",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=IgRQbXRF0lE"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Linda Pira",
+   "lyrics": "S\u00e4g mitt namn Lyrics[Intro\nHaaaaa, nine, nine\nNasty!\n\n[Refr\u00e4ng]\nDet har varit en kamp\nEnda sedan jag varit liten, aha\nOm ni visste vad jag har sett, yeah\nJag vill ha allt, men kr\u00e4ver s\u00e5 lite, aha\nS\u00e4g mitt namn med respekt, yeah\n[Vers 1]\nDu fr\u00e5gar publiken, va nu, n\u00e4r allt l\u00e5ter lika dant\nK\u00e4nner du lika dant, vet du vilken tid det tar\nG\u00e5tt genom eld som djupa hav, aha\nSv\u00e4r jag var slut p\u00e5 gas, varje minut betald\nKolla v\u00e5r 2020 gaah, gjorde mig oslagbar\nS\u00e5 jag jagade dinero, s\u00e4g mej vart e dom?\nJag p\u00e5 min grand every time?\nAllt som jag ger dom, hela mitt liv, yeah\nTill varje pris, yeah\nH\u00e5ller min gard, tills jag \u00e4r klar, jag tar min tid, yeah\n\n[Refr\u00e4ng]\nDet har varit en kamp, eh\nEnda sedan jag varit liten, aha\nOm ni visste vad jag har sett, jag vill ha allt\nMen kr\u00e4ver s\u00e5 lite, aha\nS\u00e4g mitt namn med respekt, yeah\nDet har varit en kamp\nEnda sedan jag varit liten aha\nOm ni visste vad jag har sett, jag vill ha allt\nMen kr\u00e4ver s\u00e5 lite, aha\nS\u00e4g mitt namn med respekt!\n\nVers 2]\nI'm okey she will be fine\nShe do the hustle she go strong for the bedroom\nShe got no time for the shade room\nMake you got dum, but you know i spear it\nWhen She calling my name\nBaby i'm only way\nBaby please don't make no misstake, you may fall to day\nLove come my way\nBaby we gona kill tha day, na, na\nLove come my way\nBaby we gona kill tha day, na, na\nTripp please baby come my way, we gona kill tha day na na na\nTripp please baby come my way, we gona kill tha day na na na\nYou might also like[Rafr\u00e4ng]\nDet har varit en kamp\nEnda sedan jag varit liten, aha\nOm ni visste vad jag har sett, yeah\nJag vill ha allt, men kr\u00e4ver s\u00e5 lite, aha\nS\u00e4g mitt namn med respekt\n\n[Outro]\nDadadiiiiaaa dantdiddidaant dantdiddidaant\nYeaah, eeeeeh, aaaaah\nBaby go and shake your body, shake your body\nDet har varit en kamp\nEnda sedan jag varit liten, aha\nBaby go and shake your bady, shake your body\nJag vill ha allt, men kr\u00e4ver s\u00e5 lite, aha\nS\u00e4g mitt namn med respekt\nNa, na, na na, aaaaaaa\nJag vill ha allt, men kr\u00e4ver s\u00e5 lite, aha!Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2925988",
+   "artist_names": "Linda Pira",
+   "full_title": "Kn\u00e4pper mina fingrar (Torka dina t\u00e5rar Remake) by\u00a0Linda\u00a0Pira",
+   "header_image_thumbnail_url": "https://images.genius.com/6493aa4f1d9b5064e6ee79daead9f303.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/6493aa4f1d9b5064e6ee79daead9f303.640x640x1.jpg",
+   "id": 2925988,
+   "language": "sv",
+   "lyrics_owner_id": 4029109,
+   "lyrics_state": "complete",
+   "path": "/Linda-pira-knapper-mina-fingrar-torka-dina-tarar-remake-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Linda-pira-knapper-mina-fingrar-torka-dina-tarar-remake-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 1,
+    "day": 1
+   },
+   "release_date_for_display": "January 1, 2016",
+   "release_date_with_abbreviated_month_for_display": "Jan. 1, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/6493aa4f1d9b5064e6ee79daead9f303.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/6493aa4f1d9b5064e6ee79daead9f303.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Kn\u00e4pper mina fingrar (Torka dina t\u00e5rar Remake)",
+   "title_with_featured": "Kn\u00e4pper mina fingrar (Torka dina t\u00e5rar Remake)",
+   "url": "https://genius.com/Linda-pira-knapper-mina-fingrar-torka-dina-tarar-remake-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/81306",
+    "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+    "id": 81306,
+    "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Linda Pira",
+    "url": "https://genius.com/artists/Linda-pira"
+   },
+   "apple_music_id": "1155625348",
+   "apple_music_player_url": "https://genius.com/songs/2925988/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2925988' class='rg_embed_link' data-song-id='2925988'>Read <a href='https://genius.com/Linda-pira-knapper-mina-fingrar-torka-dina-tarar-remake-lyrics'>\u201cKn\u00e4pper mina fingrar (Torka dina t\u00e5rar Remake)\u201d by Linda\u00a0Pira</a> on Genius</div> <script crossorigin src='//genius.com/songs/2925988/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-01-01",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4029109,
+    "annotator_login": "Mersu",
+    "api_path": "/referents/10963978",
+    "classification": "needs_exegesis",
+    "fragment": "Kn\u00e4pper mina fingrar (Torka dina t\u00e5rar Remake)",
+    "id": 10963978,
+    "is_description": true,
+    "path": "/10963978/Linda-pira-knapper-mina-fingrar-torka-dina-tarar-remake/Knapper-mina-fingrar-torka-dina-tarar-remake",
+    "range": {
+     "content": "Kn\u00e4pper mina fingrar (Torka dina t\u00e5rar Remake)"
+    },
+    "song_id": 2925988,
+    "url": "https://genius.com/10963978/Linda-pira-knapper-mina-fingrar-torka-dina-tarar-remake/Knapper-mina-fingrar-torka-dina-tarar-remake",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2925988",
+     "client_timestamps": {
+      "updated_by_human_at": 1481058890,
+      "lyrics_updated_at": 1481058703
+     },
+     "context": "Linda Pira",
+     "id": 2925988,
+     "image_url": "https://images.genius.com/6493aa4f1d9b5064e6ee79daead9f303.640x640x1.jpg",
+     "link_title": "Kn\u00e4pper mina fingrar (Torka dina t\u00e5rar Remake) by\u00a0Linda\u00a0Pira",
+     "title": "Kn\u00e4pper mina fingrar (Torka dina t\u00e5rar Remake)",
+     "type": "Song",
+     "url": "https://genius.com/Linda-pira-knapper-mina-fingrar-torka-dina-tarar-remake-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10963978",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10963978,
+      "pinned": false,
+      "share_url": "https://genius.com/10963978",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10963978/Linda-pira-knapper-mina-fingrar-torka-dina-tarar-remake/Knapper-mina-fingrar-torka-dina-tarar-remake",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4029109",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/82b3ef0a165054c50dbc72a2e4ef017e",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/82b3ef0a165054c50dbc72a2e4ef017e",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/82b3ef0a165054c50dbc72a2e4ef017e",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/82b3ef0a165054c50dbc72a2e4ef017e",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/1qqqKPtKTwW8YKTVn839_12.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4029109,
+         "iq": 4328,
+         "login": "Mersu",
+         "name": "Mersu",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Mersu",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Linda Pira",
+   "lyrics": "Kn\u00e4pper mina fingrar (Torka dina t\u00e5rar Remake) Lyrics[Stick]\nL\u00e5t oss samlas, l\u00e5t oss be\nVi \u00e4r starkast enade\nS\u00e5 n\u00e4r stormen n\u00e4rmar sig\nFinns du h\u00e4r bredve\nSprid dina vingar, se \u00f6ver oss\nDe \u00e4r s\u00e5 sv\u00e5rt f\u00f6r mig \u00e5 va p\u00e5 min vakt\n\n[Vers 1]\nFick k\u00e4nna p\u00e5 hans kalla kropp, gav mig kalla k\u00e5rar\n15 v\u00e5rar g\u00e5r till himlen ovan, de finns s\u00e5 mycket som \u00e4r v\u00e5rt\nMen v\u00e5ran tid \u00e4r l\u00e5nad, morgondagen den \u00e4r aldrig lovad\nTvingas till minnen f\u00f6r \u00e5 komma ih\u00e5g han\nDom sa att tiden skulle l\u00e4ka s\u00e5r\nMen n\u00e4r en mor f\u00f6rlorar sina sm\u00e5\nN\u00e4r s\u00e5ren inte ligger utanp\u00e5\n\u00c5 vi samlar gr\u00e5t, nu d\u00e4r Robin l\u00e5g\n\nCarolina, \u00e5 Carolina\nVill kn\u00e4ppa fingrar mina, ser han \u00e5terupplivas\nF\u00e5r sm\u00e4rtan \u00e5 f\u00f6rsvinna, f\u00f6r vi slutar aldrig amma\nFr\u00e5n en mamma till en annan, nu n\u00e4r tiden verkar stanna\n\n[Refr\u00e4ng]\nF\u00f6r \u00e5 lindra din sm\u00e4rta, kn\u00e4ppa mina fingrar\nOch n\u00e4r du inte klarar av de, kn\u00e4ppa dom igen\nVill g\u00f6ra allt f\u00f6r att du ska veta att jag finns h\u00e4r\nKnyter h\u00e4nderna ihop och l\u00e5t oss be\nKn\u00e4pper fingret varje g\u00e5ng du har problem\n\n[Vers 2]\nJag kan l\u00e5na dig min axel\nJag kan torka dina t\u00e5rar\nJag kan lida med dig v\u00e4nnen\nMen sm\u00e4rtan den blir aldrig v\u00e5ran, du f\u00e5r klara detta sj\u00e4lv f\u00f6r\n\nJag vill aldrig veta hur det k\u00e4nns, nej Carro jag \u00e4r r\u00e4dd\nAtt de som h\u00e4nde dig kan komma bli min verklighet\nS\u00e5 jag l\u00e5ser d\u00f6rren till mitt hem\nF\u00f6r jag vet att mina tvillingar \u00e4r s\u00e4kra d\u00e4r jag e\nYou might also likeEn dag i taget \u00e5 vi \u00f6verlever allt\nMen att se dagen d\u00e5 du \u00f6verlevde han\nJag kommer aldrig kunna vara s\u00e5pass stark som du pallat\nFr\u00e5n en mamma till en annan nu n\u00e4r tiden verkar stanna\n\n[Stick]\nL\u00e5t oss samlas, l\u00e5t oss be\nVi \u00e4r starkast enade, s\u00e5 n\u00e4r stormen n\u00e4rmar sig\nFinns du h\u00e4r bredve\nSprid dina vingar, se \u00f6ver oss\nDe \u00e4r s\u00e5 sv\u00e5rt f\u00f6r mig \u00e5 va p\u00e5 min vakt\n\n[Refr\u00e4ng]\nF\u00f6r \u00e5 lindra din sm\u00e4rta, kn\u00e4ppa mina fingrar\nOch n\u00e4r du inte klarar av de, kn\u00e4ppa dom igen\nVill g\u00f6ra allt f\u00f6r att du ska veta att jag finns h\u00e4r\nKnyter h\u00e4nderna ihop och l\u00e5t oss be\nKn\u00e4pper fingret varje g\u00e5ng du har problemEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1950479",
+   "artist_names": "Linda Pira",
+   "full_title": "B\u00e4ng b\u00e4ng by\u00a0Linda\u00a0Pira",
+   "header_image_thumbnail_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+   "id": 1950479,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Linda-pira-bang-bang-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Linda-pira-bang-bang-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "B\u00e4ng b\u00e4ng",
+   "title_with_featured": "B\u00e4ng b\u00e4ng",
+   "url": "https://genius.com/Linda-pira-bang-bang-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/81306",
+    "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+    "id": 81306,
+    "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Linda Pira",
+    "url": "https://genius.com/artists/Linda-pira"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1950479/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1950479' class='rg_embed_link' data-song-id='1950479'>Read <a href='https://genius.com/Linda-pira-bang-bang-lyrics'>\u201cB\u00e4ng b\u00e4ng\u201d by Linda\u00a0Pira</a> on Genius</div> <script crossorigin src='//genius.com/songs/1950479/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6636447",
+    "classification": "needs_exegesis",
+    "fragment": "B\u00e4ng b\u00e4ng",
+    "id": 6636447,
+    "is_description": true,
+    "path": "/6636447/Linda-pira-bang-bang/Bang-bang",
+    "range": {
+     "content": "B\u00e4ng b\u00e4ng"
+    },
+    "song_id": 1950479,
+    "url": "https://genius.com/6636447/Linda-pira-bang-bang/Bang-bang",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1950479",
+     "client_timestamps": {
+      "updated_by_human_at": 1445958612,
+      "lyrics_updated_at": 1432921253
+     },
+     "context": "Linda Pira",
+     "id": 1950479,
+     "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+     "link_title": "B\u00e4ng b\u00e4ng by\u00a0Linda\u00a0Pira",
+     "title": "B\u00e4ng b\u00e4ng",
+     "type": "Song",
+     "url": "https://genius.com/Linda-pira-bang-bang-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6636447",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6636447,
+      "pinned": false,
+      "share_url": "https://genius.com/6636447",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6636447/Linda-pira-bang-bang/Bang-bang",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Linda Pira",
+   "lyrics": "B\u00e4ng b\u00e4ng LyricsColombia lady baba, s\u00e4g vilken syn\nRedline records baby, kalla mig f\u00f6r Latin Queen\nMadrina shades, m\u00f6rkt nagellack\nSvartm\u00e5lade l\u00e4ppar, bl\u00e5ser en d\u00f6dskyss mwah\n\u00c4r du redo papi, dags f\u00f6r Linda Pira\nSer hur gatan snackar riktig ghetto nyhet, Al-Jaz\u012bra\nCirkulerar under staden, siluett\nAxar ner f\u00f6r gatan, petar mina naglar med stilett\nEn b\u00e4rs, en till baba, jag tror du m\u00e5ste sluta r\u00f6ka bush weed baba\n(Jag \u00e4r inte som dom andra guzzarna du ser i din terr\u00e4ng)\nEy yo mitt namn \u00e4r Linda Pira och mitt flow, det g\u00f6r dig b\u00e4ng!\nB\u00e4ng b\u00e4ng b\u00e4-b\u00e4-b\u00e4-b\u00e4ng\nB\u00e4ng b\u00e4-b\u00e4-b\u00e4-b\u00e4-b\u00e4ng\nB\u00e4ng b\u00e4ng b\u00e4-b\u00e4-b\u00e4-b\u00e4ng\nB\u00e4ng b\u00e4-b\u00e4-b\u00e4-b\u00e4-b\u00e4ng\nB\u00e4ng b\u00e4ng b\u00e4-b\u00e4-b\u00e4-b\u00e4ng\nB\u00e4ng b\u00e4-b\u00e4-b\u00e4-b\u00e4-b\u00e4ng\nB\u00e4ng b\u00e4ng b\u00e4-b\u00e4-b\u00e4-b\u00e4ng\nB\u00e4ng b\u00e4ng b\u00e4-b\u00e4-b\u00e4ng b\u00e4-b\u00e4-b\u00e4-b\u00e4-\n\nEy yo du \u00e4r absad, suktar efter mer av mig, du fastna\nDu \u00e4r absad, kriminellt belastad\nFet rhymes, ja hustlar Redlines och kapslar\nH\u00f6g volym, old school vinyl, skrapa n\u00e5len som kanyler\nEy yo du \u00e4rabsad, suktar efter mer och vill bli maxad\nDu \u00e4r absad, mina para prasslar\nFet rhyme, ja hustlar i Redlines och kapslar\nFormel 1 old school kasett f\u00e5r dig studsa, ricochet\nVilket kaos, b\u00e4ngb\u00e4ng EEK-A-MOUSE\nSer dig storma in p\u00e5 st\u00e4llet och din DJ trycker paus\nL\u00e4gg den h\u00e4r p\u00e5 replay om du vill att folk ska vakna\nMannen hela j\u00e4vla st\u00e4llet jagar efter colombianskan\nB\u00e4ng b\u00e4ng b\u00e4-b\u00e4-b\u00e4-b\u00e4ng\nB\u00e4ng b\u00e4-b\u00e4-b\u00e4-b\u00e4-b\u00e4ng\nB\u00e4ng b\u00e4ng b\u00e4-b\u00e4-b\u00e4-b\u00e4ng\nB\u00e4ng b\u00e4-b\u00e4-b\u00e4-b\u00e4-b\u00e4ng\nB\u00e4ng b\u00e4ng b\u00e4-b\u00e4-b\u00e4-b\u00e4ng\nB\u00e4ng b\u00e4-b\u00e4-b\u00e4-b\u00e4-b\u00e4ng\nB\u00e4ng b\u00e4ng b\u00e4-b\u00e4-b\u00e4-b\u00e4ng\nB\u00e4ng b\u00e4ng b\u00e4-b\u00e4-b\u00e4ng b\u00e4-b\u00e4-b\u00e4-b\u00e4-b\u00e4ngYou might also likeEmbed"
+  }
+ ]
+}

@@ -1,0 +1,3719 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/156416",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 1,
+ "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+ "id": 156416,
+ "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Thomas Rusiak",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Thomas-rusiak",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 50,
+  "annotator_login": "AlysonWonderland",
+  "api_path": "/referents/7014413",
+  "classification": "needs_exegesis",
+  "fragment": "Thomas Rusiak",
+  "id": 7014413,
+  "is_description": true,
+  "path": "/7014413/Thomas-rusiak/Thomas-rusiak",
+  "range": {
+   "content": "Thomas Rusiak"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7014413/Thomas-rusiak/Thomas-rusiak",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/156416",
+   "context": null,
+   "id": 156416,
+   "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+   "link_title": "Thomas Rusiak",
+   "title": "Thomas Rusiak",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Thomas-rusiak"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7014413",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7014413,
+    "pinned": false,
+    "share_url": "https://genius.com/7014413",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7014413/Thomas-rusiak/Thomas-rusiak",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/50",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/f815fe8f1b9c915e5b77e6089431c771",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/f815fe8f1b9c915e5b77e6089431c771",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/f815fe8f1b9c915e5b77e6089431c771",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+       "human_readable_role_for_display": "Contributor",
+       "id": 50,
+       "iq": 3400,
+       "login": "AlysonWonderland",
+       "name": "AlysonWonderland",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/AlysonWonderland",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1485517",
+   "artist_names": "Thomas Rusiak",
+   "full_title": "Hiphopper by\u00a0Thomas\u00a0Rusiak",
+   "header_image_thumbnail_url": "https://images.genius.com/d88d80cb2310851a4c82486c00cc59de.300x300x1.png",
+   "header_image_url": "https://images.genius.com/d88d80cb2310851a4c82486c00cc59de.578x578x1.png",
+   "id": 1485517,
+   "language": "en",
+   "lyrics_owner_id": 3245341,
+   "lyrics_state": "complete",
+   "path": "/Thomas-rusiak-hiphopper-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Thomas-rusiak-hiphopper-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/d88d80cb2310851a4c82486c00cc59de.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/d88d80cb2310851a4c82486c00cc59de.578x578x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 3,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Hiphopper",
+   "title_with_featured": "Hiphopper",
+   "url": "https://genius.com/Thomas-rusiak-hiphopper-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/156416",
+    "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+    "id": 156416,
+    "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thomas Rusiak",
+    "url": "https://genius.com/artists/Thomas-rusiak"
+   },
+   "apple_music_id": "1100896520",
+   "apple_music_player_url": "https://genius.com/songs/1485517/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1485517' class='rg_embed_link' data-song-id='1485517'>Read <a href='https://genius.com/Thomas-rusiak-hiphopper-lyrics'>\u201cHiphopper\u201d by Thomas\u00a0Rusiak</a> on Genius</div> <script crossorigin src='//genius.com/songs/1485517/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/198083",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "Magic Villa by Thomas Rusiak",
+    "id": 198083,
+    "name": "Magic Villa",
+    "url": "https://genius.com/albums/Thomas-rusiak/Magic-villa",
+    "artist": {
+     "api_path": "/artists/156416",
+     "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "id": 156416,
+     "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Rusiak",
+     "url": "https://genius.com/artists/Thomas-rusiak"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5999522",
+    "classification": "needs_exegesis",
+    "fragment": "Hiphopper",
+    "id": 5999522,
+    "is_description": true,
+    "path": "/5999522/Thomas-rusiak-hiphopper/Hiphopper",
+    "range": {
+     "content": "Hiphopper"
+    },
+    "song_id": 1485517,
+    "url": "https://genius.com/5999522/Thomas-rusiak-hiphopper/Hiphopper",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1485517",
+     "client_timestamps": {
+      "updated_by_human_at": 1642323617,
+      "lyrics_updated_at": 1642323617
+     },
+     "context": "Thomas Rusiak",
+     "id": 1485517,
+     "image_url": "https://images.genius.com/d88d80cb2310851a4c82486c00cc59de.578x578x1.png",
+     "link_title": "Hiphopper by\u00a0Thomas\u00a0Rusiak",
+     "title": "Hiphopper",
+     "type": "Song",
+     "url": "https://genius.com/Thomas-rusiak-hiphopper-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5999522",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5999522,
+      "pinned": false,
+      "share_url": "https://genius.com/5999522",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5999522/Thomas-rusiak-hiphopper/Hiphopper",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=6u8_xXTTK_w"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Thomas Rusiak",
+   "lyrics": "Hiphopper Lyrics[Intro]\nYeah, huh, uh huh, uh huh\nYeah, what, uh\nWhat, what, what, what, what, what, what\nUh, yeah, yeah, what\nHuh huh, huh huh, what what\n\n[Verse 1]\nYou see me driving down the street\nI look so fucking good (Yeah)\nI'm smoking weed and doing dirt\nIn my Tommy Hilfiger hoodie (Ha, yeah, ha, yeah, uh)\nWe're gonna keep talking bullshit about you\n'Cause nobody be fronting on me and my crew\n(Me and my crew, what, [?], what)\n[Chorus]\n'Cause I'm a hiphopper, yes I am\n(Yes I am, what, yes I am, uh)\n'Cause I'm a hiphopper, yes I am\n(Me and my crew, what, [?], what)\n\n[Verse 2]\nYou see me wearing baggy jeans\n(Baggy jeans, huh, baggy jeans, huh)\nAnd my fat Tims stay on my feet (On my feet, what, yeah)\nI never smile when someone's around (Huh, what)\nI'm low key, staying hardcore (Hardcore, hardcore, uh)\nI'm never listening to anything else (Fuck that, fuck that, uh)\nBut that hiphop that y'all can feel (Hiphop, hiphop, uh)\n\n[Chorus]\n'Cause I'm a hiphopper, yes I am\n(Yes I am, what, yes I am,  uh)\nCause I'm a hiphopper, yes I am\n(Me and my crew, what, [?], what)\nCause I'm a hiphopper, yes I am\n(Yes I am, uh, yes I am, what)\n\n[Verse 3]\nYou see me driving down the street\nI look so fucking good (Me and my crew, what, [?], what)\nYou can keep throwing up, yo, I'm too wack\n(I'm too wack, what, I'm too wack, uh)\nBut I'm still sitting on the stuff you like\n(No doubt, no doubt, no doubt, what)\nCome a bit close for my stuff to share\n(My stuff to share, what, my stuff to share, uh)\nAnd you will suck a cock within a year\n(What, what, what, what, what, what)\nYou might also like[Chorus]\n'Cause I'm a hiphopper, yes I am\n(Yes I am, what, yes I am,  uh)\nCause I'm a hiphopper, yes I am\n(Me and my crew, what, [?], what)\nCause I'm a hiphopper, yes I am\n(Yes I am, what, yes I am, uh)\n'Cause I'm a hiphopper, yes I am\n(Me and my crew, what, [?], what)\n\n[Outro]\nCause I'm a hiphopper, yes I am\nSay what, say what, say what, say what\nMe and my crew, what, [?], what\nHuh huh, what what\nMe and my crew, what, [?], what\nYeah, yeah, yeah, yeah (Woo)Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/2206755",
+   "artist_names": "Thomas Rusiak",
+   "full_title": "Hiphopper feat: Teddybears STHLM by\u00a0Thomas\u00a0Rusiak",
+   "header_image_thumbnail_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+   "id": 2206755,
+   "language": "en",
+   "lyrics_owner_id": 12169114,
+   "lyrics_state": "complete",
+   "path": "/Thomas-rusiak-hiphopper-feat-teddybears-sthlm-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Thomas-rusiak-hiphopper-feat-teddybears-sthlm-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Hiphopper feat: Teddybears STHLM",
+   "title_with_featured": "Hiphopper feat: Teddybears STHLM",
+   "url": "https://genius.com/Thomas-rusiak-hiphopper-feat-teddybears-sthlm-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/156416",
+    "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+    "id": 156416,
+    "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thomas Rusiak",
+    "url": "https://genius.com/artists/Thomas-rusiak"
+   },
+   "apple_music_id": "1100895367",
+   "apple_music_player_url": "https://genius.com/songs/2206755/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2206755' class='rg_embed_link' data-song-id='2206755'>Read <a href='https://genius.com/Thomas-rusiak-hiphopper-feat-teddybears-sthlm-lyrics'>\u201cHiphopper feat: Teddybears STHLM\u201d by Thomas\u00a0Rusiak</a> on Genius</div> <script crossorigin src='//genius.com/songs/2206755/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/198083",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "Magic Villa by Thomas Rusiak",
+    "id": 198083,
+    "name": "Magic Villa",
+    "url": "https://genius.com/albums/Thomas-rusiak/Magic-villa",
+    "artist": {
+     "api_path": "/artists/156416",
+     "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "id": 156416,
+     "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Rusiak",
+     "url": "https://genius.com/artists/Thomas-rusiak"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7312211",
+    "classification": "needs_exegesis",
+    "fragment": "Hiphopper feat: Teddybears STHLM",
+    "id": 7312211,
+    "is_description": true,
+    "path": "/7312211/Thomas-rusiak-hiphopper-feat-teddybears-sthlm/Hiphopper-feat-teddybears-sthlm",
+    "range": {
+     "content": "Hiphopper feat: Teddybears STHLM"
+    },
+    "song_id": 2206755,
+    "url": "https://genius.com/7312211/Thomas-rusiak-hiphopper-feat-teddybears-sthlm/Hiphopper-feat-teddybears-sthlm",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2206755",
+     "client_timestamps": {
+      "updated_by_human_at": 1662744773,
+      "lyrics_updated_at": 1662744773
+     },
+     "context": "Thomas Rusiak",
+     "id": 2206755,
+     "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "link_title": "Hiphopper feat: Teddybears STHLM by\u00a0Thomas\u00a0Rusiak",
+     "title": "Hiphopper feat: Teddybears STHLM",
+     "type": "Song",
+     "url": "https://genius.com/Thomas-rusiak-hiphopper-feat-teddybears-sthlm-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7312211",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7312211,
+      "pinned": false,
+      "share_url": "https://genius.com/7312211",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7312211/Thomas-rusiak-hiphopper-feat-teddybears-sthlm/Hiphopper-feat-teddybears-sthlm",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Thomas Rusiak",
+   "lyrics": "Hiphopper feat: Teddybears STHLM LyricsYou see me driving down the street\nI look so fuckin good (yeah)\nI'm smokin weed and doing dirt\nIn my Tommy Hilfiger hoodie (ha yeah ha yeah huh)\nWere gonna keep talking bullshit about you\nCause nobody be frontin me and my crew\n(me and my crew, what, Natural Bond, what!)\n\nChorus:\nCause I'm a hiphopper yes I am ( yes I am, what, yes I am, huh)\nCause I'm a hiphopper yes I am\n(me and my crew, what, Natural Bond, what!)\nYou see me wearing baggy jeans (baggy jeans, huh, baggy jeans,huh)\nAnd my fat Tim stays on my feet (on my feet, what, yeah)\nI never smile when someone's around (huh, what)\nI'm low key staying harcore (hardcore, hardcore, huh)\n\nI'm never listen at anything else (fuck that, fuck that, huh)\nBut the hiphop that ya'll can feel (hiphop,hiphop, huh)\n\nChorus\nCause I'm a hiphopper yes I am ( yes I am, what, yes I am, huh)\nCause I'm a hiphopper yes I am\n(me and my crew, what, Natural Bond, what!)\n\nYou see me drivin down the street\nI look so fuckin good (me and my crew, what, Natural Bond, what!)\nWe got cheat goin up go out to wack\n(I'm to wack, what, I'm to wack, huh)\nBut I'm still singin on the stuff you like\n(no doubt, no doubt,no doubt, huh)\nCome a bit closer for my stuff to share\n(my stuff to share, what, my stuff to share, huh)\nAnd you was up to cock within a year (what what what what what)\n\nChorus\nCause I'm a hiphopper yes I am ( yes I am, what, yes I am, huh)\nCause I'm a hiphopper yes I am\n(me and my crew, what, Natural Bond, what!)You might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2088206",
+   "artist_names": "Thomas Rusiak",
+   "full_title": "All yours feat: awa by\u00a0Thomas\u00a0Rusiak",
+   "header_image_thumbnail_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+   "id": 2088206,
+   "language": "en",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Thomas-rusiak-all-yours-feat-awa-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Thomas-rusiak-all-yours-feat-awa-sample",
+   "release_date_components": {
+    "year": 2000,
+    "month": 1,
+    "day": 1
+   },
+   "release_date_for_display": "January 1, 2000",
+   "release_date_with_abbreviated_month_for_display": "Jan. 1, 2000",
+   "song_art_image_thumbnail_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "All yours feat: awa",
+   "title_with_featured": "All yours feat: awa",
+   "url": "https://genius.com/Thomas-rusiak-all-yours-feat-awa-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/156416",
+    "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+    "id": 156416,
+    "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thomas Rusiak",
+    "url": "https://genius.com/artists/Thomas-rusiak"
+   },
+   "apple_music_id": "1100895357",
+   "apple_music_player_url": "https://genius.com/songs/2088206/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2088206' class='rg_embed_link' data-song-id='2088206'>Read <a href='https://genius.com/Thomas-rusiak-all-yours-feat-awa-lyrics'>\u201cAll yours feat: awa\u201d by Thomas\u00a0Rusiak</a> on Genius</div> <script crossorigin src='//genius.com/songs/2088206/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2000-01-01",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/198083",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "Magic Villa by Thomas Rusiak",
+    "id": 198083,
+    "name": "Magic Villa",
+    "url": "https://genius.com/albums/Thomas-rusiak/Magic-villa",
+    "artist": {
+     "api_path": "/artists/156416",
+     "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "id": 156416,
+     "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Rusiak",
+     "url": "https://genius.com/artists/Thomas-rusiak"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6828193",
+    "classification": "needs_exegesis",
+    "fragment": "All yours feat: awa",
+    "id": 6828193,
+    "is_description": true,
+    "path": "/6828193/Thomas-rusiak-all-yours-feat-awa/All-yours-feat-awa",
+    "range": {
+     "content": "All yours feat: awa"
+    },
+    "song_id": 2088206,
+    "url": "https://genius.com/6828193/Thomas-rusiak-all-yours-feat-awa/All-yours-feat-awa",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2088206",
+     "client_timestamps": {
+      "updated_by_human_at": 1477041897,
+      "lyrics_updated_at": 1433957565
+     },
+     "context": "Thomas Rusiak",
+     "id": 2088206,
+     "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "link_title": "All yours feat: awa by\u00a0Thomas\u00a0Rusiak",
+     "title": "All yours feat: awa",
+     "type": "Song",
+     "url": "https://genius.com/Thomas-rusiak-all-yours-feat-awa-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6828193",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6828193,
+      "pinned": false,
+      "share_url": "https://genius.com/6828193",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6828193/Thomas-rusiak-all-yours-feat-awa/All-yours-feat-awa",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Thomas Rusiak",
+   "lyrics": "All yours feat: awa LyricsAll yours that was my game\nBut everything's changed, nothing's the same\nAll yours was my middle name\nBut I want you to know that my pain remains\n\nI was on you like a skirt at first, had a thirst, a thing for you\nSang to you, gave to much for you to kling to\nI meant to be all cool and macho\nI liked you alot, though, you hydroed my mind, yo!\nBlindfold vision, my click be sayin' listen:\n\"Ru, your mind's sizzling, chill stop flipping!\nYou know she's a part of a crew, that be playing with you\nAnd Ru; she's a whole lot smarter than you!\"\nA damn fly looker, I got hooked like a sucker!\n\"Sorry fellas, my mind's to weak, I might suffer!\"\nI stuck to you and got high, but not on herb\nYou hardcore citykitten, I was raised in the burbs\nLaced you in pearls, had money, whenever to funny with\nStill I was on that \"Please honey\"-shit!\nYou won't admit it, I quit it, it's my loss, of course\nYou're the boss, I get tossed, I'm all yours...\nAll yours that was my game\nBut everything's changed, nothing's the same\nAll yours was my middle name\nBut I want you to know that my pain remains\n\nI had days when I went through a phase, basicly hated you\nOut of love, I rated you rockbottom-above\nA thug would have said to you \"Fuck off\"\nBut how often does that happen to Ru, I'm to soft for you\nMy crew be pissed, uncool, I got dissed for less back then\nI better listen to Pee and Petter\n\"Whatever you do, we're still behind you\nRu be the bomb don't let anybody hound you!\"\nSounds cool to me this time when they rhyme to me\nIronically I'm finding myself with three and honestly\nI easily enjoy monotony, we're finally\nDown with eachother here for one more year\nYou didn't care about no tears, I prepared for your brake up\nMy minds got raped a few more times, what's up\nBut still, you had me stuck for real\nWhat's the deal, what the fuck, I'm all yours and that's ill....\n\nAll yours that was my game\nBut everything's changed, nothing's the same\nAll yours was my middle name\nBut I want you to know that my pain remains\nYou might also likeHad a career thing, I was alone for a year\nGot stared at and told the world to beware\nTo much for you, yeah, my mind was only on rhymes\nAnd finally we gave each other boots behind\nBut we're cool, right? Or wrong? Whatever you want, you got it\nI could be buddy, I kept my cellphone warm for you\nOn for you, I dialed you and tried to\nFind you to make things better, not to blind you\nNo matter what they say, that I'm a bastard and all\nI think faster than ya, so give the bastard a call\nHey, once all your but not now of course\nI'm the boss bitch, you get tossed, I'm all yours\n\nAll yours that was my game\nBut everything's changed, nothing's the same\nAll yours was my middle name\nBut I want you to know that my pain remains\n\nAll yours that was my game\nBut everything's changed, nothing's the same\nAll yours was my middle name\nBut not any more cause your game is just too lameEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1973203",
+   "artist_names": "Thomas Rusiak",
+   "full_title": "Featherweight by\u00a0Thomas\u00a0Rusiak",
+   "header_image_thumbnail_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+   "id": 1973203,
+   "language": "en",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Thomas-rusiak-featherweight-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Thomas-rusiak-featherweight-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Featherweight",
+   "title_with_featured": "Featherweight",
+   "url": "https://genius.com/Thomas-rusiak-featherweight-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/156416",
+    "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+    "id": 156416,
+    "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thomas Rusiak",
+    "url": "https://genius.com/artists/Thomas-rusiak"
+   },
+   "apple_music_id": "1100895269",
+   "apple_music_player_url": "https://genius.com/songs/1973203/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1973203' class='rg_embed_link' data-song-id='1973203'>Read <a href='https://genius.com/Thomas-rusiak-featherweight-lyrics'>\u201cFeatherweight\u201d by Thomas\u00a0Rusiak</a> on Genius</div> <script crossorigin src='//genius.com/songs/1973203/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/198083",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "Magic Villa by Thomas Rusiak",
+    "id": 198083,
+    "name": "Magic Villa",
+    "url": "https://genius.com/albums/Thomas-rusiak/Magic-villa",
+    "artist": {
+     "api_path": "/artists/156416",
+     "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "id": 156416,
+     "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Rusiak",
+     "url": "https://genius.com/artists/Thomas-rusiak"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6659780",
+    "classification": "needs_exegesis",
+    "fragment": "Featherweight",
+    "id": 6659780,
+    "is_description": true,
+    "path": "/6659780/Thomas-rusiak-featherweight/Featherweight",
+    "range": {
+     "content": "Featherweight"
+    },
+    "song_id": 1973203,
+    "url": "https://genius.com/6659780/Thomas-rusiak-featherweight/Featherweight",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1973203",
+     "client_timestamps": {
+      "updated_by_human_at": 1479256481,
+      "lyrics_updated_at": 1432930244
+     },
+     "context": "Thomas Rusiak",
+     "id": 1973203,
+     "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "link_title": "Featherweight by\u00a0Thomas\u00a0Rusiak",
+     "title": "Featherweight",
+     "type": "Song",
+     "url": "https://genius.com/Thomas-rusiak-featherweight-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6659780",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6659780,
+      "pinned": false,
+      "share_url": "https://genius.com/6659780",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6659780/Thomas-rusiak-featherweight/Featherweight",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Thomas Rusiak",
+   "lyrics": "Featherweight LyricsMy mind's featherweight\nA rush, sort of, a crush, sort of\nThe musk smelling from my neck and blood\nHad injected love\nAccidentally bugged over a higher form\nLike a, rather gently, drug\nLids heavyweight\nInfact, the weight of a tractor\nSoaked in aqua\nBattered from blue vodka\nCall not a doctor but a partner you feel\nYou find it harder to deal with?\nThen visit the hill\nThat's where i meditate\nIn a certain room in the villa\nThe womb that keeps producing\nHad me natrually iller\nThen i accelerate\nHand on the clutch\nI'm planning to touch\nA planet or two\nI feel better with you\nRef:\nFeatherweight i get caught up still on her \u2013 feather weight\nLet's levitate and get caught up still on her featherweight\n\nStarting to radiate\nThe lack the absence\nYou're smelling the insence\nFor instance\nAnd lack of action\nMy brain ain't here\nMy thoughts ain't clear\nThe least violently\nGot lifted while physically drifting\nStart to elevate when thinking of you\nI got thinking to do\nI'm stuck in the rush\nStill the crush's\nStill feeling like illegal pills\nTime to levitate\nOnly my body stays put\nAnd my minds stays hooked\nAnd my heart keeps ducking\nLike the 808 you're feeling\nThe threshold operate\nThe next mode offers a treat;\nTo feel proper\nYou might also likeRef:\nFeatherweight i get caught up still on her \u2013 feather weight\nLet's levitate and get caught up still on her featherweight\n\nMy minds featherweight\nA crush sort of a list\nA natrually floating above type of rush\nA love of such substantially\nStrong form of character i can't focus\nMy eyelids are heavyweight\nInfact i fainted away for a second or two\nI feel willing to play bless you\nAnd your lustful way of weaken me\nI'll sex you the featherweight made me rise above statues\nI meditate in a certain room in the villa\nThe womb that keeps producing had me natrually iller\nThen i accelerate with my hand on the clutch\nTo touch a planet or two or more i feel better than before...\n\nRef:\nFeatherweight i get caught up still on her \u2013 feather weight\nLet's levitate and get caught up still on her featherweightEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1981240",
+   "artist_names": "Thomas Rusiak",
+   "full_title": "Spinning by\u00a0Thomas\u00a0Rusiak",
+   "header_image_thumbnail_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+   "id": 1981240,
+   "language": "en",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Thomas-rusiak-spinning-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Thomas-rusiak-spinning-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Spinning",
+   "title_with_featured": "Spinning",
+   "url": "https://genius.com/Thomas-rusiak-spinning-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/156416",
+    "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+    "id": 156416,
+    "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thomas Rusiak",
+    "url": "https://genius.com/artists/Thomas-rusiak"
+   },
+   "apple_music_id": "376367162",
+   "apple_music_player_url": "https://genius.com/songs/1981240/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1981240' class='rg_embed_link' data-song-id='1981240'>Read <a href='https://genius.com/Thomas-rusiak-spinning-lyrics'>\u201cSpinning\u201d by Thomas\u00a0Rusiak</a> on Genius</div> <script crossorigin src='//genius.com/songs/1981240/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/233289",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "In the Sun by Thomas Rusiak",
+    "id": 233289,
+    "name": "In the Sun",
+    "url": "https://genius.com/albums/Thomas-rusiak/In-the-sun",
+    "artist": {
+     "api_path": "/artists/156416",
+     "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "id": 156416,
+     "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Rusiak",
+     "url": "https://genius.com/artists/Thomas-rusiak"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6668079",
+    "classification": "needs_exegesis",
+    "fragment": "Spinning",
+    "id": 6668079,
+    "is_description": true,
+    "path": "/6668079/Thomas-rusiak-spinning/Spinning",
+    "range": {
+     "content": "Spinning"
+    },
+    "song_id": 1981240,
+    "url": "https://genius.com/6668079/Thomas-rusiak-spinning/Spinning",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1981240",
+     "client_timestamps": {
+      "updated_by_human_at": 1477099380,
+      "lyrics_updated_at": 1432933531
+     },
+     "context": "Thomas Rusiak",
+     "id": 1981240,
+     "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "link_title": "Spinning by\u00a0Thomas\u00a0Rusiak",
+     "title": "Spinning",
+     "type": "Song",
+     "url": "https://genius.com/Thomas-rusiak-spinning-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6668079",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6668079,
+      "pinned": false,
+      "share_url": "https://genius.com/6668079",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6668079/Thomas-rusiak-spinning/Spinning",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Thomas Rusiak",
+   "lyrics": "Spinning LyricsI'm keeping quiet til there's no more sirens\nLately it's hard to keep the hinges on with all the noise\nI'll find my words when there's no one talking\nThe room is spinning, I have got no choice\nBe patient, I am getting to the pointI can't remember when the earth turned slowly\nSo I just waited with the lights turned out again\nI lost my place but I can't stop this story\nI've found my way, but until then I'm only spinningI'm keeping quiet til the phone stops ringing\nLately it's hard to disconnect, I just want something real\nI've found the words if I could just stop thinking\nThe room is spinning, I have got no choice\nBe patient, I am getting to the pointI can't remember when the earth turned slowly\nSo I just waited with the lights turned out again\nI lost my place but I can't stop this story\nI've found my way, but until then\nI'm only spinningSpin beneath the rooftop\nHold on, wait until the room stops\nSpinningI can't remember when the earth turned slowly\nSo I just waited with the lights turned out again\nI lost my place but I can't stop this story\nI've found my way, but in the end we're onlyI keep forgetting when the earth turned slowly\nSo I just waited til the lights come on again\nI lost my place but I can't stop this story\nI've found my way, but until then I'm only spinningSpinning\nSpinningYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 6,
+   "api_path": "/songs/2271975",
+   "artist_names": "Thomas Rusiak",
+   "full_title": "Wrenches by\u00a0Thomas\u00a0Rusiak",
+   "header_image_thumbnail_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+   "id": 2271975,
+   "language": "en",
+   "lyrics_owner_id": 265960,
+   "lyrics_state": "complete",
+   "path": "/Thomas-rusiak-wrenches-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Thomas-rusiak-wrenches-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 5,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Wrenches",
+   "title_with_featured": "Wrenches",
+   "url": "https://genius.com/Thomas-rusiak-wrenches-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/156416",
+    "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+    "id": 156416,
+    "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thomas Rusiak",
+    "url": "https://genius.com/artists/Thomas-rusiak"
+   },
+   "apple_music_id": "1002265429",
+   "apple_music_player_url": "https://genius.com/songs/2271975/apple_music_player",
+   "description": {
+    "plain": "Thomas Rusiak\u2019s comeback solo album after 12 years abstinence was launched with this single."
+   },
+   "embed_content": "<div id='rg_embed_link_2271975' class='rg_embed_link' data-song-id='2271975'>Read <a href='https://genius.com/Thomas-rusiak-wrenches-lyrics'>\u201cWrenches\u201d by Thomas\u00a0Rusiak</a> on Genius</div> <script crossorigin src='//genius.com/songs/2271975/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 265960,
+    "annotator_login": "Neimo",
+    "api_path": "/referents/7494114",
+    "classification": "accepted",
+    "fragment": "Wrenches",
+    "id": 7494114,
+    "is_description": true,
+    "path": "/7494114/Thomas-rusiak-wrenches/Wrenches",
+    "range": {
+     "content": "Wrenches"
+    },
+    "song_id": 2271975,
+    "url": "https://genius.com/7494114/Thomas-rusiak-wrenches/Wrenches",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2271975",
+     "client_timestamps": {
+      "updated_by_human_at": 1439118218,
+      "lyrics_updated_at": 1439118218
+     },
+     "context": "Thomas Rusiak",
+     "id": 2271975,
+     "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "link_title": "Wrenches by\u00a0Thomas\u00a0Rusiak",
+     "title": "Wrenches",
+     "type": "Song",
+     "url": "https://genius.com/Thomas-rusiak-wrenches-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7494114",
+      "body": {
+       "plain": "Thomas Rusiak\u2019s comeback solo album after 12 years abstinence was launched with this single."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7494114,
+      "pinned": false,
+      "share_url": "https://genius.com/7494114",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/7494114/Thomas-rusiak-wrenches/Wrenches",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/265960",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/b1ca92dd2c7bae180bae993259a43b50",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/b1ca92dd2c7bae180bae993259a43b50",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/b1ca92dd2c7bae180bae993259a43b50",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/b1ca92dd2c7bae180bae993259a43b50",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/faUXSMcfTJCCxhrOobT6_GorillaElf-HD.png",
+         "human_readable_role_for_display": "Contributor",
+         "id": 265960,
+         "iq": 747,
+         "login": "Neimo",
+         "name": "Neimo",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Neimo",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Thomas Rusiak",
+   "lyrics": "Wrenches Lyrics[Intro]\n\nYeah\n\n[Verse 1: Thomas Rusiak]\nHard hat on\nWrenches in my pocket\nIt's a calm-like storm\nWe're shooting like rockets\nHe go turntablist\nHe go photographer\nHe go rap star\nSawdust carpenter\nThey go chasing the cars around the city blocks\nTorn-up zipper bags spread around the whiskey shots\nSpeed lover steaming hot\nHome grower breeding pot\nStone thrower creaming rock\n[Hook]\nAnd I remember when we used to get high on a Sunday\nEverything was satin in a purple sky\nBody cranked up, flipping, all fun and play (Hey-ey-ey-eey)\nSo let me just ride it for one more day\nEverything'll be satin in a purple sky (Hey-ey-ey-eey)\n(So let me get high on a Sunday)\n\n[Verse 2: Thomas Rusiak]\nDim-light beacon\nLeading me off\nMDMA's in season\nMaking me soft\nI split a funny stamp with my friend\nStrung and amped, hit again\nThey go rap star\nHyped-up citizen\nWe go chasing kicks\nUp and down the mean streets\nTorn up, dirty rags\nCovering my clean sheets\nCoke lover burning up\nStraight bourbon fills my cup\nFlows on the kicks and rims\nSeroton' kickin' in\nYou might also like[Bridge]\nIf life was a race they would end up second\nCause we would always be there to leave 'em behind\nI know that we can't go on like this for a lifetime (We can't go on and on and on...)\nAnd we can't go on, no\n\n[Hook]\nCause I remember when we used to get high on a Sunday\nEverything was satin in a purple sky\nBody cranked up, flipping, all fun and play (Hey-ey-ey-eey)\nSo let me just ride it for one more day\nEverything'll be satin in a purple sky (Hey-ey-ey-eey)\n\n(Do you remember...?)\n\n[Hook]\nDo you remember when we used to get high on a Sunday?\nEverything was satin in a purple sky\nBody cranked up, flipping, all fun and play (Hey-ey-ey-eey)\nSo let me just ride it for one more day\nEverything'll be satin in a purple sky (Hey-ey-ey-eey)\n\n[Outro]\n(Do you remember...?)\n(Hey-ey-ey-eey)Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2072425",
+   "artist_names": "Thomas Rusiak",
+   "full_title": "Migraine by\u00a0Thomas\u00a0Rusiak",
+   "header_image_thumbnail_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+   "id": 2072425,
+   "language": "en",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Thomas-rusiak-migraine-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Thomas-rusiak-migraine-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Migraine",
+   "title_with_featured": "Migraine",
+   "url": "https://genius.com/Thomas-rusiak-migraine-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/156416",
+    "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+    "id": 156416,
+    "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thomas Rusiak",
+    "url": "https://genius.com/artists/Thomas-rusiak"
+   },
+   "apple_music_id": "376367194",
+   "apple_music_player_url": "https://genius.com/songs/2072425/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2072425' class='rg_embed_link' data-song-id='2072425'>Read <a href='https://genius.com/Thomas-rusiak-migraine-lyrics'>\u201cMigraine\u201d by Thomas\u00a0Rusiak</a> on Genius</div> <script crossorigin src='//genius.com/songs/2072425/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/233289",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "In the Sun by Thomas Rusiak",
+    "id": 233289,
+    "name": "In the Sun",
+    "url": "https://genius.com/albums/Thomas-rusiak/In-the-sun",
+    "artist": {
+     "api_path": "/artists/156416",
+     "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "id": 156416,
+     "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Rusiak",
+     "url": "https://genius.com/artists/Thomas-rusiak"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6812293",
+    "classification": "needs_exegesis",
+    "fragment": "Migraine",
+    "id": 6812293,
+    "is_description": true,
+    "path": "/6812293/Thomas-rusiak-migraine/Migraine",
+    "range": {
+     "content": "Migraine"
+    },
+    "song_id": 2072425,
+    "url": "https://genius.com/6812293/Thomas-rusiak-migraine/Migraine",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2072425",
+     "client_timestamps": {
+      "updated_by_human_at": 1483180350,
+      "lyrics_updated_at": 1433954548
+     },
+     "context": "Thomas Rusiak",
+     "id": 2072425,
+     "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "link_title": "Migraine by\u00a0Thomas\u00a0Rusiak",
+     "title": "Migraine",
+     "type": "Song",
+     "url": "https://genius.com/Thomas-rusiak-migraine-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6812293",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6812293,
+      "pinned": false,
+      "share_url": "https://genius.com/6812293",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6812293/Thomas-rusiak-migraine/Migraine",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=93JXm_N2p-8"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Thomas Rusiak",
+   "lyrics": "Migraine LyricsAm I the only one I know\nWaging my wars behind my face and above my throat\nShadows will scream that I'm aloneI've got a migraine\nAnd my pain will range from up down and sideways\nThank God it's Friday\n'Cause Fridays will always be better than Sundays\n'Cause Sundays are my suicide days\nI don't know why they always seem so dismal\nThunderstorms, cloud, snow, and a slight drizzle\nWhether it's the weather or the letters by my bed\nSometimes death seems better than the migraine in my headLet it be said what the headache represents\nIt's me defending in suspense\nIt's me suspending in a defenseless test\nBeing tested by a ruthless examiner\nThat's represented best by my despress...ing thoughts\nI do not have writer's block\nMy writer just hates the clock\nIt will not let me sleep, I'll get some sleep when I'm dead\nAnd sometimes death seems better than the migraine in my headAm I the only one I know\nWaging my wars behind my face and above my throat\nShadows will scream that I'm alone\nBut I know we've made it this far, kid\nYeah, yeah, yeahI'm not as fine as I seem, pardon\nMe for yelling I'm telling you green gardens\nAre not what's growing in my psyche\nIt's a different me\nA difficult beast feasting on lumbered down trees\nFreeze frame\nPlease let me paint a mental picture portrait\nSomething you won't forget, it's all about my forehead\nAnd it is a door that holds back contents that make. Pandora's box contents' look non-violentBehind my eyelids are islands of violence\nMy mind ship-wrecked, this is the only land my mind could find\nI did not know it was such a violent island\nFull of tidal waves, suicidal crazed lions\nThey're trying to eat me, blood running down their chin\nAnd I know that I can fight it or let the lion win\nI begin to assemble what weapons I can find\n'Cause sometimes to stay alive you gotta kill your mindAm I the only one I know\nWaging my wars behind my face and above my throat\nShadows will scream that I'm alone\nBut I know we've made it this far, kid\nYeah, yeah, yeahAnd I will say that we should take a day to break away from all the pain our brain has made\nThe game is not played alone\nAnd I will say that we should take a moment and hold it\nAnd keep it frozen and know that life has a hopeful undertone\n[Repeat]Am I the only one I know\nWaging my wars behind my face and above my throat\nShadows will scream that I'm alone\nBut I know we've made it this far, kid\nWe've made it this far, we've made it thisYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2179127",
+   "artist_names": "Thomas Rusiak",
+   "full_title": "Hiphopper - Feat. Teddybears Sthlm, Single Edit by\u00a0Thomas\u00a0Rusiak",
+   "header_image_thumbnail_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+   "id": 2179127,
+   "language": "en",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Thomas-rusiak-hiphopper-feat-teddybears-sthlm-single-edit-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Thomas-rusiak-hiphopper-feat-teddybears-sthlm-single-edit-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 0,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Hiphopper - Feat. Teddybears Sthlm, Single Edit",
+   "title_with_featured": "Hiphopper - Feat. Teddybears Sthlm, Single Edit",
+   "url": "https://genius.com/Thomas-rusiak-hiphopper-feat-teddybears-sthlm-single-edit-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/156416",
+    "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+    "id": 156416,
+    "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thomas Rusiak",
+    "url": "https://genius.com/artists/Thomas-rusiak"
+   },
+   "apple_music_id": "1100895367",
+   "apple_music_player_url": "https://genius.com/songs/2179127/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2179127' class='rg_embed_link' data-song-id='2179127'>Read <a href='https://genius.com/Thomas-rusiak-hiphopper-feat-teddybears-sthlm-single-edit-lyrics'>\u201cHiphopper - Feat. Teddybears Sthlm, Single Edit\u201d by Thomas\u00a0Rusiak</a> on Genius</div> <script crossorigin src='//genius.com/songs/2179127/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7323945",
+    "classification": "needs_exegesis",
+    "fragment": "Hiphopper - Feat. Teddybears Sthlm, Single Edit",
+    "id": 7323945,
+    "is_description": true,
+    "path": "/7323945/Thomas-rusiak-hiphopper-feat-teddybears-sthlm-single-edit/Hiphopper-feat-teddybears-sthlm-single-edit",
+    "range": {
+     "content": "Hiphopper - Feat. Teddybears Sthlm, Single Edit"
+    },
+    "song_id": 2179127,
+    "url": "https://genius.com/7323945/Thomas-rusiak-hiphopper-feat-teddybears-sthlm-single-edit/Hiphopper-feat-teddybears-sthlm-single-edit",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2179127",
+     "client_timestamps": {
+      "updated_by_human_at": 1465454709,
+      "lyrics_updated_at": 1465454709
+     },
+     "context": "Thomas Rusiak",
+     "id": 2179127,
+     "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "link_title": "Hiphopper - Feat. Teddybears Sthlm, Single Edit by\u00a0Thomas\u00a0Rusiak",
+     "title": "Hiphopper - Feat. Teddybears Sthlm, Single Edit",
+     "type": "Song",
+     "url": "https://genius.com/Thomas-rusiak-hiphopper-feat-teddybears-sthlm-single-edit-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7323945",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7323945,
+      "pinned": false,
+      "share_url": "https://genius.com/7323945",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7323945/Thomas-rusiak-hiphopper-feat-teddybears-sthlm-single-edit/Hiphopper-feat-teddybears-sthlm-single-edit",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Thomas Rusiak",
+   "lyrics": "Hiphopper - Feat. Teddybears Sthlm, Single Edit LyricsYeah,huh,hah,woop ah,uhuh,woop ah,uhuh,yeah,what\nAh,woop ah,what,woop ah,what,what,what\nWhat,what,ah,yeah,yeah,what,ha ha ha ha what\n\nYou see me driving down the street\nI look so fuckin' good\n(Yeah)\nI'm smokin' weed and doing dirt\n\nIn my Tommy Hilfiger hoodie\n(Ha, yeah, ha, yeah, huh)\nWe're gonna keep talking bullshit about you\nCause nobody be frontin' on me and my crew\n(Me and my crew, what, natural born, what)\nCause I'm a hiphopper, yes, I am\n(Yes, I am, what, yes, I am, huh)\nCause I'm a hiphopper, yes, I am\n(Me and my crew, what, now to move on, what)\n\nYou see me wearing baggy jeans\n(Baggy jeans, huh, baggy jeans, huh)\nAnd my fat Tims stays on my feet\n(On my feet, what, yeah)\n\nI never smile when someone's around\n(Huh, what)\nI'm low key, staying hardcore\n(Hardcore, hardcore, huh)\n\nI'm never listening to anything else\n(Fuck that, fuck that, huh)\nBut the hiphop that ya'll can feel\n(Hiphop, hiphop, huh)\n\nCause I'm a hiphopper, yes, I am\n(Yes, I am, what, yes, I am, huh)\nCause I'm a hiphopper, yes, I am\n(Me and my crew, what, natural born, what)\nCause I'm a hiphopper, yes, I am\n(Yes, I am, huh, yes, I am, what)\nYou might also likeYou see me drivin' down the street\nI look so fuckin' good\n(Me and my crew, what, natural born, what)\n\nYou can keep throwing up, yo, I'm too wack\n(I'm too wack, what, I'm too wack, huh)\nBut I'm still sittin' on the stuff you like\n(No doubt, no doubt, no doubt, what)\n\nCome a bit close for my stuff to share\n(My stuff to share, what, my stuff to share, huh)\nAnd you will suck a cock within a year\n(Huh, What what what what what what yeah)\n\nCause I'm a hiphopper, yes, I am\n(Yes, I am, what, yes, I am, huh)\nCause I'm a hiphopper, yes, I am\n(Me and my crew, what, natural born, what)\nCause I'm a hiphopper, yes, I am\n(Yes, I am, what, yes, I am, huh)\nCause I'm a hiphopper, yes, I am\n(Me and my crew, what, natural born, what)\nCause I'm a hiphopper, yes, I am\n(Yeah, say what, say what, say what)\n(Me and my crew, what,natural born, what)\nMe and my crew, what,natural born, what\n(Yeah, yeah, yeah, yeah)\nWhoo!Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2012808",
+   "artist_names": "Thomas Rusiak",
+   "full_title": "She (feat. masayah) by\u00a0Thomas\u00a0Rusiak",
+   "header_image_thumbnail_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+   "id": 2012808,
+   "language": "en",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Thomas-rusiak-she-feat-masayah-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Thomas-rusiak-she-feat-masayah-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "She (feat. masayah)",
+   "title_with_featured": "She (feat. masayah)",
+   "url": "https://genius.com/Thomas-rusiak-she-feat-masayah-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/156416",
+    "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+    "id": 156416,
+    "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thomas Rusiak",
+    "url": "https://genius.com/artists/Thomas-rusiak"
+   },
+   "apple_music_id": "1100895359",
+   "apple_music_player_url": "https://genius.com/songs/2012808/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2012808' class='rg_embed_link' data-song-id='2012808'>Read <a href='https://genius.com/Thomas-rusiak-she-feat-masayah-lyrics'>\u201cShe (feat. masayah)\u201d by Thomas\u00a0Rusiak</a> on Genius</div> <script crossorigin src='//genius.com/songs/2012808/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/198083",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "Magic Villa by Thomas Rusiak",
+    "id": 198083,
+    "name": "Magic Villa",
+    "url": "https://genius.com/albums/Thomas-rusiak/Magic-villa",
+    "artist": {
+     "api_path": "/artists/156416",
+     "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "id": 156416,
+     "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Rusiak",
+     "url": "https://genius.com/artists/Thomas-rusiak"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6700644",
+    "classification": "needs_exegesis",
+    "fragment": "She (feat. masayah)",
+    "id": 6700644,
+    "is_description": true,
+    "path": "/6700644/Thomas-rusiak-she-feat-masayah/She-feat-masayah",
+    "range": {
+     "content": "She (feat. masayah)"
+    },
+    "song_id": 2012808,
+    "url": "https://genius.com/6700644/Thomas-rusiak-she-feat-masayah/She-feat-masayah",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2012808",
+     "client_timestamps": {
+      "updated_by_human_at": 1481772404,
+      "lyrics_updated_at": 1432946935
+     },
+     "context": "Thomas Rusiak",
+     "id": 2012808,
+     "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "link_title": "She (feat. masayah) by\u00a0Thomas\u00a0Rusiak",
+     "title": "She (feat. masayah)",
+     "type": "Song",
+     "url": "https://genius.com/Thomas-rusiak-she-feat-masayah-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6700644",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6700644,
+      "pinned": false,
+      "share_url": "https://genius.com/6700644",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6700644/Thomas-rusiak-she-feat-masayah/She-feat-masayah",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Thomas Rusiak",
+   "lyrics": "She (feat. masayah) Lyrics- We both seen eachother for over two and a half - something\nBack then, I guess I was (for you) nothing, but nothing\nTwo years younger than you - ment baby...\nYou were hanging with cream, I was hanging with teens\nI saw you and your big guy, having it clean\nNever thougt you were gonna be mine and one day shine\nThat was then, now, 99's reaching...\n\nThe story of She - giving me trouble breathing...\n\nYou were alone, sort of. You and your man\nYou and a plan that, damn, didn't work. Who'd understand?\nYou understood that. You both had plans that hit the fan\nNow you and your man split up. Your head's in the sand\nI got worried when you told me: Homie, you do it for me!\n- I stayed away, though, you were on my mind, only!\nStill kicked back... I couldn't deal with sneaking\nHere's a story of a She - giving me trouble breathing...\n\nChorous\n\nI'm talking bout She with a trouble mind...\nTime's gonna deal with a trouble soul...\nI'm living inside of your high but can't inhale...\nTalking bout He with a troubled mind\nWhen time ain't dealing with a troubled soul...\nI'm living inside of your high but can't inhale\n\n- The fall of last year become december, I remember\nYou did to; stuff ya used to do\nBut you still made me fall flatter than floors\nYou were sad, and I was there for your comfort, of course!\nYou tried to show love but something from above\nKept holding you down but I still hung around\nYou went through all that. I guess I thought about leaving\n\n,but you're the She I'm talkin' about \u2013 giving me trouble breathing\n\n- Sometimes I said that I had things on my mind\nWanted to say things but couldn't find words to put behind\nI admitted that. That was bullshit caus\nI was scared to create a fuzz just by talking about us\nJust talking that crush-thing, I'm thinkin' don't rush things\nI hush things down just to stick around\n- You strong woman with a hell of a past that ain't leaving\nYou might also likeFrustration's a she, giving me trouble breathing\n\nChorous\n\nI'm talking bout She with a trouble mind...\nTime's gonna deal with a trouble soul...\nI'm living inside of your high but can't inhale...\nTalking bout He with a troubled mind\nWhen time ain't dealing with a troubled soul...\nI'm living inside of your high but can't inhale\n\n- It seems like we can't fade, but then again, well\nFirst you went through hell, then I went through hell\nHow're you gonna be having it? Do tell!\nLife inside of a mental cell is still hell!\nOh, well! I need just one of my eyes to see the stars in\nYour eyes, even if you have me crying!\n- You know, you smile when you sleep, hard times even!\nI know I love my little She giving me trouble breathing again!\n\nChorous\n\nI'm talking bout She with a trouble mind...\nTime's gonna deal with a trouble soul...\nI'm living inside of your high but can't inhale...\nTalking bout He with a troubled mind\nWhen time ain't dealing with a troubled soul...\nI'm living inside of your high but can't inhaleEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1640386",
+   "artist_names": "Thomas Rusiak",
+   "full_title": "In the Sun by\u00a0Thomas\u00a0Rusiak",
+   "header_image_thumbnail_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+   "id": 1640386,
+   "language": "en",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Thomas-rusiak-in-the-sun-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Thomas-rusiak-in-the-sun-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "In the Sun",
+   "title_with_featured": "In the Sun",
+   "url": "https://genius.com/Thomas-rusiak-in-the-sun-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/156416",
+    "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+    "id": 156416,
+    "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thomas Rusiak",
+    "url": "https://genius.com/artists/Thomas-rusiak"
+   },
+   "apple_music_id": "376367027",
+   "apple_music_player_url": "https://genius.com/songs/1640386/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1640386' class='rg_embed_link' data-song-id='1640386'>Read <a href='https://genius.com/Thomas-rusiak-in-the-sun-lyrics'>\u201cIn the Sun\u201d by Thomas\u00a0Rusiak</a> on Genius</div> <script crossorigin src='//genius.com/songs/1640386/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/233289",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "In the Sun by Thomas Rusiak",
+    "id": 233289,
+    "name": "In the Sun",
+    "url": "https://genius.com/albums/Thomas-rusiak/In-the-sun",
+    "artist": {
+     "api_path": "/artists/156416",
+     "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "id": 156416,
+     "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Rusiak",
+     "url": "https://genius.com/artists/Thomas-rusiak"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6155272",
+    "classification": "needs_exegesis",
+    "fragment": "In the Sun",
+    "id": 6155272,
+    "is_description": true,
+    "path": "/6155272/Thomas-rusiak-in-the-sun/In-the-sun",
+    "range": {
+     "content": "In the Sun"
+    },
+    "song_id": 1640386,
+    "url": "https://genius.com/6155272/Thomas-rusiak-in-the-sun/In-the-sun",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1640386",
+     "client_timestamps": {
+      "updated_by_human_at": 1476149592,
+      "lyrics_updated_at": 1429901398
+     },
+     "context": "Thomas Rusiak",
+     "id": 1640386,
+     "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "link_title": "In the Sun by\u00a0Thomas\u00a0Rusiak",
+     "title": "In the Sun",
+     "type": "Song",
+     "url": "https://genius.com/Thomas-rusiak-in-the-sun-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6155272",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6155272,
+      "pinned": false,
+      "share_url": "https://genius.com/6155272",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6155272/Thomas-rusiak-in-the-sun/In-the-sun",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Thomas Rusiak",
+   "lyrics": "In the Sun LyricsIn the beginnin', felt winnin'\nHeads turnin' and grinnin'\nWere all up in it in a minute\nWanted me not to bring it admit it\nYou felt terrible, unbearable feelin'\nHad a reliable will\nIn my palm, spirit and breathin'\nEven prefer to get love from\nA rinseable hand\nOr plant seeds in the aorta of\nA cynical man\nWhile you prefer to follow\nYou're both bitter and hollow\nBoth bitter and shallow\nYou find pride too bitter to swallow\nFind yourself on the rug\nShattered and bugged\nA blessin' maybe, add it to your\nFront and not behind or above\nFind a shovel to bury whatever\nHatchet is carried\nI'm playin' in the sun to\nRide out in the cold, real heavy\nMy chrome cat, shinin' on a sunny day\nI keep ridin' on out to set the storm off\nMy chrome cat, shinin' on a rainy day\nI keep firin' up, I feel heavy now\nMy chrome cat, shinin' on a sunny day\nI keep ridin' on out to set the storm off\nMy chrome cat, shinin' on a rainy day\nI'm about to ride out in the cold\nReal heavy\n\nFor love of it all, I stayed out\nIn the cold for a while\nTo go for a mile of bulltalk\nAnd walk with a smile\nI found dirty fingers and arms\nShakin' my hand\nAnd poundin' my back\nFor reasons unknown to a fan\nStill abandoned, alone\nRacin' the tide plannin' fanatically\nWhen flying' with my bride on my side\nRidin' the chrome or steel\nFeel fire and sun\nStarin' the wind in the face\nFlame burnin' my tounge\nI found myself on a dove\nBattered and loved\nA blessin'\nI'm gonna add it to my front, back\nBehind and above\nI dug deep into my veins\nFound nothing to bury\nI'm playin' in the sun to ride out in the\nCold, real heavy\nYou might also likeMy chrome cat, shinin' on a sunny day\nI keep ridin' on out to set the storm off\nMy chrome cat, shinin' on a rainy day\nI keep firin' up, I feel heavy now\nMy chrome cat, shinin' on a sunny day\nI keep ridin' on out to set the storm off\nMy chrome cat, shinin' on a rainy day\nI'm about to ride out in the cold\nReal heavy\n\nFeel my calm again\nDon't try to wreck my brain\n'cause I know that I - gotta get in\nI wanna keep on risin'\nIn the sunEmbed"
+  }
+ ]
+}

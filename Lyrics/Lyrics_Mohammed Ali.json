@@ -1,0 +1,3744 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/39280",
+ "description": {
+  "plain": "Mohammed Ali \u00e4r en svensk hiphop-duo med r\u00f6tter i Flemingsberg s\u00f6der om Stockholm. Duon, som best\u00e5r av Moms (Mohammed Anwar Ryback) och Alias Ruggig (Rawa Farok Mohamed Ali).\n\n2009 sl\u00e4ppte de sin sedermera Manifest-prisade debut, mixtapet Processen, gratis via Whoa.nu och 2011 sl\u00e4ppte de sin f\u00f6rsta \u201criktiga\u201d skiva, Vi, som fick ett varmt mottagande av recensenterna.\n\nP\u00e5 Kingsizegalan 2015 fick de pris f\u00f6r \u00c5rets EP (50 l\u00e4nder)."
+ },
+ "facebook_name": null,
+ "followers_count": 2,
+ "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+ "id": 39280,
+ "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Mohammed Ali",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Mohammed-ali",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3952600,
+  "annotator_login": "kikki_d",
+  "api_path": "/referents/6959417",
+  "classification": "unreviewed",
+  "fragment": "Mohammed Ali",
+  "id": 6959417,
+  "is_description": true,
+  "path": "/6959417/Mohammed-ali/Mohammed-ali",
+  "range": {
+   "content": "Mohammed Ali"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6959417/Mohammed-ali/Mohammed-ali",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/39280",
+   "context": null,
+   "id": 39280,
+   "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+   "link_title": "Mohammed Ali",
+   "title": "Mohammed Ali",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Mohammed-ali"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6959417",
+    "body": {
+     "plain": "Mohammed Ali \u00e4r en svensk hiphop-duo med r\u00f6tter i Flemingsberg s\u00f6der om Stockholm. Duon, som best\u00e5r av Moms (Mohammed Anwar Ryback) och Alias Ruggig (Rawa Farok Mohamed Ali).\n\n2009 sl\u00e4ppte de sin sedermera Manifest-prisade debut, mixtapet Processen, gratis via Whoa.nu och 2011 sl\u00e4ppte de sin f\u00f6rsta \u201criktiga\u201d skiva, Vi, som fick ett varmt mottagande av recensenterna.\n\nP\u00e5 Kingsizegalan 2015 fick de pris f\u00f6r \u00c5rets EP (50 l\u00e4nder)."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 6959417,
+    "pinned": false,
+    "share_url": "https://genius.com/6959417",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/6959417/Mohammed-ali/Mohammed-ali",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3952600",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/1c5b1b0b04d2be447ae9ddaf85418cd6",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/1c5b1b0b04d2be447ae9ddaf85418cd6",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/1c5b1b0b04d2be447ae9ddaf85418cd6",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/1c5b1b0b04d2be447ae9ddaf85418cd6",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/1c5b1b0b04d2be447ae9ddaf85418cd6",
+       "human_readable_role_for_display": null,
+       "id": 3952600,
+       "iq": 246,
+       "login": "kikki_d",
+       "name": "kikki_d",
+       "role_for_display": null,
+       "url": "https://genius.com/kikki_d",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 19,
+   "api_path": "/songs/457114",
+   "artist_names": "Mohammed Ali (Ft. Jacco)",
+   "full_title": "50 l\u00e4nder by\u00a0Mohammed\u00a0Ali (Ft.\u00a0Jacco)",
+   "header_image_thumbnail_url": "https://images.genius.com/f697a484b447b567c9841944088be249.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+   "id": 457114,
+   "language": "sv",
+   "lyrics_owner_id": 990864,
+   "lyrics_state": "complete",
+   "path": "/Mohammed-ali-50-lander-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Mohammed-ali-50-lander-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 6,
+    "day": 13
+   },
+   "release_date_for_display": "June 13, 2014",
+   "release_date_with_abbreviated_month_for_display": "Jun. 13, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f697a484b447b567c9841944088be249.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 9,
+    "iq_earners": 7,
+    "transcribers": 3,
+    "unreviewed_annotations": 17,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 12901
+   },
+   "title": "50 l\u00e4nder",
+   "title_with_featured": "50 l\u00e4nder (Ft.\u00a0Jacco)",
+   "url": "https://genius.com/Mohammed-ali-50-lander-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/46373",
+     "header_image_url": "https://images.genius.com/6035bcb94f8eb01548778d4051ce45b6.320x320x1.jpg",
+     "id": 46373,
+     "image_url": "https://images.genius.com/6035bcb94f8eb01548778d4051ce45b6.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jacco",
+     "url": "https://genius.com/artists/Jacco"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/39280",
+    "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+    "id": 39280,
+    "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mohammed Ali",
+    "url": "https://genius.com/artists/Mohammed-ali"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/457114/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_457114' class='rg_embed_link' data-song-id='457114'>Read <a href='https://genius.com/Mohammed-ali-50-lander-lyrics'>\u201c50 l\u00e4nder\u201d by Mohammed\u00a0Ali</a> on Genius</div> <script crossorigin src='//genius.com/songs/457114/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-06-13",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 990864,
+    "annotator_login": "musse164",
+    "api_path": "/referents/3708837",
+    "classification": "needs_exegesis",
+    "fragment": "50 l\u00e4nder",
+    "id": 3708837,
+    "is_description": true,
+    "path": "/3708837/Mohammed-ali-50-lander/50-lander",
+    "range": {
+     "content": "50 l\u00e4nder"
+    },
+    "song_id": 457114,
+    "url": "https://genius.com/3708837/Mohammed-ali-50-lander/50-lander",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/457114",
+     "client_timestamps": {
+      "updated_by_human_at": 1650933994,
+      "lyrics_updated_at": 1650933997
+     },
+     "context": "Mohammed Ali",
+     "id": 457114,
+     "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+     "link_title": "50 l\u00e4nder by\u00a0Mohammed\u00a0Ali (Ft.\u00a0Jacco)",
+     "title": "50 l\u00e4nder",
+     "type": "Song",
+     "url": "https://genius.com/Mohammed-ali-50-lander-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3708837",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3708837,
+      "pinned": false,
+      "share_url": "https://genius.com/3708837",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3708837/Mohammed-ali-50-lander/50-lander",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/990864",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1669064443",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1669064443",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1669064443",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "human_readable_role_for_display": null,
+         "id": 990864,
+         "iq": 48,
+         "login": "musse164",
+         "name": "musse164",
+         "role_for_display": null,
+         "url": "https://genius.com/musse164",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=bBM9hRho5YM"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/39280",
+     "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+     "id": 39280,
+     "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mohammed Ali",
+     "url": "https://genius.com/artists/Mohammed-ali"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/39280",
+     "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+     "id": 39280,
+     "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mohammed Ali",
+     "url": "https://genius.com/artists/Mohammed-ali"
+    }
+   ],
+   "artist": "Mohammed Ali",
+   "lyrics": "50 l\u00e4nder Lyrics[Intro]\nKalla inte mig f\u00f6r kurd, woriya eller svenne\nJag v\u00e4xte upp med v\u00e4nner ifr\u00e5n 50 l\u00e4nder\nH\u00e4r i Sverige, vi svartskallar, invandrare, utl\u00e4ndsk\nMen i mitt hemland blir jag kallad f\u00f6r svensk(V\u00e4nner ifr\u00e5n 50 l\u00e4nder)\n\n[Vers 1]\nI det nya landet sa dom \"Kolla blatten\"\nBidragstagare, lever p\u00e5 v\u00e5ra skatter\nIngen Volvo, vovve, villa\nFick alltid v\u00e4nta rummet, medans svenneungen och familjen skulle k\u00e4ka middag\nKom med flyktingv\u00e5gen 91, jag sv\u00e4r var ingen l\u00e4tt tid\nS\u00e5 du kan tro mig, jag har sett skit\nF\u00f6ruts\u00e4ttningar \u00e4r inte detsamma, har aldrig varit r\u00e4ttvis\nMen jag m\u00e5ste fr\u00e5ga, finns det fl\u00e4sk i?\nHar v\u00e4rldens vanligaste namn, men du har sv\u00e5rt att uttala det\nVa det Ahmed? Eller Ashmed? Nej Mohammed\nHur sa du det?\nHan \u00e4r \u00e7ok dum, tror Afrika \u00e4r ett land, s\u00e5 j\u00e4vla okunnig\nSegregerad, brorsan aldrig smakat blodpudding\nF\u00f6r m\u00e5nga g\u00e5nger har jag hamnat i kl\u00e4m\nUndra vart jag kommer kalla mitt hem\nDet \u00e4r s\u00e5 det k\u00e4nns\nS\u00e5 h\u00e4r i Sverige vi svartskallar, invandrare, utl\u00e4ndsk\nMen i mitt hemland blir jag kallad f\u00f6r svensk\nS\u00e5n ironi\n[Refr\u00e4ng: Jacco]\nVart \u00e4r jag hemma, n\u00e4r jag blir kallad f\u00f6r fr\u00e4mling i mitt hemland\nVart kommer du ifr\u00e5n? Oh jag hatar den k\u00e4nslan\nAtt det finns ingen plats f\u00f6r mig, n\u00e4r b\u00e5de du och jag vet\nJa vi h\u00f6r hemma, dom kallar oss f\u00f6r\nFr\u00e4mling i v\u00e5rt hemland\nVart kommer ni ifr\u00e5n? \u00c5h, v\u00e5rt dilemma\n\u00c4r att vi har inget svar p\u00e5 det\nF\u00f6r b\u00e5de dom och vi vet\n\n[Vers 2]\nI mitt hemland sa dom kolla p\u00e5 den svennen\nTror sig vara n\u00e5nting med de dollar han kom hem med\nKusiner jag v\u00e4xt upp med, har fan gett upp en\nF\u00f6r dom \u00e4r inte l\u00e4ngre han dom brukade va v\u00e4n med\nOch de st\u00e4mmer bror, men e jag svenne nog?\nF\u00f6r inuti mig v\u00e4xer fr\u00f6n fr\u00e5n v\u00e4rldens alla l\u00e4nder som gror\nS\u00e5 mycket st\u00f6r dom alltid sv\u00e5rt att h\u00e5lla pusten inne\nDet s\u00e4gs att jag inte l\u00e4ngre h\u00e4lsar mer \u00e4n puss p\u00e5 kinden\nOch att jag nu f\u00f6r tiden \u00e4ter ris med kniv och gaffel\nAtt jag beh\u00f6ver papper varje g\u00e5ng jag g\u00e5r p\u00e5 dassen\nH\u00f6rt att han g\u00f6r musik, varf\u00f6r \u00e4r han inte gift \u00e4n?\nVarf\u00f6r kallar han sig muslim om han nu har en flickv\u00e4n? (Ay istaghfurullah)\nS\u00e5 jag tar n\u00e4sta flyg hem, van vid att va i kl\u00e4m\nGhetto barn utan f\u00f6ruts\u00e4ttning att kunna bli svensk (Bli svensk, bli svensk)\nYou might also like[Refr\u00e4ng: Jacco]\nVart \u00e4r jag hemma, n\u00e4r jag blir kallad f\u00f6r fr\u00e4mling i mitt hemland\nVart kommer du ifr\u00e5n? Oh jag hatar den k\u00e4nslan\nAtt det finns ingen plats f\u00f6r mig, n\u00e4r b\u00e5de du och jag vet\nJa vi h\u00f6r hemma, dom kallar oss f\u00f6r fr\u00e4mling i v\u00e5rt hemland\nVart kommer ni ifr\u00e5n? \u00c5h v\u00e5rt dilemma\n\u00c4r att vi har inget svar p\u00e5 det\nF\u00f6r b\u00e5de dom och vi vet\n(Vi vet)\n(F\u00f6r b\u00e5de dom och vi vet)\n(F\u00f6r b\u00e5de dom och vi vet)\n\n[Vers 3]\nEy, vi hade inga blonda page, inga Nick Carters\nHette inte Fredde eller Lars Inga babyface\nVar dem med mustasch i l\u00e5gstadiet\nMed f\u00f6r\u00e4ldrar utan riksdaler, lindrade i bandage fr\u00e5n alla krigsskador\nMen vi leva av pl\u00e5ster och sprang rakt ut p\u00e5 g\u00e5rden\nUtanf\u00f6rskap, vad\u00e5 vi?\nDe som inte hade s\u00e5ren\nEller fatta spr\u00e5ket\nOch dom som inte \u00e5kte till hemlandet och va borta hela sommarlovet\nEy, kalla inte mig f\u00f6r kurd, woriya eller svenne\nJag v\u00e4xte upp med v\u00e4nner ifr\u00e5n 50 l\u00e4nder\nH\u00e4r i Sverige vi svartskallar, invandrare, utl\u00e4ndsk\nMen i mitt hemland blir jag kallad f\u00f6r svensk (V\u00e4nner ifr\u00e5n 50 l\u00e4nder)\n[Refr\u00e4ng: Jacco]\nVart \u00e4r jag hemma, n\u00e4r jag blir kallad f\u00f6r fr\u00e4mling i mitt hemland\nVart kommer du ifr\u00e5n? Oh jag hatar den k\u00e4nslan\nAtt det finns ingen plats f\u00f6r mig, n\u00e4r b\u00e5de du och jag vet\nJa vi h\u00f6r hemma, dom kallar oss f\u00f6r fr\u00e4mling i v\u00e5rt hemland\nVart kommer ni ifr\u00e5n? \u00c5h v\u00e5rt dilemma\n\u00c4r att vi har inget svar p\u00e5 det\nF\u00f6r b\u00e5de dom och vi vet\nYeah, f\u00f6r b\u00e5de dom och vi vet\nF\u00f6r b\u00e5de dom och vi vet2Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2244783",
+   "artist_names": "Mohammed Ali",
+   "full_title": "Vi e familj by\u00a0Mohammed\u00a0Ali",
+   "header_image_thumbnail_url": "https://images.genius.com/f697a484b447b567c9841944088be249.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+   "id": 2244783,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Mohammed-ali-vi-e-familj-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Mohammed-ali-vi-e-familj-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/f697a484b447b567c9841944088be249.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Vi e familj",
+   "title_with_featured": "Vi e familj",
+   "url": "https://genius.com/Mohammed-ali-vi-e-familj-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/39280",
+    "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+    "id": 39280,
+    "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mohammed Ali",
+    "url": "https://genius.com/artists/Mohammed-ali"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2244783/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2244783' class='rg_embed_link' data-song-id='2244783'>Read <a href='https://genius.com/Mohammed-ali-vi-e-familj-lyrics'>\u201cVi e familj\u201d by Mohammed\u00a0Ali</a> on Genius</div> <script crossorigin src='//genius.com/songs/2244783/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7383668",
+    "classification": "needs_exegesis",
+    "fragment": "Vi e familj",
+    "id": 7383668,
+    "is_description": true,
+    "path": "/7383668/Mohammed-ali-vi-e-familj/Vi-e-familj",
+    "range": {
+     "content": "Vi e familj"
+    },
+    "song_id": 2244783,
+    "url": "https://genius.com/7383668/Mohammed-ali-vi-e-familj/Vi-e-familj",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2244783",
+     "client_timestamps": {
+      "updated_by_human_at": 1475333485,
+      "lyrics_updated_at": 1437142081
+     },
+     "context": "Mohammed Ali",
+     "id": 2244783,
+     "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+     "link_title": "Vi e familj by\u00a0Mohammed\u00a0Ali",
+     "title": "Vi e familj",
+     "type": "Song",
+     "url": "https://genius.com/Mohammed-ali-vi-e-familj-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7383668",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7383668,
+      "pinned": false,
+      "share_url": "https://genius.com/7383668",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7383668/Mohammed-ali-vi-e-familj/Vi-e-familj",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=t4Akg_v90DI"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Mohammed Ali",
+   "lyrics": "Vi e familj LyricsDani M\nVi e familj, inget kan \u00e4ndra p\u00e5 de, de e va de e e va de e e\nMohammed Ali\nDr\u00f6mmar om vem man skulle vilja va, gl\u00f6mmer vem man \u00e4r\nDom vill veta vart du ska framf\u00f6r vart man \u00e4r\nSe de l\u00e4tt o gl\u00f6mma de man har n\u00e4r ditt glas \u00e4r alltid halv tomt, n\u00e4r de du har blir de du hade och de \u00e4nda som e v\u00e4rt n\u00e5tt blir en skuld man b\u00e4r p\u00e5\nSv\u00e4var bort bland mina tankar allt f\u00f6r ofta, vet att jag kan ha de sv\u00e5rt o softa med\nSt\u00e4ndig kamp o klockan ingen ser.?\nSkaller?\nO de kaos som jag m\u00e5ste brottas med, slut p\u00e5 krafter hoppar \u00f6ver paus vill alltid orka mer\nDani M\nHar slutat lyssna p\u00e5 mitt ego, jag sk\u00e4ms f\u00f6r alla saker som jag f\u00e5tt er g\u00e5 igenom\nVarit v\u00e4ldigt vilsen, dragit hem polisen, missbrukat, gjort brott, levt olagligt tillst\u00e4nd\nDagen d\u00e5 jag insett, jag lever f\u00f6r de e dom\nL\u00e5t dom slippa huvudv\u00e4rk f\u00f6r gl\u00e4dje jag vill ge dom, lyckas med musiken, tillsammans sk\u00f6rda vinsten, o hoppas p\u00e5 ett l\u00e5ngt liv som jag f\u00e5r dela med dom med min familj\nRefr\u00e4ng\nJag vet att jag har varit fr\u00e5nvarande med allting som jag g\u00f6r, jag g\u00f6r de f\u00f6r er\nVi \u00e4r familj inget kan \u00e4ndra p\u00e5 de de e va de e e va de e e\nJag vet men tro mig jag har fortfarande inte gl\u00f6mt er neheeej vi e familj inget kan \u00e4ndra p\u00e5 de de e va de e e va de e e\nMohammed Ali\nM\u00e5lar upp mig sj\u00e4lv som g\u00f6r en starka men \u00e4ven jag har bra o s\u00e4mre dar men du h\u00e5ller upp mig, s\u00e5 vissa dagar har jag sv\u00e5rt o tacka men k\u00e4nner mig \u00e4nd\u00e5 aldrig svag f\u00f6r du h\u00e5ller upp mig, upp mig och de k\u00e4nns som att ibland s\u00e5 handlar allting om mig\nMen nu vill jag ingenting \u00e4n att finnas d\u00e4r f\u00f6r dig, hade varit ingenting om du inte funnits d\u00e4r f\u00f6r mig, men jag lever med de, jag lever med de, men nu vill jag ingenting \u00e4n att finnas d\u00e4r f\u00f6r dig, hade varit ingenting om du inte funnits d\u00e4r f\u00f6r mig, s\u00e5 jag lever med det\nRefr\u00e4ng\nJag vet att jag har varit fr\u00e5nvarande med allting som jag g\u00f6r, jag g\u00f6r de f\u00f6r er\nVi \u00e4r familj inget kan \u00e4ndra p\u00e5 de de e va de e e va de e e\nJag vet men tro mig jag har fortfarande inte gl\u00f6mt er neheeej vi e familj inget kan \u00e4ndra p\u00e5 de de e va de e e va de e e\nMOMS\nLever ett stressat liv, mammas ledsna min har ingen plats i v\u00e4rlden, abstinensen sk\u00e4r i sj\u00e4len som en v\u00e4ssad kniv du lever destruktivt, droger, billig sprit sl\u00f6sar allt du \u00e4ger, trubbel ens i kalla v\u00e4dret f\u00e5r mig att vilja fly\nTog avst\u00e5nd fr\u00e5n mitt egna k\u00f6tt o blod f\u00f6r jag fick nog av l\u00f6gner pundarryckten ord mot ord som ingen tror, jag dog inombords du \u00e4r \u00e4nd\u00e5 min familj du \u00e4r mitt ansvar, va fanns kvar?\nTomma sms och missat samtal\nI b\u00f6rjan av karri\u00e4ren var du d\u00e4r o trodde p\u00e5 oss nu du intagen sj\u00e4lvmords ben\u00e4gen, gud f\u00f6rl\u00e5t oss\nUpptagen h\u00e4r p\u00e5 scenen upptr\u00e4den kan inte n\u00e5 oss, \u00e5ngesten jag b\u00e4r den v\u00e4ger o l\u00e5ng v\u00e4g o g\u00e5\nMen bara dig sj\u00e4lv kan du ta hand om, va dig sj\u00e4lv o blickar fram\u00e5t de som h\u00e4nt har h\u00e4nt \u00f6nskar dig mycket framg\u00e5ng\nRelationer repareras men blir aldrig som dom va s\u00e5 de \u00e4r va de \u00e4r dagens sanning p\u00e5 varje dag!\nRefr\u00e4ng\nJag vet att jag har varit fr\u00e5nvarande med allting som jag g\u00f6r, jag g\u00f6r de f\u00f6r er\nVi \u00e4r familj inget kan \u00e4ndra p\u00e5 de de e va de e e va de e e\nJag vet men tro mig jag har fortfarande inte gl\u00f6mt er neheeej vi e familj inget kan \u00e4ndra p\u00e5 de de e va de eYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1957440",
+   "artist_names": "Mohammed Ali",
+   "full_title": "Sista resan by\u00a0Mohammed\u00a0Ali",
+   "header_image_thumbnail_url": "https://images.genius.com/f697a484b447b567c9841944088be249.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+   "id": 1957440,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Mohammed-ali-sista-resan-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Mohammed-ali-sista-resan-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/f697a484b447b567c9841944088be249.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Sista resan",
+   "title_with_featured": "Sista resan",
+   "url": "https://genius.com/Mohammed-ali-sista-resan-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/39280",
+    "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+    "id": 39280,
+    "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mohammed Ali",
+    "url": "https://genius.com/artists/Mohammed-ali"
+   },
+   "apple_music_id": "1181422802",
+   "apple_music_player_url": "https://genius.com/songs/1957440/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1957440' class='rg_embed_link' data-song-id='1957440'>Read <a href='https://genius.com/Mohammed-ali-sista-resan-lyrics'>\u201cSista resan\u201d by Mohammed\u00a0Ali</a> on Genius</div> <script crossorigin src='//genius.com/songs/1957440/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6643574",
+    "classification": "needs_exegesis",
+    "fragment": "Sista resan",
+    "id": 6643574,
+    "is_description": true,
+    "path": "/6643574/Mohammed-ali-sista-resan/Sista-resan",
+    "range": {
+     "content": "Sista resan"
+    },
+    "song_id": 1957440,
+    "url": "https://genius.com/6643574/Mohammed-ali-sista-resan/Sista-resan",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1957440",
+     "client_timestamps": {
+      "updated_by_human_at": 1446156304,
+      "lyrics_updated_at": 1432923886
+     },
+     "context": "Mohammed Ali",
+     "id": 1957440,
+     "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+     "link_title": "Sista resan by\u00a0Mohammed\u00a0Ali",
+     "title": "Sista resan",
+     "type": "Song",
+     "url": "https://genius.com/Mohammed-ali-sista-resan-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6643574",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6643574,
+      "pinned": false,
+      "share_url": "https://genius.com/6643574",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6643574/Mohammed-ali-sista-resan/Sista-resan",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Mohammed Ali",
+   "lyrics": "Sista resan LyricsS\u00e4ger hej d\u00e5 till de livet jag levt, \u00e5 du vet jag f\u00e4ller en t\u00e5r, skriver\nMitt brev. Packar min v\u00e4ska, tar ett t\u00e5g eller buss\n\u00c5 jag hoppas p\u00e5 det b\u00e4sta kan vara sv\u00e5rt eller tufft\nHar inte r\u00e5d att g\u00e5 plus\n\u00c5 jag vet du har f\u00e5tt nog att se dig glad. \u00e5 jag tror nog att vi ses nog snart\nMan har beg\u00e5tt s\u00e5 m\u00e5nga misstag, jag ber om f\u00f6rl\u00e5telse\nHoppas du f\u00f6rst\u00e5r mig, jag l\u00e5ter dig va\nLever fast i ett kretslopp, hemskt har inte h\u00e4nt n\u00e5t, k\u00e4nns som man \u00e4r bortgl\u00f6md\nV\u00e4nner har v\u00e4nt bort, kvar i samma sitts\nVarje dag, likadant, \u00e5 vad man har \u00e4r inge nytt man \u00e4r den som inte fick\nS\u00e4ger f\u00f6rl\u00e5t f\u00f6r all skada, vissa gjorde fel\nMan jag k\u00e4nner mina brister, mina fel jag vet\nOm jag visste hur de blev, skulle jag tagit dina r\u00e5d\nJag b\u00f6rjar med att dra h\u00e4rifr\u00e5n, ser hur det g\u00e5r\nK\u00e4nner att den sista resan \u00e4r kvar (Jag ger mig av)\n\u00c5 vill l\u00e4r nog inte ses p\u00e5 ett tag. (Ja du och jag)\nM\u00e5ste dra, m\u00e5ste hitta min plats (Jag t\u00e4nker dra)\nMen m\u00e5ste dra s\u00e5 vi klipper en bank, \u00e5 l\u00e4mnar allt\nK\u00e4nner att den sista resan \u00e4r kvar (Jag ger mig av)\n\u00c5 vill l\u00e4r nog inte ses p\u00e5 ett tag. (Ja du och jag)\nM\u00e5ste dra, m\u00e5ste hitta min plats (Jag t\u00e4nker dra)\nKommer aldrig mera se mig som ni ser mig idag\n\nT\u00e4nkte, jag fyller redan tjugofem i sommar, och det \u00e4r s\u00e5 mycket man ska \u00e5stadkomma\nS\u00e5 m\u00e5nga saker man ska hinna med, s\u00e5 m\u00e5nga planer klyfta mellan mig\nOch v\u00e4nnerna k\u00e4nns enorma\nEn g\u00e5ng i tiden gick v\u00e4garna pararella \u00f6ver varandra, v\u00e4rde s\u00e5 ober\u00f6rda\nFormades av en annan, f\u00f6r nu handlar det inte vad du sj\u00e4lv, vill med ditt liv\nUtan f\u00f6rr vad andra v\u00e4ntar sig och vill att man blir\n\nMycket tid gick f\u00f6rlorat f\u00f6r att jaga en dr\u00f6m\nMedans mitt liv blev slopat eller bara ber\u00f6mt\nMen jag s\u00e5lde allt tydligt, tidigt, vad jag kunde ha blivit, \u00e5 slitigt\nVill inte bli gl\u00f6md, reflekterar \u00f6ver mina val, men dom vill hellre kommentera \u00e4n\nFastdedikera det mitt nederlag, har inga svar, men \u00e4r kvar f\u00f6r jag hamna h\u00e4r\nKunde varit v\u00e4rre om jag valt en annan v\u00e4g\n\nJag vet att jag gjort fel, att jag svek dig, men kan du se mig nu\nS\u00e5 mycket jag b\u00e4rt med mig, jag har rest med, f\u00f6ljer du med mig ut?\nJag vet att jag gjort fel, att jag svek dig, men kan du se mig nu\nS\u00e5 mycket jag b\u00e4rt med mig, jag har rest med, f\u00f6ljer du med mig ut?\nYou might also likeK\u00e4nner att den sista resan \u00e4r kvar (Jag ger mig av)\n\u00c5 vill l\u00e4r nog inte ses p\u00e5 ett tag. (Ja du och jag)\nM\u00e5ste dra, m\u00e5ste hitta min plats (Jag t\u00e4nker dra)\nMen m\u00e5ste dra s\u00e5 vi klipper en bank, \u00e5 l\u00e4mnar allt\nK\u00e4nner att den sista resan \u00e4r kvar (Jag ger mig av)\n\u00c5 vill l\u00e4r nog inte ses p\u00e5 ett tag. (Ja du och jag)\nM\u00e5ste dra, m\u00e5ste hitta min plats (Jag t\u00e4nker dra)\nKommer aldrig mera se mig som ni ser mig idag\n\nSluter \u00f6gonen och vaknar upp, i samma j\u00e4vla rum som de sista 15 \u00e5ren\nSe, mina v\u00e4nner dom har flyttat hemifr\u00e5n, skaffat egen l\u00e4genhet, ja dom har v\u00e4xt ifr\u00e5n de\nOch n\u00e5gra av dom, dom \u00e4r gifta, dom har barn och dom \u00e4r lyckliga, s\u00e5 klart att det \u00e4r det viktigaste\nMedan jag \u00e4n idag \u00e4r den sonen, omgiven av affischer p\u00e5 mina barnens idoler\nJag var pojken i en mans v\u00e4rld, som visste vad han ville, bilderna var p\u00e5, blev kvar i minnen\nJag l\u00e4ste vidare ett tag, k\u00e4nde lusten aldrig fanns d\u00e4r, valde hoppa av, men kommit halv v\u00e4gs\nDe som blev en snabbtf\u00e4rd, n\u00e4sta steg ett heltidsjobb, f\u00f6r i sen i b\u00e4sta fall ta ett l\u00e5n\nK\u00f6pa n\u00e5gra kvadrat s\u00e5 jag och tjejen kan dra till det st\u00e4llet, ett litet plats, som vi kan kalla v\u00e5rt, klart att det inte vart s\u00e5, \u00e4nnu en plan som rann ut i sanden, allt f\u00f6r dr\u00f6mmen som man en g\u00e5ng hade, s\u00e5 n\u00e4r jag steg upp idag, det f\u00f6rsta jag gjorde var att riva ner affischerna fr\u00e5n v\u00e4gen, \u00e5 sa jag till lilla grabben\u2026\n\nK\u00e4nner att den sista resan \u00e4r kvar (Jag ger mig av)\n\u00c5 vill l\u00e4r nog inte ses p\u00e5 ett tag. (Ja du och jag)\nM\u00e5ste dra, m\u00e5ste hitta min plats (Jag t\u00e4nker dra)\nMen m\u00e5ste dra s\u00e5 vi klipper en bank, \u00e5 l\u00e4mnar allt\nK\u00e4nner att den sista resan \u00e4r kvar (Jag ger mig av)\n\u00c5 vill l\u00e4r nog inte ses p\u00e5 ett tag. (Ja du och jag)\nM\u00e5ste dra, m\u00e5ste hitta min plats (Jag t\u00e4nker dra)\nKommer aldrig mera se mig som ni ser mig idagEmbed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/2347877",
+   "artist_names": "Mohammed Ali",
+   "full_title": "Biografi by\u00a0Mohammed\u00a0Ali",
+   "header_image_thumbnail_url": "https://images.genius.com/f697a484b447b567c9841944088be249.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+   "id": 2347877,
+   "language": "sv",
+   "lyrics_owner_id": 1318705,
+   "lyrics_state": "complete",
+   "path": "/Mohammed-ali-biografi-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Mohammed-ali-biografi-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/f697a484b447b567c9841944088be249.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Biografi",
+   "title_with_featured": "Biografi",
+   "url": "https://genius.com/Mohammed-ali-biografi-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/39280",
+    "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+    "id": 39280,
+    "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mohammed Ali",
+    "url": "https://genius.com/artists/Mohammed-ali"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2347877/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2347877' class='rg_embed_link' data-song-id='2347877'>Read <a href='https://genius.com/Mohammed-ali-biografi-lyrics'>\u201cBiografi\u201d by Mohammed\u00a0Ali</a> on Genius</div> <script crossorigin src='//genius.com/songs/2347877/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1318705,
+    "annotator_login": "Shababs",
+    "api_path": "/referents/8111778",
+    "classification": "needs_exegesis",
+    "fragment": "Biografi",
+    "id": 8111778,
+    "is_description": true,
+    "path": "/8111778/Mohammed-ali-biografi/Biografi",
+    "range": {
+     "content": "Biografi"
+    },
+    "song_id": 2347877,
+    "url": "https://genius.com/8111778/Mohammed-ali-biografi/Biografi",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2347877",
+     "client_timestamps": {
+      "updated_by_human_at": 1449409747,
+      "lyrics_updated_at": 1449409747
+     },
+     "context": "Mohammed Ali",
+     "id": 2347877,
+     "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+     "link_title": "Biografi by\u00a0Mohammed\u00a0Ali",
+     "title": "Biografi",
+     "type": "Song",
+     "url": "https://genius.com/Mohammed-ali-biografi-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8111778",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8111778,
+      "pinned": false,
+      "share_url": "https://genius.com/8111778",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8111778/Mohammed-ali-biografi/Biografi",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1318705",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/3653ba96f911bf6ee057c289512bb8d2",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/3653ba96f911bf6ee057c289512bb8d2",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/3653ba96f911bf6ee057c289512bb8d2",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/3653ba96f911bf6ee057c289512bb8d2",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/3653ba96f911bf6ee057c289512bb8d2",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1318705,
+         "iq": 690,
+         "login": "Shababs",
+         "name": "Shababs",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Shababs",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=9vGLAlqglKU"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Mohammed Ali",
+   "lyrics": "Biografi LyricsRefr\u00e4ng/Intro:\nJag l\u00e4ser inte Strindberg, jag l\u00e4ser inte Astrid\nMen ikv\u00e4ll vill jag l\u00e4sa din biografi\nL\u00e4sa din biografi, hey hey!\nJag brukar inte l\u00e4sa Selma och klassikerna du har hemma\nMen ikv\u00e4ll vill jag l\u00e4sa din biografi\nL\u00e4sa din biografi, hey hey!\n\nJag l\u00e4ser inte Strindberg, jag l\u00e4ser inte Astrid\nMen ikv\u00e4ll vill jag l\u00e4sa din biografi\nL\u00e4sa din biografi, hey hey!\nJag brukar inte l\u00e4sa Selma och klassikerna du har hemma\nMen ikv\u00e4ll vill jag l\u00e4sa din biografi\nL\u00e4sa din biografi, hey hey!\nAli:\nJao!\n\u00c4r inte mer \u00e4n en produkt av min milj\u00f6\nDet s\u00e4ttet som vi v\u00e4xer upp, jag funkar som jag g\u00f6r\nMen sv\u00e4r jag saknar stimulans\nBer om urs\u00e4kt f\u00f6r min ignorans, n\u00e5tt jag vill men inte kan\nHar alltid f\u00f6rst\u00e5r dig\nDom g\u00e5nger du f\u00f6rs\u00f6kte n\u00e5 mig, k\u00e4nns som att det slutar men du glider l\u00e4ngre bort ifr\u00e5n mig\nBarn utav v\u00e5r tid, \u00e4r inte van att t\u00e4nka\nHar aldrig vart n\u00e5got geni, vi h\u00e5ller svaren enkla\nSkr\u00e4pmat, snabb information, snabba rus\nIn och ut, ingen passion\nDet som var nytt ig\u00e5r \u00e4r gammalt nu\nAllting ba dog, k\u00e4nns som det \u00e4r standard nu\nMen inte du, har alltid vart cool\nOch jag \u00e4r beredd att g\u00e5 tillbaks till b\u00e4nken, l\u00e4ra mig \u00e4nnu ett jag \u00e4r s\u00e4mst p\u00e5\nPlugga Svenska 2 n\u00e5gra \u00e5r, ta CSN l\u00e5n\n\u00c4ven om jag sk\u00e4ms s\u00e5, \u00e4ven om det \u00e4r fett sv\u00e5rt\nK\u00e4nner att det \u00e4r v\u00e4rt det, vill f\u00f6rst\u00e5 dig som mitt hemspr\u00e5k, ha!\n\nRefr\u00e4ng:\nJag l\u00e4ser inte Strindberg, jag l\u00e4ser inte Astrid\nMen ikv\u00e4ll vill jag l\u00e4sa din biografi\nL\u00e4sa din biografi, hey hey!\nJag brukar inte l\u00e4sa Selma och klassikerna du har hemma\nMen ikv\u00e4ll vill jag l\u00e4sa din biografi\nL\u00e4sa din biografi, hey hey!\nYou might also likeMohammed:\nUh!\nDet som att \u00f6det log!\nEn smak av v\u00e4nner gav en \u00f6verdos\nK\u00e4nns som om mitt hj\u00e4rta pl\u00f6tsligt stanna, skrek till v\u00e4nnen tror det e \u00f6ver bror\nSignalen mellan raderna, l\u00e4ser mig som en \u00f6ppen bok\nS\u00e5 l\u00e4nge jag fattar ditt kroppspr\u00e5k\nOavsett det oss tv\u00e5\nC'est la vie, c'est la vie\nInget lyckligt slut, bara p\u00e5 b\u00f6cker, det s\u00e4llan vi\nS\u00e5 l\u00e5t mig v\u00e4nda blad\nJag vill veta din historia, baby vi l\u00e4ser klart\nNu kan jag s\u00e5 mycket, hann jag f\u00f6rst\u00e5 din repertoar\nVi gick fr\u00e5n korta intervjuer ner till djupa reportage\nJag kan varenda mening och fras\nVarenda uttryck, djupt dykt in i din sj\u00e4l\nEn inre utflykt\nGoda med det d\u00e5liga, skiter vad andra tycker\nVi b\u00f6rjar med en artikel, nu vi skriver v\u00e5rt kapitel, uh!\n\nRefr\u00e4ng:\nJag l\u00e4ser inte Strindberg, jag l\u00e4ser inte Astrid\nMen ikv\u00e4ll vill jag l\u00e4sa din biografi\nL\u00e4sa din biografi, hey hey!\nJag brukar inte l\u00e4sa Selma och klassikerna du har hemma\nMen ikv\u00e4ll vill jag l\u00e4sa din biografi\nL\u00e4sa din biografi, hey hey!\nJag vill veta att n\u00e4r (?) tar slut\nG\u00f6r du det?\nJag vill l\u00e4sa mellan raderna, f\u00f6r du\nF\u00f6r du \u00e4r, mer \u00e4n vad du visar\nJag d\u00f6mer inte boken f\u00f6r omslag\nJag vill se vad som finns inuti dig\nJag vill se vad som finns inuti dig\n\nRefr\u00e4ng:\nJag l\u00e4ser inte Strindberg, jag l\u00e4ser inte Astrid\nMen ikv\u00e4ll vill jag l\u00e4sa din biografi\nL\u00e4sa din biografi, hey hey!\nJag brukar inte l\u00e4sa Selma och klassikerna du har hemma\nMen ikv\u00e4ll vill jag l\u00e4sa din biografi\nL\u00e4sa din biografi, hey hey!Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/120808",
+   "artist_names": "Mohammed Ali",
+   "full_title": "Postkodsmiljon\u00e4r by\u00a0Mohammed\u00a0Ali",
+   "header_image_thumbnail_url": "https://images.genius.com/5291894e01c0e21c947c36a40ae11ee8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/5291894e01c0e21c947c36a40ae11ee8.640x640x1.jpg",
+   "id": 120808,
+   "language": "sv",
+   "lyrics_owner_id": 149650,
+   "lyrics_state": "complete",
+   "path": "/Mohammed-ali-postkodsmiljonar-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Mohammed-ali-postkodsmiljonar-sample",
+   "release_date_components": {
+    "year": 2011,
+    "month": 4,
+    "day": 13
+   },
+   "release_date_for_display": "April 13, 2011",
+   "release_date_with_abbreviated_month_for_display": "Apr. 13, 2011",
+   "song_art_image_thumbnail_url": "https://images.genius.com/5291894e01c0e21c947c36a40ae11ee8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5291894e01c0e21c947c36a40ae11ee8.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 4,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Postkodsmiljon\u00e4r",
+   "title_with_featured": "Postkodsmiljon\u00e4r",
+   "url": "https://genius.com/Mohammed-ali-postkodsmiljonar-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/39280",
+    "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+    "id": 39280,
+    "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mohammed Ali",
+    "url": "https://genius.com/artists/Mohammed-ali"
+   },
+   "apple_music_id": "1181422789",
+   "apple_music_player_url": "https://genius.com/songs/120808/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_120808' class='rg_embed_link' data-song-id='120808'>Read <a href='https://genius.com/Mohammed-ali-postkodsmiljonar-lyrics'>\u201cPostkodsmiljon\u00e4r\u201d by Mohammed\u00a0Ali</a> on Genius</div> <script crossorigin src='//genius.com/songs/120808/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2011-04-13",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/28901",
+    "cover_art_url": "https://images.genius.com/5291894e01c0e21c947c36a40ae11ee8.640x640x1.jpg",
+    "full_title": "Vi by Mohammed Ali",
+    "id": 28901,
+    "name": "Vi",
+    "url": "https://genius.com/albums/Mohammed-ali/Vi",
+    "artist": {
+     "api_path": "/artists/39280",
+     "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+     "id": 39280,
+     "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mohammed Ali",
+     "url": "https://genius.com/artists/Mohammed-ali"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 149650,
+    "annotator_login": "boolin",
+    "api_path": "/referents/3732597",
+    "classification": "needs_exegesis",
+    "fragment": "Postkodsmiljon\u00e4r",
+    "id": 3732597,
+    "is_description": true,
+    "path": "/3732597/Mohammed-ali-postkodsmiljonar/Postkodsmiljonar",
+    "range": {
+     "content": "Postkodsmiljon\u00e4r"
+    },
+    "song_id": 120808,
+    "url": "https://genius.com/3732597/Mohammed-ali-postkodsmiljonar/Postkodsmiljonar",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/120808",
+     "client_timestamps": {
+      "updated_by_human_at": 1626460775,
+      "lyrics_updated_at": 1463583242
+     },
+     "context": "Mohammed Ali",
+     "id": 120808,
+     "image_url": "https://images.genius.com/5291894e01c0e21c947c36a40ae11ee8.640x640x1.jpg",
+     "link_title": "Postkodsmiljon\u00e4r by\u00a0Mohammed\u00a0Ali",
+     "title": "Postkodsmiljon\u00e4r",
+     "type": "Song",
+     "url": "https://genius.com/Mohammed-ali-postkodsmiljonar-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3732597",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3732597,
+      "pinned": false,
+      "share_url": "https://genius.com/3732597",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3732597/Mohammed-ali-postkodsmiljonar/Postkodsmiljonar",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/149650",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/ad190fca65cca7eed60e581a81706753",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/ad190fca65cca7eed60e581a81706753",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/ad190fca65cca7eed60e581a81706753",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/ad190fca65cca7eed60e581a81706753",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/ad190fca65cca7eed60e581a81706753",
+         "human_readable_role_for_display": "Contributor",
+         "id": 149650,
+         "iq": 124432,
+         "login": "boolin",
+         "name": "\u00adboolin",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/boolin",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:7c2BaAlcBawtvLCx5rv1Wr",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/7c2BaAlcBawtvLCx5rv1Wr"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=9I7pMxI0jTQ"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/36309",
+     "header_image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "id": 36309,
+     "image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Masse",
+     "url": "https://genius.com/artists/Masse"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Mohammed Ali",
+   "lyrics": "Postkodsmiljon\u00e4r Lyrics[Verse 1: Mohammed]\nEy, yo f\u00f6rs\u00f6ker fixa para f\u00f6r dagen hans mage kurrar s\u00e5\nB\u00f6rja undra d\u00e5 men fortsatte \u00e5 rulla p\u00e5\nBl\u00e5 gubbar muddrar unga men dom tunga undang\u00e5r\nFinner buggar i systemet, problemet jag b\u00f6rjar f\u00e5\nL\u00e4rde mig att hustla fr\u00e5n tidig morgon \u2013 hustla\nFr\u00e5n sena kv\u00e4llar i k\u00e4llarn dom s\u00e5g mig alltid \u2013 hustla\nF\u00f6r storebrodern gjorde det och om du inte tror p\u00e5 det\nS\u00e5 gjorde \u00e4ven lillebrodern det vi alla hustla\nHey, jag har en g\u00e5va h\u00e4r, jag \u00e4r en s\u00e5dan sj\u00e4l\nJag har en l\u00e5ga h\u00e4r ser du d\u00e5 f\u00f6rm\u00e5gan h\u00e4r?\nJag t\u00e4nker dra om du inte ger mig n\u00e5got sk\u00e4l\nMen ha det bra men jag hoppas att ni f\u00e5r det h\u00e4r\nH\u00e4r f\u00f6r h\u00e4r g\u00e4ller det att skaffa jobb\nF\u00f6r om du inte skaffar n\u00e5tt kanske b\u00e4st att hustla p\u00e5 (p\u00e5)\nJa du fattar vad jag menar l\u00e5t oss haffa dessa sedlar brorsan hey (hey)\n[Hook: Mohammed & Ali]\nF\u00f6r jag \u00e4r ingen postkodsmiljon\u00e4r\nFr\u00e5n postkoden d\u00e4r postr\u00e5n \u00e4r ett alternativ\nF\u00f6r att bli miljon\u00e4r, miljon\u00e4r, miljon\u00e4r\nSkaffa dig en penna \u00e5 skriv\n\nF\u00f6r jag \u00e4r ingen postkodsmiljon\u00e4r\nFr\u00e5n postkoden d\u00e4r postr\u00e5n \u00e4r ett alternativ\nF\u00f6r att bli miljon\u00e4r, miljon\u00e4r, miljon\u00e4r\nSkaffa dig en penna \u00e5 skriv\n\n\u00c5 jag lovar \u00e5 sv\u00e4r att n\u00e5n dag n\u00e5n kommer veta vem jag \u00e4r\nN\u00e5n sa till mig jag kommer aldrig n\u00e5nsin kunna bli n\u00e5tt\nKolla p\u00e5 mig nu bror min mamma hon \u00e4r skit stolt\n\n\u00c5 jag lovar \u00e5 sv\u00e4r att n\u00e5n dag n\u00e5n kommer veta vem jag \u00e4r\nN\u00e5n sa till mig jag kommer aldrig n\u00e5nsin kunna bli n\u00e5tt\nKolla p\u00e5 mig nu bror min mamma hon \u00e4r skit stolt\n\n[Verse 2: Ali]\n\u00c4r ifr\u00e5n sidan av stan d\u00e4r gr\u00e4set inte \u00e4r gr\u00f6nt\nD\u00e4r gr\u00e4set g\u00f6r dig h\u00f6g\nDom \u00e4ldre visar v\u00e4gen s\u00e5 du l\u00e4r dig som du b\u00f6r\nTa sm\u00e4llen om det kr\u00e4ver \u00e5 det \u00e4r \u00e4ven om du d\u00f6r\nSom du s\u00e4kert h\u00f6rt\nMen jag var smartare \u00e4n s\u00e5, profilen var tillbaka\n\u00c5 l\u00e5t skapar d\u00e5 m\u00e5l jag nu snart b\u00f6rjar n\u00e5\nP\u00e5 den tiden d\u00e5 n\u00e4r tjejer hade vita tights \u00e5 svara string\nJag var killarna med fila, nike \u00e5 falska bling\nBra med rimmen det skapa lite hype omkring tighta rim\nStilen den var nice s\u00e5 dom bajta min\nN\u00e5gra f\u00f6ll av scenen s\u00e5 dom br\u00f6t benet\nNu ser dom oss p\u00e5 l\u00f6psedeln klart d\u00e5 vill dom skina fort\nB\u00f6rjar glida stort rena fantasin svepa visa kort\nB\u00f6rja leva p\u00e5 kredit, sn\u00e4lla k\u00f6p cd:n\nInget proffs p\u00e5 det, d\u00e5 blir postr\u00e5n ett alternativ f\u00f6r \u00e5 bli rik\nYou might also like[Hook: Mohammed & Ali]\nF\u00f6r jag \u00e4r ingen postkodsmiljon\u00e4r\nFr\u00e5n postkoden d\u00e4r postr\u00e5n \u00e4r ett alternativ\nF\u00f6r att bli miljon\u00e4r, miljon\u00e4r, miljon\u00e4r\nSkaffa dig en penna \u00e5 skriv\n\n[Verse 3: Mohammed & Ali]\nDirekt till fas2, vad som kvarst\u00e5r\nAtt bevisa vad du kan m\u00e5ste va p\u00e5\nJag vill visa min talang n\u00e5tt ja e bra p\u00e5\nAvst\u00e5, om du inte kan du kan avg\u00e5\nF\u00f6dd till en emcee p\u00e5 vems beat jag slaktar\nS\u00e4g mig vem \u00e4r vassast och vems stil du baxar\nJag gav mitt liv f\u00f6r sliten \u00e5 livl\u00f6s, evig\nH\u00f6r att varje mening blir tidl\u00f6s\nDet \u00e4r l\u00e4tt att k\u00e4nna av det man blir pengagalen\nKriminella banan v\u00e4ntar oss som s\u00e4llan har det\nDom skiter i konsekvenser agrenser\nJagar pengar snabbt utan \u00e4nglavakt\nDagsl\u00f6ner inkasseras in p\u00e5 en enda kvart\nHan siktar p\u00e5 siffror med sex nollor efter\nFifflar sin business han lever nu\nMohammed Ali med ett O inte U jag signerar ut\n\n[Hook: Mohammed & Ali]\nF\u00f6r jag \u00e4r ingen postkodsmiljon\u00e4r\nFr\u00e5n postkoden d\u00e4r postr\u00e5n \u00e4r ett alternativ\nF\u00f6r att bli miljon\u00e4r, miljon\u00e4r, miljon\u00e4r\nSkaffa dig en penna \u00e5 skrivEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2068686",
+   "artist_names": "Mohammed Ali",
+   "full_title": "Inshallah by\u00a0Mohammed\u00a0Ali",
+   "header_image_thumbnail_url": "https://images.genius.com/f697a484b447b567c9841944088be249.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+   "id": 2068686,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Mohammed-ali-inshallah-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Mohammed-ali-inshallah-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/f697a484b447b567c9841944088be249.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Inshallah",
+   "title_with_featured": "Inshallah",
+   "url": "https://genius.com/Mohammed-ali-inshallah-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/39280",
+    "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+    "id": 39280,
+    "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mohammed Ali",
+    "url": "https://genius.com/artists/Mohammed-ali"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2068686/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2068686' class='rg_embed_link' data-song-id='2068686'>Read <a href='https://genius.com/Mohammed-ali-inshallah-lyrics'>\u201cInshallah\u201d by Mohammed\u00a0Ali</a> on Genius</div> <script crossorigin src='//genius.com/songs/2068686/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6808511",
+    "classification": "needs_exegesis",
+    "fragment": "Inshallah",
+    "id": 6808511,
+    "is_description": true,
+    "path": "/6808511/Mohammed-ali-inshallah/Inshallah",
+    "range": {
+     "content": "Inshallah"
+    },
+    "song_id": 2068686,
+    "url": "https://genius.com/6808511/Mohammed-ali-inshallah/Inshallah",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2068686",
+     "client_timestamps": {
+      "updated_by_human_at": 1626460832,
+      "lyrics_updated_at": 1433953853
+     },
+     "context": "Mohammed Ali",
+     "id": 2068686,
+     "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+     "link_title": "Inshallah by\u00a0Mohammed\u00a0Ali",
+     "title": "Inshallah",
+     "type": "Song",
+     "url": "https://genius.com/Mohammed-ali-inshallah-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6808511",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6808511,
+      "pinned": false,
+      "share_url": "https://genius.com/6808511",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6808511/Mohammed-ali-inshallah/Inshallah",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Mohammed Ali",
+   "lyrics": "Inshallah LyricsF\u00f6r vi hoppas p\u00e5 det b\u00e4sta inshallah?? Inshallah\nJag kan inte g\u00f6ra n\u00e5got \u00e5t det inshallah\nMen jag hoppas gud kan g\u00f6ra n\u00e5got \u00e5t det inshallah la la la\nSer du vad som h\u00e4nder n\u00e4r du v\u00e4nder mot en broder?\nHugger med sina t\u00e4nder, nu dem v\u00e4nder sig emot mig\nOrden \u00e4r i v\u00e4nda nu dem v\u00e4nder sig emot dig\nVad som \u00e4n h\u00e4nder, lek inte att du tror mig, tro mig, slog mig men jag dog ej\nK\u00e4nner mig s\u00e5 hj\u00e4rtl\u00f6s, typ som misst\u00e4nkt syndabock men jag ger aldrig upp. Nej jag ger aldrig upp\nVisar aldrig k\u00e4nslor jag ger aldrig luft\nN\u00e4stan en millitid, tio procent, vill inte veta av min exstitens\nDe vi mot dem, de vi mot dem, de mine kamp, deras ledare, han blir snart v\u00e5ran exilens\nDe ba dra, ingenstans o g\u00e5, ingenstans o fly, ingen bryr sig hur du m\u00e5r, ut i v\u00e4rlden \u00e4r det knas, l\u00e4nder st\u00e5r i krig, fyra \u00e5r till, dem s\u00e4ger fyra \u00e5r till, o vem jag \u00e4r, vad jag g\u00f6r, vad som driver mig fram, hur jag \u00e4r som person, ambition, min passion, det r\u00e4cker inte till, dem s\u00e4ger dra...\n()\nF\u00f6r vi hoppas p\u00e5 det b\u00e4sta inshallah?? Inshallah\nJag kan inte g\u00f6ra n\u00e5got \u00e5t det inshallah\nMen jag hoppas gud kan g\u00f6ra n\u00e5got \u00e5t det inshallah la la la\nLa la la la\nLa la la la\nLa la la la\nFan \u00e4r melodi om den r\u00e5kar br\u00e4nnas, br\u00e4nnas\nFan \u00e4r n\u00e5gra misstag som inte kan f\u00f6r\u00e4ndras. f\u00f6r\u00e4ndras\nFan \u00e4r mina kinder till och \u00e4nd\u00e5 alltid h\u00e4mnas, h\u00e4mnas\nFan \u00e4r n\u00e5gra j\u00e4vla hits som inte r\u00e5kar k\u00e4nnas, k\u00e4nnas\nS\u00e4g mig, vi d\u00f6r f\u00f6r orten, \u00e4r det n\u00e5gonting v\u00e4rt?\nEy? Nej, nej\nMen har orten n\u00e5gonsin gjort dig v\u00e4l?\nEy\nJag s\u00e4ger na na na na na na\nEy men inshallah la la\nLivet har st\u00f6rre planer for mig, para finns men inte d\u00e4r vi bor\nEy, nej nej\nK\u00e4rlek finns men inte d\u00e4r du tror, ey nej nej\nOm det du k\u00e4nner ger dig sinnesro, ey de coolt\nTusen v\u00e4nner \u00e4nd\u00e5 tom inombords\nMin bror, jag s\u00e4ger...\n()\nF\u00f6r vi hoppas p\u00e5 det b\u00e4sta inshallah?? Inshallah\nJag kan inte g\u00f6ra n\u00e5got \u00e5t det inshallah\nMen jag hoppas gud kan g\u00f6ra n\u00e5got \u00e5t det inshallah la la la la la la la la la la la la la la la la la la la la la la la la la la laaaa\nEyo, finns ingen k\u00e4rlek kvar, dem vill l\u00e4gga oss kvar\nDu vet att hat f\u00f6re hat jao\nEller finns ingen k\u00e4rlek kvar, jag ber dig l\u00e5t mig va\nDu vet att hat f\u00f6re hat jao\nEller finns ingen k\u00e4rlek kvar, dem vill l\u00e4gga oss kvar\nDu vet att hat f\u00f6re hat jao\nEller finns ingen k\u00e4rlek kvar, jag ber dig l\u00e5t mig va\nDu vet att hat f\u00f6re hat jao\n()\nF\u00f6r vi hoppas p\u00e5 det b\u00e4sta inshallah?? Inshallah\nJag kan inte g\u00f6ra n\u00e5got \u00e5t det inshallah\nMen jag hoppas gud kan g\u00f6ra n\u00e5got \u00e5t det inshallah la la la la...You might also likeEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2908534",
+   "artist_names": "Mohammed Ali (Ft. AKI & Sabina Ddumba)",
+   "full_title": "Rapstj\u00e4rna by\u00a0Mohammed\u00a0Ali (Ft.\u00a0AKI & Sabina\u00a0Ddumba)",
+   "header_image_thumbnail_url": "https://images.genius.com/f697a484b447b567c9841944088be249.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+   "id": 2908534,
+   "language": "sv",
+   "lyrics_owner_id": 3952600,
+   "lyrics_state": "complete",
+   "path": "/Mohammed-ali-rapstjarna-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Mohammed-ali-rapstjarna-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 11,
+    "day": 26
+   },
+   "release_date_for_display": "November 26, 2013",
+   "release_date_with_abbreviated_month_for_display": "Nov. 26, 2013",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f697a484b447b567c9841944088be249.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Rapstj\u00e4rna",
+   "title_with_featured": "Rapstj\u00e4rna (Ft.\u00a0AKI & Sabina\u00a0Ddumba)",
+   "url": "https://genius.com/Mohammed-ali-rapstjarna-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/201922",
+     "header_image_url": "https://images.genius.com/07216d42de274cefc05e1ce7f6a7f935.1000x499x1.jpg",
+     "id": 201922,
+     "image_url": "https://images.genius.com/00f75cc13aff5ac3347faf190d16a779.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sabina Ddumba",
+     "url": "https://genius.com/artists/Sabina-ddumba"
+    },
+    {
+     "api_path": "/artists/36959",
+     "header_image_url": "https://images.genius.com/a8aa5882acbaddf0c3edb83f7e34ffe2.1000x1000x1.jpg",
+     "id": 36959,
+     "image_url": "https://images.genius.com/a8aa5882acbaddf0c3edb83f7e34ffe2.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "AKI",
+     "url": "https://genius.com/artists/Aki"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/39280",
+    "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+    "id": 39280,
+    "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mohammed Ali",
+    "url": "https://genius.com/artists/Mohammed-ali"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2908534/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2908534' class='rg_embed_link' data-song-id='2908534'>Read <a href='https://genius.com/Mohammed-ali-rapstjarna-lyrics'>\u201cRapstj\u00e4rna\u201d by Mohammed\u00a0Ali</a> on Genius</div> <script crossorigin src='//genius.com/songs/2908534/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-11-26",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3952600,
+    "annotator_login": "kikki_d",
+    "api_path": "/referents/10840223",
+    "classification": "needs_exegesis",
+    "fragment": "Rapstj\u00e4rna",
+    "id": 10840223,
+    "is_description": true,
+    "path": "/10840223/Mohammed-ali-rapstjarna/Rapstjarna",
+    "range": {
+     "content": "Rapstj\u00e4rna"
+    },
+    "song_id": 2908534,
+    "url": "https://genius.com/10840223/Mohammed-ali-rapstjarna/Rapstjarna",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2908534",
+     "client_timestamps": {
+      "updated_by_human_at": 1626460808,
+      "lyrics_updated_at": 1479166554
+     },
+     "context": "Mohammed Ali",
+     "id": 2908534,
+     "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+     "link_title": "Rapstj\u00e4rna by\u00a0Mohammed\u00a0Ali (Ft.\u00a0AKI & Sabina\u00a0Ddumba)",
+     "title": "Rapstj\u00e4rna",
+     "type": "Song",
+     "url": "https://genius.com/Mohammed-ali-rapstjarna-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10840223",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10840223,
+      "pinned": false,
+      "share_url": "https://genius.com/10840223",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10840223/Mohammed-ali-rapstjarna/Rapstjarna",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3952600",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/1c5b1b0b04d2be447ae9ddaf85418cd6",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/1c5b1b0b04d2be447ae9ddaf85418cd6",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/1c5b1b0b04d2be447ae9ddaf85418cd6",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/1c5b1b0b04d2be447ae9ddaf85418cd6",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/1c5b1b0b04d2be447ae9ddaf85418cd6",
+         "human_readable_role_for_display": null,
+         "id": 3952600,
+         "iq": 246,
+         "login": "kikki_d",
+         "name": "kikki_d",
+         "role_for_display": null,
+         "url": "https://genius.com/kikki_d",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=4VQwpjP8BjI"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/620674",
+     "header_image_url": "https://images.genius.com/857f82bbf2e7a06df34b93149e63e75b.580x345x1.jpg",
+     "id": 620674,
+     "image_url": "https://images.genius.com/5a7ca23bd76e70f8e350c17c500bd046.653x653x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Salla Salazar",
+     "url": "https://genius.com/artists/Salla-salazar"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Mohammed Ali",
+   "lyrics": "Rapstj\u00e4rna LyricsF\u00f6r du ska veta att jag \u00e4r rapstj\u00e4rna\nKom o ta en drink med mig\nL\u00e5t mig fylla upp ditt glas\nVi b\u00f6rjar tj\u00e4na lite cash h\u00e4ra\nS\u00e4g vad fan \u00e4r det med dig?\nDu som hade paraknas\nH\u00f6rt de kallar dig f\u00f6r rapstj\u00e4rna\nF\u00e5r jag ta en bild med dig\nMin syrra skulle bli s\u00e5 glad\nVi b\u00f6rjar tj\u00e4na lite cash h\u00e4ra\nS\u00e4g vad fan h\u00e4nde med dig\nDu som bruka va s\u00e5 smart (va s\u00e5 smart)\n[Vers 1 \u2013 MOMS]\n*F\u00f6r de kallar mig f\u00f6r rapstj\u00e4rna*\nK\u00e4nner motivering det \u00e4r en s\u00e5n dag\nKr\u00e4ver uppdatering g\u00f6r ett omstart\nDe sa jag var dryg, f\u00e5tt en kaxig attityd\nTycker han leker mangas, han som alltid varit dryg\nDe f\u00e5tt en uppfattning av mig, av mig\nDe sa du h\u00f6r aldrig av dig\nPengar du kommer f\u00e5 ut, h\u00f6rt att du redan s\u00e5lt ut\nIgnorans o arrogans, tror han \u00e4r smart en besserwisser\nSprider du s\u00e5 resten visste, pissa p\u00e5 alla pessimister\nF\u00f6r du har ingenting o g\u00e5 p\u00e5, s\u00e4ger random shit p\u00e5 m\u00e5f\u00e5\nMen vet du vad, jag skiter vad de s\u00e4ger\nGer en puss till alla dem\nAvunsjuka bara k\u00e4rlek p\u00e5 en o samma g\u00e5ng\nJag vet du \u00e4lskar mig, \u00e4lskar mig\n\u00d6nskar mig det b\u00e4sta, g\u00e4stlista n\u00e4sta g\u00e5ng vi festar\nDu vet att jag \u00e4r\u2026\n\nF\u00f6r du ska veta att jag \u00e4r rapstj\u00e4rna\nKom o ta en drink med mig\nL\u00e5t mig fylla upp ditt glas\nVi b\u00f6rjar tj\u00e4na lite cash h\u00e4ra\nS\u00e4g vad fan \u00e4r det med dig?\nDu som hade paraknas\nH\u00f6rt de kallar dig f\u00f6r rapstj\u00e4rna\nF\u00e5r jag ta en bild med dig\nMin syrra skulle bli s\u00e5 glad\nVi b\u00f6rjar tj\u00e4na lite cash h\u00e4ra\nS\u00e4g vad fan h\u00e4nde med dig\nDu som bruka va s\u00e5 smart (va s\u00e5 smart)\nYou might also like[Vers 2 \u2013 Ali]\nAli var inte skitsmart\nSkolan gick keff, hamna p\u00e5 bidrag\n\u00c5t helvete med plugget, kugga varje test, ett krisbarn\nPappa jag fick stryk av med j\u00e4mna mellanrum\nAtt jag ville det va h\u00e4nga runt men var s\u00e4llan dum\nHade visioner st\u00f6rre \u00e4n skolbetygen\nFanns inga tvivel\nSkaffa hiphop-ar stilen\nInnan jag noppra \u00f6gonbrynen\nInnan jag fatta k\u00e4rlek bruka d\u00f6 f\u00f6r blondiner\nInnan vi bytte Heiniken mot vita r\u00f6da viner\nBack then jag bodde i Bor\u00e5s\nOch att skulle bli n\u00e5t stadsbarn var sv\u00e5rt o tro d\u00e5\nO \u00e4nnu mindre trodde jag d\u00e5 jag skulle signa dealen\nMed familjen som f\u00f6der nya Aki's o Linda Pirer\nJag tr\u00e4na Kobe Brynt moves gjorde crossface\nHade Jordan-sneakers innan det var innestadsgrej\nMen det var back then p\u00e5 gator i Bor\u00e5s\nF\u00f6r en sekund k\u00e4ndes lilla staden som New York\n\n\nO jag va\u2026\nRapstj\u00e4rna\nKom o ta en drink med mig\nL\u00e5t mig fylla upp ditt glas\nVi b\u00f6rjar tj\u00e4na lite cash h\u00e4ra\nS\u00e4g vad fan \u00e4r det med dig?\nDu som hade paraknas\nH\u00f6rt de kallar dig f\u00f6r rapstj\u00e4rna\nF\u00e5r jag ta en bild med dig\nMin syrra skulle bli s\u00e5 glad\nVi b\u00f6rjar tj\u00e4na lite cash h\u00e4ra\nS\u00e4g vad fan h\u00e4nde med dig\nDu som bruka va s\u00e5 smart (va s\u00e5 smart)\n\n[Brygga]\nJag sa till mamma \"kommer va p\u00e5 TV snart\"\nL\u00e4ngesen n\u00e4r ingen visste vem jag var\nVem jag va, jag sa till alla, walla sv\u00e4r p\u00e5 Gud ni kommer se n\u00e5n dag\nL\u00e4ngesen n\u00e4r ingen visste vem jag var\nVem jag va, f\u00f6r nu jag skrivet autografer, jag skriker \"Fuck staten\"\nUtan tvekan f\u00f6r ni vet vi f\u00e5r betalt sen\nPubliken skriker ut v\u00e5rat namn (namn, namn, namn)\nOch grabbarna vill skaka v\u00e5ran hand (hand, hand, hand)\nF\u00f6r de vet jag \u00e4r rapstj\u00e4rna\n\n\n[Vers 3 \u2013 Aki]\nYeah, de kallar mig rapstar\nTror jag \u00e4r chilli milli o jag ryx i mitt cash-hav\nEgentligen \u00e4r allt som vanligt, tv\u00e4rknas\nPank, letar broder jag kan krita en knatch av, shit\nBorde lyssnat n\u00e4r jag gick i skolan, \u00e4h\nTelefonintervju n\u00e4r jag sitter p\u00e5 toan\nShit, folk bara rycker i en o vill fota\nShit, skolg\u00e5rden f\u00e5r flip n\u00e4r jag h\u00e4mtar min dotter fr\u00e5n skolan\nMen hey, jag g\u00f6r det jag aldrig har \u00e4lskat, alltid k\u00e4mpat\n\u00c4r sj\u00e4lv f\u00f6rv\u00e5nad, det g\u00e5r b\u00e4ttre \u00e4n f\u00f6rv\u00e4ntat\nDet \u00e4r bara tacka f\u00f6r allt o sk\u00e5la, linda papper runt v\u00e5ra g\u00e5sar\nReflektera \u00f6ver tiderna som va sv\u00e5ra\nEller fortfarande \u00e4r egentligen\nDet \u00e4r bara att jag lever p\u00e5 det h\u00e4r nu \u00e4ntligen\nGr\u00f6n fantasipara k\u00e4nns slut n\u00e4r man fattar\nMarkoolio \u00e4nda rapparn som k\u00f6pt hus till sin mamma\n\n\nF\u00f6r du ska veta att jag \u00e4r rapstj\u00e4rna\nKom o ta en drink med mig\nL\u00e5t mig fylla upp ditt glas\nVi b\u00f6rjar tj\u00e4na lite cash h\u00e4ra\nS\u00e4g vad fan \u00e4r det med dig?\nDu som hade paraknas\nH\u00f6rt de kallar dig f\u00f6r rapstj\u00e4rna\nF\u00e5r jag ta en bild med dig\nMin syrra skulle bli s\u00e5 glad\nVi b\u00f6rjar tj\u00e4na lite cash h\u00e4ra\nS\u00e4g vad fan h\u00e4nde med dig\nDu som bruka va s\u00e5 smart (va s\u00e5 smart)Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2054810",
+   "artist_names": "Mohammed Ali",
+   "full_title": "Porten by\u00a0Mohammed\u00a0Ali",
+   "header_image_thumbnail_url": "https://images.genius.com/f697a484b447b567c9841944088be249.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+   "id": 2054810,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Mohammed-ali-porten-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Mohammed-ali-porten-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/f697a484b447b567c9841944088be249.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Porten",
+   "title_with_featured": "Porten",
+   "url": "https://genius.com/Mohammed-ali-porten-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/39280",
+    "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+    "id": 39280,
+    "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mohammed Ali",
+    "url": "https://genius.com/artists/Mohammed-ali"
+   },
+   "apple_music_id": "1181421435",
+   "apple_music_player_url": "https://genius.com/songs/2054810/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2054810' class='rg_embed_link' data-song-id='2054810'>Read <a href='https://genius.com/Mohammed-ali-porten-lyrics'>\u201cPorten\u201d by Mohammed\u00a0Ali</a> on Genius</div> <script crossorigin src='//genius.com/songs/2054810/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6794461",
+    "classification": "needs_exegesis",
+    "fragment": "Porten",
+    "id": 6794461,
+    "is_description": true,
+    "path": "/6794461/Mohammed-ali-porten/Porten",
+    "range": {
+     "content": "Porten"
+    },
+    "song_id": 2054810,
+    "url": "https://genius.com/6794461/Mohammed-ali-porten/Porten",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2054810",
+     "client_timestamps": {
+      "updated_by_human_at": 1626460852,
+      "lyrics_updated_at": 1433951267
+     },
+     "context": "Mohammed Ali",
+     "id": 2054810,
+     "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+     "link_title": "Porten by\u00a0Mohammed\u00a0Ali",
+     "title": "Porten",
+     "type": "Song",
+     "url": "https://genius.com/Mohammed-ali-porten-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6794461",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6794461,
+      "pinned": false,
+      "share_url": "https://genius.com/6794461",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6794461/Mohammed-ali-porten/Porten",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Mohammed Ali",
+   "lyrics": "Porten LyricsHejsan jag bor i port nummer 17, jag har ringt f\u00f6rut ocks\u00e5 f\u00f6r att jag har lite klagom\u00e5l, sn\u00e4lla porten \u00e4r j\u00e4tte smutsig, ungarna kastar skr\u00e4p, dom br\u00e5kar och br\u00e5kar och skriker om kv\u00e4llarna. s\u00e5 man kan inte sova efter jobbet. s\u00e5 sn\u00e4lla kan ni g\u00f6ra n\u00e5nting?\"\nF\u00f6r dom h\u00e4nger d\u00e4r i porten i trapp uppg\u00e5ngen\nLeker med hissen \u00f6verallt i betongen\nJag ser dom hela dan kan inte be dom dra\nK\u00e4nns som lilla grabben inte har n\u00e5nstans att va\nF\u00f6r dom h\u00e4nger d\u00e4r i porten i trapp uppg\u00e5ngen\nLeker med hissen \u00f6verallt i betongen\nJag ser dom hela dan kan inte be dom dra\nK\u00e4nns som lilla grabben inte har n\u00e5nstans att va\nHey hey\nFan jag ser dig h\u00e4r i porten varje dag\nKan du inte dra? jag ville inte se dig sn\u00e4lla ge dig av!\nHaft en jobbig dag med bara tjafs och massa br\u00e5k\nKomma hem och koppla av jag kan inte koppla av \u00e4nd\u00e5, nej\nGrabbar som sl\u00e5ss dom springer runt i trappuppg\u00e5ngen\nN\u00e5gra g\u00f6r brott vi ringer polisen ingen kommer\nJag k\u00e4nner stressen inuti\nJag \u00e4r ledsen f\u00f6r att ni inte g\u00f6r ert eget b\u00e4sta men k\u00e4mpar f\u00f6r \u00e5 f\u00f6rbli samma skit\nF\u00f6r lilla G leker tuff men har inte upplevt n\u00e5gon kniv f\u00f6r han skriver ganska lugnt\nS\u00e5 kom hit lilla grabben l\u00e5t oss snacka en stund\nH\u00f6rru du skiter i skolan med dina grabbar (????)\nS\u00e5 tro inget annat allting handlar om flos men du f\u00e5r tro de skit samma tills du hamnar p\u00e5 soc\nF\u00f6r andra individer skulle ha d\u00f6tt f\u00f6r din plats\nFast du verkar skita i det nu e d k\u00f6rt du e fast\nF\u00f6r lilla grabben varf\u00f6r h\u00e4nger du d\u00e4r i porten (varf\u00f6r g\u00f6r du s\u00e5)\nJag h\u00f6rde fr\u00e5n min granne att du \u00e5 dina v\u00e4nner r\u00f6ker i porten (det kommer r\u00f6k opp)\n\u00c4ven mamma brukar s\u00e4ga att det luktar n\u00e5got konstigt i porten\nMen du lurar inte mig, vet vad du har f\u00f6r dig\nGe dig av sn\u00e4lla l\u00e4mna min port\nJao\nDom s\u00e4ger att d inte e n\u00e5n fritidsg\u00e5rd han st\u00e5r \u00e5 lutar sig mot v\u00e4ggen som en stil ikon\nMen om n\u00e5gon \u00f6ppnar munnen a d\u00e5 blir det br\u00e5k\nFan dom h\u00e4ngde ju v\u00e4l h\u00e4r samma tid ig\u00e5r\nFan hur blev de s\u00e5\nL\u00e5t mig ber\u00e4tta f\u00f6r dig saker \u00e5 ting \u00e4r inte som de bruka va n\u00e4r du var liten\nNu f\u00f6r tiden \u00e4re knas ingenstans \u00e5 va\nJa d e klart dom ber mig dra men jag stannar kvar\nHar inget annat val, se jag e ledsen men n\u00e4r staten st\u00e4nger ner varenda g\u00e5rd\nF\u00f6ljer konsekvenser fr\u00e5gan \u00e4r vart man kan h\u00e4nga d\u00e5\nNej det trodde ja inte heller knappast lutar mig tillbaka d\u00e4r p\u00e5 trappan\nK\u00e4nns som om dom inte fattar n\u00e5got dom \u00e4r r\u00e4dda f\u00f6r att jag ska fastna i n\u00e5tt skit\nTycker s\u00e4kert att jag kastar bort mitt liv, tar vara p\u00e5 min tid\nAtt jag borde satsa p\u00e5 att bli n\u00e5gon p\u00e5 s\u00e4tt kan tacka min familj (men hej)\nDet \u00e4r inte s\u00e5 om att det ligger i deras h\u00e4nder ey\nUtan det jag pratar om bygger p\u00e5 det samh\u00e4lle som vi lever i\nMen f\u00e5r se hur det blir, tillsdess l\u00e4mna port d\u00f6rren vi ses and peace\nF\u00f6r lilla grabben varf\u00f6r h\u00e4nger du d\u00e4r i porten (varf\u00f6r g\u00f6r du s\u00e5)\nJag h\u00f6rde fr\u00e5n min granne att du \u00e5 dina v\u00e4nner r\u00f6ker i porten (det kommer r\u00f6k opp)\n\u00c4ven mamma brukar s\u00e4ga att det luktar n\u00e5got konstigt i porten\nMen du lurar inte mig, vet vad du har f\u00f6r dig\nGe dig av sn\u00e4lla l\u00e4mna min port\nF\u00f6r dom h\u00e4nger d\u00e4r i porten i trapp uppg\u00e5ngen\nLeker med hissen \u00f6verallt i betongen\nJag ser dom hela dan kan inte be dom dra\nK\u00e4nns som lilla grabben inte har n\u00e5nstans att va\nF\u00f6r dom h\u00e4nger d\u00e4r i porten i trapp uppg\u00e5ngen\nLeker med hissen \u00f6verallt i betongen\nJag ser dom hela dan kan inte be dom dra\nK\u00e4nns som lilla grabben inte har n\u00e5nstans att vaYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3606852",
+   "artist_names": "Mohammed Ali",
+   "full_title": "Svartskalle och kriminell by\u00a0Mohammed\u00a0Ali",
+   "header_image_thumbnail_url": "https://images.genius.com/5291894e01c0e21c947c36a40ae11ee8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/5291894e01c0e21c947c36a40ae11ee8.640x640x1.jpg",
+   "id": 3606852,
+   "language": "sv",
+   "lyrics_owner_id": 4946219,
+   "lyrics_state": "complete",
+   "path": "/Mohammed-ali-svartskalle-och-kriminell-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Mohammed-ali-svartskalle-och-kriminell-sample",
+   "release_date_components": {
+    "year": 2011,
+    "month": 4,
+    "day": 13
+   },
+   "release_date_for_display": "April 13, 2011",
+   "release_date_with_abbreviated_month_for_display": "Apr. 13, 2011",
+   "song_art_image_thumbnail_url": "https://images.genius.com/5291894e01c0e21c947c36a40ae11ee8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5291894e01c0e21c947c36a40ae11ee8.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Svartskalle och kriminell",
+   "title_with_featured": "Svartskalle och kriminell",
+   "url": "https://genius.com/Mohammed-ali-svartskalle-och-kriminell-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/39280",
+    "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+    "id": 39280,
+    "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mohammed Ali",
+    "url": "https://genius.com/artists/Mohammed-ali"
+   },
+   "apple_music_id": "1181422853",
+   "apple_music_player_url": "https://genius.com/songs/3606852/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3606852' class='rg_embed_link' data-song-id='3606852'>Read <a href='https://genius.com/Mohammed-ali-svartskalle-och-kriminell-lyrics'>\u201cSvartskalle och kriminell\u201d by Mohammed\u00a0Ali</a> on Genius</div> <script crossorigin src='//genius.com/songs/3606852/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2011-04-13",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/28901",
+    "cover_art_url": "https://images.genius.com/5291894e01c0e21c947c36a40ae11ee8.640x640x1.jpg",
+    "full_title": "Vi by Mohammed Ali",
+    "id": 28901,
+    "name": "Vi",
+    "url": "https://genius.com/albums/Mohammed-ali/Vi",
+    "artist": {
+     "api_path": "/artists/39280",
+     "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+     "id": 39280,
+     "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mohammed Ali",
+     "url": "https://genius.com/artists/Mohammed-ali"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4946219,
+    "annotator_login": "aloondraa",
+    "api_path": "/referents/14172073",
+    "classification": "needs_exegesis",
+    "fragment": "Svartskalle och kriminell",
+    "id": 14172073,
+    "is_description": true,
+    "path": "/14172073/Mohammed-ali-svartskalle-och-kriminell/Svartskalle-och-kriminell",
+    "range": {
+     "content": "Svartskalle och kriminell"
+    },
+    "song_id": 3606852,
+    "url": "https://genius.com/14172073/Mohammed-ali-svartskalle-och-kriminell/Svartskalle-och-kriminell",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3606852",
+     "client_timestamps": {
+      "updated_by_human_at": 1626460846,
+      "lyrics_updated_at": 1522073356
+     },
+     "context": "Mohammed Ali",
+     "id": 3606852,
+     "image_url": "https://images.genius.com/5291894e01c0e21c947c36a40ae11ee8.640x640x1.jpg",
+     "link_title": "Svartskalle och kriminell by\u00a0Mohammed\u00a0Ali",
+     "title": "Svartskalle och kriminell",
+     "type": "Song",
+     "url": "https://genius.com/Mohammed-ali-svartskalle-och-kriminell-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14172073",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14172073,
+      "pinned": false,
+      "share_url": "https://genius.com/14172073",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14172073/Mohammed-ali-svartskalle-och-kriminell/Svartskalle-och-kriminell",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4946219",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/b9ff252231bd713884d12aa3a3d32859",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/b9ff252231bd713884d12aa3a3d32859",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/b9ff252231bd713884d12aa3a3d32859",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/b9ff252231bd713884d12aa3a3d32859",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5gtzwl1ftu5",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4946219,
+         "iq": 5630,
+         "login": "aloondraa",
+         "name": "aloondraa",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/aloondraa",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Mohammed Ali",
+   "lyrics": "Svartskalle och kriminell Lyrics[Verse 1 - Moms]\nJag pluggar h\u00e5rt men det sv\u00e5rt att uppn\u00e5 mina m\u00e5l\nDet ska nog g\u00e5, jag undrar om i \u00e5r jag kommer att n\u00e5\nFattar po\u00e4ngen men i l\u00e4ngden blivit hasslad av bl\u00e5\nKassan \u00e4r l\u00e5g men en i m\u00e4ngden sedan chansen \u00e4r sm\u00e5\nDet \u00e4r inte sa att mina v\u00e4nner passar stereotypen\nVi bryter myter f\u00f6r vi sliter men vi f\u00e5r f\u00f6r lite\nS\u00e5 vi st\u00e5r och skriker tills vi f\u00e5r en del av biten\nKanske bryter talar andra spr\u00e5k bror men s\u00e5nt \u00e4r livet\n\n[Verse 2 - Ali]\nHan behandlar familjen illa s\u00e5 full av vrede\nS\u00e5dan skillnad p\u00e5 man och kvinna de deras heder\nHar f\u00f6rdomar som ligger vilar under medvetet\nS\u00e4gs att han \u00e4r fr\u00e5n det landet d\u00e4r dom d\u00f6dar p\u00e5 grund av heder\nMen det dom inte ser \u00e4r han \u00e4r som du och jag\nOch frugan av beundran, han \u00e4r \u00e4lskad till d\u00f6ds\nHan skulle aldrig n\u00e5nsin lyfta handen \u00e4r nog den sista mannen\nHellre s\u00e4tter han kniven mot halsen och bara l\u00e4mnar dem f\u00f6rst\n[Hook 1 x1]\nH\u00e5ller sin, har aldrig hotat med slag\n(Men i deras \u00f6gon \u00e4r du svartskalle & kriminell)\nHan f\u00f6ljer varje lag, g\u00f6r det man ska\n(Men i deras \u00f6gon \u00e4r du svartskalle & kriminell)\nS\u00e5 det spelar ingen roll om vi har det dom har\n(F\u00f6r i deras \u00f6gon \u00e4r du svartskalle & kriminell)\n(Svartskalle & kriminell, svartskalle & kriminell)\nI deras \u00f6gon \u00e4r du svartskalle & kriminell\n\n[Bridge]\nHan \u00e4r svartskalle & kriminell\nF\u00f6r han \u00e4r en blatte som f\u00f6rs\u00f6kte g\u00f6ra Sverige till sitt hem\nAa men h\u00f6rr\u00f6 s\u00e5nna som du ni kan ju\n\u00d6ppna bilar utan sj\u00e4lva nyckeln\nD\u00e5 \u00e4r du fan i mig svartskalle & kriminell\nNej mannen du \u00e4r svartskalle & fucking funktionell\n\n[Verse 3 - Ali]\nHan kommer aldrig att bli n\u00e5tt\nVar det som sades d\u00e4r i skolan med\nMen han \u00e4r l\u00e5ngt ifr\u00e5n den personen dom tror han \u00e4r\nDom gav han om en roll han inte trivdes i\nSedan tog han bilder levde beat f\u00f6r beat och spola ner\nInte alls s\u00e5 lik sin storebror, nej han \u00e4r stark har ambition\nOch mod skarpt f\u00f6r hans vision \u00e4r stor\n\u00c4ven d\u00e5 dom sa han slutar s\u00e4kert bakom galler i n\u00e5n cell\nF\u00f6r han har det nog i blodet svartskalle & kriminell men nej\nYou might also like[Verse 4 - Moms]\nF\u00f6r dom jag k\u00e4nner dom \u00e4r bra folk\nOch g\u00e5r i skolan vad som \u00e4n h\u00e4nder\nM\u00e5ste va stolt bara fr\u00e5ga polarn\nF\u00f6r han har skaffat sig ett bra jobb det \u00e4r sv\u00e5rt och tro va\nKanske inte har n\u00e5tt men vi van \u00e5t mina planer stora\nJag kastar bort mannen, okej jag svartskalle\nJag r\u00e5kar vara muslim plus namnet \u00e4r Mohammed\nDet bl\u00e5gula landet tar emot mig \u00f6ppnar famnen\nSe mig som din andra son, en annan del av svenska stammen\n\n[Hook 1 x1]\nTagit examen alla vet han \u00e4r smart\n(Men i deras \u00f6gon \u00e4r du svartskalle & kriminell)\nAlltid haft planer han har framtiden klar\n(Men i deras \u00f6gon \u00e4r du svartskalle & kriminell)\nS\u00e5 de spelar ingen roll om vi har det dom har\n(F\u00f6r i deras \u00f6gon \u00e4r du svartskalle & kriminell)\n(Svartskalle & Kriminell, svartskalle & Kriminell)\nI deras \u00f6gon \u00e4r du svartskalle & Kriminell\n\n[Bridge]\nVarf\u00f6r \u00e4r man kriminell bara f\u00f6r att man \u00e4r svartskalle\nS\u00e4ger du till mig att de inte \u00e4r sant\nF\u00f6rklara d\u00e5 f\u00f6r mig hur de kommer sig\nAtt Magnus Hedman fick 50 kr g\u00e5nger 50 dagar\nI \u00e5talet om prostitution\nMedans Doley fick 700 kr g\u00e5nger 50 dagar\nOm det inte \u00e4r neger skatt vet jag fan inte vad det \u00e4r f\u00f6r n\u00e5tt\n[Verse 5 - Moms]\nFamiljefar han tar hand om sin familj dom m\u00e5r bra\nBetalar hyran i tid tackar allah\nG\u00e5r med borgare st\u00e5r att han \u00e4r svensk p\u00e5 passet\nDet \u00e4r bara bl\u00e4ck p\u00e5 pappret\nK\u00e4nner sig kn\u00e4ckt men inte heller tapper\nF\u00f6r hon har 2 jobb det l\u00f6nar sig med dubbel skift\nBetalar skatt men har ingen makt, ja det var underligt\nP\u00e5grund av vad hon heter f\u00e5r hon bara sv\u00e5rligheter\nDu tror du vet det men har ingen aning alla ser det\n\n[Verse 6 - Ali]\nVi d\u00e4mpar r\u00f6sten innerst inne som d\u00f6mer ut andra\nMen det s\u00e5 l\u00e4tt att peka fingret med str\u00f6mmen och vandra\nDom undrar vad han g\u00f6r om dagen, han f\u00e5r s\u00e4kert st\u00f6d av staten N\u00e5gra stankar levebr\u00f6d i automaten men det tragiskt\nFaktum \u00e4r att han \u00e4r l\u00e5ngt ifr\u00e5n arbetsl\u00f6s\nBetalar skatten som n\u00e4stan varenda granne g\u00f6r\nMen bara p\u00e5grund att hans namn \u00e4r som mitt\nTyv\u00e4rr s\u00e5 r\u00e4cker de inte l\u00e5ngt om en anst\u00e4llningsskydd\nOch det piss\n\n[Hook 1 x1]\nHan knegar varje dag, jobbar som en slav\n(Men i deras \u00f6gon \u00e4r du svartskalle & kriminell)\nHon h\u00e5ller tag aldrig visat sig svag\n(Men i deras \u00f6gon \u00e4r du svartskalle & kriminell)\nS\u00e5 det spelar ingen roll om vi har de dom har\n(F\u00f6r i deras \u00f6gon \u00e4r du svartskalle & Kriminell)\n(Svartskalle & kriminell, svartskalle & kriminell)\nI deras \u00f6gon \u00e4r du svartskalle & kriminell\n\n[Bridge]\nF\u00f6rs\u00f6ker leva varje dag\nJag blickar bara upp\u00e5t, upp\u00e5t\nVarf\u00f6r ser dom ner p\u00e5 mig\nF\u00f6r dom s\u00e5 l\u00e4r jag alltid va\n(svartskalle & kriminell)\nF\u00f6r i deras \u00f6gon \u00e4r jag van\n(Svartskalle & kriminell, svartskalle & kriminell)\n\n[Outro]\nS\u00e4g inte till mig att vi alla \u00e4r p\u00e5 samma niv\u00e5\nAtt vi alla lever efter samma r\u00e4ttigheter\nDet st\u00e4mmer inte\nVi hade en svensk terrorist och ett fucking folkslag\nVart f\u00f6rtryckt dom var helt f\u00f6rtryckta astaghfirullah\nFolk g\u00e5r p\u00e5 stan och fr\u00e5gar vem \u00e4r terrorist, vem \u00e4r terrorist\nMen s\u00e5 hade vi en svensk som gick p\u00e5 en sniper turne\nD\u00e5 \u00e4r det inget folkslag som trycks ner\nD\u00e5 han \u00e4r bara en enskild svensk man med lite problem\n(Svartskalle & kriminell, svartskalle & kriminell)\nDriver du med mig\nKonstapel, jag f\u00e5r inte ens kicka min g\u00e5s\nMen det \u00e4r ingen som uppt\u00e4cker n\u00e4r dom d\u00e4r cracksen\nSom fyller n\u00e4san med pulver och skit\nF\u00f6r s\u00e5l\u00e4nge det \u00e4r vit s\u00e5 \u00e4r det fint\n(Svartskalle kriminell, driver du med mig)\nDet \u00e4r alltid s\u00e5, du kan inte ens \u00e4ndras\nDom vill ha dig i din bur, v\u00e5ga inte prata ren svenska\nV\u00e5ga inte att tilltala en person i de spr\u00e5kbruket\nSom man sj\u00e4lv \u00e4r van vid, vad kommer h\u00e4nda sen\nHan kommer s\u00e4ga\n-\"Shit \u00e4r du adopterad\", nej\n-\"Hur kan du prata s\u00e5 rent\"\n-\"Fan vet jag, fr\u00e5ga kodjo hur han l\u00e4rde sig\"\n(Svartskalle & kriminell)\nJag vette fan ass\u00e5Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3174271",
+   "artist_names": "Mohammed Ali (Ft. Robert Athill)",
+   "full_title": "Tunga steg by\u00a0Mohammed\u00a0Ali (Ft.\u00a0Robert\u00a0Athill)",
+   "header_image_thumbnail_url": "https://images.genius.com/f697a484b447b567c9841944088be249.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+   "id": 3174271,
+   "language": "sv",
+   "lyrics_owner_id": 3083426,
+   "lyrics_state": "complete",
+   "path": "/Mohammed-ali-tunga-steg-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Mohammed-ali-tunga-steg-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/f697a484b447b567c9841944088be249.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tunga steg",
+   "title_with_featured": "Tunga steg (Ft.\u00a0Robert\u00a0Athill)",
+   "url": "https://genius.com/Mohammed-ali-tunga-steg-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1053301",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1053301,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Robert Athill",
+     "url": "https://genius.com/artists/Robert-athill"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/39280",
+    "header_image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+    "id": 39280,
+    "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mohammed Ali",
+    "url": "https://genius.com/artists/Mohammed-ali"
+   },
+   "apple_music_id": "493494715",
+   "apple_music_player_url": "https://genius.com/songs/3174271/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3174271' class='rg_embed_link' data-song-id='3174271'>Read <a href='https://genius.com/Mohammed-ali-tunga-steg-lyrics'>\u201cTunga steg\u201d by Mohammed\u00a0Ali</a> on Genius</div> <script crossorigin src='//genius.com/songs/3174271/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3083426,
+    "annotator_login": "Kiyagami",
+    "api_path": "/referents/12413122",
+    "classification": "needs_exegesis",
+    "fragment": "Tunga steg",
+    "id": 12413122,
+    "is_description": true,
+    "path": "/12413122/Mohammed-ali-tunga-steg/Tunga-steg",
+    "range": {
+     "content": "Tunga steg"
+    },
+    "song_id": 3174271,
+    "url": "https://genius.com/12413122/Mohammed-ali-tunga-steg/Tunga-steg",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3174271",
+     "client_timestamps": {
+      "updated_by_human_at": 1626460871,
+      "lyrics_updated_at": 1501179614
+     },
+     "context": "Mohammed Ali",
+     "id": 3174271,
+     "image_url": "https://images.genius.com/f697a484b447b567c9841944088be249.568x568x1.jpg",
+     "link_title": "Tunga steg by\u00a0Mohammed\u00a0Ali (Ft.\u00a0Robert\u00a0Athill)",
+     "title": "Tunga steg",
+     "type": "Song",
+     "url": "https://genius.com/Mohammed-ali-tunga-steg-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/12413122",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 12413122,
+      "pinned": false,
+      "share_url": "https://genius.com/12413122",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/12413122/Mohammed-ali-tunga-steg/Tunga-steg",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3083426",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/TlVGSpCAR3WUnjt3u5w9_IMG_0252.JPG",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/TlVGSpCAR3WUnjt3u5w9_IMG_0252.JPG",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/TlVGSpCAR3WUnjt3u5w9_IMG_0252.JPG",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/TlVGSpCAR3WUnjt3u5w9_IMG_0252.JPG",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/IclGx9lSpSLZEaU0F81I_IMG_0324.JPG",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3083426,
+         "iq": 476,
+         "login": "Kiyagami",
+         "name": "Kiyagami",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Kiyagami",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Mohammed Ali",
+   "lyrics": "Tunga steg Lyrics[Vers 1: Moms & Alias Ruggig ]\nYa\nHar inga pengar p\u00e5 mitt konto skicka inkassokrav\nHar inga \u00f6re, har du n\u00e5 \u00f6re, betala tillbaks\nDet kronofogden l\u00e5t en broder va\nSl\u00f6sa mina kronor upp i krogen, vilket moget svar\nMin bror han dog idag plus min fru hon t\u00e4nker l\u00e4mna mig\nDet du och jag f\u00f6r alltid, fick inte pussa barnen\nS\u00e4ger fadern \u00e4r en alkis\nVad h\u00e4nde med v\u00e5r framtid, m\u00e5ste sl\u00e4cka min t\u00f6rst\nF\u00f6r inget annat \u00e4n en flaska kan ju sm\u00e4rta sin tr\u00f6st\nYa\nJag v\u00e4grar skaka hand, v\u00e4rlden \u00e4r s\u00e5 falsk o ytlig\nKl\u00e4r mig varm men k\u00e4nns som sj\u00e4len \u00e4nd\u00e5 kall o kritvit\nV\u00e4gen \u00e4r brant o skitig, s\u00e5r p\u00e5 foten\nD\u00e5 b\u00e4r mig fram en bit till n\u00e4r vinden bl\u00e5ser mot en\nF\u00f6r s\u00e5g en glimt om morgondagens ljus\n\u00c4ven om det gr\u00e5tt idag, \u00e4ven om min kropp \u00e4r svag\n\u00c4r l\u00e5ngt ifr\u00e5n den j\u00e4veln som vill sl\u00e5ss tillbaks\nJag sl\u00e4nger n\u00e4ven upp i luften h\u00e4r p\u00e5 bottenplan\nI hopp om att vi l\u00e4rt oss snart\n[Refr\u00e4ng: Robert Athill]\nS\u00e5 tunga steg har inga krafter kvar\nDet k\u00e4nns som att du kv\u00e4vs av dina andetag\nHar sagt hur det ser, jag vet hur det e, har k\u00e4nt det jag med\nMen aldrig mer f\u00f6r jag har l\u00e4rt mig av\nDet som bryter ner men jag l\u00e4ker snart\nImorn \u00e4r jag hel, imorn ska vi le, ja de ska dom f\u00e5 se\n\n[Vers 2: Moms & Alias Ruggig]\nYa\nK\u00e4ra konstapel varf\u00f6r ber du mig att stanna f\u00f6r\nDu ber mig andas i ett r\u00f6r, inget att klandras f\u00f6r\nDu s\u00e4ger det du ? Som polis, det n\u00e5tt ni alla g\u00f6r\nMen \u00e4nd\u00e5 viskar du blatte n\u00e4r ingen annan h\u00f6r\nPlus min v\u00e4n han \u00e5kte in p\u00e5 k\u00e5ken\nHan l\u00e5stes in f\u00f6r ingenting, vi gr\u00e5ter\nS\u00e5 vi k\u00e4nner s\u00e5dan misstro, det g\u00f6r mig nerv\u00f6s\nDet r\u00e4cker med att jag h\u00f6r p\u00e5 din r\u00f6st\nDjuret \u00e4r l\u00f6st\nDet s\u00e4gs att efter regnet kommer solsken men ingen ser det\nDu b\u00e4r en boja runt din fotled som tynger stegen\nDet s\u00e5nt som bryter ner en men forts\u00e4tt vandra l\u00e4ngst krigsstigen\nFinns flera v\u00e4gar ut en kistan eller flyktbilen\nJag sv\u00e4r jag v\u00e4grar falla in i dom ?\nT\u00e4nder lyktan blickar fram\u00e5t f\u00f6r alla dom som mist livet\nYa f\u00f6r m\u00e5nga t\u00e5rar har f\u00e4llts\nSett n\u00e4r gnistan har slocknat och n\u00e4r l\u00e5gan har t\u00e4nds\nYou might also like[Refr\u00e4ng: Robert Athill]\nS\u00e5 tunga steg har inga krafter kvar\nDet k\u00e4nns som att du kv\u00e4vs av dina andetag\nHar sagt hur det ser, jag vet hur det e, har k\u00e4nt det jag med\nMen aldrig mer f\u00f6r jag har l\u00e4rt mig av\nDet som bryter ner men jag l\u00e4ker snart\nImorn \u00e4r jag hel, imorn ska vi le, ja de ska dom f\u00e5 se\n\n[Krok: Robert Athill]\nS\u00e5 l\u00e4ngesen som jag var fri\nL\u00e4ngesen jag s\u00e5g en morgondag s\u00e5 fin\nK\u00e4nns som allting \u00e4r bra nu nu\nHoppas du stannar ett tag nu nu\n\u00c5 det var s\u00e5 l\u00e4ngesen som jag var fri\nL\u00e4ngesen jag s\u00e5g en morgondag s\u00e5 fin\nK\u00e4nns som allting \u00e4r bra nu nu\nHoppas du stannar ett tag nu nu\n\n[Vers 3: Alias Ruggig & Moms]\nVill inte p\u00e5st\u00e5 jag f\u00f6rst\u00e5r vad det e du g\u00e5r igenom\nS\u00e5 m\u00e5nga onda m\u00f6nster, s\u00e5 m\u00e5nga tomma l\u00f6ften\nO alla dr\u00f6mmar som man haft f\u00f6rvandlas snabbt till aska\nMen har ett sista t\u00e4rningskast, jag satsar allt och kastar\nD\u00e5 ses vi vart den landar\nI deras \u00f6gon var vi dom som aldrig skulle bli n\u00e5n\nF\u00f6r v\u00e5ra \u00f6ren gav oss platsen som vi nu vill fly fr\u00e5n\nD\u00e4r ingen g\u00e4ri finns, i samma skam b\u00e4r du din b\u00f6rda\nMen se nu b\u00e4r du min\nYa\nJag f\u00f6rs\u00f6ker varje dag vill bli en b\u00e4ttre person\nSkulle vilja ta o f\u00f6r\u00e4ndra situation f\u00f6r min bror\nMin vision \u00e4r till grammet, fr\u00e5n programmet en miljon\nMiljonprogrammet d\u00e4r vi hamna d\u00e4r vi stannar d\u00e4r vi bor\nS\u00e5 jag h\u00e5ller p\u00e5 att stressa jag vill f\u00e5 n\u00e5nting gjort\nS\u00e5 jag ser p\u00e5 mina kort, f\u00f6r m\u00e5nga som aldrig trott\nMen broder sa g\u00f6r ditt b\u00e4sta, du f\u00e5r g\u00f6ra det fort\nF\u00e5r g\u00f6ra r\u00f6sten h\u00f6g fr\u00e5n din ort, f\u00e5r g\u00f6ra det stort\n[Refr\u00e4ng: Robert Athill]\nS\u00e5 tunga steg har inga krafter kvar\nDet k\u00e4nns som att du kv\u00e4vs av dina andetag\nHar sagt hur det ser, jag vet hur det e, har k\u00e4nt det jag med\nMen aldrig mer f\u00f6r jag har l\u00e4rt mig av\nDet som bryter ner men jag l\u00e4ker snart\nImorn \u00e4r jag hel, imorn ska vi le, ja de ska dom f\u00e5 se1Embed"
+  }
+ ]
+}

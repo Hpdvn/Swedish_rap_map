@@ -1,0 +1,3860 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/68892",
+ "description": {
+  "plain": "Roffe Ruff \u00e4r en hiphop-/reggaeartist fr\u00e5n Majorna i G\u00f6teborg. Roffes egentliga identitet har varit ok\u00e4nd d\u00e5 han p\u00e5 bilder alltid b\u00e4r en ansiktsmask i form av en d\u00f6dskalle.\n\nRoffe Ruff har sl\u00e4ppt tv\u00e5 full\u00e4ngdsalbum, en EP och ett flertal andra l\u00e5tar. Debutalbumet Ormar i gr\u00e4set sl\u00e4pptes sommaren 2009 och EP:n PanterParken, ett samarbete mellan Roffe Ruff och rapparen/producenten Hofm\u00e4starn, sl\u00e4pptes i mars 2010. V\u00e5ren 2011 sl\u00e4ppte Roffe Ruff det andra albumet Barrabas f\u00f6r fri nedladdning via skivbolaget Stiladig. Roffe Ruff har \u00e4ven samarbetat med bland andra reggaeartisten Kapten R\u00f6d och rapparen Organism 12. Musiken sl\u00e4pps gratis via skivbolaget Stiladig.\n\nTexterna, vilka ofta \u00e4r samh\u00e4llskritiska, beskriver vardagen i v\u00e4stra G\u00f6teborg med fylla, polis\u00f6vergrepp, depression och klasstillh\u00f6righet. Speciellt kritisk \u00e4r Roffe mot ordningsmakten vilken han menar provocerar och beg\u00e5r \u00f6vergrepp."
+ },
+ "facebook_name": "",
+ "followers_count": 8,
+ "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+ "id": 68892,
+ "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+ "instagram_name": "",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Roffe Ruff",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Roffe-ruff",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 11294,
+  "annotator_login": "Trakk",
+  "api_path": "/referents/6983895",
+  "classification": "accepted",
+  "fragment": "Roffe Ruff",
+  "id": 6983895,
+  "is_description": true,
+  "path": "/6983895/Roffe-ruff/Roffe-ruff",
+  "range": {
+   "content": "Roffe Ruff"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6983895/Roffe-ruff/Roffe-ruff",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/68892",
+   "context": null,
+   "id": 68892,
+   "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+   "link_title": "Roffe Ruff",
+   "title": "Roffe Ruff",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Roffe-ruff"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6983895",
+    "body": {
+     "plain": "Roffe Ruff \u00e4r en hiphop-/reggaeartist fr\u00e5n Majorna i G\u00f6teborg. Roffes egentliga identitet har varit ok\u00e4nd d\u00e5 han p\u00e5 bilder alltid b\u00e4r en ansiktsmask i form av en d\u00f6dskalle.\n\nRoffe Ruff har sl\u00e4ppt tv\u00e5 full\u00e4ngdsalbum, en EP och ett flertal andra l\u00e5tar. Debutalbumet Ormar i gr\u00e4set sl\u00e4pptes sommaren 2009 och EP:n PanterParken, ett samarbete mellan Roffe Ruff och rapparen/producenten Hofm\u00e4starn, sl\u00e4pptes i mars 2010. V\u00e5ren 2011 sl\u00e4ppte Roffe Ruff det andra albumet Barrabas f\u00f6r fri nedladdning via skivbolaget Stiladig. Roffe Ruff har \u00e4ven samarbetat med bland andra reggaeartisten Kapten R\u00f6d och rapparen Organism 12. Musiken sl\u00e4pps gratis via skivbolaget Stiladig.\n\nTexterna, vilka ofta \u00e4r samh\u00e4llskritiska, beskriver vardagen i v\u00e4stra G\u00f6teborg med fylla, polis\u00f6vergrepp, depression och klasstillh\u00f6righet. Speciellt kritisk \u00e4r Roffe mot ordningsmakten vilken han menar provocerar och beg\u00e5r \u00f6vergrepp."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 6983895,
+    "pinned": false,
+    "share_url": "https://genius.com/6983895",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6983895/Roffe-ruff/Roffe-ruff",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/11294",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a0zztv87hla",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a0zztv87hla",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a0zztv87hla",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a0zztv87hla",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/rlo9joohi8i",
+       "human_readable_role_for_display": "Editor",
+       "id": 11294,
+       "iq": 104660,
+       "login": "Trakk",
+       "name": "Trakk",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Trakk",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 5,
+   "api_path": "/songs/465844",
+   "artist_names": "Roffe Ruff",
+   "full_title": "Ingen K\u00e4rlek by\u00a0Roffe\u00a0Ruff",
+   "header_image_thumbnail_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.300x194x1.jpg",
+   "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+   "id": 465844,
+   "language": "sv",
+   "lyrics_owner_id": 1018617,
+   "lyrics_state": "complete",
+   "path": "/Roffe-ruff-ingen-karlek-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Roffe-ruff-ingen-karlek-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 6,
+    "day": 29
+   },
+   "release_date_for_display": "June 29, 2014",
+   "release_date_with_abbreviated_month_for_display": "Jun. 29, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.300x194x1.jpg",
+   "song_art_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 4,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 6025
+   },
+   "title": "Ingen K\u00e4rlek",
+   "title_with_featured": "Ingen K\u00e4rlek",
+   "url": "https://genius.com/Roffe-ruff-ingen-karlek-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/68892",
+    "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+    "id": 68892,
+    "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Roffe Ruff",
+    "url": "https://genius.com/artists/Roffe-ruff"
+   },
+   "apple_music_id": "896358629",
+   "apple_music_player_url": "https://genius.com/songs/465844/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_465844' class='rg_embed_link' data-song-id='465844'>Read <a href='https://genius.com/Roffe-ruff-ingen-karlek-lyrics'>\u201cIngen K\u00e4rlek\u201d by Roffe\u00a0Ruff</a> on Genius</div> <script crossorigin src='//genius.com/songs/465844/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-06-29",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1018617,
+    "annotator_login": "Uniko93",
+    "api_path": "/referents/3660833",
+    "classification": "needs_exegesis",
+    "fragment": "Ingen K\u00e4rlek",
+    "id": 3660833,
+    "is_description": true,
+    "path": "/3660833/Roffe-ruff-ingen-karlek/Ingen-karlek",
+    "range": {
+     "content": "Ingen K\u00e4rlek"
+    },
+    "song_id": 465844,
+    "url": "https://genius.com/3660833/Roffe-ruff-ingen-karlek/Ingen-karlek",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/465844",
+     "client_timestamps": {
+      "updated_by_human_at": 1412115297,
+      "lyrics_updated_at": 1412115298
+     },
+     "context": "Roffe Ruff",
+     "id": 465844,
+     "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "link_title": "Ingen K\u00e4rlek by\u00a0Roffe\u00a0Ruff",
+     "title": "Ingen K\u00e4rlek",
+     "type": "Song",
+     "url": "https://genius.com/Roffe-ruff-ingen-karlek-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3660833",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3660833,
+      "pinned": false,
+      "share_url": "https://genius.com/3660833",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3660833/Roffe-ruff-ingen-karlek/Ingen-karlek",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1018617",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/88e80dbd22dadcad0797404d76e56510",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/88e80dbd22dadcad0797404d76e56510",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/88e80dbd22dadcad0797404d76e56510",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/88e80dbd22dadcad0797404d76e56510",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/JeYVekvTEiJK84USzpBL_565454.jpg",
+         "human_readable_role_for_display": null,
+         "id": 1018617,
+         "iq": 228,
+         "login": "Uniko93",
+         "name": "Uniko93",
+         "role_for_display": null,
+         "url": "https://genius.com/Uniko93",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:3zsMXKpVPC4lZqqRinX5yR",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/3zsMXKpVPC4lZqqRinX5yR"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=g8wv4OHYRg4"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/197663",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 197663,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hofm\u00e4starn",
+     "url": "https://genius.com/artists/Hofmastarn"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Roffe Ruff",
+   "lyrics": "Ingen K\u00e4rlek LyricsRef:\n\nMen f\u00e5r jag ingen k\u00e4rlek av dig idag\nD\u00e5 ser jag inget sk\u00e4l till o stanna kvar\nDu har testat mina nerver till gr\u00e4nsen\nAtt jag tappar k\u00e4nseln\nMen nu s\u00e5 f\u00e5r det fan va bra\nS\u00e5 f\u00e5r jag ingen k\u00e4rlek av dig idag\nD\u00e5 ser jag inget sk\u00e4l till o stanna kvar\nHold on, hold on\nVers:\n\nS\u00e5 m\u00e5nga g\u00e5nger har jag flyttat p\u00e5 min gr\u00e4ns\nF\u00f6r hur mycket jag kan ta, hur \u00e4n illa det har k\u00e4nts\nDu verkar tro att du kan s\u00e4ga vad som helst\nOm du \u00f6ppnar varje urs\u00e4kt med o skylla p\u00e5 din mens\nJag k\u00e4nner ingen v\u00e4rme i din blick, n\u00e4r jag tar i dig s\u00e5 ryggar du tillbaks\nDina tankar verkar st\u00e4ndigt va p\u00e5 flykt, o det k\u00e4nns som om du redan gett dig av\n\nRef x1\n\nVers:\n\nHur m\u00e5nga n\u00e4tters s\u00f6mn ska du ber\u00f6va mig\nVarf\u00f6r forts\u00e4tter jag bry mig n\u00e4r det inte l\u00f6nar sig\nEn falsk f\u00f6rhoppning om att allt ska l\u00f6sa sig\nO jag h\u00e5ller fast vid livet fast det sakta d\u00f6dar mig\nVarje vecka \u00e4r det samma gr\u00e4l p\u00e5 nytt\nF\u00f6r att du inte vill ge mig n\u00e5gra svar\nMen n\u00e4r jag l\u00e4mnar dig s\u00e5 blir du som f\u00f6rbytt\n\u00c5 bedyrar att du visst vill ha mig kvar\n\nRef x1You might also like2Embed"
+  },
+  {
+   "annotation_count": 9,
+   "api_path": "/songs/3053306",
+   "artist_names": "Roffe Ruff (Ft. Hofm\u00e4starn)",
+   "full_title": "P\u00e5 lokal by\u00a0Roffe\u00a0Ruff (Ft.\u00a0Hofm\u00e4starn)",
+   "header_image_thumbnail_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.300x194x1.jpg",
+   "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+   "id": 3053306,
+   "language": "sv",
+   "lyrics_owner_id": 3651794,
+   "lyrics_state": "complete",
+   "path": "/Roffe-ruff-pa-lokal-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Roffe-ruff-pa-lokal-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 5,
+    "day": 17
+   },
+   "release_date_for_display": "May 17, 2013",
+   "release_date_with_abbreviated_month_for_display": "May. 17, 2013",
+   "song_art_image_thumbnail_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.300x194x1.jpg",
+   "song_art_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 2,
+    "unreviewed_annotations": 9,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "P\u00e5 lokal",
+   "title_with_featured": "P\u00e5 lokal (Ft.\u00a0Hofm\u00e4starn)",
+   "url": "https://genius.com/Roffe-ruff-pa-lokal-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/197663",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 197663,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hofm\u00e4starn",
+     "url": "https://genius.com/artists/Hofmastarn"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/68892",
+    "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+    "id": 68892,
+    "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Roffe Ruff",
+    "url": "https://genius.com/artists/Roffe-ruff"
+   },
+   "apple_music_id": "646799546",
+   "apple_music_player_url": "https://genius.com/songs/3053306/apple_music_player",
+   "description": {
+    "plain": "P\u00e5 lokal \u00e4r en av de m\u00e5nga l\u00e5tarna fr\u00e5n Roffe och hans kompanjon, Hofm\u00e4starn. Det \u00e4r en sarkastisk iakttagelse av modern hip hop som mer eller mindre hyllar livsstilen som Roffe rappar om i P\u00e5 Lokal."
+   },
+   "embed_content": "<div id='rg_embed_link_3053306' class='rg_embed_link' data-song-id='3053306'>Read <a href='https://genius.com/Roffe-ruff-pa-lokal-lyrics'>\u201cP\u00e5 lokal\u201d by Roffe\u00a0Ruff</a> on Genius</div> <script crossorigin src='//genius.com/songs/3053306/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-05-17",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/166763",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "Bootlegs by Roffe Ruff",
+    "id": 166763,
+    "name": "Bootlegs",
+    "url": "https://genius.com/albums/Roffe-ruff/Bootlegs",
+    "artist": {
+     "api_path": "/artists/68892",
+     "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "id": 68892,
+     "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Roffe Ruff",
+     "url": "https://genius.com/artists/Roffe-ruff"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 9214228,
+    "annotator_login": "LoveUln",
+    "api_path": "/referents/11662427",
+    "classification": "unreviewed",
+    "fragment": "P\u00e5 lokal",
+    "id": 11662427,
+    "is_description": true,
+    "path": "/11662427/Roffe-ruff-pa-lokal/Pa-lokal",
+    "range": {
+     "content": "P\u00e5 lokal"
+    },
+    "song_id": 3053306,
+    "url": "https://genius.com/11662427/Roffe-ruff-pa-lokal/Pa-lokal",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3053306",
+     "client_timestamps": {
+      "updated_by_human_at": 1619133263,
+      "lyrics_updated_at": 1619133263
+     },
+     "context": "Roffe Ruff",
+     "id": 3053306,
+     "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "link_title": "P\u00e5 lokal by\u00a0Roffe\u00a0Ruff (Ft.\u00a0Hofm\u00e4starn)",
+     "title": "P\u00e5 lokal",
+     "type": "Song",
+     "url": "https://genius.com/Roffe-ruff-pa-lokal-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11662427",
+      "body": {
+       "plain": "P\u00e5 lokal \u00e4r en av de m\u00e5nga l\u00e5tarna fr\u00e5n Roffe och hans kompanjon, Hofm\u00e4starn. Det \u00e4r en sarkastisk iakttagelse av modern hip hop som mer eller mindre hyllar livsstilen som Roffe rappar om i P\u00e5 Lokal."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 11662427,
+      "pinned": false,
+      "share_url": "https://genius.com/11662427",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/11662427/Roffe-ruff-pa-lokal/Pa-lokal",
+      "verified": false,
+      "votes_total": 1,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/9214228",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/5a0b3faf96db1ba6f2703da2f736cf2d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/5a0b3faf96db1ba6f2703da2f736cf2d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/5a0b3faf96db1ba6f2703da2f736cf2d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/5a0b3faf96db1ba6f2703da2f736cf2d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/5a0b3faf96db1ba6f2703da2f736cf2d",
+         "human_readable_role_for_display": null,
+         "id": 9214228,
+         "iq": 206,
+         "login": "LoveUln",
+         "name": "LoveUln",
+         "role_for_display": null,
+         "url": "https://genius.com/LoveUln",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Roffe Ruff",
+   "lyrics": "P\u00e5 lokal Lyrics[Brygga, Roffe Ruff]\nF\u00f6r vi har Kingshead, Kelly's, Ish \u00e5 La Cupole\nFyra delar vatten, tv\u00e5 alkohol (ehh!?)\nFitty Fingers, V\u00e4sterhus \u00e5 sk\u00e5l\n60 sp\u00e4nn i d\u00f6rren, 20 garderob\n\n[Vers 1, Roffe Ruff]\nVi g\u00e5r p\u00e5 krogen!\nD\u00e5 e de raka r\u00f6r\nK\u00f6p med n\u00e5t gott men ingen j\u00e4vla lik\u00f6r\nF\u00f6r Roffe Ruff \u00e4r ingen glad amat\u00f6r\nInga svennar hyllar denna Norrlands guldmedalj\u00f6r\nP\u00e5 krogen! Du vet vi k\u00f6r som vi k\u00f6r\n25 tequila utan tillbeh\u00f6r\nVi super mer \u00e4n n\u00e5gon m\u00e4nniska b\u00f6r\nVi stannar l\u00e4ngre \u00e4n de flesta g\u00f6r\nP\u00e5 krogen! Eller utanf\u00f6r\nD\u00e4r man blir plockad in p\u00e5 snutf\u00f6rh\u00f6r\nF\u00f6r n\u00e5t man inte l\u00e4ngre brukar g\u00f6'\nVi dricker mer \u00e4n d\u00f6dligt sjuka g\u00f6r\nP\u00e5 krogen! D\u00e4r man e liten \u00e5 sk\u00f6r\nS\u00e5 j\u00e4vla sliten, besviken \u00e5 m\u00f6r\nDu b\u00f6rjar undra vad du lever f\u00f6r\nDu m\u00e5r precis som alla andra g\u00f6r\nP\u00e5 krogen! D\u00e4r b\u00e4rsen smakar sm\u00f6r\nF\u00f6r de har aldrig tv\u00e4ttat ur tappens r\u00f6r\nD\u00e4r man f\u00e5r pisset av en sur servit\u00f6r\n\u00c5 man blir kallad f\u00f6r \"din j\u00e4vla konn\u00e4ss\u00f6r\"\n[Refr\u00e4ng x2]\nDu borde fatta vad jag snackar om\nOm du vaknat upp p\u00e5 mornan' i en trappuppg\u00e5ng\nOm du fastnat med livet i en flaska rom\nOm din st\u00f6rsta idol \u00e4r Chrille Pettersson\n\n[Brygga, Roffe Ruff]\nKingshead, Kelly's, Ish \u00e5 La Cupole\nFyra delar vatten, tv\u00e5 alkohol (ehh!?)\nFitty Fingers, V\u00e4sterhus \u00e5 sk\u00e5l\n60 sp\u00e4nn i d\u00f6rren, 20 garderob\n\n[Vers 2, Hofm\u00e4starn]\nHan fr\u00e5gade sn\u00e4llt till barpersonalen\nOm det var okej att ta ett par b\u00e4rs i baren\nHan var den sista som var kvar i lokalen\nOch dom hade st\u00e4ngt s\u00e5 dom bad han att dra hem\nMen han skulle stanna f\u00f6r han ville ha en stor stark\nB\u00f6rjade bli spydig, kallade diskaren f\u00f6r snorvalp\nSt\u00e4llde sig upp och tog tag i ett bordssalt\nMen hann inte kasta f\u00f6rr\u00e4n vakterna tog han\nOch sl\u00e4ngde ut han, utan \u00f6l och utanf\u00f6r stog ju snuten\nS\u00e5 han kutade, balansen den svek s\u00e5 han stupade\nMan kan bara t\u00e4nka sig hur denna saga slutade\n\n[Refr\u00e4ng x2]\nDu borde fatta vad jag snackar om\nOm du vaknat upp p\u00e5 mornan' i en trappuppg\u00e5ng\nOm du fastnat med livet i en flaska rom\nOm din st\u00f6rsta idol \u00e4r Chrille Pettersson\nYou might also like[Vers 3, Roffe Ruff]\nDet var d\u00e5 sj\u00e4lva fan, nu har det h\u00e4nt igen\nMan vaknar upp f\u00f6rvirrad p\u00e5 akutmottagningen\nMed dubbla l\u00e4derremmar \u00e4r man fj\u00e4ttrad i en s\u00e4ng\nP\u00e5 inr\u00e5dan av sj\u00e4lvaste \u00f6verl\u00e4karen\nDom fr\u00e5gar vad jag kommer ih\u00e5g fr\u00e5n f\u00f6rra l\u00f6rdagen\nJag svarar att det sista som jag minns \u00e4r AL-5\nDom s\u00e4ger att jag hoppat fr\u00e5n ett hus p\u00e5 Hisingen\nAv skadorna att d\u00f6ma var det andra v\u00e5ningen\n\n[Refr\u00e4ng x2]\nDu borde fatta vad jag snackar om\nOm du vaknat upp p\u00e5 mornan' i en trappuppg\u00e5ng\nOm du fastnat med livet i en flaska rom\nOm din st\u00f6rsta idol \u00e4r Chrille PetterssonEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2828304",
+   "artist_names": "Roffe Ruff",
+   "full_title": "Du kommer aldrig f\u00e5 se mig by\u00a0Roffe\u00a0Ruff",
+   "header_image_thumbnail_url": "https://images.genius.com/3d36ec809eb913e6cbdd108730a58bc4.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3d36ec809eb913e6cbdd108730a58bc4.700x700x1.jpg",
+   "id": 2828304,
+   "language": "sv",
+   "lyrics_owner_id": 3526737,
+   "lyrics_state": "complete",
+   "path": "/Roffe-ruff-du-kommer-aldrig-fa-se-mig-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Roffe-ruff-du-kommer-aldrig-fa-se-mig-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 7,
+    "day": 15
+   },
+   "release_date_for_display": "July 15, 2016",
+   "release_date_with_abbreviated_month_for_display": "Jul. 15, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/3d36ec809eb913e6cbdd108730a58bc4.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3d36ec809eb913e6cbdd108730a58bc4.700x700x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Du kommer aldrig f\u00e5 se mig",
+   "title_with_featured": "Du kommer aldrig f\u00e5 se mig",
+   "url": "https://genius.com/Roffe-ruff-du-kommer-aldrig-fa-se-mig-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/68892",
+    "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+    "id": 68892,
+    "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Roffe Ruff",
+    "url": "https://genius.com/artists/Roffe-ruff"
+   },
+   "apple_music_id": "1130944082",
+   "apple_music_player_url": "https://genius.com/songs/2828304/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2828304' class='rg_embed_link' data-song-id='2828304'>Read <a href='https://genius.com/Roffe-ruff-du-kommer-aldrig-fa-se-mig-lyrics'>\u201cDu kommer aldrig f\u00e5 se mig\u201d by Roffe\u00a0Ruff</a> on Genius</div> <script crossorigin src='//genius.com/songs/2828304/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-07-15",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/160881",
+    "cover_art_url": "https://images.genius.com/94d7976e265cb112105e3974b1a24097.600x600x1.jpg",
+    "full_title": "Och han \u00e4lskade dom alla by Roffe Ruff",
+    "id": 160881,
+    "name": "Och han \u00e4lskade dom alla",
+    "url": "https://genius.com/albums/Roffe-ruff/Och-han-alskade-dom-alla",
+    "artist": {
+     "api_path": "/artists/68892",
+     "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "id": 68892,
+     "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Roffe Ruff",
+     "url": "https://genius.com/artists/Roffe-ruff"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3526737,
+    "annotator_login": "BEAROFTHESEA",
+    "api_path": "/referents/10163819",
+    "classification": "needs_exegesis",
+    "fragment": "Du kommer aldrig f\u00e5 se mig",
+    "id": 10163819,
+    "is_description": true,
+    "path": "/10163819/Roffe-ruff-du-kommer-aldrig-fa-se-mig/Du-kommer-aldrig-fa-se-mig",
+    "range": {
+     "content": "Du kommer aldrig f\u00e5 se mig"
+    },
+    "song_id": 2828304,
+    "url": "https://genius.com/10163819/Roffe-ruff-du-kommer-aldrig-fa-se-mig/Du-kommer-aldrig-fa-se-mig",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2828304",
+     "client_timestamps": {
+      "updated_by_human_at": 1476193294,
+      "lyrics_updated_at": 1476193294
+     },
+     "context": "Roffe Ruff",
+     "id": 2828304,
+     "image_url": "https://images.genius.com/3d36ec809eb913e6cbdd108730a58bc4.700x700x1.jpg",
+     "link_title": "Du kommer aldrig f\u00e5 se mig by\u00a0Roffe\u00a0Ruff",
+     "title": "Du kommer aldrig f\u00e5 se mig",
+     "type": "Song",
+     "url": "https://genius.com/Roffe-ruff-du-kommer-aldrig-fa-se-mig-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10163819",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10163819,
+      "pinned": false,
+      "share_url": "https://genius.com/10163819",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10163819/Roffe-ruff-du-kommer-aldrig-fa-se-mig/Du-kommer-aldrig-fa-se-mig",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3526737",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/963688273321c93b35e21ef2ba1a5a5f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/963688273321c93b35e21ef2ba1a5a5f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/963688273321c93b35e21ef2ba1a5a5f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/963688273321c93b35e21ef2ba1a5a5f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/963688273321c93b35e21ef2ba1a5a5f",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3526737,
+         "iq": 723,
+         "login": "BEAROFTHESEA",
+         "name": "BEAROFTHESEA",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/BEAROFTHESEA",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/197663",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 197663,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hofm\u00e4starn",
+     "url": "https://genius.com/artists/Hofmastarn"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Roffe Ruff",
+   "lyrics": "Du kommer aldrig f\u00e5 se mig Lyrics[Vers 1]\nHon var kall som en vinterdag\nHon sa jag fyllde 'na med lust likt ett andetag\nMen sen n\u00e4r lusten gick ur fanns det inget kvar\nOch p\u00e5 fr\u00e5gan om hur, fanns det inget svar\nLagom till h\u00f6sten hade hennes k\u00e4rlek d\u00f6tt f\u00f6r mig\nSen skulle lusten fram mot v\u00e5ren blomma upp igen\nMen men, jag har med \u00e5ren blivit smartare\nS\u00e5 jag saknar inte s\u00e5ren som du skapade\nVisst \u00e4r det lustigt n\u00e4r dom \u00e5terv\u00e4nder\nOch hennes v\u00e4nner kr\u00e4ver att man ska f\u00f6rl\u00e5ta henne\nAtt hon har \u00e4ndrat sig och om jag bara l\u00e5ter henne\nKomma tillbaks s\u00e5 ska hon inte va n\u00e5gon d\u00e5re l\u00e4ngre (aa visst)\nDet finns ett ordspr\u00e5k s\u00e4ger n\u00e5got i stil med\nAtt den som ingenting vet kommer aldrig k\u00e4nna tvivel\nDu f\u00e5r ta det hur du vill men jag k\u00e4nner till f\u00f6r mycket\nDu borde veta vad jag tycker\n[Hook]\nJag l\u00e4mnar skutan med en klump i min hals\nDen jag blev utan k\u00e4nner ingenting alls\nHar fina minnen, men dom s\u00e4mre \u00e4r fler, s\u00e5\nDu kommer aldrig f\u00e5 se mig n\u00e5got mer\n\n[Vers 2]\nHon var varm som en sommardag\nHennes v\u00e4rme fick tvivlet att domna av\nJag k\u00e4nde hopp inf\u00f6r livet r\u00e4tt som det var\nMen jag tog inget f\u00f6rgivet, det s\u00e5n jag va' (you know)\nSen gjorde m\u00f6rkret sig p\u00e5mint\nOch mitt f\u00f6rflutna fick huvudet att sl\u00e5 slint\nEfter ett tag b\u00f6rjade misstankarna sl\u00e5 blint\nJag tappa bort mig, f\u00f6rtappad och sm\u00e5sint\nJag tycktes se ett m\u00f6nster som jag hade sett f\u00f6rut\nJag tog logiken till ett f\u00f6nster och jag kastade r\u00e4tt ut\nJag kunde h\u00f6ra n\u00e4r det brast och gick itu\nJag kunde s\u00e4kert reparerat det men krafterna va slut\nDu b\u00f6rjade tr\u00f6ttna p\u00e5 mitt m\u00e4rkliga beteende\nDet \u00e4r inget m\u00e4rkligt, men det m\u00e4rktes p\u00e5 ditt leende\nJag kunde f\u00f6resp\u00e5 beslutet p\u00e5 din kalla blick\nS\u00e5 h\u00e5rt p\u00e5 slutet att jag tog mitt pick och pack och gick\n\n[Hook x2]\nJag l\u00e4mnar skutan med en klump i min hals\nDen som blev utan m\u00e4rkte ingenting alls\nHar fina minnen och dom kunde blivit fler, men\nJag l\u00e4mnade innan jag blev ett problemYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/2001726",
+   "artist_names": "Roffe Ruff",
+   "full_title": "Psykofarmakajesus by\u00a0Roffe\u00a0Ruff",
+   "header_image_thumbnail_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.300x194x1.jpg",
+   "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+   "id": 2001726,
+   "language": "sv",
+   "lyrics_owner_id": 12288533,
+   "lyrics_state": "complete",
+   "path": "/Roffe-ruff-psykofarmakajesus-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Roffe-ruff-psykofarmakajesus-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.300x194x1.jpg",
+   "song_art_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 3,
+    "transcribers": 2,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Psykofarmakajesus",
+   "title_with_featured": "Psykofarmakajesus",
+   "url": "https://genius.com/Roffe-ruff-psykofarmakajesus-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/68892",
+    "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+    "id": 68892,
+    "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Roffe Ruff",
+    "url": "https://genius.com/artists/Roffe-ruff"
+   },
+   "apple_music_id": "646799631",
+   "apple_music_player_url": "https://genius.com/songs/2001726/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2001726' class='rg_embed_link' data-song-id='2001726'>Read <a href='https://genius.com/Roffe-ruff-psykofarmakajesus-lyrics'>\u201cPsykofarmakajesus\u201d by Roffe\u00a0Ruff</a> on Genius</div> <script crossorigin src='//genius.com/songs/2001726/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/166763",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "Bootlegs by Roffe Ruff",
+    "id": 166763,
+    "name": "Bootlegs",
+    "url": "https://genius.com/albums/Roffe-ruff/Bootlegs",
+    "artist": {
+     "api_path": "/artists/68892",
+     "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "id": 68892,
+     "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Roffe Ruff",
+     "url": "https://genius.com/artists/Roffe-ruff"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6689311",
+    "classification": "needs_exegesis",
+    "fragment": "Psykofarmakajesus",
+    "id": 6689311,
+    "is_description": true,
+    "path": "/6689311/Roffe-ruff-psykofarmakajesus/Psykofarmakajesus",
+    "range": {
+     "content": "Psykofarmakajesus"
+    },
+    "song_id": 2001726,
+    "url": "https://genius.com/6689311/Roffe-ruff-psykofarmakajesus/Psykofarmakajesus",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2001726",
+     "client_timestamps": {
+      "updated_by_human_at": 1641592278,
+      "lyrics_updated_at": 1641592278
+     },
+     "context": "Roffe Ruff",
+     "id": 2001726,
+     "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "link_title": "Psykofarmakajesus by\u00a0Roffe\u00a0Ruff",
+     "title": "Psykofarmakajesus",
+     "type": "Song",
+     "url": "https://genius.com/Roffe-ruff-psykofarmakajesus-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6689311",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6689311,
+      "pinned": false,
+      "share_url": "https://genius.com/6689311",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6689311/Roffe-ruff-psykofarmakajesus/Psykofarmakajesus",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Roffe Ruff",
+   "lyrics": "Psykofarmakajesus Lyrics[Hook]\nDom ger mig inga raka svar, det enda som jag f\u00e5r e mediciner\nPsykofarmaka e Jesus f\u00f6r en s\u00e5n som jag\nCipramil e v\u00e5ra nya vitaminer\n\n[Vers 1]\nHar alltid haft k\u00e4nslan av att n\u00e5gon jagar mig\nKollar \u00f6ver axeln stup i kvarten men det \u00e4r aldrig n\u00e5gon bakom mig\nHar alltid k\u00e4nt att jag \u00e4r levande begravd\nS\u00e5 jag d\u00f6var mig med spriten tills min lever l\u00e4gger av\nF\u00f6r vi lever i en stad d\u00e4r ingen ser dom fel vi har\nVi som lider i de tysta, vi blir fler och fler var dag\nI bland k\u00e4nns livet som ett spadtag i frusen jord\nMen jag beh\u00f6ver ingen hj\u00e4lp, jag gr\u00e4ver mig min egen grop\nSimon sa de va n\u00e4r farmor sa det \u00e9 nog b\u00e4st\nHar man inget gott att s\u00e4ga kan man gott h\u00e5lla k\u00e4ft\nMin psykolog s\u00e4ger att jag m\u00e5ste \u00e4ndra mitt liv\nJag m\u00e5ste ta min medicin innan min liv \u00e4r f\u00f6rbi men fuck it\nAlla jag k\u00e4nner m\u00e5r precis som jag\nDom g\u00e5r och k\u00e4kar lyckopiller men m\u00e5r skit som jag\nS\u00e5 ja du kan beh\u00e5lla dina Imovane f\u00f6r sist jag tog dom var jag still knocked mitt p\u00e5 dan, get it?\n[Hook]\nDom ger mig inga raka svar det \u00e4nda som jag f\u00e5r e mediciner\nPsykofarmaka e Jesus f\u00f6r en s\u00e5n som jag\nCipramil e v\u00e5ra nya vitaminer\nDom ger mig inga raka svar, det enda som jag f\u00e5r e mediciner\nPsykofarmaka e Jesus f\u00f6r en s\u00e5n som jag\nCipramil e v\u00e5ra nya vitaminer\n\n[Vers 2]\nJag ligger s\u00f6mnl\u00f6s p\u00e5 n\u00e4tterna n\u00e4r ljuset \u00e4r sl\u00e4ckt\nD\u00e5 b\u00f6rjar \u00e5ngesten \u00e5 krypa tills jag dryper av svett\nOch jag f\u00f6rsvinner in i minnen in till en v\u00e4rld av mis\u00e4r\nFast \u00e4n jag inte l\u00e4ngre lever \u00e4r jag fortfarande h\u00e4r\nParalyserad av skr\u00e4cken handikappet f\u00f6r min sj\u00e4l\nSom g\u00f6r det sv\u00e5rt att acceptera \u00e4ven den som vill v\u00e4l\nF\u00f6r vissa vill v\u00e4l v\u00e4l p\u00e5 riktigt, andra sabba ditt liv\nOch vissa kallar mig f\u00f6rsiktig, andra paranoid\nMen den som klappar p\u00e5 din rygg kan lika v\u00e4l ha en kniv\nS\u00e5 jag placerar mig i rummet s\u00e5 ryggen e fri men ey\nVill inte ha n\u00e5gra tabletter men tanken lockar mer och mer\nDen g\u00f6r ju det n\u00e4r s\u00f6mnl\u00f6sa n\u00e4tter blir veckor av\n\u00c5ngest och sv\u00e5r depression, resultatet av sl\u00e4kten f\u00f6rpestade blod\n\n[Hook]\nDom ger mig inga raka svar, det enda som jag f\u00e5r e mediciner\nPsykofarmaka e jesus f\u00f6r en s\u00e5n som jag\nCipramil e v\u00e5ra nya vitaminer\nDom ger mig inga raka svar, det enda som jag f\u00e5r e mediciner\nPsykofarmaka e Jesus f\u00f6r en s\u00e5n som jag\nCipramil e v\u00e5ra nya vitaminerYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/2826569",
+   "artist_names": "Roffe Ruff",
+   "full_title": "Kakafoni by\u00a0Roffe\u00a0Ruff",
+   "header_image_thumbnail_url": "https://images.genius.com/3d36ec809eb913e6cbdd108730a58bc4.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3d36ec809eb913e6cbdd108730a58bc4.700x700x1.jpg",
+   "id": 2826569,
+   "language": "sv",
+   "lyrics_owner_id": 3526737,
+   "lyrics_state": "complete",
+   "path": "/Roffe-ruff-kakafoni-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Roffe-ruff-kakafoni-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 7,
+    "day": 15
+   },
+   "release_date_for_display": "July 15, 2016",
+   "release_date_with_abbreviated_month_for_display": "Jul. 15, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/3d36ec809eb913e6cbdd108730a58bc4.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3d36ec809eb913e6cbdd108730a58bc4.700x700x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Kakafoni",
+   "title_with_featured": "Kakafoni",
+   "url": "https://genius.com/Roffe-ruff-kakafoni-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/68892",
+    "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+    "id": 68892,
+    "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Roffe Ruff",
+    "url": "https://genius.com/artists/Roffe-ruff"
+   },
+   "apple_music_id": "1130944079",
+   "apple_music_player_url": "https://genius.com/songs/2826569/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2826569' class='rg_embed_link' data-song-id='2826569'>Read <a href='https://genius.com/Roffe-ruff-kakafoni-lyrics'>\u201cKakafoni\u201d by Roffe\u00a0Ruff</a> on Genius</div> <script crossorigin src='//genius.com/songs/2826569/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-07-15",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/160881",
+    "cover_art_url": "https://images.genius.com/94d7976e265cb112105e3974b1a24097.600x600x1.jpg",
+    "full_title": "Och han \u00e4lskade dom alla by Roffe Ruff",
+    "id": 160881,
+    "name": "Och han \u00e4lskade dom alla",
+    "url": "https://genius.com/albums/Roffe-ruff/Och-han-alskade-dom-alla",
+    "artist": {
+     "api_path": "/artists/68892",
+     "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "id": 68892,
+     "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Roffe Ruff",
+     "url": "https://genius.com/artists/Roffe-ruff"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3526737,
+    "annotator_login": "BEAROFTHESEA",
+    "api_path": "/referents/10149542",
+    "classification": "needs_exegesis",
+    "fragment": "Kakafoni",
+    "id": 10149542,
+    "is_description": true,
+    "path": "/10149542/Roffe-ruff-kakafoni/Kakafoni",
+    "range": {
+     "content": "Kakafoni"
+    },
+    "song_id": 2826569,
+    "url": "https://genius.com/10149542/Roffe-ruff-kakafoni/Kakafoni",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2826569",
+     "client_timestamps": {
+      "updated_by_human_at": 1485434927,
+      "lyrics_updated_at": 1485434673
+     },
+     "context": "Roffe Ruff",
+     "id": 2826569,
+     "image_url": "https://images.genius.com/3d36ec809eb913e6cbdd108730a58bc4.700x700x1.jpg",
+     "link_title": "Kakafoni by\u00a0Roffe\u00a0Ruff",
+     "title": "Kakafoni",
+     "type": "Song",
+     "url": "https://genius.com/Roffe-ruff-kakafoni-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10149542",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10149542,
+      "pinned": false,
+      "share_url": "https://genius.com/10149542",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10149542/Roffe-ruff-kakafoni/Kakafoni",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3526737",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/963688273321c93b35e21ef2ba1a5a5f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/963688273321c93b35e21ef2ba1a5a5f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/963688273321c93b35e21ef2ba1a5a5f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/963688273321c93b35e21ef2ba1a5a5f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/963688273321c93b35e21ef2ba1a5a5f",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3526737,
+         "iq": 723,
+         "login": "BEAROFTHESEA",
+         "name": "BEAROFTHESEA",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/BEAROFTHESEA",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/197663",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 197663,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hofm\u00e4starn",
+     "url": "https://genius.com/artists/Hofmastarn"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Roffe Ruff",
+   "lyrics": "Kakafoni Lyrics[Intro: Sample]\nTa mig som jag \u00e4r\nTa mig som jag \u00e4r\n\u00c4r\nTa mig som jag \u00e4r\n\n[Vers 1]\nMan kan g\u00e5 s\u00f6nder inuti n\u00e4r tankar v\u00e4ger tungt\nOch det blir l\u00e4tt kakafoni n\u00e4r skiten skramlar runt\nOch den tragik som vi befinner oss i\nKr\u00e4ver musik att f\u00f6rsvinna bort i amnesti\nEtt andetag f\u00f6r sj\u00e4len\nInnan r\u00e5dande regering tar och har ihj\u00e4l en\nMan f\u00f6rv\u00e4ntas vara stark och ligga hack i h\u00e4l men\n\u00c4ven Akilles dukade under f\u00f6r ett jack i h\u00e4len\n(Ta mig som jag \u00e4r)\nAllt vi har nu \u00e4r tabletterna fr\u00e5n psykologen\nSom ska rensa ut skeletten ifr\u00e5n garderoben\nSinnesfrid finns inuti receptbelagda droger\nMen \u00e4nd\u00e5 ligger man p\u00e5 n\u00e4tterna n\u00e4r andra sover\nOch \u00e4ltar samma fr\u00e5gor\nFr\u00e5gan \u00e4r om man m\u00e5r b\u00e4ttre eller s\u00e4mre\nAv '\u00e5 v\u00e4nja sig vid gamla pl\u00e5gor\nK\u00e4nns buren nu naturlig f\u00f6r f\u00f6rs\u00f6kskaninen\nEller saknar den naturen utanf\u00f6r gardinen\n\u00c4r garantin att aldrig sakna mat p\u00e5 bordet\nV\u00e4rd att genomlida testerna i laboratoriet\n\u00c4r den meningsl\u00f6sa jakten efter livets mening\nOch minimala lyckorus \u00e4r rimlig anledning\n[Hook]\nMina brister \u00e4r en del av mig\nJag har l\u00e4rt mig acceptera alla delar som \u00e4r fel p\u00e5 mig\nOm det skr\u00e4mmer dig s\u00e5 f\u00e5r du dra iv\u00e4g\nMen om du \u00e4lskar mig s\u00e5 f\u00e5r du bara\n(Ta mig som jag \u00e4r)\nMina brister \u00e4r en del av mig\nJag har l\u00e4rt mig acceptera alla delar som \u00e4r fel p\u00e5 mig\nOm det skr\u00e4mmer dig s\u00e5 f\u00e5r du dra iv\u00e4g\nMen om du \u00e4lskar mig s\u00e5 f\u00e5r du bara\n(Ta mig som jag \u00e4r\nTa mig som jag \u00e4r\n\u00c4r\nTa mig som jag \u00e4r)\n\n[Vers 2]\nJag gick f\u00f6r l\u00e5ngt ut\nJag \u00f6versk\u00f6t m\u00e5let\n290 knyck r\u00e4tt ner i kaninh\u00e5let\nJag tappade bort mig sj\u00e4lv\nF\u00f6rlorade mot vintern\nDet var jag och Jack Nicholson i labyrinten\nMen s\u00e5dan galenskap\nSkapar ocks\u00e5 guldkorn\nSom sitter fast i ligamenten p\u00e5 en trasig ungdom\nMusiken som du \u00e4lskar\n\u00c4r sprungen ur mis\u00e4r men du kan \u00e4nd\u00e5 inte\n(Ta mig som jag \u00e4r)\nMen det \u00e4r en del av min apparatur\nEn mackap\u00e4r som funkar b\u00e4ttre n\u00e4r det fattas en skruv\nOch kanske \u00e4r psykosen utav samma natur\nMen det \u00e4r det n\u00e4rmaste jag kommer till '\u00e5 snacka med Gud\nDet du vill \u00e4ndra med ett fingerkn\u00e4pp\n\u00c4r redan fullst\u00e4ndig perfektion\nF\u00f6r ingenting \u00e4r perfekt\nMen du \u00e4r blind f\u00f6r din egna defekt\nOch jag \u00e4r tr\u00f6tt p\u00e5 vara kvinnors renoveringsobjekt, you know\nYou might also like[Hook]\nMina brister \u00e4r en del av mig\nJag har l\u00e4rt mig acceptera alla delar som \u00e4r fel p\u00e5 mig\nOm det skr\u00e4mmer dig s\u00e5 f\u00e5r du dra iv\u00e4g\nMen om du \u00e4lskar mig s\u00e5 f\u00e5r du bara\n(Ta mig som jag \u00e4r)\nMina brister \u00e4r en del av mig\nJag har l\u00e4rt mig acceptera alla delar som \u00e4r fel p\u00e5 mig\nOm det skr\u00e4mmer dig s\u00e5 f\u00e5r du dra iv\u00e4g\nMen om du \u00e4lskar mig s\u00e5 f\u00e5r du bara\n(Ta mig som jag \u00e4r)\n\n[Outro]\nHela mig\nDu kan inte hela mig\nOm du vill ha mig f\u00e5r du acceptera hela mig\nDu kan inte kr\u00e4va n\u00e5got mer av mig\nV\u00e4lja ut en del av mig\nOm du vill ha mig f\u00e5r du hela mig\nHela mig\nDu kan inte hela mig\nOm du vill ha mig f\u00e5r du acceptera hela mig\nDu kan inte kr\u00e4va n\u00e5got mer av mig\nV\u00e4lja ut en del av mig\nDu f\u00e5r bara\n(Ta mig som jag \u00e4r)Embed"
+  },
+  {
+   "annotation_count": 9,
+   "api_path": "/songs/606923",
+   "artist_names": "Roffe Ruff",
+   "full_title": "Barrabas by\u00a0Roffe\u00a0Ruff",
+   "header_image_thumbnail_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.300x194x1.jpg",
+   "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+   "id": 606923,
+   "language": "sv",
+   "lyrics_owner_id": 343469,
+   "lyrics_state": "complete",
+   "path": "/Roffe-ruff-barrabas-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Roffe-ruff-barrabas-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.300x194x1.jpg",
+   "song_art_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+   "stats": {
+    "accepted_annotations": 4,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 4,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Barrabas",
+   "title_with_featured": "Barrabas",
+   "url": "https://genius.com/Roffe-ruff-barrabas-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/68892",
+    "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+    "id": 68892,
+    "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Roffe Ruff",
+    "url": "https://genius.com/artists/Roffe-ruff"
+   },
+   "apple_music_id": "1135314768",
+   "apple_music_player_url": "https://genius.com/songs/606923/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_606923' class='rg_embed_link' data-song-id='606923'>Read <a href='https://genius.com/Roffe-ruff-barrabas-lyrics'>\u201cBarrabas\u201d by Roffe\u00a0Ruff</a> on Genius</div> <script crossorigin src='//genius.com/songs/606923/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 343469,
+    "annotator_login": "Fasader",
+    "api_path": "/referents/4489375",
+    "classification": "needs_exegesis",
+    "fragment": "Barrabas",
+    "id": 4489375,
+    "is_description": true,
+    "path": "/4489375/Roffe-ruff-barrabas/Barrabas",
+    "range": {
+     "content": "Barrabas"
+    },
+    "song_id": 606923,
+    "url": "https://genius.com/4489375/Roffe-ruff-barrabas/Barrabas",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/606923",
+     "client_timestamps": {
+      "updated_by_human_at": 1420377575,
+      "lyrics_updated_at": 1420377576
+     },
+     "context": "Roffe Ruff",
+     "id": 606923,
+     "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "link_title": "Barrabas by\u00a0Roffe\u00a0Ruff",
+     "title": "Barrabas",
+     "type": "Song",
+     "url": "https://genius.com/Roffe-ruff-barrabas-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4489375",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 4489375,
+      "pinned": false,
+      "share_url": "https://genius.com/4489375",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/4489375/Roffe-ruff-barrabas/Barrabas",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/343469",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1669064443",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1669064443",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1669064443",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "human_readable_role_for_display": "Contributor",
+         "id": 343469,
+         "iq": 445,
+         "login": "Fasader",
+         "name": "Fasader",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Fasader",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Roffe Ruff",
+   "lyrics": "Barrabas Lyrics[Vers 1]\nTar det aldrig slut\nSaltet g\u00f6r att huden spricker upp, l\u00e4mnar \u00f6ppna s\u00e5r d\u00e4r benen sticker ut\nKan inte annat \u00e4n att sm\u00e5le\nHar sv\u00e5rt att andas, jag f\u00f6rvandlas till en flugbuff\u00e9 p\u00e5 tv\u00e5 ben\nAkilles klagar \u00f6ver skavs\u00e5r\nI sina nya Gucci-dojor t\u00e5l han mindre \u00e4n ett barn t\u00e5l\nOch han har trampat mig p\u00e5 nerverna i fyra dar\nDet kan betyda att en sanddyna blir hans grav\nTur f\u00f6r han att jag har knappt energi\nAtt f\u00f6rm\u00e5 mina ben att ta \u00e4nnu ett kliv\nHar slutat tro p\u00e5 att jag n\u00e5nsin kommer dit\nI horisonten v\u00e4ntar inget b\u00e4ttre liv bara mera mer\nJesus vill att jag f\u00f6rl\u00e5ter dom\nSom har f\u00f6rvisat mig fr\u00e5n byn, men jag har sv\u00e5rt att f\u00f6rl\u00e5ta n\u00e5n\nSom h\u00e5ller k\u00e4ften f\u00f6r att r\u00e4dda sitt skinn\nNi \u00e4r smuts i mina \u00f6gon ni betyder ingenting (\u00d6h)\n[Refr\u00e4ng 1]\nMen jag lovar att jag kommer tillbaks\nOch ingen kommer hj\u00e4lpa er d\u00e5 den dagen gryr\nF\u00f6r hela byn kommer st\u00e5 till svars\nOch alla kommer f\u00e5 k\u00e4nna p\u00e5 mitt raseri\n\n[Vers 2]\nAkilles duka under den sista timmen\nMed en lipsill som pl\u00e5gade mig mer \u00e4n mina sjuka l\u00f6gner\nJag k\u00e4nner hungern gro\nOm jag ska f\u00f6lja i hans fotsteg s\u00e5 kommer jag \u00e5tminstone ha lugn och ro\nSolen skapar illusioner hallucinationer\nSanden blir till gr\u00e4s skuggor blir till floder\nDe tycks f\u00f6rsvinna varje g\u00e5ng jag kutar fram\nJag kupar h\u00e4nderna skopar upp och suger i mig sand\nS\u00e5 pl\u00f6tsligt blir det natt\nBlicken fastnar p\u00e5 en silhuett som n\u00e4rmar sig jag tror att hj\u00e4rnan spelar ett spratt\nEn r\u00f6st som s\u00e4ger fokusera min v\u00e4n\nDu har s\u00e5 lite kvar du m\u00e5ste upp p\u00e5 benen igen\nJag vet att livet har varit or\u00e4ttvist\nMen jag kan hj\u00e4lpa dig p\u00e5 traven lilla m\u00e4nniskogris\nOm du vill s\u00e5 kan vi bilda en pakt, med en droppe av blod\nBeh\u00f6ver inget kontrakt, jag \u00e4r en man av mitt ord\n\n[Refr\u00e4ng 2]\nMen jag lovar att jag kommer tillbaks\nFast ingen kommer s\u00e4ga dig n\u00e4r den dagen blir\nOch n\u00e4r jag kommer f\u00f6r att ta betalt\nS\u00e5 finns det ingen r\u00e4ddning eller amnesty\nYou might also like[Vers 3]\nJag accepterar dealen\nHan fyller p\u00e5 med mat och vatten, plus en karta och kompass f\u00f6r den sista milen\nOch p\u00e5 n\u00e5tt m\u00e4rkligt s\u00e4tt\nS\u00e5 verkar alla mina s\u00e5r ha l\u00e4kt igen\nOch hela kroppen verkar fj\u00e4derl\u00e4tt\nJag liksom sv\u00e4var fram\nEndast tyngd av mina minnen plus ett brinnande sv\u00e4rd i min v\u00e4nstra hand\nOch i min andra hand en filofax med namn\nMed tid och plats och garanti f\u00f6r vad som komma skall\nKalla mig k\u00e4nslokall man kan bli kallad v\u00e4rre\nSom att bli kallad Judas av sina b\u00e4sta v\u00e4nner\nAtt uteslutas och f\u00f6rskjutas fast det inte st\u00e4mmer\nAtt f\u00f6r\u00f6dmjukas n\u00e5tt s\u00e5 sinnessjukt att allt man k\u00e4nner\n\u00c4r f\u00f6r att m\u00f6rda dom, nu b\u00f6rjar gryningen\nIgenom h\u00e5len i min mask ser jag byn igen\nDen tonar upp sig bakom kullen lite l\u00e4ngre fram\nJag b\u00f6rjar springa allt jag har med sv\u00e4rdet i min hand\n\n[Refr\u00e4ng 3]\nF\u00f6r jag lovade att komma tillbaka\nMen ingen skulle tro p\u00e5 mig naturligtvis\nS\u00e5 nu har ni bara askan kvar\nJag kommer att f\u00e5 brinna i en evighet\nF\u00f6r jag lovade att komma tillbaks\nMen ingen skulle tro p\u00e5 mig naturligtvis\nS\u00e5 nu har ni bara askan kvar\nJag kommer att f\u00e5 brinna i en evighet\n(L\u00e5t det brinna x[?])Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3061442",
+   "artist_names": "Roffe Ruff",
+   "full_title": "Blackout by\u00a0Roffe\u00a0Ruff",
+   "header_image_thumbnail_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.300x194x1.jpg",
+   "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+   "id": 3061442,
+   "language": "sv",
+   "lyrics_owner_id": 3651794,
+   "lyrics_state": "complete",
+   "path": "/Roffe-ruff-blackout-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Roffe-ruff-blackout-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 4,
+    "day": 21
+   },
+   "release_date_for_display": "April 21, 2017",
+   "release_date_with_abbreviated_month_for_display": "Apr. 21, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.300x194x1.jpg",
+   "song_art_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Blackout",
+   "title_with_featured": "Blackout",
+   "url": "https://genius.com/Roffe-ruff-blackout-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/68892",
+    "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+    "id": 68892,
+    "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Roffe Ruff",
+    "url": "https://genius.com/artists/Roffe-ruff"
+   },
+   "apple_music_id": "1221055202",
+   "apple_music_player_url": "https://genius.com/songs/3061442/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3061442' class='rg_embed_link' data-song-id='3061442'>Read <a href='https://genius.com/Roffe-ruff-blackout-lyrics'>\u201cBlackout\u201d by Roffe\u00a0Ruff</a> on Genius</div> <script crossorigin src='//genius.com/songs/3061442/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-04-21",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3651794,
+    "annotator_login": "jekv",
+    "api_path": "/referents/11705148",
+    "classification": "needs_exegesis",
+    "fragment": "Blackout",
+    "id": 11705148,
+    "is_description": true,
+    "path": "/11705148/Roffe-ruff-blackout/Blackout",
+    "range": {
+     "content": "Blackout"
+    },
+    "song_id": 3061442,
+    "url": "https://genius.com/11705148/Roffe-ruff-blackout/Blackout",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3061442",
+     "client_timestamps": {
+      "updated_by_human_at": 1493129611,
+      "lyrics_updated_at": 1493129611
+     },
+     "context": "Roffe Ruff",
+     "id": 3061442,
+     "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "link_title": "Blackout by\u00a0Roffe\u00a0Ruff",
+     "title": "Blackout",
+     "type": "Song",
+     "url": "https://genius.com/Roffe-ruff-blackout-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11705148",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11705148,
+      "pinned": false,
+      "share_url": "https://genius.com/11705148",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11705148/Roffe-ruff-blackout/Blackout",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3651794",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ff5b60848a3c46c9c7a4d4410d31f842",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ff5b60848a3c46c9c7a4d4410d31f842",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ff5b60848a3c46c9c7a4d4410d31f842",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ff5b60848a3c46c9c7a4d4410d31f842",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/ff5b60848a3c46c9c7a4d4410d31f842",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3651794,
+         "iq": 1039,
+         "login": "jekv",
+         "name": "jekv",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/jekv",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=x0DqTGhgOUQ"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/197663",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 197663,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hofm\u00e4starn",
+     "url": "https://genius.com/artists/Hofmastarn"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Roffe Ruff",
+   "lyrics": "Blackout Lyrics[Vers 1]\nVarje natt var som att l\u00e4gga huvudet p\u00e5 en stubbe\nOch hoppas att man vaknade innan yxan f\u00f6ll\nS\u00e5 jag b\u00f6rjade med n\u00e5t skotts\u00e4kert under min kudde\nOch ett sn\u00f6re runt mitt finger till min ytterd\u00f6rr\nMina tankar var besl\u00e4ktade med natten\nDet \u00e4r priset eller tacken f\u00f6r det vatten du har fostrats ur\nMen jag skyller inte mamma f\u00f6r debaclet\nJag kan t\u00e4nka mig att hon har g\u00e5tt genom samma procedur\nMin spiral var f\u00f6rv\u00e4ntad ifr\u00e5n barnsben\nMen jag b\u00f6rjade aldrig punda som min \u00e5rskull\nS\u00e5 alla dom som har betalat f\u00f6r min gravsten\n\u00c4r nu besvikna f\u00f6r att liket st\u00e5r i sv\u00e5r skuld\nFemton gastar p\u00e5 min lista\nFemton landskap f\u00f6r den ilska jag har kvar att ge\nS\u00e5 st\u00e4ll en flaska p\u00e5 min kista\nOch kom ih\u00e5g mig f\u00f6r det sista som jag gav till er\n[Hook]\nSom en blackout n\u00e4r jag t\u00e4nker p\u00e5 det\nDet \u00e4r som att hj\u00e4rnan v\u00e4grar att f\u00f6rst\u00e5 det\nJag k\u00e4nner ingenting f\u00f6r det mesta\nOch f\u00f6r det mesta g\u00f6r det ingenting\nS\u00e5 kanske \u00e4r det f\u00f6r mitt eget b\u00e4sta\nF\u00f6r det f\u00f6r\u00e4ndrar \u00e4nd\u00e5 ingenting\n\n[Vers 2]\nDin b\u00e4sta v\u00e4n kan byta krets\nOch s\u00e4lja ut dig som en styckvara\nSl\u00e4pper du blicken fr\u00e5n ditt ex\nS\u00e4tter hon siktet p\u00e5 din ryggtavla\nInga t\u00e5rar f\u00f6r dom obetydligt bytbara\nDessa d\u00e5rar med Napoleon-komplex\nDom \u00e4r fortfarande kvar i samma strypsnara\nSom en v\u00e5lnad ifr\u00e5n 1996\nI mina dr\u00f6mmar har jag middag med min egen skugga\nEn tradig tradition som leder ingenstans\nDen matar mig med bilder fr\u00e5n en minneslucka\nJag k\u00e4nner bara eftersmaken i min hals\nF\u00f6r vissa k\u00e4nslor \u00e4r raderade fr\u00e5n mitt register\nEn tomhet fyller rummet sen dom uteblev\nEtt stopp som stannar upp mina primala drifter\nHar l\u00e4mnat mig bed\u00f6vad ifr\u00e5n huvudet ner\nYou might also like[Hook]\nSom en blackout n\u00e4r jag t\u00e4nker p\u00e5 det\nDet \u00e4r som att hj\u00e4rnan v\u00e4grar att f\u00f6rst\u00e5 det\nJag k\u00e4nner ingenting f\u00f6r det mesta\nOch f\u00f6r det mesta g\u00f6r det ingenting\nS\u00e5 kanske \u00e4r det f\u00f6r mitt eget b\u00e4sta\nF\u00f6r det f\u00f6r\u00e4ndrar \u00e4nd\u00e5 ingenting\n\n[Outro]\nS\u00e5 l\u00e5t det brinna, l\u00e5t hela skiten brinna\nIngenting \u00e4r v\u00e4rt att sakna i din sista timma\nAlla saker som du sparade kommer snart f\u00f6rsvinna\nDina g\u00e4rningar \u00e4r allt som din familj ska minnas\nS\u00e5 l\u00e5t det brinna, l\u00e5t hela skiten brinna\nIngenting \u00e4r v\u00e4rt att sakna i din sista timma\nAlla saker som du sparade kommer snart f\u00f6rsvinna\nDina g\u00e4rningar \u00e4r allt som din familj ska minnas\nS\u00e5 l\u00e5t det brinna, l\u00e5t hela skiten brinna\n(L\u00e5t hela skiten brinna, l\u00e5t hela skiten brinna)\nL\u00e5t det brinna som ditt hj\u00e4rta en g\u00e5ng brann f\u00f6r migEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3514018",
+   "artist_names": "Roffe Ruff",
+   "full_title": "Stanna hemma by\u00a0Roffe\u00a0Ruff",
+   "header_image_thumbnail_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.300x194x1.jpg",
+   "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+   "id": 3514018,
+   "language": "sv",
+   "lyrics_owner_id": 4621096,
+   "lyrics_state": "complete",
+   "path": "/Roffe-ruff-stanna-hemma-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Roffe-ruff-stanna-hemma-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.300x194x1.jpg",
+   "song_art_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Stanna hemma",
+   "title_with_featured": "Stanna hemma",
+   "url": "https://genius.com/Roffe-ruff-stanna-hemma-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/68892",
+    "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+    "id": 68892,
+    "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Roffe Ruff",
+    "url": "https://genius.com/artists/Roffe-ruff"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/3514018/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3514018' class='rg_embed_link' data-song-id='3514018'>Read <a href='https://genius.com/Roffe-ruff-stanna-hemma-lyrics'>\u201cStanna hemma\u201d by Roffe\u00a0Ruff</a> on Genius</div> <script crossorigin src='//genius.com/songs/3514018/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4621096,
+    "annotator_login": "JosefsTiselius",
+    "api_path": "/referents/13821210",
+    "classification": "needs_exegesis",
+    "fragment": "Stanna hemma",
+    "id": 13821210,
+    "is_description": true,
+    "path": "/13821210/Roffe-ruff-stanna-hemma/Stanna-hemma",
+    "range": {
+     "content": "Stanna hemma"
+    },
+    "song_id": 3514018,
+    "url": "https://genius.com/13821210/Roffe-ruff-stanna-hemma/Stanna-hemma",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3514018",
+     "client_timestamps": {
+      "updated_by_human_at": 1595686805,
+      "lyrics_updated_at": 1595686805
+     },
+     "context": "Roffe Ruff",
+     "id": 3514018,
+     "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "link_title": "Stanna hemma by\u00a0Roffe\u00a0Ruff",
+     "title": "Stanna hemma",
+     "type": "Song",
+     "url": "https://genius.com/Roffe-ruff-stanna-hemma-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13821210",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 13821210,
+      "pinned": false,
+      "share_url": "https://genius.com/13821210",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/13821210/Roffe-ruff-stanna-hemma/Stanna-hemma",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4621096",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/93326f3f0ce64c659414fa6ff5da24c7",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/93326f3f0ce64c659414fa6ff5da24c7",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/93326f3f0ce64c659414fa6ff5da24c7",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/93326f3f0ce64c659414fa6ff5da24c7",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/93326f3f0ce64c659414fa6ff5da24c7",
+         "human_readable_role_for_display": null,
+         "id": 4621096,
+         "iq": 113,
+         "login": "JosefsTiselius",
+         "name": "JosefsTiselius",
+         "role_for_display": null,
+         "url": "https://genius.com/JosefsTiselius",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=bX1InSQEtlQ"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/27603",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/interview2009.11.13-trickystewart.jpg",
+     "id": 27603,
+     "image_url": "https://s3.amazonaws.com/rapgenius/interview2009.11.13-trickystewart.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Tricky Stewart",
+     "url": "https://genius.com/artists/Tricky-stewart",
+     "iq": 920
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/68892",
+     "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "id": 68892,
+     "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Roffe Ruff",
+     "url": "https://genius.com/artists/Roffe-ruff"
+    }
+   ],
+   "artist": "Roffe Ruff",
+   "lyrics": "Stanna hemma LyricsDu vet att allt jag har\nNu n\u00e4r jag \u00e4r mina p\u00e5 mina \u00e4ldre dar\nDet \u00e4r en samling vaga minnen kvar\nFr\u00e5n en l\u00f6rdag p\u00e5 en s\u00e4mre bar\nOch jag vill bara ta det chill\nOch kanske dricka n\u00e5gra pavor till\nSen fram mot natten baby om du vill\nS\u00e5 kan jag visa hur ett barn blir till\n\n*ref* baby n\u00e4r du tr\u00e4ffar dina folks kan du ber\u00e4tta\nAtt du har tj\u00f6ckat med en 31:a\nEn alkis utav rang som har det sv\u00e5rt\nEn rufflare som alltid dricker h\u00e5rt\nDet m\u00e5ste vara sv\u00e5rt f\u00f6r dig o greppa\nDu har aldrig haft n\u00e5t sk\u00e4l o deppa\nN\u00e4r jag k\u00e4nner t\u00e5rar b\u00f6rja br\u00e4nna\nJa, det \u00e4r d\u00e5 jag m\u00e5ste ut o r\u00e4nna\n\u00c4nna \u00e4nna \u00e4h \u00e4h ey ey\nD\u00e5 kan jag inte stanna hemma\nHemma hemma nej nej nej nej*ref*\nJag trodde att du var min v\u00e4n\nMen du vill ha mig p\u00e5 behandlingshem\nDu tror att torken kommer r\u00e4dda mig\nMen dina modersk\u00e4nslor lurar dig\nOm du m\u00e5ste leka lilljesus\nD\u00e5 kan du tv\u00e4tta mig och kamma l\u00f6ss\nN\u00e4r roffe v\u00e4grar vara 30 plus\nMed hela magen full av antabus\n\n*ref*\n\nHar alltid haft ett hoppl\u00f6st liv\nDet blir f\u00f6r sv\u00e5rt, f\u00f6r depressivt\nKom inte och s\u00e4g, att du kan r\u00e4dda mig\nS\u00e5 se det fr\u00e5n mitt perspektiv, ju mer jag super ju mer jag blir som mig\n\n*ref*\n\nGe mig lite baileys baileys\nOo baby lite baileys baileys\nKom inte och s\u00e4g att du kan r\u00e4dda mig\nUtan ge mig lite baileys baileys oo\nLite baileys baileys...You might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2059096",
+   "artist_names": "Roffe Ruff",
+   "full_title": "Solen f\u00f6rsvann by\u00a0Roffe\u00a0Ruff",
+   "header_image_thumbnail_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.300x194x1.jpg",
+   "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+   "id": 2059096,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Roffe-ruff-solen-forsvann-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Roffe-ruff-solen-forsvann-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.300x194x1.jpg",
+   "song_art_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Solen f\u00f6rsvann",
+   "title_with_featured": "Solen f\u00f6rsvann",
+   "url": "https://genius.com/Roffe-ruff-solen-forsvann-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/68892",
+    "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+    "id": 68892,
+    "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Roffe Ruff",
+    "url": "https://genius.com/artists/Roffe-ruff"
+   },
+   "apple_music_id": "646799634",
+   "apple_music_player_url": "https://genius.com/songs/2059096/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2059096' class='rg_embed_link' data-song-id='2059096'>Read <a href='https://genius.com/Roffe-ruff-solen-forsvann-lyrics'>\u201cSolen f\u00f6rsvann\u201d by Roffe\u00a0Ruff</a> on Genius</div> <script crossorigin src='//genius.com/songs/2059096/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/166763",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "Bootlegs by Roffe Ruff",
+    "id": 166763,
+    "name": "Bootlegs",
+    "url": "https://genius.com/albums/Roffe-ruff/Bootlegs",
+    "artist": {
+     "api_path": "/artists/68892",
+     "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "id": 68892,
+     "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Roffe Ruff",
+     "url": "https://genius.com/artists/Roffe-ruff"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6798809",
+    "classification": "needs_exegesis",
+    "fragment": "Solen f\u00f6rsvann",
+    "id": 6798809,
+    "is_description": true,
+    "path": "/6798809/Roffe-ruff-solen-forsvann/Solen-forsvann",
+    "range": {
+     "content": "Solen f\u00f6rsvann"
+    },
+    "song_id": 2059096,
+    "url": "https://genius.com/6798809/Roffe-ruff-solen-forsvann/Solen-forsvann",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2059096",
+     "client_timestamps": {
+      "updated_by_human_at": 1481762597,
+      "lyrics_updated_at": 1433952115
+     },
+     "context": "Roffe Ruff",
+     "id": 2059096,
+     "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "link_title": "Solen f\u00f6rsvann by\u00a0Roffe\u00a0Ruff",
+     "title": "Solen f\u00f6rsvann",
+     "type": "Song",
+     "url": "https://genius.com/Roffe-ruff-solen-forsvann-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6798809",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6798809,
+      "pinned": false,
+      "share_url": "https://genius.com/6798809",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6798809/Roffe-ruff-solen-forsvann/Solen-forsvann",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Roffe Ruff",
+   "lyrics": "Solen f\u00f6rsvann LyricsHelskotta gott!\nS\u00e5 j\u00e4vla helskotta gott!\nJaa! Ja! Jaaa!\nUh! Uhh! Ja!\nDet skulla vara min tur att skina men solen f\u00f6rsvann\nF\u00f6r Gillis fukka upp mitt namn\nEr kille heter Roffe Ruff inget annat man\nSe till att f\u00e5 det r\u00e4tt f\u00f6r fan\nDet skulla vara min tur att skina men solen f\u00f6rsvann\nF\u00f6r Gillis fukka upp mitt namn\nEr kille heter Roffe Ruff inget annat man\nSe till att f\u00e5 det r\u00e4tt f\u00f6r fan\nF\u00f6r Roffe Ruff \u00e4r ingen blyg viol, jag ligger halvn\u00e4ck och b\u00e4rsar i en babypool\nJag \u00e4r lika vinglig som en trebent stol\nJag s\u00e4krar greppet runt micken med en h\u00e4ftpistol\nDu vet lika v\u00e4l som jag att jag m\u00f6rda' alla andra\nMed min l\u00e5t p\u00e5 reggae-propaganda\nDu h\u00f6r min skit fr\u00e5n H\u00f6\u00f6r till Haparanda\nSkiter det sig nu finns bara en man och klandra\nDet skulla vara min tur att skina men solen f\u00f6rsvann\nF\u00f6r Gillis fukka upp mitt namn\nEr kille heter Roffe Ruff inget annat man\nSe till att f\u00e5 det r\u00e4tt f\u00f6r fan\nDet skulla vara min tur att skina men solen f\u00f6rsvann\nF\u00f6r Gillis fukka upp mitt namn\nEr kille heter Roffe Ruff inget annat man\nSe till att f\u00e5 det r\u00e4tt f\u00f6r fan\nNyss utsl\u00e4ppt fr\u00e5n h\u00e4ktet jag bl\u00f6der\nMed hela fickan full med grus (lite sm\u00e5grus)\nJag har en Stim-check p\u00e5 tv\u00e5hundra kl\u00f6ver\nSom jag ska ta och l\u00f6sa ut\nS\u00e5 raka v\u00e4gen till Posten fr\u00e5n h\u00e4ktet\nGoddag mitt namn \u00e4r Roffe Ruffe (Elegant!)\nDet st\u00e5r ett helt annat namn h\u00e4r p\u00e5 checken\nJag blir betraktat som en bluff\nA men va faaan! Gillis!!!\nDet skulla vara min tur att skina men solen f\u00f6rsvann\nF\u00f6r Gillis fukka upp mitt namn\nEr kille heter Roffe Ruff inget annat man\nSe till att f\u00e5 det r\u00e4tt f\u00f6r fan\nDet skulla vara min tur att skina men solen f\u00f6rsvann\nF\u00f6r Gillis fukka upp mitt namn\nEr kille heter Roffe Ruff inget annat man\nSe till att f\u00e5 det r\u00e4tt f\u00f6r fan\nJag tr\u00e4ffa Roffe Ruff n\u00e4r jag va' ute f\u00f6r att g\u00e5\nHan va skyldig mig n\u00e5gra hundra, tror best\u00e4mt att det var tv\u00e5\nFr\u00e5n senast n\u00e4r vi drack, ja jag tror det va' Prippens Bl\u00e5\nJag beh\u00f6ver mina pengar och det m\u00e5ste du f\u00f6rst\u00e5\nMen han kom med n\u00e5gon urs\u00e4kt som han trodde jag gick p\u00e5\nOm n\u00e5n' j\u00e4vla propaganda och en l\u00e5t som skulle sl\u00e5\n(Lyssna p\u00e5 mig Tommy!)\n(Du kan ju r\u00e4kna ut det med arslet och en krita att han tj\u00e4nar pengar p\u00e5 mig!)\nOjaja d\u00e5 \u00e4r vi tv\u00e5\nDu trodde det va din tur att skina, jass\u00e5 minsann\nMen vet du det kan g\u00e5 ibland\nF\u00f6r du vet att om du k\u00e4mpat och rufflat och rott n\u00e5t' i hamn\nKan solen va' n\u00e5n' annanstans\nF\u00f6r Du trodde det va' din tur att skina, jass\u00e5 minsann\nMen vet du det kan g\u00e5 ibland\nF\u00f6r du vet att om du k\u00e4mpat och rufflat och rott n\u00e5t' i hamn\nKan solen va' n\u00e5n' annanstans\n(Men fan, du kan ju r\u00e4kna p\u00e5 det sj\u00e4lv!)\n(Ta... Va' ska vi s\u00e4ga... tv\u00e5hundra sp\u00e4nn g\u00e5nger...)\n(Va' kan det va'... en miljooon han trycker upp! Va' blir det?)\n(Ja, tv\u00e5 miljoner minst iallafall det kan jag s\u00e4ga dig!)\n(H\u00e4r st\u00e5r jag med checken i handen ifr\u00e5n Stim, f\u00e4rsk ny som fr\u00e5n bageriet)\n(Kan man s\u00e4ga det? N\u00e4, det kanske man inte kan s\u00e4ga... Men skit samma iallfall!)\n(Tv\u00e5 sk\u00f6na gr\u00f6na i min hand, g\u00e5r in d\u00e4r, va s\u00e4ger dom d\u00e5?)\n(Det st\u00e5r Roffe The Ruffler p\u00e5 den!)\n(Ja, men jag s\u00e4ger ju jag \u00e4r Roffe Ruff f\u00f6r helvete)\n(Jag har sagt till Gillis fem g\u00e5nger innan han sl\u00e4pper skiten f\u00f6' helvete!)\n(Jag ringer upp han dan' innan skiten trycks och s\u00e4ger)\n(Geee mig r\u00e4tt namn nu f\u00f6r fan Gillis)\n(Jag lovar dig s\u00e4ger han, grheeee grhee, jag lovar dig, grheee)\n(N\u00e4! N\u00e4! Va f\u00e5r jag d\u00e5? Jag f\u00e5r pisset av en j\u00e4vla k\u00e4rring)\n(Hon \u00e4r ju f\u00f6r fan sextifem bast hon borde v\u00e4l f\u00f6rfan g\u00e5tt i pension f\u00f6r l\u00e4nge sen)\n(Det j\u00e4vla aset)You might also likeEmbed"
+  },
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/2826296",
+   "artist_names": "Roffe Ruff",
+   "full_title": "Anna by\u00a0Roffe\u00a0Ruff",
+   "header_image_thumbnail_url": "https://images.genius.com/3d36ec809eb913e6cbdd108730a58bc4.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3d36ec809eb913e6cbdd108730a58bc4.700x700x1.jpg",
+   "id": 2826296,
+   "language": "sv",
+   "lyrics_owner_id": 3526737,
+   "lyrics_state": "complete",
+   "path": "/Roffe-ruff-anna-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Roffe-ruff-anna-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 7,
+    "day": 15
+   },
+   "release_date_for_display": "July 15, 2016",
+   "release_date_with_abbreviated_month_for_display": "Jul. 15, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/3d36ec809eb913e6cbdd108730a58bc4.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3d36ec809eb913e6cbdd108730a58bc4.700x700x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 4,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Anna",
+   "title_with_featured": "Anna",
+   "url": "https://genius.com/Roffe-ruff-anna-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/68892",
+    "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+    "id": 68892,
+    "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Roffe Ruff",
+    "url": "https://genius.com/artists/Roffe-ruff"
+   },
+   "apple_music_id": "1130944081",
+   "apple_music_player_url": "https://genius.com/songs/2826296/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2826296' class='rg_embed_link' data-song-id='2826296'>Read <a href='https://genius.com/Roffe-ruff-anna-lyrics'>\u201cAnna\u201d by Roffe\u00a0Ruff</a> on Genius</div> <script crossorigin src='//genius.com/songs/2826296/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-07-15",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/160881",
+    "cover_art_url": "https://images.genius.com/94d7976e265cb112105e3974b1a24097.600x600x1.jpg",
+    "full_title": "Och han \u00e4lskade dom alla by Roffe Ruff",
+    "id": 160881,
+    "name": "Och han \u00e4lskade dom alla",
+    "url": "https://genius.com/albums/Roffe-ruff/Och-han-alskade-dom-alla",
+    "artist": {
+     "api_path": "/artists/68892",
+     "header_image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "id": 68892,
+     "image_url": "https://images.genius.com/07d0c65017632b769cb59bae3b227125.412x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Roffe Ruff",
+     "url": "https://genius.com/artists/Roffe-ruff"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3526737,
+    "annotator_login": "BEAROFTHESEA",
+    "api_path": "/referents/10146791",
+    "classification": "needs_exegesis",
+    "fragment": "Anna",
+    "id": 10146791,
+    "is_description": true,
+    "path": "/10146791/Roffe-ruff-anna/Anna",
+    "range": {
+     "content": "Anna"
+    },
+    "song_id": 2826296,
+    "url": "https://genius.com/10146791/Roffe-ruff-anna/Anna",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2826296",
+     "client_timestamps": {
+      "updated_by_human_at": 1611129496,
+      "lyrics_updated_at": 1611129496
+     },
+     "context": "Roffe Ruff",
+     "id": 2826296,
+     "image_url": "https://images.genius.com/3d36ec809eb913e6cbdd108730a58bc4.700x700x1.jpg",
+     "link_title": "Anna by\u00a0Roffe\u00a0Ruff",
+     "title": "Anna",
+     "type": "Song",
+     "url": "https://genius.com/Roffe-ruff-anna-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10146791",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10146791,
+      "pinned": false,
+      "share_url": "https://genius.com/10146791",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10146791/Roffe-ruff-anna/Anna",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3526737",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/963688273321c93b35e21ef2ba1a5a5f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/963688273321c93b35e21ef2ba1a5a5f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/963688273321c93b35e21ef2ba1a5a5f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/963688273321c93b35e21ef2ba1a5a5f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/963688273321c93b35e21ef2ba1a5a5f",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3526737,
+         "iq": 723,
+         "login": "BEAROFTHESEA",
+         "name": "BEAROFTHESEA",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/BEAROFTHESEA",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/197663",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 197663,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hofm\u00e4starn",
+     "url": "https://genius.com/artists/Hofmastarn"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2069568",
+       "artist_names": "Kapten R\u00f6d",
+       "full_title": "Wasteman blues by\u00a0Kapten\u00a0R\u00f6d",
+       "header_image_thumbnail_url": "https://images.genius.com/b3ecbbab902207efab67451db2db4cdc.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b3ecbbab902207efab67451db2db4cdc.1000x1000x1.jpg",
+       "id": 2069568,
+       "language": "sv",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Kapten-rod-wasteman-blues-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kapten-rod-wasteman-blues-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/b3ecbbab902207efab67451db2db4cdc.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b3ecbbab902207efab67451db2db4cdc.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Wasteman blues",
+       "title_with_featured": "Wasteman blues",
+       "url": "https://genius.com/Kapten-rod-wasteman-blues-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/36958",
+        "header_image_url": "https://images.genius.com/cc2051ac3645625c73992c4cdd54acf5.1000x739x1.jpg",
+        "id": 36958,
+        "image_url": "https://images.genius.com/e0b5a61608e6e00fc2724bc235206cf4.399x399x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Kapten R\u00f6d",
+        "url": "https://genius.com/artists/Kapten-rod"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Roffe Ruff",
+   "lyrics": "Anna LyricsSkaka apan fr\u00e5n din rygg baby\n\n[Hook: Sample]\nNej jag minns inte, n\u00e4r jag vaknade\nSenast utan den, klumpen i magen\nDen som v\u00e4cker mig p\u00e5 morgon med en sm\u00e4ll och\nF\u00f6rsvinner inte, f\u00f6rr\u00e4n i baren\n\n[Vers 1: Roffe Ruff ]\nAnna tar ett andetag\nSer sig om och undrar vad det \u00e4r som andra har\nSom inte Anna har, hon kanske har det d\u00e4r som mamma har\nDet kanske g\u00e5r i arv '\u00e5 inte kunna f\u00e5 en man '\u00e5 stanna kvar\nI vilket fall s\u00e5 vill hon skaffa barn\nF\u00f6r hon \u00e4r sist nu i g\u00e4nget och dom snackar bara om samma sak\nOch det g\u00f6r Anna lite desperat, f\u00f6r hon ser alla leva livet\nSj\u00e4lv s\u00e5 lever hon i celibat\nFuck it, ska man v\u00e4lja ska man v\u00e4lja smart\nOch hellre ensam \u00e4n '\u00e5 h\u00e4nga med n\u00e5n j\u00e4vla page\nDet l\u00e5ter bra, men ska hon vara \u00e4rlig\nS\u00e5 tar hon snart vad som helst f\u00f6r ensamheten \u00e4r f\u00f6rj\u00e4vlig\nOch den har vuxit till en klump\nSom f\u00f6rsvinner lite grann f\u00f6r varje g\u00e5ng hon tar en klunk men\nDen medicin som g\u00f6r kroppen s\u00e5 lugn\n\u00c4r samma skit som g\u00f6r morgondagen dubbelt s\u00e5 tung\n[Hook: Sample]\nNej jag minns inte, n\u00e4r jag vaknade\nSenast utan den, klumpen i magen\nDen som v\u00e4cker mig p\u00e5 morgon med en sm\u00e4ll och\nF\u00f6rsvinner inte, f\u00f6rr\u00e4n i baren\n\n[Vers 2: Roffe Ruff]\nV\u00e4rst av allt \u00e4r under natten\nAnna dr\u00f6mmer alltid samma sak\nN\u00e4r hon blundar \u00e4r hon under vatten\nTill en b\u00f6rjan \u00e4r det lugnt\nLjuset reflekteras \u00f6ver bubblorna som smiter ut ur hennes mun\nHon sjunker l\u00e4ngre ner\nKommer p\u00e5 sig sj\u00e4lv f\u00f6rst n\u00e4r hennes lungor b\u00f6rjar st\u00e4nga ner\nSpr\u00e4nger efter mer, paniken b\u00f6rjar krypa\nHon k\u00f6r f\u00f6r allt hon har men kommer inte upp till ytan\nDet s\u00e4gs att det \u00e4r om\u00f6jligt att d\u00f6 i dr\u00f6mmar\nAtt man alltid vaknar upp n\u00e4r ens \u00f6de stundar\nInnan man drunknar, eller tr\u00e4ffar marken\nMen paniken \u00e4r p\u00e5 riktigt och den v\u00e4cker tanken\nOch tanken \u00e4r tillr\u00e4cklig\nDen tanken \u00e4r s\u00e5 \u00e4cklig\nDen f\u00e4rgar av sig och g\u00f6r Anna br\u00e4cklig\nOch trycket \u00f6ver br\u00f6stet h\u00e4nger i p\u00e5 dagen\nOch det d\u00f6dar Anna lite grann en bit i taget\nYou might also like[Hook: Sample]\nNej jag minns inte, n\u00e4r jag vaknade\nSenast utan den, klumpen i magen\nDen som v\u00e4cker mig p\u00e5 morgon med en sm\u00e4ll och\nF\u00f6rsvinner inte, f\u00f6rr\u00e4n i baren\n\nNej jag minns inte\nNej jag minns inte\nNej jag minns inte\nNej jag minns inteEmbed"
+  }
+ ]
+}

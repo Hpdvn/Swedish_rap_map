@@ -1,0 +1,4357 @@
+{
+ "alternate_names": [
+  "M\u00e5rten Edh"
+ ],
+ "api_path": "/artists/9506",
+ "description": {
+  "plain": "M\u00e5rtan Edh, known as Promoe, is a Swedish rapper and member of the Swedish Music Hall of Fame hip-hop group, Looptroop Rockers. He also has released several solo projects and collaborations with artist to extend his lyrical prowess.\n\nPromoe is also a graffiti artist and many of his songs deal with that. He is known for his trademark dreadlocks and a consummate ability to rap in English and Swedish. He proudly reps being vegan and lives a straight edge lifestyle."
+ },
+ "facebook_name": null,
+ "followers_count": 11,
+ "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+ "id": 9506,
+ "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Promoe",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Promoe",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 752183,
+  "annotator_login": "Cyberjazz",
+  "api_path": "/referents/6934176",
+  "classification": "accepted",
+  "fragment": "Promoe",
+  "id": 6934176,
+  "is_description": true,
+  "path": "/6934176/Promoe/Promoe",
+  "range": {
+   "content": "Promoe"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6934176/Promoe/Promoe",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/9506",
+   "context": null,
+   "id": 9506,
+   "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+   "link_title": "Promoe",
+   "title": "Promoe",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Promoe"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6934176",
+    "body": {
+     "plain": "M\u00e5rtan Edh, known as Promoe, is a Swedish rapper and member of the Swedish Music Hall of Fame hip-hop group, Looptroop Rockers. He also has released several solo projects and collaborations with artist to extend his lyrical prowess.\n\nPromoe is also a graffiti artist and many of his songs deal with that. He is known for his trademark dreadlocks and a consummate ability to rap in English and Swedish. He proudly reps being vegan and lives a straight edge lifestyle."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6934176,
+    "pinned": false,
+    "share_url": "https://genius.com/6934176",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6934176/Promoe/Promoe",
+    "verified": false,
+    "votes_total": 4,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.9375,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/752183",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/156007d44a4b1254d8b06b286b9f2acc",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/156007d44a4b1254d8b06b286b9f2acc",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/156007d44a4b1254d8b06b286b9f2acc",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/156007d44a4b1254d8b06b286b9f2acc",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/D6t5GMRQRbn2mfv1I9nN_Django.gif",
+       "human_readable_role_for_display": "Contributor",
+       "id": 752183,
+       "iq": 10891,
+       "login": "Cyberjazz",
+       "name": "Cyberjazz",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Cyberjazz",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.0625,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6612308",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/143423ca521346fd78ca6dbd68c588f8",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/143423ca521346fd78ca6dbd68c588f8",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/143423ca521346fd78ca6dbd68c588f8",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/143423ca521346fd78ca6dbd68c588f8",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/0ae47f1bf7eeed48d7ce7d2eff1b3bd9.497x280x10.gif",
+       "human_readable_role_for_display": "Editor",
+       "id": 6612308,
+       "iq": 506999,
+       "login": "emikael",
+       "name": "\u200bemikael",
+       "role_for_display": "editor",
+       "url": "https://genius.com/emikael",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/181581",
+   "artist_names": "Promoe (Ft. Andreas Grega, Supreme (SWE) & Timbuktu)",
+   "full_title": "Mammas Gata by\u00a0Promoe (Ft.\u00a0Andreas\u00a0Grega, Supreme\u00a0(SWE) & Timbuktu)",
+   "header_image_thumbnail_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.640x640x1.jpg",
+   "id": 181581,
+   "language": "sv",
+   "lyrics_owner_id": 218795,
+   "lyrics_state": "complete",
+   "path": "/Promoe-mammas-gata-lyrics",
+   "pyongs_count": 3,
+   "relationships_index_url": "https://genius.com/Promoe-mammas-gata-sample",
+   "release_date_components": {
+    "year": 2009,
+    "month": 4,
+    "day": 22
+   },
+   "release_date_for_display": "April 22, 2009",
+   "release_date_with_abbreviated_month_for_display": "Apr. 22, 2009",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 6,
+    "iq_earners": 5,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 11640
+   },
+   "title": "Mammas Gata",
+   "title_with_featured": "Mammas Gata (Ft.\u00a0Andreas\u00a0Grega, Supreme\u00a0(SWE) & Timbuktu)",
+   "url": "https://genius.com/Promoe-mammas-gata-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/7655",
+     "header_image_url": "https://images.genius.com/95bab1bb12283973c1353e0205f90e76.500x347x1.png",
+     "id": 7655,
+     "image_url": "https://images.genius.com/95bab1bb12283973c1353e0205f90e76.500x347x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Timbuktu",
+     "url": "https://genius.com/artists/Timbuktu"
+    },
+    {
+     "api_path": "/artists/22231",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 22231,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andreas Grega",
+     "url": "https://genius.com/artists/Andreas-grega"
+    },
+    {
+     "api_path": "/artists/6448",
+     "header_image_url": "https://images.genius.com/c570acc089460127e77406f27f6b57ce.505x505x1.jpg",
+     "id": 6448,
+     "image_url": "https://images.genius.com/c570acc089460127e77406f27f6b57ce.505x505x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Supreme (SWE)",
+     "url": "https://genius.com/artists/Supreme-swe"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/9506",
+    "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+    "id": 9506,
+    "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Promoe",
+    "url": "https://genius.com/artists/Promoe"
+   },
+   "apple_music_id": "1416927338",
+   "apple_music_player_url": "https://genius.com/songs/181581/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_181581' class='rg_embed_link' data-song-id='181581'>Read <a href='https://genius.com/Promoe-mammas-gata-lyrics'>\u201cMammas Gata\u201d by Promoe</a> on Genius</div> <script crossorigin src='//genius.com/songs/181581/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2009-04-22",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/38018",
+    "cover_art_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.640x640x1.jpg",
+    "full_title": "Kr\u00e5ks\u00e5ngen by Promoe",
+    "id": 38018,
+    "name": "Kr\u00e5ks\u00e5ngen",
+    "url": "https://genius.com/albums/Promoe/Kraksangen",
+    "artist": {
+     "api_path": "/artists/9506",
+     "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+     "id": 9506,
+     "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Promoe",
+     "url": "https://genius.com/artists/Promoe"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3884197,
+    "annotator_login": "tsikube",
+    "api_path": "/referents/18966583",
+    "classification": "needs_exegesis",
+    "fragment": "Mammas Gata",
+    "id": 18966583,
+    "is_description": true,
+    "path": "/18966583/Promoe-mammas-gata/Mammas-gata",
+    "range": {
+     "content": "Mammas Gata"
+    },
+    "song_id": 181581,
+    "url": "https://genius.com/18966583/Promoe-mammas-gata/Mammas-gata",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/181581",
+     "client_timestamps": {
+      "updated_by_human_at": 1646401271,
+      "lyrics_updated_at": 1461665289
+     },
+     "context": "Promoe",
+     "id": 181581,
+     "image_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.640x640x1.jpg",
+     "link_title": "Mammas Gata by\u00a0Promoe (Ft.\u00a0Andreas\u00a0Grega, Supreme\u00a0(SWE) & Timbuktu)",
+     "title": "Mammas Gata",
+     "type": "Song",
+     "url": "https://genius.com/Promoe-mammas-gata-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18966583",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18966583,
+      "pinned": false,
+      "share_url": "https://genius.com/18966583",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18966583/Promoe-mammas-gata/Mammas-gata",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3884197",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/j67ipq9n88f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/j67ipq9n88f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/j67ipq9n88f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/j67ipq9n88f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cbc0vpivjwr",
+         "human_readable_role_for_display": "Editor",
+         "id": 3884197,
+         "iq": 105585,
+         "login": "tsikube",
+         "name": "tsikube",
+         "role_for_display": "editor",
+         "url": "https://genius.com/tsikube",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=r-Rt7vZUKkI"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/671998",
+     "header_image_url": "https://images.genius.com/f20cc85fa5235edc6827f1da9b3c5053.399x399x1.jpg",
+     "id": 671998,
+     "image_url": "https://images.genius.com/f20cc85fa5235edc6827f1da9b3c5053.399x399x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Astma & Rocwell",
+     "url": "https://genius.com/artists/Astma-and-rocwell"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/6448",
+     "header_image_url": "https://images.genius.com/c570acc089460127e77406f27f6b57ce.505x505x1.jpg",
+     "id": 6448,
+     "image_url": "https://images.genius.com/c570acc089460127e77406f27f6b57ce.505x505x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Supreme (SWE)",
+     "url": "https://genius.com/artists/Supreme-swe"
+    },
+    {
+     "api_path": "/artists/36036",
+     "header_image_url": "https://images.genius.com/f5387f5f28abfec0736a0f02c2cc352a.708x708x1.jpg",
+     "id": 36036,
+     "image_url": "https://images.genius.com/f5387f5f28abfec0736a0f02c2cc352a.708x708x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rocwell",
+     "url": "https://genius.com/artists/Rocwell"
+    },
+    {
+     "api_path": "/artists/36035",
+     "header_image_url": "https://images.genius.com/7d616a95a4568337663b482bc02580b6.541x541x1.jpg",
+     "id": 36035,
+     "image_url": "https://images.genius.com/7d616a95a4568337663b482bc02580b6.541x541x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Astma",
+     "url": "https://genius.com/artists/Astma"
+    },
+    {
+     "api_path": "/artists/9506",
+     "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+     "id": 9506,
+     "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Promoe",
+     "url": "https://genius.com/artists/Promoe"
+    },
+    {
+     "api_path": "/artists/7655",
+     "header_image_url": "https://images.genius.com/95bab1bb12283973c1353e0205f90e76.500x347x1.png",
+     "id": 7655,
+     "image_url": "https://images.genius.com/95bab1bb12283973c1353e0205f90e76.500x347x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Timbuktu",
+     "url": "https://genius.com/artists/Timbuktu"
+    }
+   ],
+   "artist": "Promoe",
+   "lyrics": "Mammas Gata Lyrics[Hook: Andreas Grega]\nJag gick i ett kvarter idag\nSom en g\u00e5ng var min hela v\u00e4rld, ja\nAllting var ju enklare d\u00e5-\u00e5-\u00e5\nMen ingenting kan bli vad det var, ne-e-ej\n\n[Verse 1: Timbuktu]\nMan ser tiden \u00e4r f\u00f6rbi, snart \u00e4r det f\u00f6r sent\nLivet det g\u00e5r fort och det \u00e4r sv\u00e5rt att hinna med\nMen vi kanske komma ses, n\u00e5n juldag i Lund\nKanske \u00f6len kommer ta oss p\u00e5 det djupa en stund\nKanske fortfarande kommer f\u00f6rsvinna i din blick\nDr\u00f6mma om den framtid som vi aldrig fick\nOch vi kanske skriker bakom musiken. Och trotts alla strapatserna i livet kommer vi fram till att vi trivs med\nHur poletten f\u00f6ll\nOch vi kanske l\u00e4mnas sp\u00e5r hem parallellt genom sn\u00f6n\nSom \u00e4nd\u00e5 bl\u00e5ser bort efter ett halvt andetag\nOch du s\u00e4ger att det var uppenbart\nAtt det aldrig var du och jag\nS\u00e5 f\u00f6rl\u00e5t om jag bara s\u00e4ger tjena n\u00e4r vi syns\nSlipper k\u00e4nnas vid, svidande f\u00f6rr i tider\nKanske var v\u00e5r historia en fj\u00e4ril p\u00e5 n\u00e5l\nVacker att titta p\u00e5 men vingar som inte sl\u00e5r\n[Hook: Andreas Grega]\n\n[Verse 2: Promoe]\nIg\u00e5r gick jag p\u00e5 mammas gata, vissa dagar s\u00e5 kan jag sakna\nTryggheten fr\u00e5n gamla dagar\nMen det finns inget som kan f\u00e5 dem tillbaka\nIg\u00e5r gick jag p\u00e5 mammas gata, vissa dagar s\u00e5 kan jag sakna\nTryggheten fr\u00e5n gamla dagar\nMen det finns inget som kan f\u00e5 dem tillbaka\nIbland vill jag \u00e5terv\u00e4nda, men det finns ett litet dilemma\nDet k\u00e4nns som skorna b\u00f6rjar kl\u00e4mma\nHar jag f\u00e5tt v\u00e4xtv\u00e4rk? Jag m\u00e5ste l\u00e4mna, hey\nStaden k\u00e4nns f\u00f6r liten\nDu och jag b\u00f6rja om, det k\u00e4nns f\u00f6r tidigt\nEller f\u00f6r sent hur det \u00e4n blir det\nKommer alltid va' en del av mitt liv, yeah\n\n[Hook: Andreas Grega]\n\n[Verse 3: Supreme]\nMan \u00e4r tillbaka p\u00e5 mammas gata bland fotbollsm\u00e5len\nUngdomsg\u00e5rden, ungdoms\u00e5ren, det \u00e4r d\u00e5 det sl\u00e5r en\nHur vi gick d\u00e4r och v\u00e4ntade, vad skulle h\u00e4nda?\nTiden kom och gick och man k\u00e4nde sig alltf\u00f6r hemma\nAlltf\u00f6r h\u00e4mmad, aldrig bl\u00e4ndad av\nStorstadens ljus, de \u00e4r alltid t\u00e4nda, nu\nHar vi flyttat, spridits f\u00f6r vinden\nF\u00f6dda p\u00e5 nytt och vi slog igen grinden\nIbland p\u00e5 tunn is, ok\u00e4nda vatten\nDu vet hur jag \u00e4lskar n\u00e4r vi rusar genom natten\nI en ok\u00e4nd taxi, i en ok\u00e4nd stad\nSom magnetism, en ok\u00e4nd lag om att\nVi m\u00e5ste vidare, aldrig klara\nAlltid p\u00e5 jakt och det fattas bara\nEn liten pusselbit och vi springer dit\nSl\u00e4pper tyglarna men minns alltid v\u00e4gen hit\nYou might also like[Hook: Andreas Grega]3Embed"
+  },
+  {
+   "annotation_count": 6,
+   "api_path": "/songs/37971",
+   "artist_names": "Promoe",
+   "full_title": "These Walls Don't Lie by\u00a0Promoe",
+   "header_image_thumbnail_url": "https://images.genius.com/10671cf0b781d3a18b63f1c9006ca6c3.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/10671cf0b781d3a18b63f1c9006ca6c3.640x640x1.jpg",
+   "id": 37971,
+   "language": "en",
+   "lyrics_owner_id": 50,
+   "lyrics_state": "complete",
+   "path": "/Promoe-these-walls-dont-lie-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Promoe-these-walls-dont-lie-sample",
+   "release_date_components": {
+    "year": 2004,
+    "month": 3,
+    "day": 24
+   },
+   "release_date_for_display": "March 24, 2004",
+   "release_date_with_abbreviated_month_for_display": "Mar. 24, 2004",
+   "song_art_image_thumbnail_url": "https://images.genius.com/10671cf0b781d3a18b63f1c9006ca6c3.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/10671cf0b781d3a18b63f1c9006ca6c3.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 7,
+    "iq_earners": 7,
+    "transcribers": 0,
+    "unreviewed_annotations": 5,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 10748
+   },
+   "title": "These Walls Don\u2019t Lie",
+   "title_with_featured": "These Walls Don't Lie",
+   "url": "https://genius.com/Promoe-these-walls-dont-lie-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/9506",
+    "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+    "id": 9506,
+    "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Promoe",
+    "url": "https://genius.com/artists/Promoe"
+   },
+   "apple_music_id": "1416920038",
+   "apple_music_player_url": "https://genius.com/songs/37971/apple_music_player",
+   "description": {
+    "plain": "Second single off of Promoe\u2019s 2004 album \u201cLong Distance Runner\u201d."
+   },
+   "embed_content": "<div id='rg_embed_link_37971' class='rg_embed_link' data-song-id='37971'>Read <a href='https://genius.com/Promoe-these-walls-dont-lie-lyrics'>\u201cThese Walls Don't Lie\u201d by Promoe</a> on Genius</div> <script crossorigin src='//genius.com/songs/37971/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2004-03-24",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/7747",
+    "cover_art_url": "https://images.genius.com/10671cf0b781d3a18b63f1c9006ca6c3.640x640x1.jpg",
+    "full_title": "The Long Distance Runner by Promoe",
+    "id": 7747,
+    "name": "The Long Distance Runner",
+    "url": "https://genius.com/albums/Promoe/The-long-distance-runner",
+    "artist": {
+     "api_path": "/artists/9506",
+     "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+     "id": 9506,
+     "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Promoe",
+     "url": "https://genius.com/artists/Promoe"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 77634,
+    "annotator_login": "KoolGeniusRap",
+    "api_path": "/referents/3528758",
+    "classification": "accepted",
+    "fragment": "These Walls Don\u2019t Lie",
+    "id": 3528758,
+    "is_description": true,
+    "path": "/3528758/Promoe-these-walls-dont-lie/These-walls-dont-lie",
+    "range": {
+     "content": "These Walls Don't Lie"
+    },
+    "song_id": 37971,
+    "url": "https://genius.com/3528758/Promoe-these-walls-dont-lie/These-walls-dont-lie",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/37971",
+     "client_timestamps": {
+      "updated_by_human_at": 1611839776,
+      "lyrics_updated_at": 1602928706
+     },
+     "context": "Promoe",
+     "id": 37971,
+     "image_url": "https://images.genius.com/10671cf0b781d3a18b63f1c9006ca6c3.640x640x1.jpg",
+     "link_title": "These Walls Don\u2019t Lie by\u00a0Promoe",
+     "title": "These Walls Don't Lie",
+     "type": "Song",
+     "url": "https://genius.com/Promoe-these-walls-dont-lie-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3528758",
+      "body": {
+       "plain": "Second single off of Promoe\u2019s 2004 album \u201cLong Distance Runner\u201d."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3528758,
+      "pinned": false,
+      "share_url": "https://genius.com/3528758",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3528758/Promoe-these-walls-dont-lie/These-walls-dont-lie",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/77634",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/77634_spikelee.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358289365_77634_spikelee.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358289366_77634_spikelee.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358289365_77634_spikelee.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358289365_77634_spikelee.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 77634,
+         "iq": 629,
+         "login": "KoolGeniusRap",
+         "name": "KoolGeniusRap",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/KoolGeniusRap",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=YLAcO3r5Xjs"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/35424",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 35424,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DJ Large",
+     "url": "https://genius.com/artists/Dj-large"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": "https://genius.com/Promoe-these-walls-dont-lie-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6429036",
+       "artist_names": "Hugo Montenegro",
+       "full_title": "Classical Gas by\u00a0Hugo\u00a0Montenegro",
+       "header_image_thumbnail_url": "https://images.genius.com/6ec0cc088cb0bc03b4c16524be718253.300x302x1.jpg",
+       "header_image_url": "https://images.genius.com/6ec0cc088cb0bc03b4c16524be718253.596x600x1.jpg",
+       "id": 6429036,
+       "language": "en",
+       "lyrics_owner_id": 718861,
+       "lyrics_state": "complete",
+       "path": "/Hugo-montenegro-classical-gas-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Hugo-montenegro-classical-gas-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/6ec0cc088cb0bc03b4c16524be718253.300x302x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6ec0cc088cb0bc03b4c16524be718253.596x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Classical Gas",
+       "title_with_featured": "Classical Gas",
+       "url": "https://genius.com/Hugo-montenegro-classical-gas-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/379256",
+        "header_image_url": "https://images.genius.com/36814329866faf5014f89c1319e7626c.744x744x1.jpg",
+        "id": 379256,
+        "image_url": "https://images.genius.com/36814329866faf5014f89c1319e7626c.744x744x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Hugo Montenegro",
+        "url": "https://genius.com/artists/Hugo-montenegro"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": "https://genius.com/Promoe-these-walls-dont-lie-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3825972",
+       "artist_names": "Kurwa Matj",
+       "full_title": "EUROPA by\u00a0Kurwa\u00a0Matj",
+       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+       "id": 3825972,
+       "language": "uk",
+       "lyrics_owner_id": 6666870,
+       "lyrics_state": "complete",
+       "path": "/Kurwa-matj-europa-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kurwa-matj-europa-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 7,
+        "day": 9
+       },
+       "release_date_for_display": "July 9, 2015",
+       "release_date_with_abbreviated_month_for_display": "Jul. 9, 2015",
+       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "EUROPA",
+       "title_with_featured": "EUROPA",
+       "url": "https://genius.com/Kurwa-matj-europa-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1521036",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+        "id": 1521036,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Kurwa Matj",
+        "url": "https://genius.com/artists/Kurwa-matj"
+       }
+      },
+      {
+       "annotation_count": 9,
+       "api_path": "/songs/22599",
+       "artist_names": "Hilltop Hoods (Ft. Braintax & Mystro (USA))",
+       "full_title": "Obese Lowlifes by\u00a0Hilltop\u00a0Hoods (Ft.\u00a0Braintax & Mystro\u00a0(USA))",
+       "header_image_thumbnail_url": "https://images.genius.com/df93cd51c16931342c8e2ccc5623c847.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/df93cd51c16931342c8e2ccc5623c847.1000x1000x1.jpg",
+       "id": 22599,
+       "language": "en",
+       "lyrics_owner_id": 50,
+       "lyrics_state": "complete",
+       "path": "/Hilltop-hoods-obese-lowlifes-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Hilltop-hoods-obese-lowlifes-sample",
+       "release_date_components": {
+        "year": 2006,
+        "month": 4,
+        "day": 1
+       },
+       "release_date_for_display": "April 1, 2006",
+       "release_date_with_abbreviated_month_for_display": "Apr. 1, 2006",
+       "song_art_image_thumbnail_url": "https://images.genius.com/df93cd51c16931342c8e2ccc5623c847.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/df93cd51c16931342c8e2ccc5623c847.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 4,
+        "hot": false
+       },
+       "title": "Obese Lowlifes",
+       "title_with_featured": "Obese Lowlifes (Ft.\u00a0Braintax & Mystro\u00a0(USA))",
+       "url": "https://genius.com/Hilltop-hoods-obese-lowlifes-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/3199226",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "id": 3199226,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Mystro (USA)",
+         "url": "https://genius.com/artists/Mystro-usa"
+        },
+        {
+         "api_path": "/artists/4013",
+         "header_image_url": "https://images.genius.com/df4698c18943490830f5ba130d99225f.262x262x1.jpg",
+         "id": 4013,
+         "image_url": "https://images.genius.com/df4698c18943490830f5ba130d99225f.262x262x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Braintax",
+         "url": "https://genius.com/artists/Braintax"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/4842",
+        "header_image_url": "https://images.genius.com/ea0efbcf49a6651514a11d90c9bc706e.1000x260x1.jpg",
+        "id": 4842,
+        "image_url": "https://images.genius.com/f008eb3d356a01d02e268c0bd54648d0.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Hilltop Hoods",
+        "url": "https://genius.com/artists/Hilltop-hoods"
+       }
+      },
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/3041602",
+       "artist_names": "Hilltop Hoods (Ft. Braintax & Mystro)",
+       "full_title": "Obese Lowlifes Restrung by\u00a0Hilltop\u00a0Hoods (Ft.\u00a0Braintax & Mystro)",
+       "header_image_thumbnail_url": "https://images.genius.com/4771f049e5bf819dcad919e8a8572abe.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4771f049e5bf819dcad919e8a8572abe.1000x1000x1.jpg",
+       "id": 3041602,
+       "language": "en",
+       "lyrics_owner_id": 458792,
+       "lyrics_state": "complete",
+       "path": "/Hilltop-hoods-obese-lowlifes-restrung-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Hilltop-hoods-obese-lowlifes-restrung-sample",
+       "release_date_components": {
+        "year": 2007,
+        "month": 5,
+        "day": 12
+       },
+       "release_date_for_display": "May 12, 2007",
+       "release_date_with_abbreviated_month_for_display": "May. 12, 2007",
+       "song_art_image_thumbnail_url": "https://images.genius.com/4771f049e5bf819dcad919e8a8572abe.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4771f049e5bf819dcad919e8a8572abe.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Obese Lowlifes Restrung",
+       "title_with_featured": "Obese Lowlifes Restrung (Ft.\u00a0Braintax & Mystro)",
+       "url": "https://genius.com/Hilltop-hoods-obese-lowlifes-restrung-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/4013",
+         "header_image_url": "https://images.genius.com/df4698c18943490830f5ba130d99225f.262x262x1.jpg",
+         "id": 4013,
+         "image_url": "https://images.genius.com/df4698c18943490830f5ba130d99225f.262x262x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Braintax",
+         "url": "https://genius.com/artists/Braintax"
+        },
+        {
+         "api_path": "/artists/3857",
+         "header_image_url": "https://images.genius.com/2f9fde9ca41d10def8c393a269834c98.399x399x1.jpg",
+         "id": 3857,
+         "image_url": "https://images.genius.com/2f9fde9ca41d10def8c393a269834c98.399x399x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Mystro",
+         "url": "https://genius.com/artists/Mystro"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/4842",
+        "header_image_url": "https://images.genius.com/ea0efbcf49a6651514a11d90c9bc706e.1000x260x1.jpg",
+        "id": 4842,
+        "image_url": "https://images.genius.com/f008eb3d356a01d02e268c0bd54648d0.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Hilltop Hoods",
+        "url": "https://genius.com/artists/Hilltop-hoods"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6428269",
+       "artist_names": "Per Vers",
+       "full_title": "F\u00f8rste Januar by\u00a0Per\u00a0Vers",
+       "header_image_thumbnail_url": "https://images.genius.com/6919a6ac50d814f394f234b4aeaae6e2.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/6919a6ac50d814f394f234b4aeaae6e2.600x600x1.jpg",
+       "id": 6428269,
+       "language": "da",
+       "lyrics_owner_id": 718861,
+       "lyrics_state": "complete",
+       "path": "/Per-vers-frste-januar-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Per-vers-frste-januar-sample",
+       "release_date_components": {
+        "year": 2011,
+        "month": 1,
+        "day": 11
+       },
+       "release_date_for_display": "January 11, 2011",
+       "release_date_with_abbreviated_month_for_display": "Jan. 11, 2011",
+       "song_art_image_thumbnail_url": "https://images.genius.com/6919a6ac50d814f394f234b4aeaae6e2.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6919a6ac50d814f394f234b4aeaae6e2.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "F\u00f8rste Januar",
+       "title_with_featured": "F\u00f8rste Januar",
+       "url": "https://genius.com/Per-vers-frste-januar-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/31997",
+        "header_image_url": "https://images.genius.com/682f0539823b5d4af7e6d662264af0ce.460x306x1.jpg",
+        "id": 31997,
+        "image_url": "https://images.genius.com/d6096c94d54a6c31ef2864370d0378aa.790x790x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Per Vers",
+        "url": "https://genius.com/artists/Per-vers",
+        "iq": 1385
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/9506",
+     "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+     "id": 9506,
+     "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Promoe",
+     "url": "https://genius.com/artists/Promoe"
+    }
+   ],
+   "artist": "Promoe",
+   "lyrics": "These Walls Don\u2019t Lie Lyrics[Intro]\nUh one two, uh one two\nAnd you don't stop\nProduction DJ Large and Promoe on the mic\nFor all my people, people (graffiti writers)\nIt goes a little something like this\n\n[Verse 1: Promoe]\nIt was the last days of summer sun shine'in through the window\nLife movin' real slow, you know how things go\nHis friends knew him by the name of Bingo\nAs he turned up the volume on a hot new single\nFrom Looptroop his favorite rap group\nHe loved how they represented him yo, the graff youth\nFrom the grassroots he came from Sweden to\nFelt proud when he played his new friends the latest tunes\nCheck this shit out man; that he had to download\nCause his local record store was on the other side of the globe\nThey didn't carry the stuff, but he felt it was okay to do\nHe spread the troops message all the way to Australia dude\nOh man I couldn't be wrong when long arm and freedom fighters wears his fucking theme songs\nIn their headphones those nights he spent when we stayed up\nAdrenaline rush when we enter the layup singin'\n[Hook]\nBabababa baaaa\nYou know graffiti won't die die\nBabababa baaaa (no it won't)\n(uh huh)Because these walls don't lie lie (we don't lie)\nBabababa baaaa (come on)\nI'm dedicating this beat peace (huh)\nBabababa baaaa\n(he said) To those D.V.S.G.'s\n\n[Verse 2]\nThey stepped in with a grin and a boosted Kangol\nMimicking the king Rick the ruler's manors\nFresh dressed in his newest shoes and flannels\nThen began letting off with the loosest cannons\nFiguring this will be my coolest panel\nBut when they see it all they see is just a gruesome scandal\nErasin' all signs of life, callin the youth some vandals\nThey can't handle the truth so that's how the truth is handled\nDeep into the music and his art man, his true love\nDidn't even notice when the train pulled up\nAnd before the bloodstains faded or the engine cooled off\nThat very same train hit another writer: Olaf\nOn a different continent though: Europe\nBut then they came to the same place that I'm sure of\nIn this world people always looked upon them as a terror\nBut now 50,000 chariots singin' the chorus, going:\nYou might also like[Hook:]\nBabababa baaaa (uh ha, uh ha)\nGraffiti writers won't die die, no\nBabababa baaaa (I'm telling you)\nBecause these walls don't lie lie (they don't lie)\nBabababa baaaa\n(come on) I'm dedicating this song song\nBabababa baaaa\nTo those gone, your memory live on on\n\n[Bridge]\nI know a lot of people including myself get uncomfortable\nWhen people including myself get emotional\nBut I gotta be true to myself and to most of y'all\nMan I still got love for graffiti culture though\nA lot of people including myself get uncomfortable\nWhen people including myself get emotional\nBut I gotta be true to myself and to most of y'all\nMan I still got love for graffiti culture though\n\n[Verse 3]\nA lot changed from the days of Spray can stories\nSee me in the yard today, lost like a freakin' tourist\nAnd I don't claim to know much, all I really know is\nWe were 17 once actin' like we were immortals\nFearin' no evil, people said we had no morals\nThat's fine, their corrupt world it really wasn't for us\nWe just laughed at the bullshit names that they called us\nHated us, we hated them and both sides found out what a war is\nWe were winning in the beginning then found out 'bout the horrors\nDon't get me wrong my love a hundred percent, no less\nAnd peace to my people, we grow with the knowledge\nI bite Tone Def same time I'm payin' homage\nTo cats from South Africa, writers from New York\nAustralia, Spain, France and Germany, up north\nStill the same rapper tellin' cops to fuck off\nAnd all my writers: Survive! This my love song to y'all\nRefrain:Babababa baaaa\n(don't they know that graffiti can't be stoped.)\n\nBabababa baaaa\n(This one is for my train bombing, train trashing.)\n\nBabababa baaaa\n(to all my graff writers who want the sun up.)\n\nBabababa baaaa\n(reminisce'n on many days of being a writer)\n\nBabababa baaaa\nYou know graffiti won't die die noo\n\nBabababa baaaa\nBecause these walls don't lie lie noo\n\nBabababa baaaa\nTo all my people world wide wide yoo\n\nBabababa baaaa\nAll my writers survive yo...Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/37962",
+   "artist_names": "Promoe",
+   "full_title": "Long Distance Runner by\u00a0Promoe",
+   "header_image_thumbnail_url": "https://images.genius.com/10671cf0b781d3a18b63f1c9006ca6c3.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/10671cf0b781d3a18b63f1c9006ca6c3.640x640x1.jpg",
+   "id": 37962,
+   "language": "en",
+   "lyrics_owner_id": 50,
+   "lyrics_state": "complete",
+   "path": "/Promoe-long-distance-runner-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Promoe-long-distance-runner-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/10671cf0b781d3a18b63f1c9006ca6c3.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/10671cf0b781d3a18b63f1c9006ca6c3.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 0,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 8246
+   },
+   "title": "Long Distance Runner",
+   "title_with_featured": "Long Distance Runner",
+   "url": "https://genius.com/Promoe-long-distance-runner-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/9506",
+    "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+    "id": 9506,
+    "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Promoe",
+    "url": "https://genius.com/artists/Promoe"
+   },
+   "apple_music_id": "1416919897",
+   "apple_music_player_url": "https://genius.com/songs/37962/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_37962' class='rg_embed_link' data-song-id='37962'>Read <a href='https://genius.com/Promoe-long-distance-runner-lyrics'>\u201cLong Distance Runner\u201d by Promoe</a> on Genius</div> <script crossorigin src='//genius.com/songs/37962/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/7747",
+    "cover_art_url": "https://images.genius.com/10671cf0b781d3a18b63f1c9006ca6c3.640x640x1.jpg",
+    "full_title": "The Long Distance Runner by Promoe",
+    "id": 7747,
+    "name": "The Long Distance Runner",
+    "url": "https://genius.com/albums/Promoe/The-long-distance-runner",
+    "artist": {
+     "api_path": "/artists/9506",
+     "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+     "id": 9506,
+     "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Promoe",
+     "url": "https://genius.com/artists/Promoe"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 50,
+    "annotator_login": "AlysonWonderland",
+    "api_path": "/referents/3528737",
+    "classification": "needs_exegesis",
+    "fragment": "Long Distance Runner",
+    "id": 3528737,
+    "is_description": true,
+    "path": "/3528737/Promoe-long-distance-runner/Long-distance-runner",
+    "range": {
+     "content": "Long Distance Runner"
+    },
+    "song_id": 37962,
+    "url": "https://genius.com/3528737/Promoe-long-distance-runner/Long-distance-runner",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/37962",
+     "client_timestamps": {
+      "updated_by_human_at": 1493405875,
+      "lyrics_updated_at": 1487089328
+     },
+     "context": "Promoe",
+     "id": 37962,
+     "image_url": "https://images.genius.com/10671cf0b781d3a18b63f1c9006ca6c3.640x640x1.jpg",
+     "link_title": "Long Distance Runner by\u00a0Promoe",
+     "title": "Long Distance Runner",
+     "type": "Song",
+     "url": "https://genius.com/Promoe-long-distance-runner-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3528737",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3528737,
+      "pinned": false,
+      "share_url": "https://genius.com/3528737",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3528737/Promoe-long-distance-runner/Long-distance-runner",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/50",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+         "human_readable_role_for_display": "Contributor",
+         "id": 50,
+         "iq": 3400,
+         "login": "AlysonWonderland",
+         "name": "AlysonWonderland",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AlysonWonderland",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=mM5XjPDik28"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/35390",
+     "header_image_url": "https://images.genius.com/eb0bfeb93238fc936140af4a1c489c08.300x157x1.jpg",
+     "id": 35390,
+     "image_url": "https://images.genius.com/11285d2a39aa4dcd24697919a7380e58.209x209x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Embee",
+     "url": "https://genius.com/artists/Embee"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Promoe",
+   "lyrics": "Long Distance Runner Lyrics[Intro:]\nWhat was going on (yeah, uh-ha)\nWhen I wrote this\nThe Long Distance Runner\nAnd recorded this (check it, yo)\n\n[Verse 1:]\nIt's two thousand and four\nLast year Tony and George started the war of the whores\nSame year, and the year before, plus the year before that\nMe and the Troop were on constant tours\nChanting Imbumba! from the South African shores\nTo the Norwegian fjords, I tried to keep a vegan course\nTraveling with good friends like Chords\nTimbuk and DJ Large\nJonny Bass and Big Boss\nBefore the Struggle album made the record stores\nWe were on a Road To Hell, breakin doors and laws\nMe, Supreme, Gangsta Pete and Schumi of course\nHad a little trouble with the German police force (aha)\nThat's why I had to stop drinking\nCause when I start drinking is when I stop thinking\nThat I gotta stay on top off things\nAnd when I'm under the bottle you know I stop to think\n[Hook:]\nLike an athlete, a long distance runner\nOn a track meet spring, fall, winter, summer\nThey attack me, but it gon' make me stronger\nGet at me dawg when your patience's longer\nAn athlete, a long distance runner\nOn a track meet spring, fall, winter, summer\nThey attack me, but it gon' make me stronger\nGet at me dawg...\n\n[Verse 2:]\nLivin' in this free world\nExpecting cops to abuse me\nWhen I'm chilling with a cup full of muesli\nMatter of time 'fore my cup is running over\nBut I'mma get mine cause mahfuckers running slower (Yeah!)\nFollowin' my sprinter trail\nI run shit down the line on the Interrail (Yeah!)\nI ain't going, I ain't been to jail\nI got work to do, and I got things to say\nA real role model for the kids today\nCan't afford gettin' sent away, get them fingerprints away\nWipe off the mic every single stain\nRecognize bomb shit when it's in my mail\nWhat a big disgrace\nWhat a big bam bam you had to end this way\nAll you ever wanted to was to entertain\nWent against the wrong guy cause i was meant to stay...\nYou might also like[Hook:]\n\n[Verse 3]:\nThe battle ain't for the strong\nNor the race for the swift\nBut for those who can't endure the type o' blaze that I spit\nFor those that will survive all the changes and shit\nWith families, fans, partners and labels you're with\nAnd even if I wanted I wouldn't be able to quit\nI gotta keep running til the pavement will split\nUnder my bare feet, the concrete with red heat\nOr till my future kids eat, and we all livin' carefree\nIn a Zion hut, we ain't dawgs no more\nWere my lion's at?\nGimme some signal let me see your lion paw\nLet me know what we're living and what we're dying for\nAsk myself\nIt's it a good enough reason\nIf so I go all out like it was my last season\nIf my, voice is weak\nMy boys will speak\nTo conquer the world I gotta keep a top physique\n\n[Hook:]\n\n[Outro:]\nNo alcohol, no weed\nNo cigarettes, no E's\nNo milk, no cheese\nNo eggs, no meat\nJust mediation and peace\nRed lentils, chick peas\nGood workout, good sleep\nMo' sunshine, light breezeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/135426",
+   "artist_names": "Promoe",
+   "full_title": "Svennebanan by\u00a0Promoe",
+   "header_image_thumbnail_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.640x640x1.jpg",
+   "id": 135426,
+   "language": null,
+   "lyrics_owner_id": 152778,
+   "lyrics_state": "complete",
+   "path": "/Promoe-svennebanan-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Promoe-svennebanan-sample",
+   "release_date_components": {
+    "year": 2009,
+    "month": 4,
+    "day": 22
+   },
+   "release_date_for_display": "April 22, 2009",
+   "release_date_with_abbreviated_month_for_display": "Apr. 22, 2009",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 1,
+    "transcribers": 3,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Svennebanan",
+   "title_with_featured": "Svennebanan",
+   "url": "https://genius.com/Promoe-svennebanan-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/9506",
+    "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+    "id": 9506,
+    "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Promoe",
+    "url": "https://genius.com/artists/Promoe"
+   },
+   "apple_music_id": "1416927040",
+   "apple_music_player_url": "https://genius.com/songs/135426/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_135426' class='rg_embed_link' data-song-id='135426'>Read <a href='https://genius.com/Promoe-svennebanan-lyrics'>\u201cSvennebanan\u201d by Promoe</a> on Genius</div> <script crossorigin src='//genius.com/songs/135426/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2009-04-22",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/38018",
+    "cover_art_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.640x640x1.jpg",
+    "full_title": "Kr\u00e5ks\u00e5ngen by Promoe",
+    "id": 38018,
+    "name": "Kr\u00e5ks\u00e5ngen",
+    "url": "https://genius.com/albums/Promoe/Kraksangen",
+    "artist": {
+     "api_path": "/artists/9506",
+     "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+     "id": 9506,
+     "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Promoe",
+     "url": "https://genius.com/artists/Promoe"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 152778,
+    "annotator_login": "datagutten",
+    "api_path": "/referents/3720371",
+    "classification": "needs_exegesis",
+    "fragment": "Svennebanan",
+    "id": 3720371,
+    "is_description": true,
+    "path": "/3720371/Promoe-svennebanan/Svennebanan",
+    "range": {
+     "content": "Svennebanan"
+    },
+    "song_id": 135426,
+    "url": "https://genius.com/3720371/Promoe-svennebanan/Svennebanan",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/135426",
+     "client_timestamps": {
+      "updated_by_human_at": 1576063652,
+      "lyrics_updated_at": 1576063653
+     },
+     "context": "Promoe",
+     "id": 135426,
+     "image_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.640x640x1.jpg",
+     "link_title": "Svennebanan by\u00a0Promoe",
+     "title": "Svennebanan",
+     "type": "Song",
+     "url": "https://genius.com/Promoe-svennebanan-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3720371",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3720371,
+      "pinned": false,
+      "share_url": "https://genius.com/3720371",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3720371/Promoe-svennebanan/Svennebanan",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/152778",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/bSsycjrXRpmhYEnX4H9I.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/bSsycjrXRpmhYEnX4H9I.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/bSsycjrXRpmhYEnX4H9I.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/bSsycjrXRpmhYEnX4H9I.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/bSsycjrXRpmhYEnX4H9I.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 152778,
+         "iq": 3679,
+         "login": "datagutten",
+         "name": "datagutten",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/datagutten",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/27661",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 27661,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Filthy",
+     "url": "https://genius.com/artists/Filthy"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/9506",
+     "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+     "id": 9506,
+     "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Promoe",
+     "url": "https://genius.com/artists/Promoe"
+    },
+    {
+     "api_path": "/artists/152194",
+     "header_image_url": "https://images.genius.com/9784e3acf230d65f3b24ee8ede7d424e.1000x661x1.png",
+     "id": 152194,
+     "image_url": "https://images.genius.com/d1674beff5834c6f4e5e1627a350e6eb.754x754x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Magnus Lideh\u00e4ll",
+     "url": "https://genius.com/artists/Magnus-lidehall"
+    }
+   ],
+   "artist": "Promoe",
+   "lyrics": "Svennebanan Lyrics[Intro]\nSvennebanan\nSvennebanan\nSvennebanan\nSvennebanan\nSvenneba-\n\n[Vers 1]\nTack som fan kap khun kap\nKoh Phangan Koh Tao Khao Lak\nFuck it i Phuket pingpong show\nKalla folket f\u00f6r tjing tjong-hoes\nTrekant I grekland leka stekarn\nBakfull redan fredag\nMallis Kanarieholmarna\nMickey Dee's ha barn I bollhavet\nEn riktig stilikon med silikon\nBor i samma stad som du vill ifr\u00e5n\nKvinnomisshandel solariebr\u00e4nnna\nFixa mat vad fan har vi hemma\nSoppatorsk och foppatofflor\nBarnen nersjunkna i TV-soffor\nOrdning o reda l\u00e5dvin p\u00e5 fredag\nKunskap fr\u00e5n Wikipedia\nTon\u00e5rsgraviditet\n\u00c5ngesten ingen vet\nMinnesluckor barn med syrran\nVill alltid vara kvar i fyllan\n[Hook]\nSvennebanan...\n\n[Vers 2]\nDansa bugg lyssna p\u00e5 Carola\nManikyr permanenta h\u00e5ret\n\u00c5tertr\u00e4ff med h\u00f6gstadieklassen\nAvundsjuka p\u00e5 \u00f6verklassen\nOch gilla kungafamiljen\nSpyr utav dagen-efter-piller\nSkvaller o h\u00e4nt i veckan\nGrannen hembr\u00e4nt o bl\u00e4ckan\nN\u00e4tpoker karaoke\nMan kan ju inte bara ha tr\u00e5kigt\nFinlandsf\u00e4rja Bon Jovi-covers\nLiving on a prayer Looptroop Rockers\nRaggarbilar power meet\nG\u00e4llivareh\u00e4ng fan va fint\nFyllebr\u00e5k p\u00e5 McDonald's\nG\u00e5 hem o bli r\u00e5nad ungef\u00e4r en g\u00e5ng m\u00e5nan\nL\u00f6nehelg f\u00f6rs\u00f6k o sv\u00e4lj\nStoltheten ur en \u00f6lbutelj\nEn stor stark o hotshot\nHur l\u00e4nge har det p\u00e5g\u00e5tt\nSkit i det gonatt o sov gott\nYou might also like[Hook]\nSvennebanan...Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/108809",
+   "artist_names": "Promoe",
+   "full_title": "Lullabies to Myself by\u00a0Promoe",
+   "header_image_thumbnail_url": "https://images.genius.com/f01c44356ea393ddb62527e293d9ee6e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f01c44356ea393ddb62527e293d9ee6e.640x640x1.jpg",
+   "id": 108809,
+   "language": "en",
+   "lyrics_owner_id": 47360,
+   "lyrics_state": "complete",
+   "path": "/Promoe-lullabies-to-myself-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Promoe-lullabies-to-myself-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/f01c44356ea393ddb62527e293d9ee6e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f01c44356ea393ddb62527e293d9ee6e.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Lullabies to Myself",
+   "title_with_featured": "Lullabies to Myself",
+   "url": "https://genius.com/Promoe-lullabies-to-myself-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/9506",
+    "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+    "id": 9506,
+    "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Promoe",
+    "url": "https://genius.com/artists/Promoe"
+   },
+   "apple_music_id": "1443841957",
+   "apple_music_player_url": "https://genius.com/songs/108809/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_108809' class='rg_embed_link' data-song-id='108809'>Read <a href='https://genius.com/Promoe-lullabies-to-myself-lyrics'>\u201cLullabies to Myself\u201d by Promoe</a> on Genius</div> <script crossorigin src='//genius.com/songs/108809/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/323707",
+    "cover_art_url": "https://images.genius.com/f01c44356ea393ddb62527e293d9ee6e.640x640x1.jpg",
+    "full_title": "Adonai Music Presents Everyday Riddim by Various Artists",
+    "id": 323707,
+    "name": "Adonai Music Presents Everyday Riddim",
+    "url": "https://genius.com/albums/Various-artists/Adonai-music-presents-everyday-riddim",
+    "artist": {
+     "api_path": "/artists/768",
+     "header_image_url": "https://images.genius.com/10da268551e38fd18cf057ac25bb1ac6.563x177x1.png",
+     "id": 768,
+     "image_url": "https://images.genius.com/058d7a1c280c0465ba0c108be8951ba2.594x594x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Various Artists",
+     "url": "https://genius.com/artists/Various-artists"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 47360,
+    "annotator_login": "AngelEyes",
+    "api_path": "/referents/3652554",
+    "classification": "needs_exegesis",
+    "fragment": "Lullabies to Myself",
+    "id": 3652554,
+    "is_description": true,
+    "path": "/3652554/Promoe-lullabies-to-myself/Lullabies-to-myself",
+    "range": {
+     "content": "Lullabies to Myself"
+    },
+    "song_id": 108809,
+    "url": "https://genius.com/3652554/Promoe-lullabies-to-myself/Lullabies-to-myself",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/108809",
+     "client_timestamps": {
+      "updated_by_human_at": 1509981116,
+      "lyrics_updated_at": 1509981116
+     },
+     "context": "Promoe",
+     "id": 108809,
+     "image_url": "https://images.genius.com/f01c44356ea393ddb62527e293d9ee6e.640x640x1.jpg",
+     "link_title": "Lullabies to Myself by\u00a0Promoe",
+     "title": "Lullabies to Myself",
+     "type": "Song",
+     "url": "https://genius.com/Promoe-lullabies-to-myself-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3652554",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3652554,
+      "pinned": false,
+      "share_url": "https://genius.com/3652554",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3652554/Promoe-lullabies-to-myself/Lullabies-to-myself",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/47360",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/f3e286bd5a5980b633c43f50b54bfcf4",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/f3e286bd5a5980b633c43f50b54bfcf4",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/f3e286bd5a5980b633c43f50b54bfcf4",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/f3e286bd5a5980b633c43f50b54bfcf4",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/f3e286bd5a5980b633c43f50b54bfcf4",
+         "human_readable_role_for_display": "Contributor",
+         "id": 47360,
+         "iq": 5386,
+         "login": "AngelEyes",
+         "name": "AngelEyes",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AngelEyes",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=rHGtRQGRgPU"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Promoe",
+   "lyrics": "Lullabies to Myself Lyrics[Intro]\nOh oh, when can I get some rest?\n\nOh oh, when can I get some sleep?\n\n[Hook]\nCover me with blankets of music, this world\u2019s so hard and cold\nWrap me tight the world is about to lose it's collective mind heart and soul\nTuck me in and rest me in your soft acoustics\nRock me and tell me it\u2019s possible\nTo find out what the truth is\nI got so many questions I would like to know\n[Verse 1]\nWho\u2019s gonna stop the war?\nWhen the same ones who start the war\nAre the ones who profiteer when they shoot a rocket there\nIt fills up their pockets here\nWho\u2019s gonna try and stop the diseases\nWhen the stock market value increases?\nOn their patented medication\nThe Vatican\u2019s miseducation turns this planet into patients\nWho is gonna lead us the right way\nWhen all our leaders gonna stray?\nHow long we\u2019re gonna wait for our bright day\nWhen it already feels too late?\nWho\u2019s gonna put me to sleep at night\nWhen all these thoughts force me to write?\nIn a world where we don\u2019t have no one else\nI\u2019m singing lullabies to myself\n\n[Hook]\n\n[Verse 2]\nWhat kind of evil\nPossesses some kind of people\nTo kill off all kind of people\nLike we\u2019re not created equal?\nWith so many classes and divisions\nBut can you tell me what\u2019s the difference?\nCause I think it\u2019s strictly business, behind the statistics\nThe illogic and the logistics\nHiding sadistic and demonic sons of bitches, called politicians\nPardon my language\nBut behind the numbers and the percentage\nAnd all the excuses that they invented\nWho are all these nameless people dying\nAnd all these faceless children starving?\nWith nowhere to rest their heads\nIf you listen close you can hear them calling\nWho\u2019s gonna put us to sleep at night?\nAll these wrongs force me to write\nIn a world where we don\u2019t have no one else\nI\u2019m singing lullabies to myself\nYou might also like[Hook]1Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2312320",
+   "artist_names": "Promoe",
+   "full_title": "Headache by\u00a0Promoe",
+   "header_image_thumbnail_url": "https://images.genius.com/ebab15df94c152b8db26af91b7396183.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ebab15df94c152b8db26af91b7396183.640x640x1.jpg",
+   "id": 2312320,
+   "language": "en",
+   "lyrics_owner_id": 316071,
+   "lyrics_state": "complete",
+   "path": "/Promoe-headache-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Promoe-headache-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/ebab15df94c152b8db26af91b7396183.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ebab15df94c152b8db26af91b7396183.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Headache",
+   "title_with_featured": "Headache",
+   "url": "https://genius.com/Promoe-headache-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/9506",
+    "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+    "id": 9506,
+    "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Promoe",
+    "url": "https://genius.com/artists/Promoe"
+   },
+   "apple_music_id": "1416888657",
+   "apple_music_player_url": "https://genius.com/songs/2312320/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2312320' class='rg_embed_link' data-song-id='2312320'>Read <a href='https://genius.com/Promoe-headache-lyrics'>\u201cHeadache\u201d by Promoe</a> on Genius</div> <script crossorigin src='//genius.com/songs/2312320/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/172149",
+    "cover_art_url": "https://images.genius.com/ebab15df94c152b8db26af91b7396183.640x640x1.jpg",
+    "full_title": "White Man's Burden by Promoe",
+    "id": 172149,
+    "name": "White Man\u2019s Burden",
+    "url": "https://genius.com/albums/Promoe/White-man-s-burden",
+    "artist": {
+     "api_path": "/artists/9506",
+     "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+     "id": 9506,
+     "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Promoe",
+     "url": "https://genius.com/artists/Promoe"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 316071,
+    "annotator_login": "Mango57",
+    "api_path": "/referents/7841307",
+    "classification": "needs_exegesis",
+    "fragment": "Headache",
+    "id": 7841307,
+    "is_description": true,
+    "path": "/7841307/Promoe-headache/Headache",
+    "range": {
+     "content": "Headache"
+    },
+    "song_id": 2312320,
+    "url": "https://genius.com/7841307/Promoe-headache/Headache",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2312320",
+     "client_timestamps": {
+      "updated_by_human_at": 1635317643,
+      "lyrics_updated_at": 1635317643
+     },
+     "context": "Promoe",
+     "id": 2312320,
+     "image_url": "https://images.genius.com/ebab15df94c152b8db26af91b7396183.640x640x1.jpg",
+     "link_title": "Headache by\u00a0Promoe",
+     "title": "Headache",
+     "type": "Song",
+     "url": "https://genius.com/Promoe-headache-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7841307",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7841307,
+      "pinned": false,
+      "share_url": "https://genius.com/7841307",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7841307/Promoe-headache/Headache",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/316071",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/1116380_100004470042547_562482189_n.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/1116380_100004470042547_562482189_n.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/1116380_100004470042547_562482189_n.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/1116380_100004470042547_562482189_n.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/1116380_100004470042547_562482189_n.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 316071,
+         "iq": 549,
+         "login": "Mango57",
+         "name": "Mango57",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Mango57",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=i7UmiSl7Rb4"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Promoe",
+   "lyrics": "Headache LyricsThinking's a headache - that's why we avoid it\nThought reveals truth, and the pain of the facts\nThinking's a headache - that's why we avoid it\nReach for my hand, and I'll give you my soul\n\nMan I'm running through life with blinders\nAvoiding the signs that are yelling out loud and clear\nThat my time is runnin out quicker, though I'm done\nWith the liquor and I'm young and my ticker's still\nStrong - it ain't long till I'm gone with a flicker\nMy whole race is gone sicker DNA molecular structure\nLike pieces of puzzles that ain't fitting my muscles\nDegenerated, my semen's sedated from stress and toxic\nWaste my whole being's mutated (my soul)\nDon't even mention my soul it's been gone for so long\nI'm feeling like a black hole\nI lost my religion and lost touch with my inner self\nBeing consumed by the flames of a sinner's hell\nStumblin around in a state of mass (confusion)\nAnd I see no solution (confusion)\nBut to turn up the music to soothe this (pain that I'm\nFeeling)\nThinking's a headache - that's why we avoid it\nThought reveals truth, and the pain of the facts\nThinking's a headache - that's why we avoid it\nReach for my hand, and I'll give you my soul\n\nI try to open my heart-find it hard to open my window\nTell large let's echo across the globe from the disco\nWhere people sing Julie Driscoll (now I see rainbows of\nMany more colours)\nIn a world that's black and white, you're taught to act\nYour type like it's a fact of life avoiding the real\nFacts - we spiral downwards inbreeding a bunch of\nSpineless cowards\nLivin in an illusion we define as ours\nNationalism's that kind of prison we assign all power\nDesperately clinging on to it until the final hour (I\nHeard someone crying)\nWell it was I, i-m feeling tired of lying and denying\nThe obvious how we making like ostriches holdin\nOurselves as our hostages, a disgrace to philosophers and\nHow we rather not think about it cus...\n\nThinking's a headache - that's why we avoid it\nThought reveals truth, and the pain of the facts\nThinking's a headache - that's why we avoid it\nReach for my hand, and I'll give you my soul\nYou might also likeThe leaders got headaches\nGivin the people more headaches\nAin't no need for paramedics\nThis disease is too deadly\nThe leaders got headaches\nGivin the people more headaches\nAin't no need for paramedics\nThis disease is too deadly\n\nThinking's a headache - that's why we avoid it\nThought reveals truth, and the pain of the facts\nThinking's a headache - that's why we avoid it\nReach for my hand, and I'll give you my soulEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/920986",
+   "artist_names": "Promoe",
+   "full_title": "Dekadansen by\u00a0Promoe",
+   "header_image_thumbnail_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.640x640x1.jpg",
+   "id": 920986,
+   "language": "sv",
+   "lyrics_owner_id": 5305861,
+   "lyrics_state": "complete",
+   "path": "/Promoe-dekadansen-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Promoe-dekadansen-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 0,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Dekadansen",
+   "title_with_featured": "Dekadansen",
+   "url": "https://genius.com/Promoe-dekadansen-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/9506",
+    "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+    "id": 9506,
+    "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Promoe",
+    "url": "https://genius.com/artists/Promoe"
+   },
+   "apple_music_id": "1416927829",
+   "apple_music_player_url": "https://genius.com/songs/920986/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_920986' class='rg_embed_link' data-song-id='920986'>Read <a href='https://genius.com/Promoe-dekadansen-lyrics'>\u201cDekadansen\u201d by Promoe</a> on Genius</div> <script crossorigin src='//genius.com/songs/920986/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/38018",
+    "cover_art_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.640x640x1.jpg",
+    "full_title": "Kr\u00e5ks\u00e5ngen by Promoe",
+    "id": 38018,
+    "name": "Kr\u00e5ks\u00e5ngen",
+    "url": "https://genius.com/albums/Promoe/Kraksangen",
+    "artist": {
+     "api_path": "/artists/9506",
+     "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+     "id": 9506,
+     "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Promoe",
+     "url": "https://genius.com/artists/Promoe"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5414088",
+    "classification": "needs_exegesis",
+    "fragment": "Dekadansen",
+    "id": 5414088,
+    "is_description": true,
+    "path": "/5414088/Promoe-dekadansen/Dekadansen",
+    "range": {
+     "content": "Dekadansen"
+    },
+    "song_id": 920986,
+    "url": "https://genius.com/5414088/Promoe-dekadansen/Dekadansen",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/920986",
+     "client_timestamps": {
+      "updated_by_human_at": 1663707100,
+      "lyrics_updated_at": 1663707100
+     },
+     "context": "Promoe",
+     "id": 920986,
+     "image_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.640x640x1.jpg",
+     "link_title": "Dekadansen by\u00a0Promoe",
+     "title": "Dekadansen",
+     "type": "Song",
+     "url": "https://genius.com/Promoe-dekadansen-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5414088",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5414088,
+      "pinned": false,
+      "share_url": "https://genius.com/5414088",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5414088/Promoe-dekadansen/Dekadansen",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Promoe",
+   "lyrics": "Dekadansen Lyrics[Verse 1]\nDet \u00e4r ungdomens f\u00f6rfall\nG\u00f6r dekadansen\nIngen lugn man det blir ingen rast\nIngen lugn man det blir ingen rast\nHungrig man har binnikemask\nSlukar allt v\u00e4xer ur min kostym\nG\u00f6r rent hus som en inbrottstjyv\nRent hus som en lokalv\u00e5rdare\nTuggar spottar ut varje vokal h\u00e5rdare\nOch varje konsonant\nPallar ingen kontrollant\nSom kollar snett p\u00e5 han\nVilken sk\u00e4ggig fan\nM\u00e5ste vara kriminell riktigt dekadant\nPrecis kolla movesen vilken dekadans\nK\u00f6r h\u00e5rt till vi d\u00e4ckar japp, japp\nAlla \u00e4r vi djur alla ska vi d\u00f6\nStorma st\u00e4llet ingen pallar med n\u00e5n k\u00f6\nHundar katter vifta svansen upp med tassen\nG\u00f6r dekadansen\n[Chorus]\nDet \u00e4r ungdomens f\u00f6rfall\nInk\u00f6rsporten till allt\nSinnessl\u00f6het och l\u00e4ttja\nUpprorslystnad och k\u00e4ttja\nJag sa ungdomens f\u00f6rfall\nInk\u00f6rsporten till allt\nMassf\u00f6rvirring och fetma\nBrottslighet och helvetet n\u00e4sta\n\n[Verse 2]\nDin stil tom och fossil som homofobi\nK\u00e4nns nytt och fr\u00e4scht som lobotomi\nSom en stofil\nSom en repris\nVi stoppar gift i v\u00e5r musik\nSprider som medicin\nFilthy and filthy som polygami\nSp\u00e4rrar av golvet ingen kommer f\u00f6rbi\nStannar kvar till det kommer polis\nAntimoralist s\u00e5 det kommer f\u00f6rbi\nS\u00e5 l\u00e4nge moralen \u00e4r galen\n2000-talet heteronormen \u00e4r kvar \u00e4n\nUppviglar folket i baren\nPromoe uppfostrar barnen!\nMed jazzmusik, brass och skit\nDegenererad som en transvestit\nDegenererar bara massa flis\nOch skivbolag som \u00e4lskar profit\nDevious G's dj\u00e4vulens musik befruktar\nOtuktar som elvis h\u00f6fter\nHanden i luften, spana in grannen\nG\u00f6r likadant sen\nG\u00f6r dekadansen\nYou might also like[Chorus]\nDet \u00e4r ungdomens f\u00f6rfall\nInk\u00f6rsporten till allt\nSinnessl\u00f6het och l\u00e4ttja\nUpprorslystnad och k\u00e4ttja\nJag sa ungdomens f\u00f6rfall\nInk\u00f6rsporten till allt\nMassf\u00f6rvirring och fetma\nBrottslighet och helvetet n\u00e4sta\n\n[Bridge]\nFinns inge r\u00e4tt inge fel alla k\u00f6r sin grej\n\u00c5 om du inte kan bara g\u00f6r som mig\nFinns inge r\u00e4tt inge fel alla k\u00f6r sin grej\n\u00c5 om du f\u00f6r s\u00e5 g\u00f6r jag som dig\n\n[Chorus]\nDet \u00e4r ungdomens f\u00f6rfall\nInk\u00f6rsporten till allt\nSinnessl\u00f6het och l\u00e4ttja\nUpprorslystnad och k\u00e4ttja\n\nJag sa ungdomens f\u00f6rfall\nInk\u00f6rsporten till allt\nMassf\u00f6rvirring och fetma\nBrottslighet och helvetet n\u00e4sta\nDet \u00e4r ungdomens f\u00f6rfall\nInk\u00f6rsporten till allt\nSinnessl\u00f6het och l\u00e4ttja\nUpprorslystnad och k\u00e4ttja\n\nJag sa ungdomens f\u00f6rfall\nInk\u00f6rsporten till allt\nMassf\u00f6rvirring och fetma\nBrottslighet och helvetet n\u00e4staEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1738632",
+   "artist_names": "Promoe",
+   "full_title": "Kr\u00e5ks\u00e5ngen by\u00a0Promoe",
+   "header_image_thumbnail_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.640x640x1.jpg",
+   "id": 1738632,
+   "language": "sv",
+   "lyrics_owner_id": 14656,
+   "lyrics_state": "complete",
+   "path": "/Promoe-kraksangen-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Promoe-kraksangen-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Kr\u00e5ks\u00e5ngen",
+   "title_with_featured": "Kr\u00e5ks\u00e5ngen",
+   "url": "https://genius.com/Promoe-kraksangen-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/9506",
+    "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+    "id": 9506,
+    "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Promoe",
+    "url": "https://genius.com/artists/Promoe"
+   },
+   "apple_music_id": "1416927326",
+   "apple_music_player_url": "https://genius.com/songs/1738632/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1738632' class='rg_embed_link' data-song-id='1738632'>Read <a href='https://genius.com/Promoe-kraksangen-lyrics'>\u201cKr\u00e5ks\u00e5ngen\u201d by Promoe</a> on Genius</div> <script crossorigin src='//genius.com/songs/1738632/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/38018",
+    "cover_art_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.640x640x1.jpg",
+    "full_title": "Kr\u00e5ks\u00e5ngen by Promoe",
+    "id": 38018,
+    "name": "Kr\u00e5ks\u00e5ngen",
+    "url": "https://genius.com/albums/Promoe/Kraksangen",
+    "artist": {
+     "api_path": "/artists/9506",
+     "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+     "id": 9506,
+     "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Promoe",
+     "url": "https://genius.com/artists/Promoe"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6253993",
+    "classification": "needs_exegesis",
+    "fragment": "Kr\u00e5ks\u00e5ngen",
+    "id": 6253993,
+    "is_description": true,
+    "path": "/6253993/Promoe-kraksangen/Kraksangen",
+    "range": {
+     "content": "Kr\u00e5ks\u00e5ngen"
+    },
+    "song_id": 1738632,
+    "url": "https://genius.com/6253993/Promoe-kraksangen/Kraksangen",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1738632",
+     "client_timestamps": {
+      "updated_by_human_at": 1646765688,
+      "lyrics_updated_at": 1646765355
+     },
+     "context": "Promoe",
+     "id": 1738632,
+     "image_url": "https://images.genius.com/a181e31ec04d703d266a0c52e3180ece.640x640x1.jpg",
+     "link_title": "Kr\u00e5ks\u00e5ngen by\u00a0Promoe",
+     "title": "Kr\u00e5ks\u00e5ngen",
+     "type": "Song",
+     "url": "https://genius.com/Promoe-kraksangen-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6253993",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6253993,
+      "pinned": false,
+      "share_url": "https://genius.com/6253993",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6253993/Promoe-kraksangen/Kraksangen",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=guciJ7SojN0"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/36036",
+     "header_image_url": "https://images.genius.com/f5387f5f28abfec0736a0f02c2cc352a.708x708x1.jpg",
+     "id": 36036,
+     "image_url": "https://images.genius.com/f5387f5f28abfec0736a0f02c2cc352a.708x708x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rocwell",
+     "url": "https://genius.com/artists/Rocwell"
+    },
+    {
+     "api_path": "/artists/36035",
+     "header_image_url": "https://images.genius.com/7d616a95a4568337663b482bc02580b6.541x541x1.jpg",
+     "id": 36035,
+     "image_url": "https://images.genius.com/7d616a95a4568337663b482bc02580b6.541x541x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Astma",
+     "url": "https://genius.com/artists/Astma"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/36035",
+     "header_image_url": "https://images.genius.com/7d616a95a4568337663b482bc02580b6.541x541x1.jpg",
+     "id": 36035,
+     "image_url": "https://images.genius.com/7d616a95a4568337663b482bc02580b6.541x541x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Astma",
+     "url": "https://genius.com/artists/Astma"
+    },
+    {
+     "api_path": "/artists/36036",
+     "header_image_url": "https://images.genius.com/f5387f5f28abfec0736a0f02c2cc352a.708x708x1.jpg",
+     "id": 36036,
+     "image_url": "https://images.genius.com/f5387f5f28abfec0736a0f02c2cc352a.708x708x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rocwell",
+     "url": "https://genius.com/artists/Rocwell"
+    },
+    {
+     "api_path": "/artists/9506",
+     "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+     "id": 9506,
+     "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Promoe",
+     "url": "https://genius.com/artists/Promoe"
+    }
+   ],
+   "artist": "Promoe",
+   "lyrics": "Kr\u00e5ks\u00e5ngen Lyrics[Intro]\nSjung f\u00f6r allt du \u00e4r v\u00e4rd, sjung f\u00f6r allt du \u00e4r v\u00e4rd\nSjung f\u00f6r allt du \u00e4r v\u00e4rd, du vet v\u00e4l att du \u00e4r v\u00e4rd det?\n\n[Vers 1]\nIbland sj\u00f6ng jag kanske f\u00f6r h\u00f6gt f\u00f6r jag hetsa upp mej\nNasal och j\u00e4vlig, ville h\u00f6ras s\u00e5 jag spetsa r\u00f6sten\nIbland rodnar jag innan orden ens tr\u00e4ffar luften\nNervositeten torkar ut munnen men jag \u00e4lskar t\u00f6rsten/hungern\nD\u00f6r f\u00f6r mina br\u00f6der, jag \u00e4lskar truppen\nOavsett vad som h\u00e4nder kommer Looptroop alltid va b\u00e4sta gruppen\nJag \u00e4lskar orden s\u00e5 jag skrev f\u00f6r mycket text, men fuck it\nM\u00e5ste spotta p\u00e5 jorden f\u00f6r att n\u00e5t ska kunna v\u00e4xa upp sen\n[Refr\u00e4ng]\nS\u00e5 sjung f\u00f6r allt du \u00e4r v\u00e4rd i v\u00e4rldens kallaste v\u00e4rld\nJag snackar inte om v\u00e4dret\nTa reda p\u00e5 vem du \u00e4r, g\u00f6r n\u00e5t du kallar ditt verk\nDet kommer alltid va med dej\nOch sjung f\u00f6r att du \u00e4r k\u00e4r, f\u00f6r allt vad tyglarna b\u00e4r\nDu vet v\u00e4l att du \u00e4r v\u00e4rd det?\nSjung om allt som du b\u00e4r inom och utom din sj\u00e4l\nKompis, jag tycker det kl\u00e4r dej\n\n[Vers 2]\nOch n\u00e4r jag dansa framf\u00f6r spegeln var jag kanske feg, men\nDet k\u00e4ndes som jag hade dom grymmaste movsen och tajtaste stegen\nHetaste rimmen, i dr\u00f6mmen kunde jag fajtas min egen skugga\nP\u00e5 roliga timmen b\u00f6rja jag bajta mitt eget tugg av\nRun DMC, men jag vakta min egen tunga\nF\u00f6r det var bara vi, plus n\u00e5gra till writers p\u00e5 hela plugget\nN\u00e5gra h\u00f6ll ihop, p\u00e5 brottets bana var vi f\u00f6rbundna\nVille f\u00f6r\u00e4ndra, v\u00e5ra f\u00f6r\u00e4ldrar sa vi var f\u00f6r unga\nF\u00f6r att r\u00e4nna p\u00e5 stan och jag sk\u00e4mdes som fan den d\u00e4r dagen\nN\u00e4r farsan kom ner och h\u00e4mta hem mej fr\u00e5n biljarden\nFinnig ungdom p\u00e5 glid, gled runt i den nattliga staden\nOch det var bara vi, s\u00e5 jag sa \"Fuck it, jag tar den\"\nOm backen med sprit och TV:n fr\u00e5n hotellbygget i skrapan\nSen \u00e5kte vi dit, jag l\u00e4rde mej \u00e4lska, l\u00e4rde mej hata\nMen hur fan kom jag hit? Med truppen fr\u00e5n Sydafrika till Japan\nMed rap \u00f6ver beats finns ingenting som inte jag kan\nYou might also like[Refr\u00e4ng]\nS\u00e5 sjung f\u00f6r allt du \u00e4r v\u00e4rd i v\u00e4rldens kallaste v\u00e4rld\nJag snackar inte om v\u00e4dret\nTa reda p\u00e5 vem du \u00e4r, g\u00f6r n\u00e5t du kallar ditt verk\nDet kommer alltid va med dej\nOch sjung f\u00f6r att du \u00e4r k\u00e4r, f\u00f6r allt vad tyglarna b\u00e4r\nDu vet v\u00e4l att du \u00e4r v\u00e4rd det?\nSjung om allt som du b\u00e4r inom och utom din sj\u00e4l\nBaby, jag tycker det kl\u00e4r dej\n\n[Vers 3]\nS\u00e5 l\u00e5t mej bjuda till dans\nJag sjunger hellre \u00e4n bra och hellre d\u00e5ligt \u00e4n inte alls\nOm det pirrar i magen skiter jag i om det \u00e4r lite falskt\nLite skit rensar magen och jag rensar min hals\nOch tar mej ton mot elitister och besserwissers som sen sitter tyst\nN\u00e4r deras liv ska besjungas h\u00f6rs inte ett knyst\nF\u00f6r det kanske skulle bli fel eller fult, hemska tanke\nHan h\u00e4rskar till och med n\u00e4r det \u00e4r slut, svenska jante\nMen jag sjunger inte f\u00f6r kung eller fosterland, nej\nDet jag sjunger det m\u00e5ste fram\nJag sjunger inte f\u00f6r kung eller fosterland\nDet jag sjunger ba m\u00e5ste fram, s\u00e5\n\n[Refr\u00e4ng]\nS\u00e5 sjung f\u00f6r allt du \u00e4r v\u00e4rd i v\u00e4rldens kallaste v\u00e4rld\nJag snackar inte om v\u00e4dret\nTa reda p\u00e5 vem du \u00e4r, g\u00f6r n\u00e5t du kallar ditt verk\nDet kommer alltid va med dej\nOch sjung f\u00f6r att du \u00e4r k\u00e4r, f\u00f6r allt vad tyglarna b\u00e4r\nDu vet v\u00e4l att du \u00e4r v\u00e4rd det?\nSjung om allt som du b\u00e4r inom och utom din sj\u00e4l\nKompis, jag tycker det kl\u00e4r dej\n[Outro]\nS\u00e5 sjung f\u00f6r allt du \u00e4r v\u00e4rd i v\u00e4rldens kallaste v\u00e4rld\nJag snackar inte om v\u00e4dret\nTa reda p\u00e5 vem du \u00e4r, g\u00f6r n\u00e5t du kallar ditt verk\nDet kommer alltid va med dej\nOch sjung f\u00f6r att du \u00e4r k\u00e4r, f\u00f6r allt vad tyglarna b\u00e4r\nDu vet v\u00e4l att du \u00e4r v\u00e4rd det?\nSjung om allt som du b\u00e4r inom och utom din sj\u00e4l\nBaby, jag tycker det kl\u00e4r dejEmbed"
+  },
+  {
+   "annotation_count": 6,
+   "api_path": "/songs/37961",
+   "artist_names": "Promoe",
+   "full_title": "Off the Record by\u00a0Promoe",
+   "header_image_thumbnail_url": "https://images.genius.com/e0b756041eba6a854b46e0c2f81976ae.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e0b756041eba6a854b46e0c2f81976ae.640x640x1.jpg",
+   "id": 37961,
+   "language": "en",
+   "lyrics_owner_id": 50,
+   "lyrics_state": "complete",
+   "path": "/Promoe-off-the-record-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Promoe-off-the-record-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/e0b756041eba6a854b46e0c2f81976ae.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e0b756041eba6a854b46e0c2f81976ae.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 5,
+    "transcribers": 0,
+    "unreviewed_annotations": 5,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Off the Record",
+   "title_with_featured": "Off the Record",
+   "url": "https://genius.com/Promoe-off-the-record-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/9506",
+    "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+    "id": 9506,
+    "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Promoe",
+    "url": "https://genius.com/artists/Promoe"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/37961/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_37961' class='rg_embed_link' data-song-id='37961'>Read <a href='https://genius.com/Promoe-off-the-record-lyrics'>\u201cOff the Record\u201d by Promoe</a> on Genius</div> <script crossorigin src='//genius.com/songs/37961/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/323706",
+    "cover_art_url": "https://images.genius.com/37133c0a1dd6a85504cf8a88a6bc853d.968x968x1.jpg",
+    "full_title": "Off The Record by Promoe",
+    "id": 323706,
+    "name": "Off The Record",
+    "url": "https://genius.com/albums/Promoe/Off-the-record",
+    "artist": {
+     "api_path": "/artists/9506",
+     "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+     "id": 9506,
+     "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Promoe",
+     "url": "https://genius.com/artists/Promoe"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 50,
+    "annotator_login": "AlysonWonderland",
+    "api_path": "/referents/3528739",
+    "classification": "needs_exegesis",
+    "fragment": "Off the Record",
+    "id": 3528739,
+    "is_description": true,
+    "path": "/3528739/Promoe-off-the-record/Off-the-record",
+    "range": {
+     "content": "Off the Record"
+    },
+    "song_id": 37961,
+    "url": "https://genius.com/3528739/Promoe-off-the-record/Off-the-record",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/37961",
+     "client_timestamps": {
+      "updated_by_human_at": 1483463183,
+      "lyrics_updated_at": 0
+     },
+     "context": "Promoe",
+     "id": 37961,
+     "image_url": "https://images.genius.com/e0b756041eba6a854b46e0c2f81976ae.640x640x1.jpg",
+     "link_title": "Off the Record by\u00a0Promoe",
+     "title": "Off the Record",
+     "type": "Song",
+     "url": "https://genius.com/Promoe-off-the-record-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3528739",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3528739,
+      "pinned": false,
+      "share_url": "https://genius.com/3528739",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3528739/Promoe-off-the-record/Off-the-record",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/50",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+         "human_readable_role_for_display": "Contributor",
+         "id": 50,
+         "iq": 3400,
+         "login": "AlysonWonderland",
+         "name": "AlysonWonderland",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AlysonWonderland",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Promoe",
+   "lyrics": "Off the Record Lyrics[Verse 1 - Promoe]\nWhether outdoors or indoors, the crowd will en-dorse\nMy show, and end yours, that's natural laws\nI get crazy applause, they Buju like Banton\nI chant down Babylon it's the countdown\nWe're livin' in the last couple of\nDays\nThat's why I never kick wack rhymes\nCause there ain't no time to\nWaste\nNo time to fake, no time to chase the papes\nTime to get it straight in nineteen ninety hate\nThat's the number and the mindstate\nThe only way you fuckin' with my style is if it's rape\nBut I got the mace and the pepper spray in my purse\nAfter the battle one of us leavin' the hurse\nI don't care if it's me but it's probably gonna be you though\nBut I'm chillin' like Blue Note's played on Pluto\nI won't get mad if you say you took out Promoe\nI just relax and sit back and\nWatch ya nose grow\n\"Suckas step up..\"\n\"You wanna battle..\"\"..don't even try it\"\n\n[Hook - Promoe]\nYo, my style is off the record\nBut don't turn off the record\nCause then it's off the record\nHow I'll off you in a second\nMy style is off the record\nBut don't turn off the record\nCause than it's off the record\nSuckas!\n\n[Verse 2 - Promoe]\nIf I cross you, I will diss you in a rhyme\nTake it as a compliment I think you worth the ink, and the time\nWho me, Promoe, with the master peal\nDon't mess with me though cause I bust rhymes and piss\nAnd fuck with dead emcees like necrophiliacs\nBut I can't dig 'em they actin' like maniacs\nThinkin' that the Promoe could ever get beaten\nThat's like a Danish guy gettin' drunk in Sweden\nNot very likely cause when I step on stage\nI get props from smoke spots to internet homepages\nSee my show as a sermon on the mount\nGivin' emcees god's word I'm what it's all about\nIt's about this I'm in crisp on the mic\nTo me all y'all other clicks sound alike\nSo fuck you, plus your weak producer\nDon't face you, you better face Medusa\nI'll turn your weak flesh into solid stone\nSimply because I rock on the microphone\nAnd it don't stop it goes on and on\nLike havin' sex with Erykah Badu 'til the early morn'\nCheck it out it don't stop\nI keep on till the neighbors call the cops\nYou might also like[Hook - Promoe]\nCause my style's off the record\nBut don't turn off the record\nCause then it's off the record\nHow I'll off you in a second\nMy style's off the record\nBut don't turn off the record\nCause than it's off the record\nCheck it\n\n\"You wanna battle..\"\n\"Suckas step up..\" \"..don't even try it\"\n\n[Verse 3 - Promoe]\nEmcees talk a lot of shit I make 'em eat every word of it\nI'm from the Looptroop crew I bet you heard of it\nAnd still you wanna face me\nNot even the man in the mirror can\nWho you? A Swedish kid tryin' to be American\nCouldn't take me out if I was the track\nYou wanna battle then you better bring some caps\nCause I'm takin' all your stash even though I'm drinkin' back\nIn the soundclash on yo' ass like a rash\nReally rational lyrics\nSpit like ammo from the lips of P-R-O-M-O\nThe mind state, scientists ain't figured yet\nYour stock compared to mine, is nicorette to cigarette\nYou illiterate I'm educated\nThe university of hip-hop you never graduated\nI heard some decent emcees right from the top of they heads\nBut I rhyme from the bottom of my heart, 'nuff said\n\"Suckas step up..\"\n\"You wanna battle..\"\"..don't even try it\"\n\n[Hook - Promoe] (repeated til fade)\nMy style is off the record\nBut don't turn off the record\nCause then it's off the record\nHow I'll off you in a second\n\n\u00a0Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/3141094",
+   "artist_names": "Promoe",
+   "full_title": "Vegan Pussy by\u00a0Promoe",
+   "header_image_thumbnail_url": "https://images.genius.com/8e1fe0926e220cdd9716ab547c59a5d8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8e1fe0926e220cdd9716ab547c59a5d8.553x553x1.jpg",
+   "id": 3141094,
+   "language": "en",
+   "lyrics_owner_id": 752183,
+   "lyrics_state": "complete",
+   "path": "/Promoe-vegan-pussy-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Promoe-vegan-pussy-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 6,
+    "day": 23
+   },
+   "release_date_for_display": "June 23, 2017",
+   "release_date_with_abbreviated_month_for_display": "Jun. 23, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8e1fe0926e220cdd9716ab547c59a5d8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8e1fe0926e220cdd9716ab547c59a5d8.553x553x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Vegan Pussy",
+   "title_with_featured": "Vegan Pussy",
+   "url": "https://genius.com/Promoe-vegan-pussy-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/9506",
+    "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+    "id": 9506,
+    "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Promoe",
+    "url": "https://genius.com/artists/Promoe"
+   },
+   "apple_music_id": "1394021676",
+   "apple_music_player_url": "https://genius.com/songs/3141094/apple_music_player",
+   "description": {
+    "plain": "There is a long tradition of artist as varied as  Nina Simone, Warrant, Kelis, The Rolling Stones and Tom Waits, to name a few, who use food when talking about sex. Promoe whips up his own special, vegan laced, metaphor bomb to add to the list. Double entendres flow one after the other until he smacks you in the face with the title of the song."
+   },
+   "embed_content": "<div id='rg_embed_link_3141094' class='rg_embed_link' data-song-id='3141094'>Read <a href='https://genius.com/Promoe-vegan-pussy-lyrics'>\u201cVegan Pussy\u201d by Promoe</a> on Genius</div> <script crossorigin src='//genius.com/songs/3141094/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-06-23",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/347407",
+    "cover_art_url": "https://images.genius.com/1c67d1fa677b765a8984ec77d4966570.1000x1000x1.jpg",
+    "full_title": "LTR 25 by Looptroop Rockers",
+    "id": 347407,
+    "name": "LTR 25",
+    "url": "https://genius.com/albums/Looptroop-rockers/Ltr-25",
+    "artist": {
+     "api_path": "/artists/21083",
+     "header_image_url": "https://images.genius.com/a4dee148f7fffcbd872c5fc7091d8f7f.960x300x1.jpg",
+     "id": 21083,
+     "image_url": "https://images.genius.com/7a189fcf69926b53269afca103ebf828.767x767x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Looptroop Rockers",
+     "url": "https://genius.com/artists/Looptroop-rockers"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 752183,
+    "annotator_login": "Cyberjazz",
+    "api_path": "/referents/12262995",
+    "classification": "accepted",
+    "fragment": "Vegan Pussy",
+    "id": 12262995,
+    "is_description": true,
+    "path": "/12262995/Promoe-vegan-pussy/Vegan-pussy",
+    "range": {
+     "content": "Vegan Pussy"
+    },
+    "song_id": 3141094,
+    "url": "https://genius.com/12262995/Promoe-vegan-pussy/Vegan-pussy",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3141094",
+     "client_timestamps": {
+      "updated_by_human_at": 1646500978,
+      "lyrics_updated_at": 1499958454
+     },
+     "context": "Promoe",
+     "id": 3141094,
+     "image_url": "https://images.genius.com/8e1fe0926e220cdd9716ab547c59a5d8.553x553x1.jpg",
+     "link_title": "Vegan Pussy by\u00a0Promoe",
+     "title": "Vegan Pussy",
+     "type": "Song",
+     "url": "https://genius.com/Promoe-vegan-pussy-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/12262995",
+      "body": {
+       "plain": "There is a long tradition of artist as varied as  Nina Simone, Warrant, Kelis, The Rolling Stones and Tom Waits, to name a few, who use food when talking about sex. Promoe whips up his own special, vegan laced, metaphor bomb to add to the list. Double entendres flow one after the other until he smacks you in the face with the title of the song."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 12262995,
+      "pinned": false,
+      "share_url": "https://genius.com/12262995",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/12262995/Promoe-vegan-pussy/Vegan-pussy",
+      "verified": false,
+      "votes_total": 1,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/752183",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/156007d44a4b1254d8b06b286b9f2acc",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/156007d44a4b1254d8b06b286b9f2acc",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/156007d44a4b1254d8b06b286b9f2acc",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/156007d44a4b1254d8b06b286b9f2acc",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/D6t5GMRQRbn2mfv1I9nN_Django.gif",
+         "human_readable_role_for_display": "Contributor",
+         "id": 752183,
+         "iq": 10891,
+         "login": "Cyberjazz",
+         "name": "Cyberjazz",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Cyberjazz",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=UBT0rfDg4IE"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/995927",
+     "header_image_url": "https://images.genius.com/db5789bebc7e55d9b05383a3c6a5e718.400x400x1.jpg",
+     "id": 995927,
+     "image_url": "https://images.genius.com/db5789bebc7e55d9b05383a3c6a5e718.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Patrik Coll\u00e9n",
+     "url": "https://genius.com/artists/Patrik-collen"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/9506",
+     "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+     "id": 9506,
+     "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Promoe",
+     "url": "https://genius.com/artists/Promoe"
+    }
+   ],
+   "artist": "Promoe",
+   "lyrics": "Vegan Pussy Lyrics[Verse 1]\nGive me that green, red, yellow mango dripping with juice\nPeel the skin off slowly, let me split it in two\nWipe...off the jewel while he's gripping my tool\n(Vegan Pussy) got me looking a fool\nMy beard all smeared with maple syrup\nLooking weird, I prepare my food, naked stir up\nPots and pans, hot to handle\nDrop my pants, light the candles (c'mon)\nI'm not down with the flavor of fish or the cheese (nah)\nTangerine, sun kiss on the cheek\nVegan bliss, volleyball on the beach\nExtra virgin olive oil for the grease\nYour cinnamon got me turning to a sinner man\nBut then again I ain't nothing but a simian\nGreet you like a bonobo, grease you up with the cocoa butter\nThe coconut water, the ice in the snow no\nYou're chilly, your chugging, your killing me softly\nVanilla to chocolate, I beg you don't stop it\nYou're chilly, your chugging, your killing me softly\nVanilla to chocolate, I beg you don't ever get off me\n[Chorus]\nI gotta have that (Vegan Pussy)\nFiending for that (Vegan Pussy)\nGotta have that\nI need that\nGive me that (Vegan Pussy)\n\n[Verse 2]\nI'm a Vegan Pussy loving that vegan...pussy\nI ain't no Jamaican, fuck it I'm eating pussy\nTalking 'bout no sushi, the raw food sizzling hot\nYou ain't gotta cook it; the pastries, the cookies\nThe cakes and the puddings; the flavors, the goodies\nI daydream of smoothies, baby let's do this\nJust call your boy\nGive me a taste of that almighty Almond Joy\nI'm...feeling pressed for that wheatgrass juice\nGive it to me fresh or even weeks past due\nCherry right, the marriage tight, for the average life\nWith a kitchen knife, keep it veggie lite, each and every night\nA big appetite despite what I had for lunch\nA big bite of that apple bum...Bonita\nBuenos dias mamacita\nGotta give me that vegan aahh\n\n[Chorus]\nI gotta have that (Vegan Pussy)\nGive me that whipped soy cream (Vegan Pussy)\nFiending for that\nSalivating\nGotta have that (Vegan Pussy)\nYou might also like[Bridge]\nAubergine...ovaries\nTaking over me\nMama your toosh got that Baba ghanoush\nOverflowing your jeans\nAubergine...ovaries\nTaking over me\nMama your toosh got that Baba ghanoush\nOverflowing your jeans\n\n[Outro Chorus]\nI gotta have that\nGive me, give me that\nFiending for that (Vegan Pussy)\nSalivating\nI need that\nGive me that (Vegan Pussy)1Embed"
+  }
+ ]
+}

@@ -1,0 +1,4228 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1053354",
+ "description": {
+  "plain": "Medina \u00e4r en svensk rap- och dance-grupp, best\u00e5ende av Sam-E och Alibrorsh.\n\nGruppen har sl\u00e4ppt 14 publikationer \u2013 inklusive mixtapes och albums \u2013 sedan de tv\u00e5 konstn\u00e4rerna f\u00f6r f\u00f6rsta g\u00e5ngen m\u00f6ttes i 2002, och \u00e4r mest k\u00e4nd f\u00f6r l\u00e5tar som \u201cD\u00e4r palmerna bor\u201d och \u201cMiss Decibel\u201d."
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+ "id": 1053354,
+ "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Medina",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Medina",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3010441,
+  "annotator_login": "fimoo",
+  "api_path": "/referents/11105069",
+  "classification": "accepted",
+  "fragment": "Medina",
+  "id": 11105069,
+  "is_description": true,
+  "path": "/11105069/Medina/Medina",
+  "range": {
+   "content": "Medina"
+  },
+  "song_id": null,
+  "url": "https://genius.com/11105069/Medina/Medina",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1053354",
+   "context": null,
+   "id": 1053354,
+   "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+   "link_title": "Medina",
+   "title": "Medina",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Medina"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/11105069",
+    "body": {
+     "plain": "Medina \u00e4r en svensk rap- och dance-grupp, best\u00e5ende av Sam-E och Alibrorsh.\n\nGruppen har sl\u00e4ppt 14 publikationer \u2013 inklusive mixtapes och albums \u2013 sedan de tv\u00e5 konstn\u00e4rerna f\u00f6r f\u00f6rsta g\u00e5ngen m\u00f6ttes i 2002, och \u00e4r mest k\u00e4nd f\u00f6r l\u00e5tar som \u201cD\u00e4r palmerna bor\u201d och \u201cMiss Decibel\u201d."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 11105069,
+    "pinned": false,
+    "share_url": "https://genius.com/11105069",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/11105069/Medina/Medina",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.9772727272727273,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3010441",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/W40WhOmvRuOLrT2tmADj_tumblr_nx4bghV2ew1uk1xgso1_400.gif",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/W40WhOmvRuOLrT2tmADj_tumblr_nx4bghV2ew1uk1xgso1_400.gif",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/W40WhOmvRuOLrT2tmADj_tumblr_nx4bghV2ew1uk1xgso1_400.gif",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/W40WhOmvRuOLrT2tmADj_tumblr_nx4bghV2ew1uk1xgso1_400.gif",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/n8o0ee88gqm",
+       "human_readable_role_for_display": "Editor",
+       "id": 3010441,
+       "iq": 220479,
+       "login": "fimoo",
+       "name": "fimoo",
+       "role_for_display": "editor",
+       "url": "https://genius.com/fimoo",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.022727272727272728,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3698451",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cXhv9W9QWaWf3sfQ52VA_jag%20och%20hund%20tekla.jpeg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cXhv9W9QWaWf3sfQ52VA_jag%20och%20hund%20tekla.jpeg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cXhv9W9QWaWf3sfQ52VA_jag%20och%20hund%20tekla.jpeg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cXhv9W9QWaWf3sfQ52VA_jag%20och%20hund%20tekla.jpeg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/s2nIOfTzyNK3J6kFOLAq_Namnlo%CC%88st.png",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3698451,
+       "iq": 17301,
+       "login": "Aegidrom",
+       "name": "Aegidrom",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Aegidrom",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/165003",
+   "artist_names": "Medina",
+   "full_title": "Miss Decibel by\u00a0Medina",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/bde141725a39555dc6799f1afc869eb2.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/bde141725a39555dc6799f1afc869eb2.568x568x1.jpg",
+   "id": 165003,
+   "language": "sv",
+   "lyrics_owner_id": 149650,
+   "lyrics_state": "complete",
+   "path": "/Medina-miss-decibel-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Medina-miss-decibel-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 4,
+    "day": 26
+   },
+   "release_date_for_display": "April 26, 2013",
+   "release_date_with_abbreviated_month_for_display": "Apr. 26, 2013",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/bde141725a39555dc6799f1afc869eb2.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/bde141725a39555dc6799f1afc869eb2.568x568x1.jpg",
+   "stats": {
+    "accepted_annotations": 2,
+    "contributors": 7,
+    "iq_earners": 6,
+    "transcribers": 4,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 60300
+   },
+   "title": "Miss Decibel",
+   "title_with_featured": "Miss Decibel",
+   "url": "https://genius.com/Medina-miss-decibel-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1053354",
+    "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+    "id": 1053354,
+    "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Medina",
+    "url": "https://genius.com/artists/Medina"
+   },
+   "apple_music_id": "693556780",
+   "apple_music_player_url": "https://genius.com/songs/165003/apple_music_player",
+   "description": {
+    "plain": ""
+   },
+   "embed_content": "<div id='rg_embed_link_165003' class='rg_embed_link' data-song-id='165003'>Read <a href='https://genius.com/Medina-miss-decibel-lyrics'>\u201cMiss Decibel\u201d by Medina</a> on Genius</div> <script crossorigin src='//genius.com/songs/165003/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-04-26",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/336565",
+    "cover_art_url": "https://images.genius.com/7de3d13aff5aaee50090fd3ebc333a30.600x600x1.jpg",
+    "full_title": "Sista Minuten by Medina",
+    "id": 336565,
+    "name": "Sista Minuten",
+    "url": "https://genius.com/albums/Medina/Sista-minuten",
+    "artist": {
+     "api_path": "/artists/1053354",
+     "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "id": 1053354,
+     "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Medina",
+     "url": "https://genius.com/artists/Medina"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 234091,
+    "annotator_login": "AABE",
+    "api_path": "/referents/3607234",
+    "classification": "accepted",
+    "fragment": "Miss Decibel",
+    "id": 3607234,
+    "is_description": true,
+    "path": "/3607234/Medina-miss-decibel/Miss-decibel",
+    "range": {
+     "content": "Miss Decibel"
+    },
+    "song_id": 165003,
+    "url": "https://genius.com/3607234/Medina-miss-decibel/Miss-decibel",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/165003",
+     "client_timestamps": {
+      "updated_by_human_at": 1626955440,
+      "lyrics_updated_at": 1626955434
+     },
+     "context": "Medina",
+     "id": 165003,
+     "image_url": "https://images.rapgenius.com/bde141725a39555dc6799f1afc869eb2.568x568x1.jpg",
+     "link_title": "Miss Decibel by\u00a0Medina",
+     "title": "Miss Decibel",
+     "type": "Song",
+     "url": "https://genius.com/Medina-miss-decibel-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3607234",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3607234,
+      "pinned": false,
+      "share_url": "https://genius.com/3607234",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3607234/Medina-miss-decibel/Miss-decibel",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/234091",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/928ccf760b656873599d28c4db7e9fca",
+         "human_readable_role_for_display": "Contributor",
+         "id": 234091,
+         "iq": 9579,
+         "login": "AABE",
+         "name": "AABE",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AABE",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:5JKMm4J0PAUi5xhz0pAUTx",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/5JKMm4J0PAUi5xhz0pAUTx"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=T8xpEbRdOXI"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/9933",
+     "header_image_url": "https://images.genius.com/2941c95bf49cef64206c51b96c9b7514.1000x1000x1.jpg",
+     "id": 9933,
+     "image_url": "https://images.genius.com/1d57548bf35b4fe75df79e8e207b503a.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "KJ",
+     "url": "https://genius.com/artists/Kj"
+    },
+    {
+     "api_path": "/artists/1106239",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1106239,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joakim Sandstr\u00f6m",
+     "url": "https://genius.com/artists/Joakim-sandstrom"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2053488",
+       "artist_names": "Medina",
+       "full_title": "Miss Decibel (Darwin & Backwall Remix) by\u00a0Medina",
+       "header_image_thumbnail_url": "https://images.genius.com/593009e3f7c495dfe8d95b088096d222.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/593009e3f7c495dfe8d95b088096d222.640x640x1.jpg",
+       "id": 2053488,
+       "language": null,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Medina-miss-decibel-darwin-and-backwall-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Medina-miss-decibel-darwin-and-backwall-remix-sample",
+       "release_date_components": {
+        "year": 2013,
+        "month": 5,
+        "day": 31
+       },
+       "release_date_for_display": "May 31, 2013",
+       "release_date_with_abbreviated_month_for_display": "May. 31, 2013",
+       "song_art_image_thumbnail_url": "https://images.genius.com/593009e3f7c495dfe8d95b088096d222.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/593009e3f7c495dfe8d95b088096d222.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Miss Decibel (Darwin & Backwall Remix)",
+       "title_with_featured": "Miss Decibel (Darwin & Backwall Remix)",
+       "url": "https://genius.com/Medina-miss-decibel-darwin-and-backwall-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1053354",
+        "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+        "id": 1053354,
+        "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Medina",
+        "url": "https://genius.com/artists/Medina"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/71990",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 71990,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sam-E (USA)",
+     "url": "https://genius.com/artists/Sam-e-usa"
+    },
+    {
+     "api_path": "/artists/1106241",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1106241,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JahMxli",
+     "url": "https://genius.com/artists/Jahmxli"
+    }
+   ],
+   "artist": "Medina",
+   "lyrics": "Miss Decibel Lyrics[Vers 1: Sami]\n\u00c4nda sen unga dar har vi h\u00e5llit ihop\nVi blev presenterade, du likna n\u00e5n fr\u00e5n Hollywood\nVacker som en himmel full av stj\u00e4rnor\nDu lyste upp min v\u00e4rld s\u00e5 jag h\u00e4ngde runt din hals som p\u00e4rlor\nEy, lyssnar till dina hj\u00e4rtslag alltid en annan takt\nOch jag h\u00f6jer dig till skyn ja var och varannan natt\nMin mamma var alltid lack, du sov hos mig varje kv\u00e4ll\nDu gick med mig \u00f6verallt, jag \u00e4lskar dig, Decibel\n\n[Brygga]\nOch jag k\u00e4nner samma sak \u00e4n i dag, \u00e4ven fast jag \u00e4r din slav\nAlla g\u00e5nger som jag drog men kom tillbaks\nDu \u00e4r rosen, jag \u00e4r bladen, f\u00f6r evigt det \u00e4r du och jag\nOch n\u00e4r du ropar efter mig s\u00e5 svarar jag\n[Refr\u00e4ng]\nJag sv\u00e4r p\u00e5 mitt liv och p\u00e5 allt jag har\nDu \u00e4r den enda som har f\u00e5tt mig att k\u00e4nna mig svag\nBaby, jag sv\u00e4r p\u00e5 mitt liv och p\u00e5 allt du gav\nJag \u00e4lskar dig f\u00f6r du har gjort mig till en fucking star\nHey, hey, Miss Decibel (Oh-oh, oh-oh)\nHey, Miss Decibel (Oh-oh, oh-oh)\nHey, Miss Decibel (Oh-oh, oh-oh)\nHey, Miss Decibel (Oh-oh, oh-oh)\n\n[Vers 2: Ali]\nDe s\u00e4ger min guzz \u00e4r pipig som tinnitus\nJag diggar hennes inre r\u00f6st n\u00e4r jag h\u00f6r den klart att jag finner tr\u00f6st\nMin Cinderella sen jag hitta hennes klack\nHar hon kommit \u00f6ver alla kv\u00e4llar, aldrig att hon stack\nMen grannarna gillar att gn\u00e4lla, hah\nMen hon \u00e4r str\u00e4ng som en gura s\u00e5 hon svarar med att skr\u00e4lla\nN\u00e4r vi \u00e4lskar h\u00f6rs hon som en pornstar\nDet s\u00e4ger bara pop-pop som flaskorna i B\u00e5stad\n\n[Brygga]\nOch jag k\u00e4nner samma sak \u00e4n i dag, \u00e4ven fast jag \u00e4r din slav\nAlla g\u00e5nger som jag drog men kom tillbaks\nDu \u00e4r rosen, jag \u00e4r bladen, f\u00f6r evigt det \u00e4r du och jag\nOch n\u00e4r du ropar efter mig s\u00e5 svarar jag\nYou might also like[Refr\u00e4ng]\nJag sv\u00e4r p\u00e5 mitt liv och p\u00e5 allt jag har\nDu \u00e4r den enda som har f\u00e5tt mig att k\u00e4nna mig svag\nBaby, jag sv\u00e4r p\u00e5 mitt liv och p\u00e5 allt du gav\nJag \u00e4lskar dig f\u00f6r du har gjort mig till en fucking star\nHey, hey, Miss Decibel (Oh-oh, oh-oh)\nHey, Miss Decibel (Oh-oh, oh-oh)\nHey, Miss Decibel (Oh-oh, oh-oh)\nHey, Miss Decibel (Oh-oh, oh-oh)\n\n[Stick]\nJag f\u00f6ll p\u00e5 direkten, det var n\u00e5got elektriskt\n\u00c4nda in i skelettet k\u00e4nner jag din sj\u00e4l\nVi har krigat i m\u00e5nga n\u00e4tter, br\u00e5kat i m\u00e5nga dar\nAlltid \u00e5ngrat oss efter, du och jag\nJag f\u00f6ll p\u00e5 direkten, det var n\u00e5got elektriskt\n\u00c4nda in i skelettet k\u00e4nner jag din sj\u00e4l\nVi har krigat i m\u00e5nga n\u00e4tter, br\u00e5kat i m\u00e5nga dar\nAlltid \u00e5ngrat oss efter, du och jag\n\n[Refr\u00e4ng]\nJag sv\u00e4r p\u00e5 mitt liv och p\u00e5 allt jag har\nDu \u00e4r den enda som har f\u00e5tt mig att k\u00e4nna mig svag\nBaby, jag sv\u00e4r p\u00e5 mitt liv och p\u00e5 allt du gav\nJag \u00e4lskar dig f\u00f6r du har gjort mig till en fucking star\nHey, hey, Miss Decibel (Oh-oh, oh-oh)\nHey, Miss Decibel (Oh-oh, oh-oh)\nHey, Miss Decibel (Oh-oh, oh-oh)\nHey, Miss Decibel (Oh-oh, oh-oh)1Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1968161",
+   "artist_names": "Medina",
+   "full_title": "D\u00e4r Palmerna Bor by\u00a0Medina",
+   "header_image_thumbnail_url": "https://images.genius.com/b0456a8d265b8782f99d1769b9abe33f.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/b0456a8d265b8782f99d1769b9abe33f.640x640x1.jpg",
+   "id": 1968161,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Medina-dar-palmerna-bor-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Medina-dar-palmerna-bor-sample",
+   "release_date_components": {
+    "year": 2012,
+    "month": 10,
+    "day": 5
+   },
+   "release_date_for_display": "October 5, 2012",
+   "release_date_with_abbreviated_month_for_display": "Oct. 5, 2012",
+   "song_art_image_thumbnail_url": "https://images.genius.com/b0456a8d265b8782f99d1769b9abe33f.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b0456a8d265b8782f99d1769b9abe33f.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 19002
+   },
+   "title": "D\u00e4r Palmerna Bor",
+   "title_with_featured": "D\u00e4r Palmerna Bor",
+   "url": "https://genius.com/Medina-dar-palmerna-bor-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1053354",
+    "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+    "id": 1053354,
+    "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Medina",
+    "url": "https://genius.com/artists/Medina"
+   },
+   "apple_music_id": "689307059",
+   "apple_music_player_url": "https://genius.com/songs/1968161/apple_music_player",
+   "description": {
+    "plain": "Medinas L\u00e5t \u201cD\u00e4r Palmerna Bor\u201d"
+   },
+   "embed_content": "<div id='rg_embed_link_1968161' class='rg_embed_link' data-song-id='1968161'>Read <a href='https://genius.com/Medina-dar-palmerna-bor-lyrics'>\u201cD\u00e4r Palmerna Bor\u201d by Medina</a> on Genius</div> <script crossorigin src='//genius.com/songs/1968161/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2012-10-05",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/336561",
+    "cover_art_url": "https://images.genius.com/5806262ad337b7274c60de8dfdc620d9.600x600x1.jpg",
+    "full_title": "Hayat by Medina",
+    "id": 336561,
+    "name": "Hayat",
+    "url": "https://genius.com/albums/Medina/Hayat",
+    "artist": {
+     "api_path": "/artists/1053354",
+     "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "id": 1053354,
+     "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Medina",
+     "url": "https://genius.com/artists/Medina"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2403085,
+    "annotator_login": "KgCool321",
+    "api_path": "/referents/6654598",
+    "classification": "unreviewed",
+    "fragment": "D\u00e4r Palmerna Bor",
+    "id": 6654598,
+    "is_description": true,
+    "path": "/6654598/Medina-dar-palmerna-bor/Dar-palmerna-bor",
+    "range": {
+     "content": "D\u00e4r Palmerna Bor"
+    },
+    "song_id": 1968161,
+    "url": "https://genius.com/6654598/Medina-dar-palmerna-bor/Dar-palmerna-bor",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1968161",
+     "client_timestamps": {
+      "updated_by_human_at": 1630792785,
+      "lyrics_updated_at": 1630792785
+     },
+     "context": "Medina",
+     "id": 1968161,
+     "image_url": "https://images.genius.com/b0456a8d265b8782f99d1769b9abe33f.640x640x1.jpg",
+     "link_title": "D\u00e4r Palmerna Bor by\u00a0Medina",
+     "title": "D\u00e4r Palmerna Bor",
+     "type": "Song",
+     "url": "https://genius.com/Medina-dar-palmerna-bor-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6654598",
+      "body": {
+       "plain": "Medinas L\u00e5t \u201cD\u00e4r Palmerna Bor\u201d"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6654598,
+      "pinned": false,
+      "share_url": "https://genius.com/6654598",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/6654598/Medina-dar-palmerna-bor/Dar-palmerna-bor",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2403085",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ae8a0450702364ae8870234d24d19a6b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ae8a0450702364ae8870234d24d19a6b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ae8a0450702364ae8870234d24d19a6b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ae8a0450702364ae8870234d24d19a6b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/ae8a0450702364ae8870234d24d19a6b",
+         "human_readable_role_for_display": null,
+         "id": 2403085,
+         "iq": 112,
+         "login": "KgCool321",
+         "name": "KgCool321",
+         "role_for_display": null,
+         "url": "https://genius.com/KgCool321",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 40,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=TLD74qRkhs8"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1106239",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1106239,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joakim Sandstr\u00f6m",
+     "url": "https://genius.com/artists/Joakim-sandstrom"
+    },
+    {
+     "api_path": "/artists/9933",
+     "header_image_url": "https://images.genius.com/2941c95bf49cef64206c51b96c9b7514.1000x1000x1.jpg",
+     "id": 9933,
+     "image_url": "https://images.genius.com/1d57548bf35b4fe75df79e8e207b503a.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "KJ",
+     "url": "https://genius.com/artists/Kj"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1106241",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1106241,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JahMxli",
+     "url": "https://genius.com/artists/Jahmxli"
+    },
+    {
+     "api_path": "/artists/71990",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 71990,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sam-E (USA)",
+     "url": "https://genius.com/artists/Sam-e-usa"
+    }
+   ],
+   "artist": "Medina",
+   "lyrics": "D\u00e4r Palmerna Bor LyricsInte en dag har g\u00e5tt utan att jag t\u00e4nkt p\u00e5\nStr\u00e4nderna man br\u00e4nts p\u00e5 d\u00e4r klubbar aldrig st\u00e4ngs \u00e5h\nInte en dag har g\u00e5tt utan att jag t\u00e4nkt p\u00e5\nStr\u00e4nderna man br\u00e4nts p\u00e5 d\u00e4r stranden \u00e4r min s\u00e4ng \u00e5h\nVi drar dit palmerna bor\n\nKan det blir kallare tro\nJag fr\u00e5gar mig sj\u00e4lv varf\u00f6r stanna i nord\nMen ja vet att det handlar om floos\nVi vill ba ha v\u00e5r f\u00f6rbannade sol\nVi ser o vi dr\u00f6mmer de samma min bror\nS\u00e5 vi jobbar o samlar o taggar s\u00e5 fort\nVi kan langar min canada goose\nF\u00f6r idag ska vi landa d\u00e4r palmerna bor\nKliver av planet o den d\u00e4r hettan som tr\u00e4ffar min kropp g\u00f6r mig galen\nKastar min v\u00e4ska p\u00e5 rummet sekunden efter \u00e4r vi\nUte och spanar p\u00e5 damer\nDe h\u00e4r e vad vi kallar f\u00f6r hayat tofflorna p\u00e5 nu f\u00f6r sanden \u00e4r het\nStannar h\u00e4r sent om vi k\u00e4nner f\u00f6r vad som h\u00e4nder\nEfter det bara palmerna vet\nInte en dag har g\u00e5tt utan att jag t\u00e4nkt p\u00e5\nStr\u00e4nderna man br\u00e4nts p\u00e5 d\u00e4r klubbar aldrig st\u00e4ngs \u00e5h\nInte en dag har g\u00e5tt utan att jag t\u00e4nkt p\u00e5\nStr\u00e4nderna man br\u00e4nts p\u00e5 d\u00e4r stranden \u00e4r min s\u00e4ng \u00e5h\nVi drar dit palmerna bor\n\nInte en dag har g\u00e5tt utan att jag t\u00e4nkt p\u00e5\nStr\u00e4nderna man br\u00e4nts p\u00e5 d\u00e4r klubbar aldrig st\u00e4ngs \u00e5h\nInte en dag har g\u00e5tt utan att jag t\u00e4nkt p\u00e5\nStr\u00e4nderna man br\u00e4nts p\u00e5 d\u00e4r stranden \u00e4r min s\u00e4ng \u00e5h\nVi drar dit palmerna bor\n\nDagen jag v\u00e4ntat p\u00e5 e h\u00e4r vill f\u00e5 ett slut p\u00e5 regnet yeeeh\nF\u00f6r klimatet vi har det t\u00e4r p\u00e5 mig\nNu ere planet ner till varmare grader k\u00e4nslan den tar en med\nF\u00f6rst in i badet, bandet runt armen beh\u00f6vs det f\u00f6rklaras mer\nAll inclusive/\nCruisar boulevard med bob marley music\nNatten har kommit, champagnen den bubblar och\nMr jammali \u00e4r kvar i jaccuzin\nDe h\u00e4r e vad vi kallar hayat tofflorna p\u00e5 nu f\u00f6r sanden \u00e4r het\nStannar h\u00e4r sent om vi k\u00e4nner f\u00f6r vad som h\u00e4nder\nEfter det bara palmerna vet\n\nInte en dag har g\u00e5tt utan att jag t\u00e4nkt p\u00e5\nStr\u00e4nderna man br\u00e4nts p\u00e5 d\u00e4r klubbar aldrig st\u00e4ngs \u00e5h\nInte en dag har g\u00e5tt utan att jag t\u00e4nkt p\u00e5\nStr\u00e4nderna man br\u00e4nts p\u00e5 d\u00e4r stranden \u00e4r min s\u00e4ng \u00e5h\nVi drar dit palmerna bor\nYou might also likeInte en dag har g\u00e5tt utan att jag t\u00e4nkt p\u00e5\nStr\u00e4nderna man br\u00e4nts p\u00e5 d\u00e4r klubbar aldrig st\u00e4ngs \u00e5h\nInte en dag har g\u00e5tt utan att jag t\u00e4nkt p\u00e5\nStr\u00e4nderna man br\u00e4nts p\u00e5 d\u00e4r stranden \u00e4r min s\u00e4ng \u00e5h\nVi drar dit palmerna bor\n\nEy ey\nVi drar dit palmerna bor\nVi drar dit palmerna bor\nVi drar dit, vi drar vi drar dit\nVi drar dit palmerna bor\n\nInte en dag har g\u00e5tt utan att jag t\u00e4nkt p\u00e5\nStr\u00e4nderna man br\u00e4nts p\u00e5 d\u00e4r klubbar aldrig st\u00e4ngs \u00e5h\nInte en dag har g\u00e5tt utan att jag t\u00e4nkt p\u00e5\nStr\u00e4nderna man br\u00e4nts p\u00e5 d\u00e4r stranden \u00e4r min s\u00e4ng \u00e5h\nVi drar dit palmerna bor\n\nInte en dag har g\u00e5tt utan att jag t\u00e4nkt p\u00e5\nStr\u00e4nderna man br\u00e4nts p\u00e5 d\u00e4r klubbar aldrig st\u00e4ngs \u00e5h\nInte en dag har g\u00e5tt utan att jag t\u00e4nkt p\u00e5\nStr\u00e4nderna man br\u00e4nts p\u00e5 d\u00e4r stranden \u00e4r min s\u00e4ng \u00e5h\nVi drar dit palmerna borEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1949617",
+   "artist_names": "Medina",
+   "full_title": "Se p\u00e5 mig nu by\u00a0Medina",
+   "header_image_thumbnail_url": "https://images.genius.com/e07f448318aaae745d125700d6e50ace.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e07f448318aaae745d125700d6e50ace.640x640x1.jpg",
+   "id": 1949617,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Medina-se-pa-mig-nu-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Medina-se-pa-mig-nu-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 4,
+    "day": 25
+   },
+   "release_date_for_display": "April 25, 2014",
+   "release_date_with_abbreviated_month_for_display": "Apr. 25, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/e07f448318aaae745d125700d6e50ace.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e07f448318aaae745d125700d6e50ace.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 9249
+   },
+   "title": "Se p\u00e5 mig nu",
+   "title_with_featured": "Se p\u00e5 mig nu",
+   "url": "https://genius.com/Medina-se-pa-mig-nu-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1053354",
+    "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+    "id": 1053354,
+    "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Medina",
+    "url": "https://genius.com/artists/Medina"
+   },
+   "apple_music_id": "997701060",
+   "apple_music_player_url": "https://genius.com/songs/1949617/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1949617' class='rg_embed_link' data-song-id='1949617'>Read <a href='https://genius.com/Medina-se-pa-mig-nu-lyrics'>\u201cSe p\u00e5 mig nu\u201d by Medina</a> on Genius</div> <script crossorigin src='//genius.com/songs/1949617/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-04-25",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/323470",
+    "cover_art_url": "https://images.genius.com/119fb7701c73a7565dd8461129e0e316.640x640x1.jpg",
+    "full_title": "Haffla Avenyn by Medina",
+    "id": 323470,
+    "name": "Haffla Avenyn",
+    "url": "https://genius.com/albums/Medina/Haffla-avenyn",
+    "artist": {
+     "api_path": "/artists/1053354",
+     "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "id": 1053354,
+     "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Medina",
+     "url": "https://genius.com/artists/Medina"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6635556",
+    "classification": "needs_exegesis",
+    "fragment": "Se p\u00e5 mig nu",
+    "id": 6635556,
+    "is_description": true,
+    "path": "/6635556/Medina-se-pa-mig-nu/Se-pa-mig-nu",
+    "range": {
+     "content": "Se p\u00e5 mig nu"
+    },
+    "song_id": 1949617,
+    "url": "https://genius.com/6635556/Medina-se-pa-mig-nu/Se-pa-mig-nu",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1949617",
+     "client_timestamps": {
+      "updated_by_human_at": 1490200812,
+      "lyrics_updated_at": 1432920905
+     },
+     "context": "Medina",
+     "id": 1949617,
+     "image_url": "https://images.genius.com/e07f448318aaae745d125700d6e50ace.640x640x1.jpg",
+     "link_title": "Se p\u00e5 mig nu by\u00a0Medina",
+     "title": "Se p\u00e5 mig nu",
+     "type": "Song",
+     "url": "https://genius.com/Medina-se-pa-mig-nu-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6635556",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6635556,
+      "pinned": false,
+      "share_url": "https://genius.com/6635556",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6635556/Medina-se-pa-mig-nu/Se-pa-mig-nu",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=3H9WtLcghsw"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/9933",
+     "header_image_url": "https://images.genius.com/2941c95bf49cef64206c51b96c9b7514.1000x1000x1.jpg",
+     "id": 9933,
+     "image_url": "https://images.genius.com/1d57548bf35b4fe75df79e8e207b503a.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "KJ",
+     "url": "https://genius.com/artists/Kj"
+    },
+    {
+     "api_path": "/artists/1106239",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1106239,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joakim Sandstr\u00f6m",
+     "url": "https://genius.com/artists/Joakim-sandstrom"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/71990",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 71990,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sam-E (USA)",
+     "url": "https://genius.com/artists/Sam-e-usa"
+    },
+    {
+     "api_path": "/artists/1106241",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1106241,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JahMxli",
+     "url": "https://genius.com/artists/Jahmxli"
+    }
+   ],
+   "artist": "Medina",
+   "lyrics": "Se p\u00e5 mig nu LyricsDet var en g\u00e5ng en kvinna, mig hade hon gl\u00f6mt bort\nHon hade allt det d\u00e4r som jag n\u00e5nsin hade dr\u00f6mt om\nHon tog mitt liv, men l\u00e4mna min sj\u00e4l. Jag f\u00f6ll pladask PAFF, PAFF, n\u00e4r hon stack iv\u00e4g\nHon var dj\u00e4vulen sj\u00e4lv, s\u00e5 jag lekte med eld. Hon br\u00e4nde mig till och med kl\u00e4derna p\u00e5 mig har sm\u00e4lt. Jag skulle gjort vad som helst f\u00f6r dig men du lurade mig upp och ner n\u00e4r du sa jag \u00e4lskar dig\nDu hade mig runt fingret, finta mig s\u00e5 simpelt\nSom en fluga fastnat i ditt n\u00e4t och du var spindeln\nKall som en vinter, du l\u00e4mna inget kvar\nMen jag kan lova allt du gjort kommer tillbaks\nF\u00f6r jag ska resa mig ur aska, upp fr\u00e5n mina kn\u00e4n\nV\u00e4rsta superman, jag krossar allt i min v\u00e4g\nDu ska f\u00e5 se p\u00e5 vem du kastat, \u00e4r inte som f\u00f6rut\nMen pass p\u00e5 allt det d\u00e4r, bara se p\u00e5 mig nu\nBara se p\u00e5 mig nu eeee eeee eeee x4\nDet var en g\u00e5ng en kvinna, mig hade hon gl\u00f6mt bort\nJa, hennes fr\u00e5nvaro det sk\u00e4rde mig s\u00e5 runt om\nSen fighten, den natten\nHar jag envist f\u00f6rs\u00f6kt f\u00e5 kontakt\nMen \u00e5h, du r\u00e5na mig s\u00e5 grov. Fuck pengar du stal\nJag snackar nu om k\u00e4nslorna mitt hj\u00e4rta jag gav\nMed tids nog, s\u00e5 l\u00e4ks det. F\u00f6r det som inte d\u00f6dar st\u00e4rker\nDu hade mig runt fingret, finta mig s\u00e5 simpelt\nSom en fluga fastnat i ditt n\u00e4r och du var spindeln\nKall som en vinter, du l\u00e4mna inget kvar\nMen jag kan lova allt du gjort kommer tillbaks\nF\u00f6r jag ska resa mig ur aska, upp fr\u00e5n mina kn\u00e4n\nV\u00e4rsta superman, jag krossar allt i min v\u00e4g\nDu ska f\u00e5 se p\u00e5 vem du kastar, \u00e4r inte som f\u00f6rut\nMen pass p\u00e5 allt det d\u00e4r, bara se p\u00e5 mig nu\nBara se p\u00e5 mig nu eeee eeee eeee x4\nJag st\u00f6rta ner i djupet n\u00e4r du l\u00e4mna mig\nVi kunde nu ha flugit tillsammans\nMen bryr mig inte l\u00e4ngre, skitsamma\nBara se p\u00e5 mig\nDu hade mig runt fingret, finta mig s\u00e5 simpelt\nSom en fluga fastnat i ditt n\u00e4t och du var spindeln\nKall som en vinter, du l\u00e4mna inget kvar\nMen jag kan lova allt du gjort kommer tillbaks\nF\u00f6r jag ska resa mig ur aska, upp fr\u00e5n mina kn\u00e4n\nV\u00e4rsta superman, jag krossar allt i min v\u00e4g\nDu ska f\u00e5 se p\u00e5 vem du kastat, \u00e4r inte som f\u00f6rut\nMen pass p\u00e5 allt det d\u00e4r, bara se p\u00e5 mig nu\nBara se p\u00e5 mig nu eeee eeee eeee x4You might also likeEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/7443289",
+   "artist_names": "Medina",
+   "full_title": "In i dimman by\u00a0Medina",
+   "header_image_thumbnail_url": "https://images.genius.com/f578e7c06c00765e397a5cfba025a1d6.300x300x1.png",
+   "header_image_url": "https://images.genius.com/f578e7c06c00765e397a5cfba025a1d6.1000x1000x1.png",
+   "id": 7443289,
+   "language": "sv",
+   "lyrics_owner_id": 1947267,
+   "lyrics_state": "complete",
+   "path": "/Medina-in-i-dimman-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Medina-in-i-dimman-sample",
+   "release_date_components": {
+    "year": 2022,
+    "month": 2,
+    "day": 26
+   },
+   "release_date_for_display": "February 26, 2022",
+   "release_date_with_abbreviated_month_for_display": "Feb. 26, 2022",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f578e7c06c00765e397a5cfba025a1d6.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/f578e7c06c00765e397a5cfba025a1d6.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 8721
+   },
+   "title": "In i dimman",
+   "title_with_featured": "In i dimman",
+   "url": "https://genius.com/Medina-in-i-dimman-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1053354",
+    "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+    "id": 1053354,
+    "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Medina",
+    "url": "https://genius.com/artists/Medina"
+   },
+   "apple_music_id": "1612451675",
+   "apple_music_player_url": "https://genius.com/songs/7443289/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_7443289' class='rg_embed_link' data-song-id='7443289'>Read <a href='https://genius.com/Medina-in-i-dimman-lyrics'>\u201cIn i dimman\u201d by Medina</a> on Genius</div> <script crossorigin src='//genius.com/songs/7443289/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2022-02-26",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/841847",
+    "cover_art_url": "https://images.genius.com/60e97683bfa9ab10ccf71afeb7a86861.370x370x1.jpg",
+    "full_title": "Melodifestivalen 2022 by Various Artists",
+    "id": 841847,
+    "name": "Melodifestivalen 2022",
+    "url": "https://genius.com/albums/Various-artists/Melodifestivalen-2022",
+    "artist": {
+     "api_path": "/artists/768",
+     "header_image_url": "https://images.genius.com/10da268551e38fd18cf057ac25bb1ac6.563x177x1.png",
+     "id": 768,
+     "image_url": "https://images.genius.com/058d7a1c280c0465ba0c108be8951ba2.594x594x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Various Artists",
+     "url": "https://genius.com/artists/Various-artists"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/822757",
+       "header_image_url": "https://images.genius.com/8f71d9286d75020931487c86aa3cd751.556x556x1.jpg",
+       "id": 822757,
+       "image_url": "https://images.genius.com/8f71d9286d75020931487c86aa3cd751.556x556x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Holger Lagerfeldt",
+       "url": "https://genius.com/artists/Holger-lagerfeldt"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1947267,
+    "annotator_login": "JKOkay",
+    "api_path": "/referents/24531784",
+    "classification": "needs_exegesis",
+    "fragment": "In i dimman",
+    "id": 24531784,
+    "is_description": true,
+    "path": "/24531784/Medina-in-i-dimman/In-i-dimman",
+    "range": {
+     "content": "In i dimman"
+    },
+    "song_id": 7443289,
+    "url": "https://genius.com/24531784/Medina-in-i-dimman/In-i-dimman",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/7443289",
+     "client_timestamps": {
+      "updated_by_human_at": 1646944311,
+      "lyrics_updated_at": 1645517428
+     },
+     "context": "Medina",
+     "id": 7443289,
+     "image_url": "https://images.genius.com/f578e7c06c00765e397a5cfba025a1d6.1000x1000x1.png",
+     "link_title": "In i dimman by\u00a0Medina",
+     "title": "In i dimman",
+     "type": "Song",
+     "url": "https://genius.com/Medina-in-i-dimman-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/24531784",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 24531784,
+      "pinned": false,
+      "share_url": "https://genius.com/24531784",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/24531784/Medina-in-i-dimman/In-i-dimman",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1947267",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/f6d4c67926b91f868436cc9ec9fe63b1",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/f6d4c67926b91f868436cc9ec9fe63b1",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/f6d4c67926b91f868436cc9ec9fe63b1",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/f6d4c67926b91f868436cc9ec9fe63b1",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/f6d4c67926b91f868436cc9ec9fe63b1",
+         "human_readable_role_for_display": "Editor",
+         "id": 1947267,
+         "iq": 399434,
+         "login": "JKOkay",
+         "name": "JKOkay",
+         "role_for_display": "editor",
+         "url": "https://genius.com/JKOkay",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=oafYlykvSXs"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/29982",
+     "header_image_url": "https://images.genius.com/524fe5fa1a553a2b8f4128bdef2d9b9a.810x810x1.jpg",
+     "id": 29982,
+     "image_url": "https://images.genius.com/524fe5fa1a553a2b8f4128bdef2d9b9a.810x810x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jimmy Joker",
+     "url": "https://genius.com/artists/Jimmy-joker"
+    },
+    {
+     "api_path": "/artists/1446684",
+     "header_image_url": "https://images.genius.com/1758d74cbe5a2ddb4ddf47151d5e005d.1000x1000x1.jpg",
+     "id": 1446684,
+     "image_url": "https://images.genius.com/1758d74cbe5a2ddb4ddf47151d5e005d.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dino Medanhodzic",
+     "url": "https://genius.com/artists/Dino-medanhodzic"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1106241",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1106241,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JahMxli",
+     "url": "https://genius.com/artists/Jahmxli"
+    },
+    {
+     "api_path": "/artists/1811422",
+     "header_image_url": "https://images.genius.com/d9bb2e5235beb46b2cc13542bde5843d.468x468x1.png",
+     "id": 1811422,
+     "image_url": "https://images.genius.com/d9bb2e5235beb46b2cc13542bde5843d.468x468x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sami (SWE)",
+     "url": "https://genius.com/artists/Sami-swe"
+    },
+    {
+     "api_path": "/artists/29982",
+     "header_image_url": "https://images.genius.com/524fe5fa1a553a2b8f4128bdef2d9b9a.810x810x1.jpg",
+     "id": 29982,
+     "image_url": "https://images.genius.com/524fe5fa1a553a2b8f4128bdef2d9b9a.810x810x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jimmy Joker",
+     "url": "https://genius.com/artists/Jimmy-joker"
+    },
+    {
+     "api_path": "/artists/1446684",
+     "header_image_url": "https://images.genius.com/1758d74cbe5a2ddb4ddf47151d5e005d.1000x1000x1.jpg",
+     "id": 1446684,
+     "image_url": "https://images.genius.com/1758d74cbe5a2ddb4ddf47151d5e005d.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dino Medanhodzic",
+     "url": "https://genius.com/artists/Dino-medanhodzic"
+    }
+   ],
+   "artist": "Medina",
+   "lyrics": "In i dimman LyricsMin k\u00e4ra lille\nHar du g\u00e5tt vilse\nF\u00f6r denna v\u00e4gen leder inte n\u00e5gonstans\nMamma sa till mig\nG\u00f6r guld av silver\nSen lever vi som inte morgondagen fanns\n\nNu ska vi dansa tills vi d\u00f6r\nSjunga f\u00f6r allt som vi f\u00f6rst\u00f6rt\nLa bella noche\nN\u00e4r vi n\u00e5r botten\nS\u00e5 ska vi resa oss igen\nIn i dimman dimman ja nu ska vi leva\nVi ska leva som ej morgondagen finns\nNu ska hela v\u00e4rlden \u00e4ntligen f\u00e5 veta\nAtt vi ska hela hela hela v\u00e4gen in\n\nLa dolce vita\nS\u00e5 m\u00e5nga t\u00e5rar\nSom jag sparat under stj\u00e4rnorna i natt\nOch mamma sa till mig\nDet kommer ordna sig\nS\u00e5 l\u00e4nge du lever som inte morgondagen fanns\n\nNu ska vi dansa tills vi d\u00f6r\nSjunga f\u00f6r allt som vi f\u00f6rst\u00f6rt\nLa bella noche\nN\u00e4r vi n\u00e5r botten\nS\u00e5 ska vi resa oss igen\n\nIn i dimman dimman ja nu ska vi leva\nVi ska leva som ej morgondagen finns\nNu ska hela v\u00e4rlden \u00e4ntligen f\u00e5 veta\nAtt vi ska hela hela hela v\u00e4gen in\n\nNu ska vi dansa tills vi d\u00f6r\nSjunga f\u00f6r allt som vi f\u00f6rst\u00f6rt\nLa bella noche\nN\u00e4r vi n\u00e5r botten\nS\u00e5 ska vi resa oss igen\nYou might also likeIn i dimman dimman ja nu ska vi leva\nVi ska leva som ej morgondagen finns\nNu ska hela v\u00e4rlden \u00e4ntligen f\u00e5 veta\nAtt vi ska hela hela hela v\u00e4gen in\n\nOh oh-oh oh-oh oh-oh\nAtt vi ska hela hela hela v\u00e4gen in1Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2088276",
+   "artist_names": "Medina",
+   "full_title": "Od\u00f6dlig K\u00e4rlek by\u00a0Medina",
+   "header_image_thumbnail_url": "https://images.genius.com/5806262ad337b7274c60de8dfdc620d9.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/5806262ad337b7274c60de8dfdc620d9.600x600x1.jpg",
+   "id": 2088276,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Medina-ododlig-karlek-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Medina-ododlig-karlek-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/5806262ad337b7274c60de8dfdc620d9.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5806262ad337b7274c60de8dfdc620d9.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Od\u00f6dlig K\u00e4rlek",
+   "title_with_featured": "Od\u00f6dlig K\u00e4rlek",
+   "url": "https://genius.com/Medina-ododlig-karlek-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1053354",
+    "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+    "id": 1053354,
+    "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Medina",
+    "url": "https://genius.com/artists/Medina"
+   },
+   "apple_music_id": "689307067",
+   "apple_music_player_url": "https://genius.com/songs/2088276/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2088276' class='rg_embed_link' data-song-id='2088276'>Read <a href='https://genius.com/Medina-ododlig-karlek-lyrics'>\u201cOd\u00f6dlig K\u00e4rlek\u201d by Medina</a> on Genius</div> <script crossorigin src='//genius.com/songs/2088276/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/336561",
+    "cover_art_url": "https://images.genius.com/5806262ad337b7274c60de8dfdc620d9.600x600x1.jpg",
+    "full_title": "Hayat by Medina",
+    "id": 336561,
+    "name": "Hayat",
+    "url": "https://genius.com/albums/Medina/Hayat",
+    "artist": {
+     "api_path": "/artists/1053354",
+     "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "id": 1053354,
+     "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Medina",
+     "url": "https://genius.com/artists/Medina"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6828264",
+    "classification": "needs_exegesis",
+    "fragment": "Od\u00f6dlig K\u00e4rlek",
+    "id": 6828264,
+    "is_description": true,
+    "path": "/6828264/Medina-ododlig-karlek/Ododlig-karlek",
+    "range": {
+     "content": "Od\u00f6dlig K\u00e4rlek"
+    },
+    "song_id": 2088276,
+    "url": "https://genius.com/6828264/Medina-ododlig-karlek/Ododlig-karlek",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2088276",
+     "client_timestamps": {
+      "updated_by_human_at": 1490199138,
+      "lyrics_updated_at": 1433957578
+     },
+     "context": "Medina",
+     "id": 2088276,
+     "image_url": "https://images.genius.com/5806262ad337b7274c60de8dfdc620d9.600x600x1.jpg",
+     "link_title": "Od\u00f6dlig K\u00e4rlek by\u00a0Medina",
+     "title": "Od\u00f6dlig K\u00e4rlek",
+     "type": "Song",
+     "url": "https://genius.com/Medina-ododlig-karlek-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6828264",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6828264,
+      "pinned": false,
+      "share_url": "https://genius.com/6828264",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6828264/Medina-ododlig-karlek/Ododlig-karlek",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/405988",
+     "header_image_url": "https://images.genius.com/9a743432c5aaa1501cda662c9f346896.533x533x1.jpg",
+     "id": 405988,
+     "image_url": "https://images.genius.com/9a743432c5aaa1501cda662c9f346896.533x533x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ali Angel",
+     "url": "https://genius.com/artists/Ali-angel"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Medina",
+   "lyrics": "Od\u00f6dlig K\u00e4rlek LyricsDom kommer skriva om oss en dag\nSom romeo och juliette\nDen k\u00e4rleken som lurar en\nMen \u00e4nd\u00e5 stannar man kvar\nSom Tristan och Isolde\nF\u00f6r sj\u00e4larna vi s\u00e5lde\nJag \u00e4r f\u00f6revigt en slav\n\nOd\u00f6dlig od\u00f6dlig od\u00f6dlig k\u00e4rlek\nOd\u00f6dlig od\u00f6dlig od\u00f6dlig k\u00e4rlek\nDet vackraste jag vet st\u00e5r nu framf\u00f6r mig o jag kan inte blunda\nF\u00f6r hon \u00e4r s\u00e5 perfekt jag undra om hon ville ta en lite runda\nVi snackade i timmar i timmar\nO de k\u00e4nns som har vi tr\u00e4ffats h\u00e4r innan\nJag k\u00e4nde sakta hur mitt hj\u00e4rta b\u00f6rja brinna\nNu vill jag aldrig att den k\u00e4nslan ska f\u00f6rsvinna\n\nJag har aldrig trott p\u00e5 k\u00e4rlek vid f\u00f6rsta \u00f6gonkastet\nMen s\u00e5 fort jag s\u00e5g dig s\u00e5 va de k\u00f6rt med snacket\nOooonaay jag vill b\u00f6rja om och l\u00e4mna allt\nV\u00e4rma dig n\u00e4r v\u00e4rlden regnar kallt\nVa inte r\u00e4dd o ge mig din hand\nIngen hemlighet n\u00e5 mer\nDu \u00e4r nog lite f\u00f6r bra f\u00f6r o vara sann\nMen jag vet\n\nDom kommer skriva om oss en dag\nSom romeo och juliette\nDen k\u00e4rleken som lurar en\nMen \u00e4nd\u00e5 stannar man kvar\nSom Tristan och Isolde\nF\u00f6r sj\u00e4larna vi s\u00e5lde\nJag \u00e4r f\u00f6revigt en slav\n\nOd\u00f6dlig od\u00f6dlig od\u00f6dlig k\u00e4rlek\nOd\u00f6dlig od\u00f6dlig od\u00f6dlig k\u00e4rlek\nYou might also likeInnan m\u00f6rkte f\u00f6ll va du tvungen att g\u00e5 hem\nInnan n\u00e5n b\u00f6rja undra/ vart du va o med vem\nOch me tiden blev det annorlunda\nVi b\u00f6rja bli naiva, naiva\nTrodde vi ba kunde vara bredvid varann\nOch s\u00e5 klart att ryktet b\u00f6rjade spridas\nO innan man ens visste om det var vi inte fria\nDom ville \u00e5t dig, f\u00f6r att du trotsa dom\nOch dom ville sl\u00e5 mig, f\u00f6r att jag f\u00f6rt deras dotter bort\nMen det klart att vi hade ber\u00e4ttat\nMen vi visste svaret och det gjorde oss r\u00e4dda\nAtt det aldrig skulle bli vi tv\u00e5\nS\u00e5 vi tog flykt ut fr\u00e5n landet\nNu lever vi tillsammans, l\u00e5ngt d\u00e4rifr\u00e5n\n\nDom kommer skriva om oss en dag\nSom romeo och juliette\nDen k\u00e4rleken som lurar en\nMen \u00e4nd\u00e5 stannar man kvar\nSom Tristan och Isolde\nF\u00f6r sj\u00e4larna vi s\u00e5lde\nJag \u00e4r f\u00f6revigt en slav\n\nOd\u00f6dlig od\u00f6dlig od\u00f6dlig k\u00e4rlek\nOd\u00f6dlig od\u00f6dlig od\u00f6dlig k\u00e4rlek\nHur l\u00e5ngt kan du g\u00e5 f\u00f6r den du \u00e4lskar\nJag \u00e4r beredd att korsa lik\nF\u00f6r min k\u00e4rlek \u00e4r od\u00f6dlig\nOd\u00f6dliiiiig ...\n\nDom kommer skriva om oss en dag\nSom romeo och juliette\nDen k\u00e4rleken som lurar en\nMen \u00e4nd\u00e5 stannar man kvar\nSom Tristan och Isolde\nF\u00f6r sj\u00e4larna vi s\u00e5lde\nJag \u00e4r f\u00f6revigt en slav\n\nOd\u00f6dlig od\u00f6dlig od\u00f6dlig k\u00e4rlek\nOd\u00f6dlig od\u00f6dlig od\u00f6dlig k\u00e4rlekEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1946110",
+   "artist_names": "Medina",
+   "full_title": "Sann Romans by\u00a0Medina",
+   "header_image_thumbnail_url": "https://images.genius.com/5806262ad337b7274c60de8dfdc620d9.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/5806262ad337b7274c60de8dfdc620d9.600x600x1.jpg",
+   "id": 1946110,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Medina-sann-romans-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Medina-sann-romans-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/5806262ad337b7274c60de8dfdc620d9.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5806262ad337b7274c60de8dfdc620d9.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Sann Romans",
+   "title_with_featured": "Sann Romans",
+   "url": "https://genius.com/Medina-sann-romans-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1053354",
+    "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+    "id": 1053354,
+    "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Medina",
+    "url": "https://genius.com/artists/Medina"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1946110/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1946110' class='rg_embed_link' data-song-id='1946110'>Read <a href='https://genius.com/Medina-sann-romans-lyrics'>\u201cSann Romans\u201d by Medina</a> on Genius</div> <script crossorigin src='//genius.com/songs/1946110/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/336561",
+    "cover_art_url": "https://images.genius.com/5806262ad337b7274c60de8dfdc620d9.600x600x1.jpg",
+    "full_title": "Hayat by Medina",
+    "id": 336561,
+    "name": "Hayat",
+    "url": "https://genius.com/albums/Medina/Hayat",
+    "artist": {
+     "api_path": "/artists/1053354",
+     "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "id": 1053354,
+     "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Medina",
+     "url": "https://genius.com/artists/Medina"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6631957",
+    "classification": "needs_exegesis",
+    "fragment": "Sann Romans",
+    "id": 6631957,
+    "is_description": true,
+    "path": "/6631957/Medina-sann-romans/Sann-romans",
+    "range": {
+     "content": "Sann Romans"
+    },
+    "song_id": 1946110,
+    "url": "https://genius.com/6631957/Medina-sann-romans/Sann-romans",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1946110",
+     "client_timestamps": {
+      "updated_by_human_at": 1490199052,
+      "lyrics_updated_at": 1432919694
+     },
+     "context": "Medina",
+     "id": 1946110,
+     "image_url": "https://images.genius.com/5806262ad337b7274c60de8dfdc620d9.600x600x1.jpg",
+     "link_title": "Sann Romans by\u00a0Medina",
+     "title": "Sann Romans",
+     "type": "Song",
+     "url": "https://genius.com/Medina-sann-romans-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6631957",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6631957,
+      "pinned": false,
+      "share_url": "https://genius.com/6631957",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6631957/Medina-sann-romans/Sann-romans",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1053354",
+     "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "id": 1053354,
+     "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Medina",
+     "url": "https://genius.com/artists/Medina"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Medina",
+   "lyrics": "Sann Romans LyricsOh nano heyna yehi yeeh\n\n[Refr\u00e4ng]\nAlla har v\u00e4l fallit n\u00e5ng\u00e5ng i trans\nF\u00e5tt k\u00e4nna den d\u00e4r viben av sann romans\nAlla har v\u00e4l fallit n\u00e5ng\u00e5ng i trans\nJag vet inget om dig men jag \u00e4r fast inatt\nJa jag \u00e4r fast inatt yee\nFast inatt yee\nFast inatt yee\nFast inatt yee\n[Vers 1: Sami]\nBlickar m\u00f6ttes vi fick kontakt\nMitt bland alla m\u00e4nniskor en sommarnatt\nDe va n\u00e5nting d\u00e4r som drog i mig\nEtt smile n\u00e5gra ord och jag dog f\u00f6r dig\nVi prata i timmar om allt\nVi tog ett natt dopp \u00e4ven fast de va kallt\nStranden va tom s\u00e5 vi la oss ett tag\nDrack n\u00e5gra glas o s\u00e5g natten bli dag\nP\u00e5 v\u00e4g upp s\u00e5 blir solen orange\nO v\u00e5ra hj\u00e4rtslag hamna i trans\nInnan vi landa s\u00e5 tog hon min hand\nGav mig en kyss o ba log och f\u00f6rsvann\n\n[Refr\u00e4ng]\nAlla har v\u00e4l fallit n\u00e5ng\u00e5ng i trans\nF\u00e5tt k\u00e4nna den d\u00e4r viben av sann romans\nAlla har v\u00e4l fallit n\u00e5ng\u00e5ng i trans\nJag vet inget om dig men jag \u00e4r fast inatt\nJa jag \u00e4r fast inatt yee\nFast inatt yee\nFast inatt yee\nFast inatt yee\n\n[Vers 2: Ali]\nSom en het napa kv\u00e4ll\nVill man ta tiden och choppa den\nSwedish house mafia 1\nL\u00e5t till, dansa sen till sent\nMan handskas j\u00e4mt med\nAtt handskas med ett \u00e4ndl\u00f6st led\nAv kjolar som blottar det vackraste en man vet\n(En man vet yee)\nOch i detta led, finns hon, henne du\n\u00c4ngla brud som k\u00f6r en akut in i trans\nMan f\u00e5ngas av doften\nBlickar och dans, det e sann romans\nYou might also like[Refr\u00e4ng]\nAlla har v\u00e4l fallit n\u00e5ng\u00e5ng i trans\nF\u00e5tt k\u00e4nna den d\u00e4r viben av sann romans\nAlla har v\u00e4l fallit n\u00e5ng\u00e5ng i trans\nJag vet inget om dig men jag \u00e4r fast inatt\nJa jag \u00e4r fast inatt yee\n\n[Bridge: Sami]\nVi s\u00e5gs och vi f\u00f6ll f\u00f6r varann\nK\u00e4nslorna brann du f\u00f6rsvann till ditt land\nNu \u00e4r du ett minne blott en k\u00e4rleks romans\nKanske vi m\u00f6ts igen n\u00e5gon annanstans\nHeyna yehi yeeh\n\n[Refr\u00e4ng]\nAlla har v\u00e4l fallit n\u00e5ng\u00e5ng i trans\nF\u00e5tt k\u00e4nna den d\u00e4r viben av sann romans\nAlla har v\u00e4l fallit n\u00e5ng\u00e5ng i trans\nJag vet inget om dig men jag \u00e4r fast inatt\nJa jag \u00e4r fast inatt\nFast inatt yee\nFast inatt yee\nFast inatt yee\nFast inatt yee\nJag e fast inatt yeeeahEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2225037",
+   "artist_names": "Medina (Ft. Miss Relli)",
+   "full_title": "O\u00e4ndlig by\u00a0Medina (Ft.\u00a0Miss\u00a0Relli)",
+   "header_image_thumbnail_url": "https://images.genius.com/7de3d13aff5aaee50090fd3ebc333a30.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/7de3d13aff5aaee50090fd3ebc333a30.600x600x1.jpg",
+   "id": 2225037,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Medina-oandlig-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Medina-oandlig-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/7de3d13aff5aaee50090fd3ebc333a30.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7de3d13aff5aaee50090fd3ebc333a30.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "O\u00e4ndlig",
+   "title_with_featured": "O\u00e4ndlig (Ft.\u00a0Miss\u00a0Relli)",
+   "url": "https://genius.com/Medina-oandlig-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1053356",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1053356,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Miss Relli",
+     "url": "https://genius.com/artists/Miss-relli"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1053354",
+    "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+    "id": 1053354,
+    "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Medina",
+    "url": "https://genius.com/artists/Medina"
+   },
+   "apple_music_id": "693557090",
+   "apple_music_player_url": "https://genius.com/songs/2225037/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2225037' class='rg_embed_link' data-song-id='2225037'>Read <a href='https://genius.com/Medina-oandlig-lyrics'>\u201cO\u00e4ndlig\u201d by Medina</a> on Genius</div> <script crossorigin src='//genius.com/songs/2225037/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/336565",
+    "cover_art_url": "https://images.genius.com/7de3d13aff5aaee50090fd3ebc333a30.600x600x1.jpg",
+    "full_title": "Sista Minuten by Medina",
+    "id": 336565,
+    "name": "Sista Minuten",
+    "url": "https://genius.com/albums/Medina/Sista-minuten",
+    "artist": {
+     "api_path": "/artists/1053354",
+     "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "id": 1053354,
+     "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Medina",
+     "url": "https://genius.com/artists/Medina"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7357423",
+    "classification": "needs_exegesis",
+    "fragment": "O\u00e4ndlig",
+    "id": 7357423,
+    "is_description": true,
+    "path": "/7357423/Medina-oandlig/Oandlig",
+    "range": {
+     "content": "O\u00e4ndlig"
+    },
+    "song_id": 2225037,
+    "url": "https://genius.com/7357423/Medina-oandlig/Oandlig",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2225037",
+     "client_timestamps": {
+      "updated_by_human_at": 1490199654,
+      "lyrics_updated_at": 1437079548
+     },
+     "context": "Medina",
+     "id": 2225037,
+     "image_url": "https://images.genius.com/7de3d13aff5aaee50090fd3ebc333a30.600x600x1.jpg",
+     "link_title": "O\u00e4ndlig by\u00a0Medina (Ft.\u00a0Miss\u00a0Relli)",
+     "title": "O\u00e4ndlig",
+     "type": "Song",
+     "url": "https://genius.com/Medina-oandlig-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7357423",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7357423,
+      "pinned": false,
+      "share_url": "https://genius.com/7357423",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7357423/Medina-oandlig/Oandlig",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Medina",
+   "lyrics": "O\u00e4ndlig LyricsMiss Relli, Medina\n\u00c5h v\u00e5r k\u00e4rlek \u00e4r o\u00e4ndlig, yeah eh\nS\u00e5 l\u00e4nge det finns vi och v\u00e5r k\u00e4rlek f\u00e5r tid\nSka jag kriga f\u00f6r den\nS\u00e5 l\u00e4nge det finns vi och v\u00e5r k\u00e4rlek f\u00e5r tid\nSka jag kriga f\u00f6r den\nL\u00e5t oss g\u00f6ra det o\u00e4ndligt\nJa ja ja ja jao\nL\u00e5t oss g\u00f6ra det o\u00e4ndligt\nJa ja ja ja jao\nVi hj\u00e4lptes \u00e5t att helas\nTv\u00e5 trasiga sj\u00e4lar p\u00e5 spr\u00e5ng ifr\u00e5n allt\nDet enda jag har velat\n\u00c4r att d\u00e4mpa den d\u00e4r \u00e5ngesten jag alltid har haft\nDu kl\u00e4dde mina k\u00e4nslor med s\u00e5nger om kraft\nOch tilliten byggdes och blev ett palats\nN\u00e4r du k\u00e4nde dig ensam gick signalerna fram\nDu fr\u00e5gade om r\u00e5d jag hade svaren till hands\nF\u00f6r\u00e4lskelsen vissna men k\u00e4rleken blomma ut\nInget blir som begynnelsen men jag ser inget slut\nF\u00f6r bara det finns vi och bara det finns tid\nS\u00e5 finns jag h\u00e4r bredvid\nRefr: S\u00e5 l\u00e4nge det finns vi och v\u00e5r k\u00e4rlek f\u00e5r tid\nSka jag kriga f\u00f6r den (kriga f\u00f6r den)\nS\u00e5 l\u00e4nge det finns vi och v\u00e5r k\u00e4rlek f\u00e5r tid\nSka jag kriga f\u00f6r den (kriga f\u00f6r den)\nL\u00e5t oss g\u00f6ra det o\u00e4ndligt\nJa ja ja ja jao\nL\u00e5t oss g\u00f6ra det o\u00e4ndligt\nJa ja ja ja jao\n\nVers: Ey ey ey\nS\u00e5 m\u00e5nga dagar vi har krigat f\u00f6r n\u00e5t missf\u00f6rst\u00e5nd\nJag sv\u00e4r jag kan inte f\u00f6rst\u00e5 att vi haft tid f\u00f6r s\u00e5nt\n\u00d6ver himmel och jord\nIngeting \u00e4r f\u00f6r stort\nDom vill \u00e5t oss\nBaby kom nu vi springer fort\nOrden r\u00e4cker inte till\nF\u00f6r det jag vill f\u00e5 fram\nOch allt vi g\u00e5tt igenom nu har gett mig kraft\nJag stack iv\u00e4g n\u00e4r du fanns d\u00e4r f\u00f6r mig\nMen jag dog inombords\nN\u00e4r jag s\u00e5g hur jag s\u00e5rade dig\nNu l\u00e5ter vi tiden ba' g\u00e5\nOch tittar upp i det bl\u00e5\nVisa din far att det fortfarande \u00e4r vi tv\u00e5\nL\u00e5ta tv\u00e5 bli tre\nInshallah \u00e4nnu fler\nDet \u00e4r du och jag i all o\u00e4ndlighet\nYou might also likeRefr: S\u00e5 l\u00e4nge det finns vi och v\u00e5r k\u00e4rlek f\u00e5r tid\nSka jag kriga f\u00f6r den (kriga f\u00f6r den)\nS\u00e5 l\u00e4nge det finns vi och v\u00e5r k\u00e4rlek f\u00e5r tid\nSka jag kriga f\u00f6r den (kriga f\u00f6r den)\nL\u00e5t oss g\u00f6ra det o\u00e4ndligt\nJa ja ja ja jao\nL\u00e5t oss g\u00f6ra det o\u00e4ndligt\nJa ja ja ja jaoEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1942431",
+   "artist_names": "Medina",
+   "full_title": "Sagoland by\u00a0Medina",
+   "header_image_thumbnail_url": "https://images.genius.com/863d6de41d62f5a85cb7df85295e39dc.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/863d6de41d62f5a85cb7df85295e39dc.640x640x1.jpg",
+   "id": 1942431,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Medina-sagoland-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Medina-sagoland-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/863d6de41d62f5a85cb7df85295e39dc.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/863d6de41d62f5a85cb7df85295e39dc.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Sagoland",
+   "title_with_featured": "Sagoland",
+   "url": "https://genius.com/Medina-sagoland-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1053354",
+    "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+    "id": 1053354,
+    "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Medina",
+    "url": "https://genius.com/artists/Medina"
+   },
+   "apple_music_id": "693556067",
+   "apple_music_player_url": "https://genius.com/songs/1942431/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1942431' class='rg_embed_link' data-song-id='1942431'>Read <a href='https://genius.com/Medina-sagoland-lyrics'>\u201cSagoland\u201d by Medina</a> on Genius</div> <script crossorigin src='//genius.com/songs/1942431/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/323476",
+    "cover_art_url": "https://images.genius.com/863d6de41d62f5a85cb7df85295e39dc.640x640x1.jpg",
+    "full_title": "Vars\u00e5god de e gratis, Vol. 2 by Medina",
+    "id": 323476,
+    "name": "Vars\u00e5god de e gratis, Vol. 2",
+    "url": "https://genius.com/albums/Medina/Varsagod-de-e-gratis-vol-2",
+    "artist": {
+     "api_path": "/artists/1053354",
+     "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "id": 1053354,
+     "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Medina",
+     "url": "https://genius.com/artists/Medina"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6628224",
+    "classification": "needs_exegesis",
+    "fragment": "Sagoland",
+    "id": 6628224,
+    "is_description": true,
+    "path": "/6628224/Medina-sagoland/Sagoland",
+    "range": {
+     "content": "Sagoland"
+    },
+    "song_id": 1942431,
+    "url": "https://genius.com/6628224/Medina-sagoland/Sagoland",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1942431",
+     "client_timestamps": {
+      "updated_by_human_at": 1552497431,
+      "lyrics_updated_at": 1552497431
+     },
+     "context": "Medina",
+     "id": 1942431,
+     "image_url": "https://images.genius.com/863d6de41d62f5a85cb7df85295e39dc.640x640x1.jpg",
+     "link_title": "Sagoland by\u00a0Medina",
+     "title": "Sagoland",
+     "type": "Song",
+     "url": "https://genius.com/Medina-sagoland-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6628224",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6628224,
+      "pinned": false,
+      "share_url": "https://genius.com/6628224",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6628224/Medina-sagoland/Sagoland",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 34,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=32wWqHbIHpw"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1106241",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1106241,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JahMxli",
+     "url": "https://genius.com/artists/Jahmxli"
+    },
+    {
+     "api_path": "/artists/71990",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 71990,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sam-E (USA)",
+     "url": "https://genius.com/artists/Sam-e-usa"
+    }
+   ],
+   "artist": "Medina",
+   "lyrics": "Sagoland LyricsYeah\nJag gick frbi dig p stan, sg ut som du var glad, du gick med din nya som jag tror du har\nOch du sg mig nog innan jag vek av, frskte spela cool som att allting var normalt\nMen i sjlva verket r jag kvar i mitt skal, och jag vill trnga ut dig men du kommer tillbaks sklart\nI mitt sagoland tar du mig i hand igen, inga fler brk och grt dr r vi sams igen\nOch dom spelar vran lt som i Spanien, tar av oss vra skor och vi tar en liten dans till den\nMen nr jag vaknar upp s saknar jag ditt ansikte, tnker p den dan du stack\nFr mig: Det bara fanns inte\nVarfr kan jag inte bara ta och glmma dig?\nVarfr kommer du tillbaks i mina drmmar sg?\nI natt tnkte jag p nr vi gjorde vran Sndags-grej\nHur blir jag hel igen efter du tog snder mig?\nJag tmmer mig ver dom ackorden som jag lagt, lter pianot spela nda tills det blir kolsvart och lter strkarna ta oss ivg till vr plats\nKan inte slppa dig det nda som jag tnker r att:\nEn gng i tiden var du min men nu r du bara en drm\nJag ser oss ibland i mitt sagoland dr vi ses och umgs en stund\nMen jag vaknar upp i min ensamhet i vrt s kallade rum\nVill bara somna om igen och vakna upp i min drm\nVar ett tag sen vi sgs, har knappt tnkt p't, men fr tv r sen var det vi\nJag gav dig en lt, skrev en melodi, du grt fr den var fin, du frlt min idioti\nVi var en enhet, vi var singular, frenas p en vinterdag\nDet jag minns finns kvar inom mig och det brinner svagt\nKommer nog alltid vara s fr allt jag har, pminner mig om dig och det knns\nVill inte slja sngen men lskling jag skms, nr nn annan ligger i den\nDet blir s fel men jag mste g vidare fr egen del, det var mitt egna fel\nBorde gett mer, men det r ltt att va efterklok, ltt att se i backspegeln och skilja rtt frn fel\nMste bara slppa dig innan det vxer mer, men i drmmen r det vi mot dom vi var lyckliga som vin och sng\nS jag strosar till en solnedgng, men nr jag vaknar r det tomt inombords vill bara somna om\nEn gng i tiden var du min men nu r du bara en drm\nJag ser oss ibland i mitt sagoland dr vi ses och umgs en stund\nMen jag vaknar upp i min ensamhet i vrt s kallade rum\nVill bara somna om igen och vakna upp i min drm\nEn gng i tiden var du min men nu r du bara en drm\nJag ser oss ibland i mitt sagoland dr vi ses och umgs en stund\nMen jag vaknar upp i min ensamhet i vrt s kallade rum\nVill bara somna om igen och vakna upp i min drmYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2082533",
+   "artist_names": "Medina",
+   "full_title": "Sista minuten by\u00a0Medina",
+   "header_image_thumbnail_url": "https://images.genius.com/a4a5157fb65abd009a9d3e046294803e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a4a5157fb65abd009a9d3e046294803e.640x640x1.jpg",
+   "id": 2082533,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Medina-sista-minuten-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Medina-sista-minuten-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 11,
+    "day": 29
+   },
+   "release_date_for_display": "November 29, 2013",
+   "release_date_with_abbreviated_month_for_display": "Nov. 29, 2013",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a4a5157fb65abd009a9d3e046294803e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a4a5157fb65abd009a9d3e046294803e.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Sista minuten",
+   "title_with_featured": "Sista minuten",
+   "url": "https://genius.com/Medina-sista-minuten-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1053354",
+    "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+    "id": 1053354,
+    "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Medina",
+    "url": "https://genius.com/artists/Medina"
+   },
+   "apple_music_id": "757191673",
+   "apple_music_player_url": "https://genius.com/songs/2082533/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2082533' class='rg_embed_link' data-song-id='2082533'>Read <a href='https://genius.com/Medina-sista-minuten-lyrics'>\u201cSista minuten\u201d by Medina</a> on Genius</div> <script crossorigin src='//genius.com/songs/2082533/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-11-29",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/336565",
+    "cover_art_url": "https://images.genius.com/7de3d13aff5aaee50090fd3ebc333a30.600x600x1.jpg",
+    "full_title": "Sista Minuten by Medina",
+    "id": 336565,
+    "name": "Sista Minuten",
+    "url": "https://genius.com/albums/Medina/Sista-minuten",
+    "artist": {
+     "api_path": "/artists/1053354",
+     "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "id": 1053354,
+     "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Medina",
+     "url": "https://genius.com/artists/Medina"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6822477",
+    "classification": "needs_exegesis",
+    "fragment": "Sista minuten",
+    "id": 6822477,
+    "is_description": true,
+    "path": "/6822477/Medina-sista-minuten/Sista-minuten",
+    "range": {
+     "content": "Sista minuten"
+    },
+    "song_id": 2082533,
+    "url": "https://genius.com/6822477/Medina-sista-minuten/Sista-minuten",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2082533",
+     "client_timestamps": {
+      "updated_by_human_at": 1490201786,
+      "lyrics_updated_at": 1433956442
+     },
+     "context": "Medina",
+     "id": 2082533,
+     "image_url": "https://images.genius.com/a4a5157fb65abd009a9d3e046294803e.640x640x1.jpg",
+     "link_title": "Sista minuten by\u00a0Medina",
+     "title": "Sista minuten",
+     "type": "Song",
+     "url": "https://genius.com/Medina-sista-minuten-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6822477",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6822477,
+      "pinned": false,
+      "share_url": "https://genius.com/6822477",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6822477/Medina-sista-minuten/Sista-minuten",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 41,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Ejm5N79fVag"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/9933",
+     "header_image_url": "https://images.genius.com/2941c95bf49cef64206c51b96c9b7514.1000x1000x1.jpg",
+     "id": 9933,
+     "image_url": "https://images.genius.com/1d57548bf35b4fe75df79e8e207b503a.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "KJ",
+     "url": "https://genius.com/artists/Kj"
+    },
+    {
+     "api_path": "/artists/1106239",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1106239,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joakim Sandstr\u00f6m",
+     "url": "https://genius.com/artists/Joakim-sandstrom"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/71990",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 71990,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sam-E (USA)",
+     "url": "https://genius.com/artists/Sam-e-usa"
+    },
+    {
+     "api_path": "/artists/1106241",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1106241,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JahMxli",
+     "url": "https://genius.com/artists/Jahmxli"
+    }
+   ],
+   "artist": "Medina",
+   "lyrics": "Sista minuten LyricsOh nano heyna yehi yeeh eyy\nHaffla Music\nOooowhooo eyy\nJag vet att det \u00e4r sent, och st\u00e4llet st\u00e4nger snart o\nDu har s\u00e4kert planer p\u00e5 att vara hemma snart\nMen jag har en annan id\u00e9 f\u00f6r jag ser hur du ser p\u00e5 mig, en annan id\u00e9yeye\n\nVi tar den sista minuten, vart du vill\nVi e unga o galna mamma har s\u00e4kert varnat dig f\u00f6r grabbar som mig\nMen om du v\u00e5gar drar vi\nOkej, st\u00e4llet hoppar i drinkar o alls\u00e5ng\nUtanf\u00f6r \u00e4r det vinter o kallt som faan\nDu o jag i mitten av ett dansgolv redo att g\u00e5 loss sen vi jaggooh\nHon k\u00e4nner likadant som mig, vi flyger som vi tar p\u00e5 place\nO vi beter oss som om vi vore sm\u00e5 barn, vilken tur att jag fann dig\nSt\u00e4llet st\u00e4nger, o vi vill inte somna o timmarna med de k\u00e4nns s\u00e5 l\u00e5nga, men det s\u00e5 kallt att h\u00e4nderna domnar, o jag pallar inte v\u00e4nta p\u00e5 sommar'n\nS\u00e5 jag fr\u00e5gar henne \u00e4r du spontan? Hon svarar jag \u00e4r likadan\nVi tar den sista minuten och drar\nBara du o jag!\n\nJag vet att det \u00e4r sent, och st\u00e4llet st\u00e4nger snart o\nDu har s\u00e4kert planer p\u00e5 att vara hemma snart\nMen jag har en annan id\u00e9 f\u00f6r jag ser hur du ser p\u00e5 mig, en annan id\u00e9yeye\n\nVi tar den sista minuten, vart du vill\nVi tar den sista minuten, vart du vill\nJa vi e unga o galna mamma har s\u00e4kert varnat dig\nF\u00f6r grabbar som mig. Men om du v\u00e5gar drar vi\n\nMan kan tro att klockan ljuger, f\u00f6r solen har knappt g\u00e5tt ner\nMidnatt r\u00e5der n\u00e4r det fylls av appl\u00e5der n\u00e4r DJ g\u00e5r p\u00e5 scen\nOm inte folk tar med storm vi else, medans de andra g\u00f6r v\u00e5gen\nVi g\u00e5r ut p\u00e5 terassen, sommar brushen b\u00f6rjar som l\u00e5gen\nDet blir s\u00e5 hett, det k\u00e4nns s\u00e5 r\u00e4tt\nTankar under g\u00e5r med privacy, sl\u00e5r mig s\u00e5 nu det g\u00e4ller\nF\u00f6r man e la spontan, o nu e fr\u00e5gan e du likadan?\nJag vet den plats som du v\u00e5gar, kan jag visa vart?\nJag vet att det \u00e4r sent och st\u00e4llet st\u00e4nger snart o\nDu har s\u00e4kert planer p\u00e5 att vara hemma snart\nMen jag har en annan id\u00e9 f\u00f6r jag ser hur du ser p\u00e5 mig, en annan id\u00e9yeye\nYou might also likeVi tar den sista minuten, vart du vill\nVi tar den sista minuten, vart du vill\nJa, Vi e unga o galna mamma har s\u00e4kert varnat dig f\u00f6r grabbar som mig\nMen om du v\u00e5gar drar vi\nYEH NA, vi lyfter diree\u00f6\u00f6\u00f6kt bara du o jag, du o jag, du o jag, du o jag\n\nVi tar den sista minuten, vart du vill\nVi tar den sista minuten, vart du vill\nJa, Vi e unga o galna mamma har s\u00e4kert varnat dig f\u00f6r grabbar som mig\nMen om du v\u00e5gar drar viEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1977028",
+   "artist_names": "Medina (Ft. Ma-tinz)",
+   "full_title": "Yalla Kompis by\u00a0Medina (Ft.\u00a0Ma-tinz)",
+   "header_image_thumbnail_url": "https://images.genius.com/5806262ad337b7274c60de8dfdc620d9.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/5806262ad337b7274c60de8dfdc620d9.600x600x1.jpg",
+   "id": 1977028,
+   "language": null,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Medina-yalla-kompis-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Medina-yalla-kompis-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/5806262ad337b7274c60de8dfdc620d9.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5806262ad337b7274c60de8dfdc620d9.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Yalla Kompis",
+   "title_with_featured": "Yalla Kompis (Ft.\u00a0Ma-tinz)",
+   "url": "https://genius.com/Medina-yalla-kompis-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/171509",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 171509,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ma-tinz",
+     "url": "https://genius.com/artists/Ma-tinz"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1053354",
+    "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+    "id": 1053354,
+    "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Medina",
+    "url": "https://genius.com/artists/Medina"
+   },
+   "apple_music_id": "689307061",
+   "apple_music_player_url": "https://genius.com/songs/1977028/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1977028' class='rg_embed_link' data-song-id='1977028'>Read <a href='https://genius.com/Medina-yalla-kompis-lyrics'>\u201cYalla Kompis\u201d by Medina</a> on Genius</div> <script crossorigin src='//genius.com/songs/1977028/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/336561",
+    "cover_art_url": "https://images.genius.com/5806262ad337b7274c60de8dfdc620d9.600x600x1.jpg",
+    "full_title": "Hayat by Medina",
+    "id": 336561,
+    "name": "Hayat",
+    "url": "https://genius.com/albums/Medina/Hayat",
+    "artist": {
+     "api_path": "/artists/1053354",
+     "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "id": 1053354,
+     "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Medina",
+     "url": "https://genius.com/artists/Medina"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6663755",
+    "classification": "needs_exegesis",
+    "fragment": "Yalla Kompis",
+    "id": 6663755,
+    "is_description": true,
+    "path": "/6663755/Medina-yalla-kompis/Yalla-kompis",
+    "range": {
+     "content": "Yalla Kompis"
+    },
+    "song_id": 1977028,
+    "url": "https://genius.com/6663755/Medina-yalla-kompis/Yalla-kompis",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1977028",
+     "client_timestamps": {
+      "updated_by_human_at": 1490199080,
+      "lyrics_updated_at": 1432931838
+     },
+     "context": "Medina",
+     "id": 1977028,
+     "image_url": "https://images.genius.com/5806262ad337b7274c60de8dfdc620d9.600x600x1.jpg",
+     "link_title": "Yalla Kompis by\u00a0Medina (Ft.\u00a0Ma-tinz)",
+     "title": "Yalla Kompis",
+     "type": "Song",
+     "url": "https://genius.com/Medina-yalla-kompis-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6663755",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6663755,
+      "pinned": false,
+      "share_url": "https://genius.com/6663755",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6663755/Medina-yalla-kompis/Yalla-kompis",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1053354",
+     "header_image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "id": 1053354,
+     "image_url": "https://images.genius.com/943b73c8517c61a8e5cf0c5930e13b1c.480x480x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Medina",
+     "url": "https://genius.com/artists/Medina"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Medina",
+   "lyrics": "Yalla Kompis LyricsVart vi \u00e4n g\u00e5r\n\nDom dansar s\u00e5\n\nDom dansar s\u00e5\n\nDom dansar s\u00e5\n\nVart vi \u00e4n g\u00e5r\n\nDom dansar s\u00e5\nDom dansar s\u00e5\n\nDom dansar s\u00e5\n\nYalla kompis, yalla kompis\n\nYalla kompis, yalla kompis\n\nDom vill ha mera!\n\nS\u00e5 vi \u00f6ppnar upp st\u00e4llet och kastar in elden o b\u00f6rjar servera\n\nPass p\u00e5 dom som protesterar snabba ben som capoeira\n\nVi jobbar vi jobbar, s\u00e5 h\u00e5rt att vi kollapsar\n\nS\u00e5 vi l\u00e5ter dom veta o \u00e5terupprepar\n\nSkiten tills den fastnar\n\nSexig ja hon \u00e4r f\u00f6r sexig jag \u00e4r f\u00f6r l\u00e4skig\n\nHon \u00e4r nog lesbisk s\u00e5 jag tog hennes b\u00e4stis\n\nO jag finta dom b\u00e5da som om ja va messi\nYou might also likeHooo de e bara Medina pon de floor\n\nHooo de e bara Medina pon de floor\n\nVa vart vi \u00e4n g\u00e5r\n\nDom dom dom dansar s\u00e5\n\nFinns ingen annan som g\u00f6r de som dom tv\u00e5\n\nJa koduro hardcore varf\u00f6r st\u00e5r du o ser p\u00e5\n\nJag skulle bara vila men jag b\u00f6rja o r\u00f6ra min ben\n\nNu kan jag inte g\u00f6ra annat \u00e4n att dansa s\u00e5\n\nVart vi \u00e4n g\u00e5r\n\nDom dansar s\u00e5\n\nDom dansar s\u00e5\n\nDom dansar s\u00e5\n\nVart vi \u00e4n g\u00e5r\nDom dansar s\u00e5\n\nDom dansar s\u00e5\n\nDom dansar s\u00e5\n\nYalla kompis, yalla kompis\n\nYalla kompis, yalla kompis\n\nE ni mer\u00e5 vi e tillbaka som tv\u00e5 f*cking heroes\n\nGive me the light coca zero\n\nH\u00e4nder i luften v\u00e5ga stoppa ner dom, haffla sh*t ja vi rocka stenh\u00e5rt\n\nAlora, alla dansa s\u00e5, Vad\u00e5r\u00e5, alla dansa s\u00e5\n\nFinns ingen knapp ni kan pausa p\u00e5 ja vi k\u00f6r hela v\u00e4gen blire kaos l\u00e5t g\u00e5\n\nMera kuduro mina v\u00e4nner det blir varmt\n\nN\u00e4r vi sl\u00e4nger ut en riktig j\u00e4vla banger det blir live\n\nO s\u00e5 fort vi g\u00e5r p\u00e5 scenen b\u00f6rjar benen automatiskt kicka moves\n\nO alla guzzar brister ut i ett wow\n\nTabon vi tar \u00f6ver din dancehall Tabon, Mina mannar vi tar ansvar\n\nTabon vi dansar till v\u00e5ran canzion blir det beef bli\n\nDet l\u00f6st med ett handslag\n\nFinna ingen annan som g\u00f6r det som dom tv\u00e5\n\nJa Kuduro hardcore varf\u00f6r st\u00e5r du o ser p\u00e5\n\nJa skulle bara vila men ja b\u00f6rjade o r\u00f6ra min ben\n\nNu kan jag inte g\u00f6ra annat \u00e4n o dansa s\u00e5\n\nVart vi \u00e4n g\u00e5r\n\nDom dansar s\u00e5\n\nDom dansar s\u00e5\n\nDom dansar s\u00e5\n\nVart vi \u00e4n g\u00e5r\n\nDom dansar s\u00e5\n\nDom dansar s\u00e5\n\nDom dansar s\u00e5\n\nVi vill att ni alla ska dansa s\u00e5\u00e5\u00e5\n\nVart vi \u00e4n g\u00e5r\n\nDom dansar s\u00e5\n\nDom dansar s\u00e5\n\nDom dansar s\u00e5\n\nVart vi \u00e4n g\u00e5r\n\nDom dansar s\u00e5\n\nDom dansar s\u00e5\n\nDom dansar s\u00e5\n\nYalla kompis, yalla kompis\n\nYalla kompis, yalla kompisEmbed"
+  }
+ ]
+}

@@ -1,0 +1,3928 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/362246",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 1,
+ "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+ "id": 362246,
+ "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Mange Schmidt",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Mange-schmidt",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7080185",
+  "classification": "needs_exegesis",
+  "fragment": "Mange Schmidt",
+  "id": 7080185,
+  "is_description": true,
+  "path": "/7080185/Mange-schmidt/Mange-schmidt",
+  "range": {
+   "content": "Mange Schmidt"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7080185/Mange-schmidt/Mange-schmidt",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/362246",
+   "context": null,
+   "id": 362246,
+   "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+   "link_title": "Mange Schmidt",
+   "title": "Mange Schmidt",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Mange-schmidt"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7080185",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7080185,
+    "pinned": false,
+    "share_url": "https://genius.com/7080185",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7080185/Mange-schmidt/Mange-schmidt",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1744499",
+   "artist_names": "Mange Schmidt (Ft. Petter)",
+   "full_title": "Giftig by\u00a0Mange\u00a0Schmidt (Ft.\u00a0Petter)",
+   "header_image_thumbnail_url": "https://images.genius.com/699e4594efc9c1b9b1d722711291a46d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/699e4594efc9c1b9b1d722711291a46d.350x350x1.jpg",
+   "id": 1744499,
+   "language": "sv",
+   "lyrics_owner_id": 6164840,
+   "lyrics_state": "complete",
+   "path": "/Mange-schmidt-giftig-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Mange-schmidt-giftig-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/699e4594efc9c1b9b1d722711291a46d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/699e4594efc9c1b9b1d722711291a46d.350x350x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 16066
+   },
+   "title": "Giftig",
+   "title_with_featured": "Giftig (Ft.\u00a0Petter)",
+   "url": "https://genius.com/Mange-schmidt-giftig-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/32186",
+     "header_image_url": "https://images.genius.com/5b17af2472027230c57703099bcaea53.690x460x1.jpg",
+     "id": 32186,
+     "image_url": "https://images.genius.com/130d989ab7c246949373a089ecc5a951.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Petter",
+     "url": "https://genius.com/artists/Petter"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/362246",
+    "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+    "id": 362246,
+    "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mange Schmidt",
+    "url": "https://genius.com/artists/Mange-schmidt"
+   },
+   "apple_music_id": "373578845",
+   "apple_music_player_url": "https://genius.com/songs/1744499/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1744499' class='rg_embed_link' data-song-id='1744499'>Read <a href='https://genius.com/Mange-schmidt-giftig-lyrics'>\u201cGiftig\u201d by Mange\u00a0Schmidt</a> on Genius</div> <script crossorigin src='//genius.com/songs/1744499/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/283823",
+    "cover_art_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.640x640x1.jpg",
+    "full_title": "K\u00e4nslan Kommer Tillbaks by Mange Schmidt",
+    "id": 283823,
+    "name": "K\u00e4nslan Kommer Tillbaks",
+    "url": "https://genius.com/albums/Mange-schmidt/Kanslan-kommer-tillbaks",
+    "artist": {
+     "api_path": "/artists/362246",
+     "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "id": 362246,
+     "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mange Schmidt",
+     "url": "https://genius.com/artists/Mange-schmidt"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6275348",
+    "classification": "needs_exegesis",
+    "fragment": "Giftig",
+    "id": 6275348,
+    "is_description": true,
+    "path": "/6275348/Mange-schmidt-giftig/Giftig",
+    "range": {
+     "content": "Giftig"
+    },
+    "song_id": 1744499,
+    "url": "https://genius.com/6275348/Mange-schmidt-giftig/Giftig",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1744499",
+     "client_timestamps": {
+      "updated_by_human_at": 1568824757,
+      "lyrics_updated_at": 1535649163
+     },
+     "context": "Mange Schmidt",
+     "id": 1744499,
+     "image_url": "https://images.genius.com/699e4594efc9c1b9b1d722711291a46d.350x350x1.jpg",
+     "link_title": "Giftig by\u00a0Mange\u00a0Schmidt (Ft.\u00a0Petter)",
+     "title": "Giftig",
+     "type": "Song",
+     "url": "https://genius.com/Mange-schmidt-giftig-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6275348",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6275348,
+      "pinned": false,
+      "share_url": "https://genius.com/6275348",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6275348/Mange-schmidt-giftig/Giftig",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/362246",
+     "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "id": 362246,
+     "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mange Schmidt",
+     "url": "https://genius.com/artists/Mange-schmidt"
+    }
+   ],
+   "artist": "Mange Schmidt",
+   "lyrics": "Giftig Lyrics[Refr\u00e4ng: Mange Schmidt]\n*Visslar*\nDen e giftig och den smittar ner dig\nDu har h\u00f6rt den f\u00f6rut, s\u00e5 du visslar med mig, ba'\n*Visslar*\nDen e giftig och den smittar ner dig\nDu har h\u00f6rt den f\u00f6rut, s\u00e5 du visslar med mig, ba'\n\n[Vers 1: Mange Schmidt]\n'A okej, d\u00e5 var det dags igen\nMange Schmidt, fortfarande glassig, men\nNytt \u00e5r, ny l\u00e5t, nytt mode, ny glow\nMen det e samma gamla kille med ett h\u00e4rligt flow\nJag liksom irriterar p\u00e5 ett fyndigt s\u00e4tt\nN\u00e4r jag levererar p\u00e5 ett myndigt s\u00e4tt\nOch jag vill ha dig p\u00e5 ett syndigt s\u00e4tt\nS\u00e5 det blir gyllene tider n\u00e4r vi tv\u00e5 blir ett (woo)\n'A, du vet vad jag talar om\nOch om du inte vet, vet du n\u00e4r jag talar om det (oo-wee)\nHur mycket jag \u00e4n skalar av det\nSpelar ingen roll, radion skvalar av det (haha)\nSkyldig st\u00e5lar, jag betalar av det\nJag beh\u00f6ver inte ens det d\u00e4r f\u00f6rlagsavtalet\nDet rycks och det slits och det skriks i mitt \u00f6ra\nF\u00f6rs\u00f6ker lyssna (huh?), men jag kan bara h\u00f6ra\n[Refr\u00e4ng: Mange Schmidt]\n*Visslar*\nDen e giftig och den smittar ner dig\nDu har h\u00f6rt den f\u00f6rut, s\u00e5 du visslar med mig, ba'\n*Visslar*\nDen e giftig och den smittar ner dig\nDu har h\u00f6rt den f\u00f6rut, s\u00e5 du visslar med mig, ba'\n\n[Vers 2: Mange Schmidt]\n\u00d6ppna f\u00f6nstren och sl\u00e4pp in luften\nOm du sitter i en segelb\u00e5t, \u00f6ppna ruffen\nOm du sitter i en cabbad bil, \u00f6ppna upp den\nT\u00e4nk p\u00e5 guzzen, f\u00f6rsiktigt i guppen\n'A, du vet vad det handlar om\nDen h\u00e4r skiten e inget jag f\u00f6rhandlar om\nGirigt folk, jag f\u00f6rbannar dom\nHos Hin h\u00e5le, d\u00e4r hamnar dom (woo)\nOch det e s\u00e5 vi g\u00f6r det h\u00e4r i Stockholm\nTv\u00e5 l\u00e5tar p\u00e5 en dag om det e br\u00e5ttom (oo-wee)\nF\u00f6rs\u00f6ker tr\u00e4na varje dag f\u00f6r min kroppsform\nOm jag lyckas (nja), det drar vi lott om (haha)\n'Avisst, det e s\u00e5 vi g\u00f6r va\nDygnet runt om vi kan ber\u00f6ra\nOch vi l\u00e4r h\u00e5lla p\u00e5 tills vi d\u00f6r, ja\nMen tills dess s\u00e5 e allt ni h\u00f6r ba'\nYou might also like[Refr\u00e4ng: Mange Schmidt]\n*Visslar*\nDen e giftig och den smittar ner dig\nDu har h\u00f6rt den f\u00f6rut, s\u00e5 du visslar med mig, ba'\n*Visslar*\nDen e giftig och den smittar ner dig\nDu har h\u00f6rt den f\u00f6rut, s\u00e5 du visslar med mig, ba'\n\n[Vers 3: Petter]\nJapp, det h\u00e4r e Petter fr\u00e5n S\u00f6dermalm\nH\u00e4nger norrut ibland, men e samma man\nFortfarande h\u00f6vding \u00f6ver samma stam\nFortfarande chef \u00f6ver Bajenland\nOch jag tar det lugnt\nOch jag rullar upp i en bil som h\u00f6rs, f\u00f6r jag pumpar tungt (woo)\nJapp, jag glider upp utan n\u00e5gra problem\nV\u00e4grar att bromsa, vrider upp mitt system (oo-wee)\nTinnitusskadad fr\u00e5n livet p\u00e5 scen\nEn beat, en mick och en flaska Kapten (haha)\nF\u00f6r jag e fortfarande han som styr hela Kocksgatan\nFortfarande \u00e4rlig och precis lika rakfram\nLivet e som vanligt, ingen skillnad p\u00e5\nVarken nu eller d\u00e5, vi ba' stilar s\u00e5\nVi tar det upp till en ny niv\u00e5\nDet h\u00e4r e Petter och Mange Schmidt som du lyssnar p\u00e5\nVi ba'\n[Refr\u00e4ng: Mange Schmidt]\n*Visslar*\nDen e giftig och den smittar ner dig\nDu har h\u00f6rt den f\u00f6rut, s\u00e5 du visslar med mig, ba'\n*Visslar*\nDen e giftig och den smittar ner dig\nDu har h\u00f6rt den f\u00f6rut, s\u00e5 du visslar med mig, ba'\n\n[Outro: Mange Schmidt]\n*Visslar*\nN\u00e4r du rullar i din custom made med din tjej\nPress play och ni e fast med mig, ni ba'\n*Visslar*\n'A, jag kommer ifr\u00e5n Odenplan\nMen jag e inte ensam, jag har hela klanen med migEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1933041",
+   "artist_names": "Mange Schmidt (Ft. Masayah)",
+   "full_title": "Glassigt by\u00a0Mange\u00a0Schmidt (Ft.\u00a0Masayah)",
+   "header_image_thumbnail_url": "https://images.genius.com/5c69f0fe845be2d4e8945f3186997c22.300x314x1.jpg",
+   "header_image_url": "https://images.genius.com/5c69f0fe845be2d4e8945f3186997c22.612x640x1.jpg",
+   "id": 1933041,
+   "language": "sv",
+   "lyrics_owner_id": 6164840,
+   "lyrics_state": "complete",
+   "path": "/Mange-schmidt-glassigt-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Mange-schmidt-glassigt-sample",
+   "release_date_components": {
+    "year": 2006,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "2006",
+   "release_date_with_abbreviated_month_for_display": "2006",
+   "song_art_image_thumbnail_url": "https://images.genius.com/5c69f0fe845be2d4e8945f3186997c22.300x314x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5c69f0fe845be2d4e8945f3186997c22.612x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 14423
+   },
+   "title": "Glassigt",
+   "title_with_featured": "Glassigt (Ft.\u00a0Masayah)",
+   "url": "https://genius.com/Mange-schmidt-glassigt-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/530888",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 530888,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Masayah",
+     "url": "https://genius.com/artists/Masayah"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/362246",
+    "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+    "id": 362246,
+    "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mange Schmidt",
+    "url": "https://genius.com/artists/Mange-schmidt"
+   },
+   "apple_music_id": "377347860",
+   "apple_music_player_url": "https://genius.com/songs/1933041/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1933041' class='rg_embed_link' data-song-id='1933041'>Read <a href='https://genius.com/Mange-schmidt-glassigt-lyrics'>\u201cGlassigt\u201d by Mange\u00a0Schmidt</a> on Genius</div> <script crossorigin src='//genius.com/songs/1933041/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/268030",
+    "cover_art_url": "https://images.genius.com/e196756836c530106c658da10d07b258.600x600x1.jpg",
+    "full_title": "Samtidigt, i Stockholm by Mange Schmidt",
+    "id": 268030,
+    "name": "Samtidigt, i Stockholm",
+    "url": "https://genius.com/albums/Mange-schmidt/Samtidigt-i-stockholm",
+    "artist": {
+     "api_path": "/artists/362246",
+     "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "id": 362246,
+     "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mange Schmidt",
+     "url": "https://genius.com/artists/Mange-schmidt"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6618549",
+    "classification": "needs_exegesis",
+    "fragment": "Glassigt",
+    "id": 6618549,
+    "is_description": true,
+    "path": "/6618549/Mange-schmidt-glassigt/Glassigt",
+    "range": {
+     "content": "Glassigt"
+    },
+    "song_id": 1933041,
+    "url": "https://genius.com/6618549/Mange-schmidt-glassigt/Glassigt",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1933041",
+     "client_timestamps": {
+      "updated_by_human_at": 1540466458,
+      "lyrics_updated_at": 1540464771
+     },
+     "context": "Mange Schmidt",
+     "id": 1933041,
+     "image_url": "https://images.genius.com/5c69f0fe845be2d4e8945f3186997c22.612x640x1.jpg",
+     "link_title": "Glassigt by\u00a0Mange\u00a0Schmidt (Ft.\u00a0Masayah)",
+     "title": "Glassigt",
+     "type": "Song",
+     "url": "https://genius.com/Mange-schmidt-glassigt-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6618549",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6618549,
+      "pinned": false,
+      "share_url": "https://genius.com/6618549",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6618549/Mange-schmidt-glassigt/Glassigt",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=mKrA2-48fhk"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/308690",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 308690,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Saska Becker",
+     "url": "https://genius.com/artists/Saska-becker"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/362246",
+     "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "id": 362246,
+     "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mange Schmidt",
+     "url": "https://genius.com/artists/Mange-schmidt"
+    }
+   ],
+   "artist": "Mange Schmidt",
+   "lyrics": "Glassigt Lyrics[Intro]\nEy yo, Mange Schmidt man\nKn\u00e4cker brorsan\n\n[Refr\u00e4ng]\nN\u00e4r du h\u00f6r en bra l\u00e5t och din partner e k\u00e5t, ere\nGlassigt\nN\u00e4r du har sommarlov och du h\u00e5ller hov, ere\nGlassigt\nOch n\u00e4r freda'n e slut och du ska g\u00e5 ut, ere\nGlassigt\nN\u00e4r du har sjukt bra koll och h\u00e4lsan i beh\u00e5ll, d\u00e5 ere\nGlassigt\n[Vers 1]\nJag vaknar upp, ah, solen skiner igen\nDags f\u00f6r mig att gitta fr\u00e5n l\u00e4genheten\nMen f\u00f6rst, alltid en dusch\nInte lukta usch, st\u00e5 h\u00f6gt i kurs\nF\u00f6r det e (glassigt, glass-glassigt)\nSenare men \u00e4nd\u00e5 samma dag\nLyckades jag \u00e4ntligen f\u00e5 tag\nP\u00e5 numret till den d\u00e4r tjejen, du vet\nJag ringde direkt, jag e inte diskret\nJag sa \"Ska vi hitta p\u00e5 n\u00e5nting\nTillsammans? Kanske g\u00f6ra ingenting?\nKanske bara h\u00e4nga du och jag?\nJag tar med mig rosor och en ask choklad\"\nHon f\u00f6ll direkt f\u00f6r mitt initiativ\nOch ville bli en del av mitt privatliv\nNu bor vi ihop och vi har det bra\nMen det va bara en av m\u00e5nga dar\nD\u00e5 det e (glassigt, glass-glassigt)\n\n[Refr\u00e4ng]\nN\u00e4r du h\u00f6r en bra l\u00e5t och din partner e k\u00e5t, ere\nGlassigt\nN\u00e4r du har sommarlov och du h\u00e5ller hov, ere\nGlassigt\nOch n\u00e4r freda'n e slut och du ska g\u00e5 ut, ere\nGlassigt\nN\u00e4r du har sjukt bra koll och h\u00e4lsan i beh\u00e5ll, d\u00e5 ere\nGlassigt\nYou might also like[Vers 2]\nEn vecka senare h\u00e4nde det h\u00e4r\nDet l\u00e5ter som ljug, men e sant, jag sv\u00e4r\nJag gr\u00e4vde i fickan och k\u00e4nde n\u00e5t\nDet visa sig vara en gammal trisslott\nJag skrapade och till min stora f\u00f6rv\u00e5ning\nHade jag pl\u00f6tsligt r\u00e5d med ny v\u00e5ning\nBubbelpool och en resa runt jorden\nDet g\u00e5r bra nu, ta mig p\u00e5 orden\nMed pengarna kom en massa frihet, svenne\nJag kunde ge allt jag inte givit henne\nOch \u00e4ven om pengar inte e allt\nK\u00e4ndes det j\u00e4vligt ballt\nOch det va (glassigt, glass-glassigt)\nNu simmar jag runt i mitt pengahav\nOch har inga planer p\u00e5 att l\u00e4gga av\nVarf\u00f6r skulle jag g\u00f6ra det?\nJag m\u00e5r som en gud, min pl\u00e5nbok e fet\nOch det e (glassigt, glass-glassigt)\n\n[Refr\u00e4ng]\nN\u00e4r du h\u00f6r en bra l\u00e5t och din partner e k\u00e5t, ere\nGlassigt\nN\u00e4r du har sommarlov och du h\u00e5ller hov, ere\nGlassigt\nOch n\u00e4r freda'n e slut och du ska g\u00e5 ut, ere\nGlassigt\nN\u00e4r du har sjukt bra koll och h\u00e4lsan i beh\u00e5ll, d\u00e5 ere\nGlassigt\n[Vers 3]\nEn dag n\u00e4r jag l\u00e5g hemma och m\u00f6s\nJag va ledig eller typ arbetsl\u00f6s\nRingde n\u00e5gon p\u00e5 min telefon\nDet va ett hemligt nummer, men jag svara \u00e4nd\u00e5\nJag \u00e5ngrar inte att jag gjorde s\u00e5\nF\u00f6r det h\u00e4nde n\u00e5t som e f\u00f6runnat f\u00e5\nDen som ringde undra om jag va bra\nP\u00e5 att skriva saker, s\u00e5 jag svara ja\nSj\u00e4lvklart e det ju p\u00e5 det viset\nSiktet e inst\u00e4llt p\u00e5 Pulitzerpriset\nHan sa \"D\u00e5 blir du nog glad ikv\u00e4ll\nF\u00f6r du ska f\u00e5 pris ifr\u00e5n Alfred Nobel\"\nOch det e (glassigt, glass-glassigt)\nS\u00e5 nu e jag d\u00e4r uppe bland genierna\nOch reviderar dom gamla teorierna\nDet kunde man inte ha trott f\u00f6rut\nDet h\u00e4r e Mange Schmidt som signar ut, slut\n\n[Refr\u00e4ng]\nN\u00e4r du h\u00f6r en bra l\u00e5t och din partner e k\u00e5t, ere\nGlassigt\nN\u00e4r du har sommarlov och du h\u00e5ller hov, ere\nGlassigt\nOch n\u00e4r freda'n e slut och du ska g\u00e5 ut, ere\nGlassigt\nN\u00e4r du har sjukt bra koll och h\u00e4lsan i beh\u00e5ll, d\u00e5 ere\nGlassigt\n\n[Outro]\nGlass-glassigt\nGlassigtEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/889736",
+   "artist_names": "Mange Schmidt",
+   "full_title": "Jag talar ut by\u00a0Mange\u00a0Schmidt",
+   "header_image_thumbnail_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.640x640x1.jpg",
+   "id": 889736,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Mange-schmidt-jag-talar-ut-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Mange-schmidt-jag-talar-ut-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 6808
+   },
+   "title": "Jag talar ut",
+   "title_with_featured": "Jag talar ut",
+   "url": "https://genius.com/Mange-schmidt-jag-talar-ut-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/362246",
+    "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+    "id": 362246,
+    "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mange Schmidt",
+    "url": "https://genius.com/artists/Mange-schmidt"
+   },
+   "apple_music_id": "373578995",
+   "apple_music_player_url": "https://genius.com/songs/889736/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_889736' class='rg_embed_link' data-song-id='889736'>Read <a href='https://genius.com/Mange-schmidt-jag-talar-ut-lyrics'>\u201cJag talar ut\u201d by Mange\u00a0Schmidt</a> on Genius</div> <script crossorigin src='//genius.com/songs/889736/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/283823",
+    "cover_art_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.640x640x1.jpg",
+    "full_title": "K\u00e4nslan Kommer Tillbaks by Mange Schmidt",
+    "id": 283823,
+    "name": "K\u00e4nslan Kommer Tillbaks",
+    "url": "https://genius.com/albums/Mange-schmidt/Kanslan-kommer-tillbaks",
+    "artist": {
+     "api_path": "/artists/362246",
+     "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "id": 362246,
+     "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mange Schmidt",
+     "url": "https://genius.com/artists/Mange-schmidt"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5371985",
+    "classification": "needs_exegesis",
+    "fragment": "Jag talar ut",
+    "id": 5371985,
+    "is_description": true,
+    "path": "/5371985/Mange-schmidt-jag-talar-ut/Jag-talar-ut",
+    "range": {
+     "content": "Jag talar ut"
+    },
+    "song_id": 889736,
+    "url": "https://genius.com/5371985/Mange-schmidt-jag-talar-ut/Jag-talar-ut",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/889736",
+     "client_timestamps": {
+      "updated_by_human_at": 1479315858,
+      "lyrics_updated_at": 1429301698
+     },
+     "context": "Mange Schmidt",
+     "id": 889736,
+     "image_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.640x640x1.jpg",
+     "link_title": "Jag talar ut by\u00a0Mange\u00a0Schmidt",
+     "title": "Jag talar ut",
+     "type": "Song",
+     "url": "https://genius.com/Mange-schmidt-jag-talar-ut-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5371985",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5371985,
+      "pinned": false,
+      "share_url": "https://genius.com/5371985",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5371985/Mange-schmidt-jag-talar-ut/Jag-talar-ut",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Mange Schmidt",
+   "lyrics": "Jag talar ut LyricsOk\nVaknar i gryningen fixar till frisyren igen\nKollar mig i spegeln de e samma gamla syn igen\nKokar en kopp te och bl\u00e4ddrar genom skvallerpressen\nT\u00e4nker att de orkar med, men faller sj\u00e4lv f\u00f6r frestelsen\n\n\u00c5 talar ut\nJag talar ut\n\nOk\nM\u00e5nga m\u00e5nga tusen tusenlappar senare\nNya br\u00f6st och l\u00e4pparna \u00e4r botox f\u00f6rorenade\nHuden k\u00e4nns nu lenare\nOch ansiktsdragen renare\nRinger upp till Se&H\u00f6r\nTjena tjenare och talar ut\nJag talar ut\nOk\nHar jag chans p\u00e5 dig du kanske har chans p\u00e5 mej\nJag minns ej e de denna vecka jag \u00e4r k\u00e4r i dig\nEller \u00e4r det slut\nHar vi redan sjungit ut\nJag har faktiskt ingen koll\nMen nu vill jag g\u00f6ra porr\nJa nu vill jag g\u00f6ra porr\n\nRef:\nJag s\u00f6ker lite tr\u00f6st s\u00e5 jag talar ut\nJag k\u00f6per fina br\u00f6st \u00e5 jag talar ut\nJag k\u00e4nner mig s\u00e5 kr\u00e4nkt s\u00e5 jag talar ut\nJag har inte riktigt t\u00e4nkt men jag talar ut\nJag s\u00f6ker lite tr\u00f6st s\u00e5 jag talar ut\nJag k\u00f6per fina br\u00f6st \u00e5 jag talar ut\nJag k\u00e4nner mig s\u00e5 kr\u00e4nkt s\u00e5 jag talar ut\nJag har inte riktigt t\u00e4nkt men jag talar ut\n\nNakenchock nakenchock sexattack och k\u00e5tbock\nK\u00e4ndis visar penisen f\u00f6r sm\u00e5barn i sin morgonrock\nFlickv\u00e4nnen f\u00e5r stock av kollegan kulturkrock\nDet h\u00e4r \u00e4r blott en axplock dock n\u00e4r ni h\u00e4nger ut\nFolk som inte talat ut sn\u00e4lla finns det inget slut\nVilket j\u00e4vla avlopp sn\u00e4lla finns det inget stopp\nStoppa pressarna det h\u00e4r har nyss kommit in\nOm man vinklar storyn r\u00e4tt kan man nog f\u00e5 spinn\nOm jag r\u00e4knar p\u00e5 det r\u00e4tt kan vi nog f\u00e5 in\n\u00c4nnu mer pengar till v\u00e5r kista som e pengastinn\nYou might also likeOch typ ta en papparzzibild\n\u00c5 blir den inte bra photoshoppa till din bild\nVi har inte riktigt tid att kolla alla fakta\n\u00c5 som chef var det h\u00e4r ett sv\u00e5rt beslut att fatta\nDet vore trist om vi handlar i en tvist\nMen l\u00f6psedeln blev s\u00e5 underbart bra till sist\n\nKungahuset rasar \u00f6ver hiv-mannens modemiss\n\nRef:\nJag s\u00f6ker lite tr\u00f6st s\u00e5 jag talar ut\nJag k\u00f6per fina br\u00f6st \u00e5 jag talar ut\nJag k\u00e4nner mig s\u00e5 kr\u00e4nkt s\u00e5 jag talar ut\nJag har inte riktigt t\u00e4nkt men jag talar ut\nJag s\u00f6ker lite tr\u00f6st s\u00e5 jag talar ut\nJag k\u00f6per fina br\u00f6st \u00e5 jag talar ut\nJag k\u00e4nner mig s\u00e5 kr\u00e4nkt s\u00e5 jag talar ut\nJag har inte riktigt t\u00e4nkt men jag talar ut\n\nJippie ny metod hj\u00e4lper dig att g\u00e5 ner i vikt\nEn liten biverkning dock man f\u00e5r hj\u00e4rtsvikt\nMan kan tappa lite h\u00e5r och m\u00e5 d\u00e5ligt\nMen vill man vara fin s\u00e5 m\u00e5ste man v\u00e4l t\u00e5la lite\nVi kanske borde g\u00f6ra dokus\u00e5pa\nStoppa massa tjocka i ett rum att skriva hockey l\u00e5tar\nOch plocka in Swartling det h\u00e4r blir j\u00e4vligt stort\nEn dv\u00e4rg \u00e5 tv\u00e5 nunnor som f\u00e5r spela kort\nEller nej v\u00e4nta det d\u00e4r \u00e4r fan redan gjort\n\nRef:\nJag s\u00f6ker lite tr\u00f6st s\u00e5 jag talar ut\nJag k\u00f6per fina br\u00f6st \u00e5 jag talar ut\nJag k\u00e4nner mig s\u00e5 kr\u00e4nkt s\u00e5 jag talar ut\nJag har inte riktigt t\u00e4nkt men jag talar ut\nJag s\u00f6ker lite tr\u00f6st s\u00e5 jag talar ut\nJag k\u00f6per fina br\u00f6st \u00e5 jag talar ut\nJag k\u00e4nner mig s\u00e5 kr\u00e4nkt s\u00e5 jag talar ut\nJag har inte riktigt t\u00e4nkt men jag talar utEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1970895",
+   "artist_names": "Mange Schmidt",
+   "full_title": "K\u00e4nslan kommer tillbaks by\u00a0Mange\u00a0Schmidt",
+   "header_image_thumbnail_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.640x640x1.jpg",
+   "id": 1970895,
+   "language": "sv",
+   "lyrics_owner_id": 6164840,
+   "lyrics_state": "complete",
+   "path": "/Mange-schmidt-kanslan-kommer-tillbaks-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Mange-schmidt-kanslan-kommer-tillbaks-sample",
+   "release_date_components": {
+    "year": 2007,
+    "month": 9,
+    "day": 26
+   },
+   "release_date_for_display": "September 26, 2007",
+   "release_date_with_abbreviated_month_for_display": "Sep. 26, 2007",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "K\u00e4nslan kommer tillbaks",
+   "title_with_featured": "K\u00e4nslan kommer tillbaks",
+   "url": "https://genius.com/Mange-schmidt-kanslan-kommer-tillbaks-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/362246",
+    "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+    "id": 362246,
+    "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mange Schmidt",
+    "url": "https://genius.com/artists/Mange-schmidt"
+   },
+   "apple_music_id": "373579039",
+   "apple_music_player_url": "https://genius.com/songs/1970895/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1970895' class='rg_embed_link' data-song-id='1970895'>Read <a href='https://genius.com/Mange-schmidt-kanslan-kommer-tillbaks-lyrics'>\u201cK\u00e4nslan kommer tillbaks\u201d by Mange\u00a0Schmidt</a> on Genius</div> <script crossorigin src='//genius.com/songs/1970895/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2007-09-26",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/283823",
+    "cover_art_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.640x640x1.jpg",
+    "full_title": "K\u00e4nslan Kommer Tillbaks by Mange Schmidt",
+    "id": 283823,
+    "name": "K\u00e4nslan Kommer Tillbaks",
+    "url": "https://genius.com/albums/Mange-schmidt/Kanslan-kommer-tillbaks",
+    "artist": {
+     "api_path": "/artists/362246",
+     "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "id": 362246,
+     "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mange Schmidt",
+     "url": "https://genius.com/artists/Mange-schmidt"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6657409",
+    "classification": "needs_exegesis",
+    "fragment": "K\u00e4nslan kommer tillbaks",
+    "id": 6657409,
+    "is_description": true,
+    "path": "/6657409/Mange-schmidt-kanslan-kommer-tillbaks/Kanslan-kommer-tillbaks",
+    "range": {
+     "content": "K\u00e4nslan kommer tillbaks"
+    },
+    "song_id": 1970895,
+    "url": "https://genius.com/6657409/Mange-schmidt-kanslan-kommer-tillbaks/Kanslan-kommer-tillbaks",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1970895",
+     "client_timestamps": {
+      "updated_by_human_at": 1540462995,
+      "lyrics_updated_at": 1540462729
+     },
+     "context": "Mange Schmidt",
+     "id": 1970895,
+     "image_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.640x640x1.jpg",
+     "link_title": "K\u00e4nslan kommer tillbaks by\u00a0Mange\u00a0Schmidt",
+     "title": "K\u00e4nslan kommer tillbaks",
+     "type": "Song",
+     "url": "https://genius.com/Mange-schmidt-kanslan-kommer-tillbaks-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6657409",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6657409,
+      "pinned": false,
+      "share_url": "https://genius.com/6657409",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6657409/Mange-schmidt-kanslan-kommer-tillbaks/Kanslan-kommer-tillbaks",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/308690",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 308690,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Saska Becker",
+     "url": "https://genius.com/artists/Saska-becker"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/362246",
+     "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "id": 362246,
+     "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mange Schmidt",
+     "url": "https://genius.com/artists/Mange-schmidt"
+    }
+   ],
+   "artist": "Mange Schmidt",
+   "lyrics": "K\u00e4nslan kommer tillbaks Lyrics[Refr\u00e4ng]\nJag tar ett steg fram\u00e5t och ett steg bak\nEtt steg v\u00e4nster och k\u00e4nslan kommer tillbaks\nLite packad, men inte dyngrak\nJag r\u00f6r mig p\u00e5 golvet och k\u00e4nslan kommer tillbaks\nUpp med h\u00e4nderna, lyfter ett tak\nSkakar p\u00e5 rumpan och k\u00e4nslan kommer tillbaks\nGenom rummet i sakta gemak\nHon tittar p\u00e5 mig och k\u00e4nslan kommer tillbaks\n\n[Vers 1]\nP\u00e5 med kallingar, linne och strumpor\nJag t\u00e4nker p\u00e5 formen av kvinnliga rumpor\nByxor, skjortor, ett par fina skor\nVi ska ses om en timme d\u00e4r dom mina bor\nSen blir det ut p\u00e5 bystan och skaka loss\nJag bjuckar p\u00e5 en drink och f\u00e5r smaka ett bloss\nJag blir lite b\u00e4ng och lite glad\nOch jag t\u00e4nker f\u00f6r mig sj\u00e4lv \"Allting e som det ska\"\nGl\u00e4djespridare, sprider gl\u00e4djen vidare\nHookar med tjej och n\u00e5gra andra sk\u00f6na lirare\nEn pansjis st\u00e5r brevid och s\u00e4ger \"Vad ska det nu bli av er?\nEtt par svirare, s\u00e5na tidsf\u00f6rdrivare\"\nEtt steg fram\u00e5t och ett steg bak\nEtt steg v\u00e4nster och vi n\u00e4rmar oss ett hak\nSteppar in p\u00e5 klubben med dunder och brak\nOch jag h\u00e4lsar p\u00e5 en homie och k\u00e4nslan kommer tillbaks\n[Refr\u00e4ng]\nJag tar ett steg fram\u00e5t och ett steg bak\nEtt steg v\u00e4nster och k\u00e4nslan kommer tillbaks\nLite packad, men inte dyngrak\nJag r\u00f6r mig p\u00e5 golvet och k\u00e4nslan kommer tillbaks\nUpp med h\u00e4nderna, lyfter ett tak\nSkakar p\u00e5 rumpan och k\u00e4nslan kommer tillbaks\nGenom rummet i sakta gemak\nHon tittar p\u00e5 mig och k\u00e4nslan kommer tillbaks\n\n[Vers 2]\n\u00c4kta, \u00e4kta, l\u00e4s allting om det\nMan blir kn\u00e4ckt ba' och tappar f\u00f6rst\u00e5ndet\nHan \u00e4r tillbaks med en ny j\u00e4vla bomb bre\nEller urs\u00e4kta, han har gjort en s\u00e5ng om det\nJag stoppar ner mina fingrar i fickan\nHittar massa pengar, s\u00e5 jag delar dom med flickan\nVi g\u00e5r loss och blir helt tokiga\nKate Moss, kindbenen e kotiga\nVi tar en sv\u00e4ngom p\u00e5 golvet, helgen e l\u00e5ng\nDet e tr\u00e5ngt och hon glider runt en strippst\u00e5ng\nJag sjunger en s\u00e5ng, k\u00e4nner mig som King Kong\nOch haltar fram sakta med min cripg\u00e5ng\nHon vacker, hon e snygg, hon e katt\nKollar hennes takter, jag e stygg, hon blir matt\nHon glider genom rummet i sakta gemak\nHon tittar p\u00e5 mig och k\u00e4nslan kommer tillbaks\nYou might also like[Refr\u00e4ng]\nJag tar ett steg fram\u00e5t och ett steg bak\nEtt steg v\u00e4nster och k\u00e4nslan kommer tillbaks\nLite packad, men inte dyngrak\nJag r\u00f6r mig p\u00e5 golvet och k\u00e4nslan kommer tillbaks\nUpp med h\u00e4nderna, lyfter ett tak\nSkakar p\u00e5 rumpan och k\u00e4nslan kommer tillbaks\nGenom rummet i sakta gemak\nHon tittar p\u00e5 mig och k\u00e4nslan kommer tillbaks\n\n[Vers 3]\nDet e strax efter tv\u00e5, vi vill forts\u00e4tta parta\nHaru en lax eller s\u00e5? Det e ingen som vill kvarta\nVi m\u00e5ste starta festen nu, fatta\nMister DJ, s\u00e4tt n\u00e5len p\u00e5 din platta\nOch v\u00e4rmen stiger, kl\u00e4der \u00e5ker av\nFan vad jag \u00e4lskar n\u00e4r k\u00e4nslan kommer tillbaks\nVi har roligt och vi njuter av livet\nOch vi vet att ni vet att vi vet att drivet\nKommer ifr\u00e5n hj\u00e4rtat inte hj\u00e4rnan p\u00e5 en\nKommer kanske f\u00e5 en hj\u00e4rtattack och b\u00e4ras hem, men\nInte \u00e4n, f\u00f6r vi har mycket kvar att ge\nHar ett hav av energi, s\u00e5 vi tar av det\nTar en bulle och styr kosan hem till n\u00e5n\nKebabrulle p\u00e5 v\u00e4gen och fem till dom\n'Avisst, det e lugnt, min treat\nDu la sist, ta med sprit, s\u00e5 e det sweet\nV\u00e4l framme, Elisabeth och Danne\nFelicia och Janne och vi bjuder in en granne\nDensamme e s\u00f6t och har glassig smak\nS\u00e5 vi h\u00e5nglar i soffan och k\u00e4nslan kommer tillbaks\n[Refr\u00e4ng]\nJag tar ett steg fram\u00e5t och ett steg bak\nEtt steg v\u00e4nster och k\u00e4nslan kommer tillbaks\nLite packad, men inte dyngrak\nJag r\u00f6r mig p\u00e5 golvet och k\u00e4nslan kommer tillbaks\nUpp med h\u00e4nderna, lyfter ett tak\nSkakar p\u00e5 rumpan och k\u00e4nslan kommer tillbaks\nGenom rummet i sakta gemak\nHon tittar p\u00e5 mig och k\u00e4nslan kommer tillbaksEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1947667",
+   "artist_names": "Mange Schmidt",
+   "full_title": "Ledig by\u00a0Mange\u00a0Schmidt",
+   "header_image_thumbnail_url": "https://images.genius.com/2f8a7137de753097da8e2e373493cc44.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/2f8a7137de753097da8e2e373493cc44.1000x1000x1.jpg",
+   "id": 1947667,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Mange-schmidt-ledig-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Mange-schmidt-ledig-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/2f8a7137de753097da8e2e373493cc44.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/2f8a7137de753097da8e2e373493cc44.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ledig",
+   "title_with_featured": "Ledig",
+   "url": "https://genius.com/Mange-schmidt-ledig-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/362246",
+    "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+    "id": 362246,
+    "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mange Schmidt",
+    "url": "https://genius.com/artists/Mange-schmidt"
+   },
+   "apple_music_id": "362100777",
+   "apple_music_player_url": "https://genius.com/songs/1947667/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1947667' class='rg_embed_link' data-song-id='1947667'>Read <a href='https://genius.com/Mange-schmidt-ledig-lyrics'>\u201cLedig\u201d by Mange\u00a0Schmidt</a> on Genius</div> <script crossorigin src='//genius.com/songs/1947667/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/343646",
+    "cover_art_url": "https://images.genius.com/2f8a7137de753097da8e2e373493cc44.1000x1000x1.jpg",
+    "full_title": "Odenplan Stockholm 1988 by Mange Schmidt",
+    "id": 343646,
+    "name": "Odenplan Stockholm 1988",
+    "url": "https://genius.com/albums/Mange-schmidt/Odenplan-stockholm-1988",
+    "artist": {
+     "api_path": "/artists/362246",
+     "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "id": 362246,
+     "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mange Schmidt",
+     "url": "https://genius.com/artists/Mange-schmidt"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6633547",
+    "classification": "needs_exegesis",
+    "fragment": "Ledig",
+    "id": 6633547,
+    "is_description": true,
+    "path": "/6633547/Mange-schmidt-ledig/Ledig",
+    "range": {
+     "content": "Ledig"
+    },
+    "song_id": 1947667,
+    "url": "https://genius.com/6633547/Mange-schmidt-ledig/Ledig",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1947667",
+     "client_timestamps": {
+      "updated_by_human_at": 1445958663,
+      "lyrics_updated_at": 1432920242
+     },
+     "context": "Mange Schmidt",
+     "id": 1947667,
+     "image_url": "https://images.genius.com/2f8a7137de753097da8e2e373493cc44.1000x1000x1.jpg",
+     "link_title": "Ledig by\u00a0Mange\u00a0Schmidt",
+     "title": "Ledig",
+     "type": "Song",
+     "url": "https://genius.com/Mange-schmidt-ledig-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6633547",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6633547,
+      "pinned": false,
+      "share_url": "https://genius.com/6633547",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6633547/Mange-schmidt-ledig/Ledig",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Mange Schmidt",
+   "lyrics": "Ledig LyricsAah fan, m\u00e5ste man jobba ass\u00e5 jag vill bara softa, kan inte n\u00e5gon\nAnnan pr\u00f6jsa mina r\u00e4kningar, aah ni vet hur det \u00e4r\n\nX2 Jag vill vara ledig ledig ledig bara sitta brevid brevid brevid\nInte g\u00f6ra n\u00e5nting' n\u00e5nting' alls bara g\u00f6ra n\u00e5nting' n\u00e5nting' nice\n\nJag vill vara ledig resten av mitt liv\nBara sitta brevid som ett tidsf\u00f6rdriv\nVill inte vara tyngd av ett ruttet kneg\nSynd att v\u00e4rlden byggs upp av det\nVill inte g\u00e5 i skolan bara skolka\nInte f\u00f6r att det \u00e4r cool att vara korkad\nMen kan du f\u00f6rklara hur man ska orka\nJag vill bara ha semester p\u00e5 Mallorca\nVill inte ha n\u00e5gra utgifter\nMen sn\u00e4lla lilla Mange det m\u00e5ste du visst det\nDet \u00e4r s\u00e5 j\u00e4vla tr\u00e5kigt o segt o trist me\nAlla dessa bills s\u00e5 om bara Gud visste\nOm bara Gud visste hur sk\u00f6n jag va\nSkulle Gud s\u00e4kert pr\u00f6jsa min l\u00f6n idag\nMen jag har s\u00e4kert f\u00f6r h\u00f6ga l\u00f6nekrav\nO jag gl\u00f6mde som vanligt min b\u00f6n idag\nX2 Jag vill vara ledig ledig ledig bara sitta brevid brevid brevid\nInte g\u00f6ra n\u00e5nting' n\u00e5nting' alls bara g\u00f6ra n\u00e5nting' n\u00e5nting' nice\n\nJag vill ha min kaka o \u00e4ta den me o jag vill \u00e4ta min kaka i fred\nInte dela med mig till n\u00e5n' annan \u00e9 det m\u00f6jligt o jag undrar om man kan\nKan man slippa att ha n\u00e5gon v\u00e4ckarklocka f\u00f6r jag diggar att softa\nOch d\u00e4ckar ofta o jag vill helst inte g\u00f6r n\u00e5nting' alls\nSka jag g\u00f6ra n\u00e5tt ska det vara n\u00e5nting' nice\nVill inte l\u00e5na, vill inte vara pank\nVill inte r\u00e5na, r\u00e5na en bank\n\u00c4r ingen idiot s\u00e5 jag s\u00e4ljer inte knark\nF\u00f6rs\u00f6ker vara stor jag f\u00f6rs\u00f6ker vara stark\nJag vill bara leva p\u00e5 en gr\u00f6n kvist\nBara leva mitt liv med en sk\u00f6n twist\nDekadenta fester n\u00e4r jag t\u00e4nker efter\nVill jag vara p\u00e5 konstant semester\n\nX2 Jag vill vara ledig ledig ledig bara sitta brevid brevid brevid\nInte g\u00f6ra n\u00e5nting' n\u00e5nting' alls bara g\u00f6ra n\u00e5nting' n\u00e5nting' nice\n\nGe mig inge ansvar st\u00e4ll inga krav\nJag vill bara dansa o ha det bra\nSt\u00e4ll inga fr\u00e5gor du f\u00e5r inga svar\nDet r\u00e4cker me dom pl\u00e5gor som jag redan har\nS\u00e4g inte till mig vad jag ska g\u00f6ra\nF\u00f6r vad du \u00e4n s\u00e4ger kommer du f\u00f6rst\u00f6ra\nFr\u00e5n mig \u00e4r nej det enda du kommer h\u00f6ra\nS\u00e5 l\u00e5t oss go bananas o bli helt st\u00f6rda\nYou might also likeX2 Jag vill vara ledig ledig ledig bara sitta brevid brevid brevid\nInte g\u00f6ra n\u00e5nting' n\u00e5nting' alls bara g\u00f6ra n\u00e5nting' n\u00e5nting' nice\n\nJag vill ha min kaka o \u00e4ta den me, jag vill ha min kaka o \u00e4ta den me\nJag vill ha min kaka o \u00e4ta den me, jag vill \u00e4ta min kaka min kaka i fred\n\nJag vill ha min kaka o \u00e4ta den me, jag vill ha min kaka o \u00e4ta den me\nJag vill ha min kaka o \u00e4ta den me, jag vill \u00e4ta min kaka min kaka i fredEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2059498",
+   "artist_names": "Mange Schmidt",
+   "full_title": "G\u00f6mma mig by\u00a0Mange\u00a0Schmidt",
+   "header_image_thumbnail_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.640x640x1.jpg",
+   "id": 2059498,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Mange-schmidt-gomma-mig-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Mange-schmidt-gomma-mig-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "G\u00f6mma mig",
+   "title_with_featured": "G\u00f6mma mig",
+   "url": "https://genius.com/Mange-schmidt-gomma-mig-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/362246",
+    "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+    "id": 362246,
+    "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mange Schmidt",
+    "url": "https://genius.com/artists/Mange-schmidt"
+   },
+   "apple_music_id": "373578997",
+   "apple_music_player_url": "https://genius.com/songs/2059498/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2059498' class='rg_embed_link' data-song-id='2059498'>Read <a href='https://genius.com/Mange-schmidt-gomma-mig-lyrics'>\u201cG\u00f6mma mig\u201d by Mange\u00a0Schmidt</a> on Genius</div> <script crossorigin src='//genius.com/songs/2059498/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/283823",
+    "cover_art_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.640x640x1.jpg",
+    "full_title": "K\u00e4nslan Kommer Tillbaks by Mange Schmidt",
+    "id": 283823,
+    "name": "K\u00e4nslan Kommer Tillbaks",
+    "url": "https://genius.com/albums/Mange-schmidt/Kanslan-kommer-tillbaks",
+    "artist": {
+     "api_path": "/artists/362246",
+     "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "id": 362246,
+     "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mange Schmidt",
+     "url": "https://genius.com/artists/Mange-schmidt"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6799213",
+    "classification": "needs_exegesis",
+    "fragment": "G\u00f6mma mig",
+    "id": 6799213,
+    "is_description": true,
+    "path": "/6799213/Mange-schmidt-gomma-mig/Gomma-mig",
+    "range": {
+     "content": "G\u00f6mma mig"
+    },
+    "song_id": 2059498,
+    "url": "https://genius.com/6799213/Mange-schmidt-gomma-mig/Gomma-mig",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2059498",
+     "client_timestamps": {
+      "updated_by_human_at": 1602971694,
+      "lyrics_updated_at": 1602980197
+     },
+     "context": "Mange Schmidt",
+     "id": 2059498,
+     "image_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.640x640x1.jpg",
+     "link_title": "G\u00f6mma mig by\u00a0Mange\u00a0Schmidt",
+     "title": "G\u00f6mma mig",
+     "type": "Song",
+     "url": "https://genius.com/Mange-schmidt-gomma-mig-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6799213",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6799213,
+      "pinned": false,
+      "share_url": "https://genius.com/6799213",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6799213/Mange-schmidt-gomma-mig/Gomma-mig",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Mange Schmidt",
+   "lyrics": "G\u00f6mma mig LyricsFan du m\u00e5ste g\u00f6mma mig\nJag e i sthlm men stan m\u00e5ste gl\u00f6mma mig\nFan du m\u00e5ste g\u00f6mma mig\nJag e i sthlm men stan m\u00e5ste gl\u00f6mma mig\n\nDet mitt i natten \u00e5 det ringer p\u00e5 min d\u00f6rr\nFan, den h\u00e4r skiten har h\u00e4nt mig f\u00f6rr\nPrecis n\u00e4r man b\u00f6rja f\u00e5 snurr p\u00e5 sin skit\nKommer snutarna l\u00f6nneberg gangsterskit\n\nVill veta mer om min verksamhet\nHela synan dock \u00e5ka p\u00e5 uppm\u00e4rksamhet\nInte en chans att jag sl\u00e4pper in dom d\u00e4r min bomb\nSl\u00e4pper inte in n\u00e5n\nRingandet g\u00e5r \u00f6ver till bult och skrik\nFan jag m\u00e5ste svinga det full panik\nPacka mitt stash \u00e5 sen se mig omkring\nHar jag gl\u00f6mt n\u00e5tt? aej, bra, spring\nGenom f\u00f6nstret med en hel del trassel\nPrecis n\u00e4r jag ska dra jag f\u00e5r brevinkastet:\n\nH\u00f6rru!\nVi vet att du e d\u00e4r inne!\n\u00d6ppna d\u00f6rren innan vi sl\u00e5r in den!\nVi vet att du sitter och trycker p\u00e5 n\u00e5tt\nOch du vet mycket v\u00e4l vad vi tycker om s\u00e5nt!\nDu g\u00f6r det bara v\u00e4rre f\u00f6r dig sj\u00e4lv\nGe dig en f\u00f6rtj\u00e4nst som \u00e5r v\u00e4rre om du stannar kvar v\u00e4nd nu\n\nStanna kvar och ge upp allt jag har\nEller tagga fr\u00e5n stan \u00e5 ligga l\u00e5gt ett par dar\nSista l\u00e5ter fan b\u00e4ttre jag gittar\nFumlar med mobilen, tja! mange schmidt h\u00e4r\n\nRefrain:\nDet br\u00e5ttom fan du m\u00e5ste g\u00f6mma mig\nJag e i sthlm men stan m\u00e5ste gl\u00f6mma mig\nJag m\u00e5ste g\u00e5 under jorden och samla mina tankar i lugn och ro\n(2x)\nMen\nYou might also likeTre dar senare sitter p\u00e5 mitt g\u00f6mst\u00e4lle\nB\u00f6rjar tr\u00f6ttna v\u00e4ntar p\u00e5 ett dr\u00f6mtillf\u00e4lle\nJag m\u00e5ste ut h\u00e4rifr\u00e5n, fuck it, jag g\u00f6r det\nS\u00e5 jag kutar d\u00e4r ifr\u00e5n\nSticker snabbt l\u00e4gger benen p\u00e5 ryggen\nBlicksnabbt mot botkyrka byggen\nFan, morsan bor i hallunda\nBorde kanske g\u00f6ra n\u00e5got annorlunda\nBorde kanske ta en annan runda\nS\u00e5 jag tar en omv\u00e4g via bussen fr\u00e5n tumba\nSitter l\u00e4ngst bak h\u00e5ller l\u00e5g profil\nOch jag t\u00e4nker f\u00f6r mig sj\u00e4lv, det h\u00e4r \u00e4r d\u00e5lig stil\nKan inte g\u00f6ra s\u00e5 h\u00e4r mot henne\nDet h\u00e4r \u00e4r min r\u00f6ra s\u00e5 jag best\u00e4mmer mig\nF\u00f6r att stiga av spelar ingen roll var\nIngen tid kvar, fan vilken tid det tar\nOch precis n\u00e4r jag hoppar av den\nH\u00f6r jag bakifr\u00e5n mig p\u00e5 trottoaren\n\nEyy d\u00e4r e han! han har det som vi vill ha\nEy l\u00e4n det som du har det ska vi ta\nInget tjaffs eller skit kompis ge hit\n\nGl\u00f6m det mother fucker det h\u00e4r \u00e4r ett rotjack beat\nDet h\u00e4r \u00e4r mitt shit s\u00e4ger jag, sticker sen\nPlockad upp mobilen, tja! mange schmidt igen\nRefrain\n\nJag kan men vet ej av vem v-v-vem\nVet e-e-ej av vem\nJag kan men vet ej av vem v-v-vem\nVet e-e-ej av vem\n\nRefrain (2x)\n\nFan du m\u00e5ste g\u00f6mma mig\nJag e i sthlm men stan m\u00e5ste g\u00f6mma mig\nFan du m\u00e5ste g\u00f6mma mig\nJag e i sthlm men stan m\u00e5ste g\u00f6mma migEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1998958",
+   "artist_names": "Mange Schmidt (Ft. Eye-N-I & Thomas Rusiak)",
+   "full_title": "H\u00e5ll K\u00e4ften by\u00a0Mange\u00a0Schmidt (Ft.\u00a0Eye-N-I & Thomas\u00a0Rusiak)",
+   "header_image_thumbnail_url": "https://images.genius.com/e196756836c530106c658da10d07b258.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e196756836c530106c658da10d07b258.600x600x1.jpg",
+   "id": 1998958,
+   "language": "sv",
+   "lyrics_owner_id": 6164840,
+   "lyrics_state": "complete",
+   "path": "/Mange-schmidt-hall-kaften-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Mange-schmidt-hall-kaften-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/e196756836c530106c658da10d07b258.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e196756836c530106c658da10d07b258.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "H\u00e5ll K\u00e4ften",
+   "title_with_featured": "H\u00e5ll K\u00e4ften (Ft.\u00a0Eye-N-I & Thomas\u00a0Rusiak)",
+   "url": "https://genius.com/Mange-schmidt-hall-kaften-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/156416",
+     "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "id": 156416,
+     "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Rusiak",
+     "url": "https://genius.com/artists/Thomas-rusiak"
+    },
+    {
+     "api_path": "/artists/453863",
+     "header_image_url": "https://images.genius.com/b3c4a6cb1fa25ab74ea705a3033fb308.675x675x1.jpg",
+     "id": 453863,
+     "image_url": "https://images.genius.com/b3c4a6cb1fa25ab74ea705a3033fb308.675x675x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eye-N-I",
+     "url": "https://genius.com/artists/Eye-n-i"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/362246",
+    "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+    "id": 362246,
+    "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mange Schmidt",
+    "url": "https://genius.com/artists/Mange-schmidt"
+   },
+   "apple_music_id": "377347827",
+   "apple_music_player_url": "https://genius.com/songs/1998958/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1998958' class='rg_embed_link' data-song-id='1998958'>Read <a href='https://genius.com/Mange-schmidt-hall-kaften-lyrics'>\u201cH\u00e5ll K\u00e4ften\u201d by Mange\u00a0Schmidt</a> on Genius</div> <script crossorigin src='//genius.com/songs/1998958/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/268030",
+    "cover_art_url": "https://images.genius.com/e196756836c530106c658da10d07b258.600x600x1.jpg",
+    "full_title": "Samtidigt, i Stockholm by Mange Schmidt",
+    "id": 268030,
+    "name": "Samtidigt, i Stockholm",
+    "url": "https://genius.com/albums/Mange-schmidt/Samtidigt-i-stockholm",
+    "artist": {
+     "api_path": "/artists/362246",
+     "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "id": 362246,
+     "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mange Schmidt",
+     "url": "https://genius.com/artists/Mange-schmidt"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6686442",
+    "classification": "needs_exegesis",
+    "fragment": "H\u00e5ll K\u00e4ften",
+    "id": 6686442,
+    "is_description": true,
+    "path": "/6686442/Mange-schmidt-hall-kaften/Hall-kaften",
+    "range": {
+     "content": "H\u00e5ll K\u00e4ften"
+    },
+    "song_id": 1998958,
+    "url": "https://genius.com/6686442/Mange-schmidt-hall-kaften/Hall-kaften",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1998958",
+     "client_timestamps": {
+      "updated_by_human_at": 1583714047,
+      "lyrics_updated_at": 1535716467
+     },
+     "context": "Mange Schmidt",
+     "id": 1998958,
+     "image_url": "https://images.genius.com/e196756836c530106c658da10d07b258.600x600x1.jpg",
+     "link_title": "H\u00e5ll K\u00e4ften by\u00a0Mange\u00a0Schmidt (Ft.\u00a0Eye-N-I & Thomas\u00a0Rusiak)",
+     "title": "H\u00e5ll K\u00e4ften",
+     "type": "Song",
+     "url": "https://genius.com/Mange-schmidt-hall-kaften-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6686442",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6686442,
+      "pinned": false,
+      "share_url": "https://genius.com/6686442",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6686442/Mange-schmidt-hall-kaften/Hall-kaften",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=PdMqgc9ZLfk"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/156416",
+     "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "id": 156416,
+     "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Rusiak",
+     "url": "https://genius.com/artists/Thomas-rusiak"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/156416",
+     "header_image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "id": 156416,
+     "image_url": "https://images.genius.com/0d49325e61e429b8cf903a9ce6c7b00c.345x345x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Rusiak",
+     "url": "https://genius.com/artists/Thomas-rusiak"
+    },
+    {
+     "api_path": "/artists/453863",
+     "header_image_url": "https://images.genius.com/b3c4a6cb1fa25ab74ea705a3033fb308.675x675x1.jpg",
+     "id": 453863,
+     "image_url": "https://images.genius.com/b3c4a6cb1fa25ab74ea705a3033fb308.675x675x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eye-N-I",
+     "url": "https://genius.com/artists/Eye-n-i"
+    },
+    {
+     "api_path": "/artists/362246",
+     "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "id": 362246,
+     "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mange Schmidt",
+     "url": "https://genius.com/artists/Mange-schmidt"
+    }
+   ],
+   "artist": "Mange Schmidt",
+   "lyrics": "H\u00e5ll K\u00e4ften Lyrics[Vers 1: Mange Schmidt]\nYeah, va? Wooh\nVad fan e det som h\u00e4nder?\nVa? Vad fan e det h\u00e4r allts\u00e5?\nJag blir fan j\u00e4vligt k\u00e4r allts\u00e5\nThomas Rusiak, Seb Rock, DJ Viet-Naam, Eye N' I\nSaska, Mange Schmidt, 2006, yes\nDet g\u00e5r liksom inte att sitta still\nLoopa om skiten nu, g\u00f6r det en g\u00e5ng till\nDet h\u00e4r e musik ifr\u00e5n Stockholm city\nDet e ifr\u00e5n inatt, till i morgon bitti, vi ba'\nVibar och bjuder p\u00e5 oss sj\u00e4lva\nDu k\u00e4nner det ocks\u00e5, hur marken b\u00f6rjar sk\u00e4lva\nDu har v\u00e4ntat l\u00e4nge nog p\u00e5 min skit\nDet har jag med, blod, svett, t\u00e5rar och slit\nDet h\u00e4r e f\u00f6rsta l\u00e5ten fr\u00e5n en magisk platta\nJag jobbar med dom b\u00e4sta, lyssna, du kommer fatta\nHata om du vill och va avundsjuk\nMen det kl\u00e4r dig j\u00e4vligt d\u00e5ligt, s\u00e5 sug min kuk\n[Vers 2: Eye N' I & Thomas Rusiak]\n(Eye N') ja, (Eye N') ja, (Eye N') ja\nVi liksom bara rider p\u00e5 beatet, som en beduin p\u00e5 en dromedar\nLugnt och stilla, som en s\u00f6ndagspromenad\nJa, det h\u00e4r e Eye N', med en stil fet som ingen annan\nMC:s biter sig i l\u00e4ppen och tar sig f\u00f6r pannan\nOch bara undrar, vem e det som dundrar fram?\n(Eye N', Eye N, Eye N' I) B\u00e4st f\u00f6r dig att l\u00e4ra mitt namn\nJag e ultramagnetisk, ultraultimat\nDen onde, den gode, den fule\nMC:s s\u00e5 lost som Ultima Thule\nP\u00e5 micken n\u00e4r jag flippar, kickar rhymes och du vet resten\nSchh, h\u00e5ll k\u00e4ften\nN\u00e4r jag flowar, showar loss som klassens clown p\u00e5 roliga timmen\nF\u00f6rs\u00f6k att l\u00e4r dig n\u00e5nting, memorera rimmen\nMen vi l\u00e5ter l\u00e5t micken g\u00e5 runt, \u00e5t r\u00e4tt h\u00e5ll som en spliff\nEye N' I, Thomas Rusiak och Mange Schmidt\n\n[Vers 3: Thomas Rusiak & Mange Schmidt]\n(Thomas Rusiak in the motherfucking house)\nJag representerar p\u00e5 Bergsundsstranden, med taggen i handen\nEtt par j\u00e4vligt dyra shades och parasollet i sanden\nJag dekar kanske p\u00e5 ljudet, hela natten jag trivs\nSippar stor stark och k\u00e4kar upp MC:s f\u00f6r flis\nJag tar mig runt p\u00e5 BMX:en med blondinerna p\u00e5 ramen\nEn aningen stenad dagligen, s\u00e5 e det vanligen\nN\u00e4r ambassad\u00f6rerna f\u00f6r S-T-H-L-M halar fram lemmen\nH\u00e5ll k\u00e4ften\nTack fan f\u00f6r livet, tacka kranen f\u00f6r weedet\nTacka PH3 och Saska, Mange Schmidt, det e givet\nDet st\u00e5r skrivet att Seb Roc fyller funktionen\nSom den fetaste i Europeiska unionen\nTacka fan f\u00f6r Killer P och DJ Atmosf\u00e4r\nTack till frihet i en tubtopp, fan jag e k\u00e4r\nOch till alla dom m\u00e4nniskor som v\u00e4lkomnas till festen\nSalut, med tolv j\u00e4rn innanf\u00f6r v\u00e4sten, peace\nYou might also like[Vers 3: Mange Schmidt & Eye N' I]\n(Oh, Magnus Schmidt)\nOch jag vill passa p\u00e5 att tacka vissa som har banat gata\nSom har visat vilken v\u00e4g Mange Schmidt ska knata\nTimebomb, med Christian Falk och Swing\nOch den som inte fattar, fattar fan ingenting\nOch du, st\u00f6rst props g\u00e5r ut till DJ Sleepy\nMin idol, sk\u00e5l, din skit e skitig\nSnook, tar dom med sitt hemmalag\nDet ni sl\u00e4pper g\u00f6r mig fan ta mig kn\u00e4svag\nOch n\u00e4r jag va liten grabb och s\u00e5g upp till\nHiphop-pionj\u00e4rerna stod tiden still\nNi finns i mitt hj\u00e4rta och i min sj\u00e4l\nOch i mitt minne och det e v\u00e4l f\u00f6r v\u00e4l\nAtt jag nu har en chans att visa\nAtt jag \u00e4lskar er, slut, inget mer att bevisaEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2054700",
+   "artist_names": "Mange Schmidt",
+   "full_title": "Inget att f\u00f6rlora by\u00a0Mange\u00a0Schmidt",
+   "header_image_thumbnail_url": "https://images.genius.com/2f8a7137de753097da8e2e373493cc44.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/2f8a7137de753097da8e2e373493cc44.1000x1000x1.jpg",
+   "id": 2054700,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Mange-schmidt-inget-att-forlora-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Mange-schmidt-inget-att-forlora-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/2f8a7137de753097da8e2e373493cc44.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/2f8a7137de753097da8e2e373493cc44.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Inget att f\u00f6rlora",
+   "title_with_featured": "Inget att f\u00f6rlora",
+   "url": "https://genius.com/Mange-schmidt-inget-att-forlora-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/362246",
+    "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+    "id": 362246,
+    "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mange Schmidt",
+    "url": "https://genius.com/artists/Mange-schmidt"
+   },
+   "apple_music_id": "362101058",
+   "apple_music_player_url": "https://genius.com/songs/2054700/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2054700' class='rg_embed_link' data-song-id='2054700'>Read <a href='https://genius.com/Mange-schmidt-inget-att-forlora-lyrics'>\u201cInget att f\u00f6rlora\u201d by Mange\u00a0Schmidt</a> on Genius</div> <script crossorigin src='//genius.com/songs/2054700/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/343646",
+    "cover_art_url": "https://images.genius.com/2f8a7137de753097da8e2e373493cc44.1000x1000x1.jpg",
+    "full_title": "Odenplan Stockholm 1988 by Mange Schmidt",
+    "id": 343646,
+    "name": "Odenplan Stockholm 1988",
+    "url": "https://genius.com/albums/Mange-schmidt/Odenplan-stockholm-1988",
+    "artist": {
+     "api_path": "/artists/362246",
+     "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "id": 362246,
+     "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mange Schmidt",
+     "url": "https://genius.com/artists/Mange-schmidt"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6794346",
+    "classification": "needs_exegesis",
+    "fragment": "Inget att f\u00f6rlora",
+    "id": 6794346,
+    "is_description": true,
+    "path": "/6794346/Mange-schmidt-inget-att-forlora/Inget-att-forlora",
+    "range": {
+     "content": "Inget att f\u00f6rlora"
+    },
+    "song_id": 2054700,
+    "url": "https://genius.com/6794346/Mange-schmidt-inget-att-forlora/Inget-att-forlora",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2054700",
+     "client_timestamps": {
+      "updated_by_human_at": 1533822633,
+      "lyrics_updated_at": 1433951238
+     },
+     "context": "Mange Schmidt",
+     "id": 2054700,
+     "image_url": "https://images.genius.com/2f8a7137de753097da8e2e373493cc44.1000x1000x1.jpg",
+     "link_title": "Inget att f\u00f6rlora by\u00a0Mange\u00a0Schmidt",
+     "title": "Inget att f\u00f6rlora",
+     "type": "Song",
+     "url": "https://genius.com/Mange-schmidt-inget-att-forlora-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6794346",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6794346,
+      "pinned": false,
+      "share_url": "https://genius.com/6794346",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6794346/Mange-schmidt-inget-att-forlora/Inget-att-forlora",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=wE7vdlY0dYA"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Mange Schmidt",
+   "lyrics": "Inget att f\u00f6rlora Lyrics(Utan dig \u00e4r jag bara slut och jag kan inte sluta l\u00e4ngta(?) )\n\nRef. Vi har ingenting att f\u00f6rlora och jag vet att det l\u00f6nar sig att k\u00e4mpa\nIngenting har vi att f\u00f6rlora och jag vet att det l\u00f6nar sig att v\u00e4nta\n\nDu svarar inte n\u00e4r jag ringer p\u00e5 din lur\nBrev jag skickar kommer i retur\nTrodde det var vi i ur och skur\nHar jag gjort n\u00e5tt som har gjort dig sur\nVi b\u00f6rjar om igen och tar det fr\u00e5n ruta ett\nVi b\u00f6rjar om min v\u00e4n vad var det som sluta snett\nDet \u00e4r s\u00e5 l\u00e4tt att det blir keff om man \u00e4r of\u00f6rsiktig\nMen jag tror p\u00e5 oss tv\u00e5 och jag tror p\u00e5 riktigt\nAtt det \u00e4r viktigt att vi k\u00e4mpar och h\u00e5ller fast\nFast jag vet att det \u00e4r sv\u00e5rt ska vi st\u00e5 v\u00e5rt kast\nF\u00f6r du vet att vi tv\u00e5, det \u00e4r v\u00e5ran last\nOch jag har haft dig p\u00e5 min hj\u00e4rna nu i m\u00e5nga bast\nInget svar n\u00e4r jag skickar mina sms\nIngen bor kvar p\u00e5 din gamla adress\nO jag trodde det var vi genom lugn och stress\nMen jag kanske hade fel -I guess\nRef. Vi har ingenting att f\u00f6rlora och jag vet att det l\u00f6nar sig att k\u00e4mpa\nIngenting har vi att f\u00f6rlora och jag vet att det l\u00f6nar sig att v\u00e4nta\n\nK\u00e4nns som om allts om jag g\u00f6r \u00e4r bara repetition\nRepeterar, upprepar ord\nVart tog den v\u00e4gen v\u00e5ran heta passion\nB\u00f6rjar tro att jag ska tappa tron\nOm du skulle svara s\u00e5 skulle jag f\u00f6rklara\nBara s\u00e4ga hur jag \u00f6nska att det skulle kunna vara\nSn\u00e4lla rara du, jag vet inte hur l\u00e4nge jag ska kunna klara\nAv att leva, k\u00e4nns som halsen \u00e4r i en stryp snara\nVarf\u00f6r kan vi inte ha lite flyt ibland\nFlyta runt i en b\u00e5t i en sk\u00e4rg\u00e5rdshamn\nByta upp v\u00e5ran k\u00e5k till ett herrg\u00e5rdsland\nOm vi gifter oss, vem ska byta efternamn\nJag ringer p\u00e5 din d\u00f6rr, det \u00e4r tyst som i graven\nP\u00e5 din msn st\u00e5r det alltid upptagen\nF\u00f6rs\u00f6ker n\u00e5 din mamma men har inte f\u00e5tt svar \u00e4n\nM\u00e5ste ta mig i kragen -shit jag blir galen\n\nRef. Vi har ingenting att f\u00f6rlora och jag vet att det l\u00f6nar sig att k\u00e4mpa\nIngenting har vi att f\u00f6rlora och jag vet att det l\u00f6nar sig att v\u00e4nta\n\nJa, jag vet att jag \u00e4r strulig som f\u00e5\nLite kn\u00e4pp och sv\u00e5r att f\u00f6rst\u00e5\nInte l\u00e4tt att f\u00f6rst\u00e5 sig p\u00e5\nJag har s\u00e5 sv\u00e5rt att l\u00e5ta dig g\u00e5\nKan det vara sant, ska det sluta s\u00e5h\u00e4r f\u00f6r oss\nK\u00e4nner mig s\u00e5 vilsen i v\u00e5rt (?) kosmos\nJag har g\u00e5tt loss p\u00e5 alla k\u00e4nslor min tro till trots\nYou might also likeMen f\u00f6rst\u00e5s jag \u00e4r en fighter, slutar aldrig sl\u00e5ss\nKanske sant att min lott \u00e4r att alltid v\u00e4nta\nMen en man p\u00e5 min post slutar aldrig k\u00e4mpa\nVet inte riktigt vad jag kan f\u00f6rv\u00e4nta\nMen inne i min hj\u00e4rna har jag dig inpr\u00e4ntad\nDen h\u00e4r klockan slutar aldrig kl\u00e4mta\nOm du gl\u00e4mtar p\u00e5 min d\u00f6rr finns det mer att h\u00e4mta\nDu f\u00f6rst\u00e5r den h\u00e4r mannen slutar aldrig l\u00e4ngta\nOch p\u00e5 dej, slutar jag aldrig t\u00e4nka\n\nRef. Vi har ingenting att f\u00f6rlora och jag vet att det l\u00f6nar sig att k\u00e4mpa\nIngenting har vi att f\u00f6rlora och jag vet att det l\u00f6nar sig att v\u00e4nta\n\nVi har ingenting att f\u00f6rlora och jag vet att det l\u00f6nar sig att k\u00e4mpa\n\n(Utan dig \u00e4r jag bara slut och jag kan inte sluta l\u00e4ngta(?) )Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1993585",
+   "artist_names": "Mange Schmidt",
+   "full_title": "Vissa tycker by\u00a0Mange\u00a0Schmidt",
+   "header_image_thumbnail_url": "https://images.genius.com/bebd5b987370120d3657f72c49fae435.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/bebd5b987370120d3657f72c49fae435.460x460x1.jpg",
+   "id": 1993585,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Mange-schmidt-vissa-tycker-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Mange-schmidt-vissa-tycker-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/bebd5b987370120d3657f72c49fae435.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/bebd5b987370120d3657f72c49fae435.460x460x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Vissa tycker",
+   "title_with_featured": "Vissa tycker",
+   "url": "https://genius.com/Mange-schmidt-vissa-tycker-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/362246",
+    "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+    "id": 362246,
+    "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mange Schmidt",
+    "url": "https://genius.com/artists/Mange-schmidt"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1993585/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1993585' class='rg_embed_link' data-song-id='1993585'>Read <a href='https://genius.com/Mange-schmidt-vissa-tycker-lyrics'>\u201cVissa tycker\u201d by Mange\u00a0Schmidt</a> on Genius</div> <script crossorigin src='//genius.com/songs/1993585/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/442260",
+    "cover_art_url": "https://images.genius.com/bebd5b987370120d3657f72c49fae435.460x460x1.jpg",
+    "full_title": "Ensam bland alla v\u00e4nner by Mange Schmidt",
+    "id": 442260,
+    "name": "Ensam bland alla v\u00e4nner",
+    "url": "https://genius.com/albums/Mange-schmidt/Ensam-bland-alla-vanner",
+    "artist": {
+     "api_path": "/artists/362246",
+     "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "id": 362246,
+     "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mange Schmidt",
+     "url": "https://genius.com/artists/Mange-schmidt"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6680866",
+    "classification": "needs_exegesis",
+    "fragment": "Vissa tycker",
+    "id": 6680866,
+    "is_description": true,
+    "path": "/6680866/Mange-schmidt-vissa-tycker/Vissa-tycker",
+    "range": {
+     "content": "Vissa tycker"
+    },
+    "song_id": 1993585,
+    "url": "https://genius.com/6680866/Mange-schmidt-vissa-tycker/Vissa-tycker",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1993585",
+     "client_timestamps": {
+      "updated_by_human_at": 1446158505,
+      "lyrics_updated_at": 1432939133
+     },
+     "context": "Mange Schmidt",
+     "id": 1993585,
+     "image_url": "https://images.genius.com/bebd5b987370120d3657f72c49fae435.460x460x1.jpg",
+     "link_title": "Vissa tycker by\u00a0Mange\u00a0Schmidt",
+     "title": "Vissa tycker",
+     "type": "Song",
+     "url": "https://genius.com/Mange-schmidt-vissa-tycker-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6680866",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6680866,
+      "pinned": false,
+      "share_url": "https://genius.com/6680866",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6680866/Mange-schmidt-vissa-tycker/Vissa-tycker",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Mange Schmidt",
+   "lyrics": "Vissa tycker LyricsVissa tycker att jag borde vara si\nMedans andra tycker att jag borde vara s\u00e5\nMen nu, skulle jag kunna vara ni\nDet r\u00e4cker med mig sj\u00e4lv kan inte vara tv\u00e5\n\nVissa s\u00e4ger att jag m\u00e5st e chilla\nDe s\u00e4ger att de inte menar mig n\u00e5' illa\nAtt de bara menar v\u00e4l att de menar vad de s\u00e4ger att de har sina sk\u00e4l\nMen jag tycker att de kan sticka\nJag vill g\u00e5 p\u00e5 fest o ba' r\u00f6ka och dricka\nJag vill g\u00f6ra n\u00e5got kn\u00e4ppt, ba' k\u00e4nna att jag lever efter eget bes\u00e4tt\nJag s\u00e4ger, l \u00e5t mig leva l\u00e5t mig va', jag gillar \u00e4nd\u00e5 inte era ideal\nOch ni tror ni vet mest s\u00e5\nJag forts\u00e4tter att vara mig sj\u00e4lv det blir b\u00e4st d\u00e5\nVissa tycker att de har all koll, att vi inte vet n\u00e5nting fattar noll\nDe tycker att de har alla svar att vi borde r\u00e4tta in oss vi lever p\u00e5 rad\nMen jag, tycker de kan l\u00e4mna oss ifred och slipper \u00f6versv\u00e4mma oss\nOch jag, tycker de kan fly sin kos s\u00e5 vi kan ha lite flyt ihop\n\nTIMBUKTUUU\nVissa tycker att det r\u00e4cker, andra tycker det \u00e4r sn\u00e5lt\nVissa s\u00e4ger stanna andra s\u00e4ger g\u00e5\nVissa tycker m\u00e5nga andra tycker f\u00e5\nVissa s\u00e4ger sitt medan andra s\u00e4ger st\u00e5\nMin livsfilosofi \u00e4r o-ortodox, \u00f6vertygelsen \u00e4r f\u00f6r stor att f\u00e5 bort\nVill vandra min egen v\u00e4g, dansa p\u00e5 mitt s\u00e4tt\nInte stirra p\u00e5 andra och hamna i mitten\nEn slav i mycket oavsett misslyckande\nAll min l\u00e4rdom \u00e4r byggd p\u00e5 misslyckande\nR\u00e4tt eller fel det \u00e4r ba' tv\u00e5 s\u00e4tt och se det\nHej slankan dit men det satt p\u00e5 det tredje\nWhoah fin vinyl, mp3 eller CD, rimmar korrekt och en siz kommer medge\nJag vet det, s\u00e5 mina tvivel \u00e4r f\u00e5\nFast\u00e4n vissa tycker kommer andra f\u00f6rst\u00e5\nOch s\u00e5\n\nVissa tycker att de har all koll, att vi inte vet n\u00e5nting fattar noll\nDe tycker att de har alla svar att vi borde r\u00e4tta in oss vi lever p\u00e5 rad\nMen jag, tycker de kan l\u00e4mna oss ifred och slipper \u00f6versv\u00e4mma oss\nOch jag, tycker de kan fly sin kos s\u00e5 vi kan ha lite flyt ihop\nYou might also likeDe tycker att jag borde vara mer som de\nAtt jag borde tona mer min jargong\nAtt jag borde tagga ner\nAtt jag borde vara mindre som mig och mer som fler\nDe s\u00e4ger att jag m\u00e5ste va' som andra\nAtt alla andra genv\u00e4gar jag m\u00e5ste vandra\nAtt jag m\u00e5ste l\u00e4gga ner min attityd o ba' l\u00e4gga mig platt som en plattityd\nMen jag, tycker ni kan schappa\nNi kan spela piss jag vill mycket hellre slappa\nJag trivs r\u00e4tt bra och det kr\u00e4vs lite mer \u00e4n bara er f\u00f6r att jag ska dra\nJag s\u00e4ger, l\u00e5t mig va, l\u00e5t mig leva, jag tycker era ideal \u00e4r lite skeva\nOch ni tror ni vet mest s\u00e5\nJag forts\u00e4tter o vara mig sj\u00e4lv det bli b\u00e4st d\u00e5\n\nVissa tycker att de har all koll, att vi inte vet n\u00e5nting fattar noll\nDe tycker att de har alla svar att vi borde r\u00e4tta in oss vi lever p\u00e5 rad\nMen jag, tycker de kan l\u00e4mna oss ifred och slipper \u00f6versv\u00e4mma oss\nOch jag, tycker de kan fly sin kos s\u00e5 vi kan ha lite flyt ihopEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1986900",
+   "artist_names": "Mange Schmidt",
+   "full_title": "Tick tack by\u00a0Mange\u00a0Schmidt",
+   "header_image_thumbnail_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.640x640x1.jpg",
+   "id": 1986900,
+   "language": "sv",
+   "lyrics_owner_id": 6164840,
+   "lyrics_state": "complete",
+   "path": "/Mange-schmidt-tick-tack-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Mange-schmidt-tick-tack-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tick tack",
+   "title_with_featured": "Tick tack",
+   "url": "https://genius.com/Mange-schmidt-tick-tack-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/362246",
+    "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+    "id": 362246,
+    "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mange Schmidt",
+    "url": "https://genius.com/artists/Mange-schmidt"
+   },
+   "apple_music_id": "373578999",
+   "apple_music_player_url": "https://genius.com/songs/1986900/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1986900' class='rg_embed_link' data-song-id='1986900'>Read <a href='https://genius.com/Mange-schmidt-tick-tack-lyrics'>\u201cTick tack\u201d by Mange\u00a0Schmidt</a> on Genius</div> <script crossorigin src='//genius.com/songs/1986900/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/283823",
+    "cover_art_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.640x640x1.jpg",
+    "full_title": "K\u00e4nslan Kommer Tillbaks by Mange Schmidt",
+    "id": 283823,
+    "name": "K\u00e4nslan Kommer Tillbaks",
+    "url": "https://genius.com/albums/Mange-schmidt/Kanslan-kommer-tillbaks",
+    "artist": {
+     "api_path": "/artists/362246",
+     "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "id": 362246,
+     "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mange Schmidt",
+     "url": "https://genius.com/artists/Mange-schmidt"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6673951",
+    "classification": "needs_exegesis",
+    "fragment": "Tick tack",
+    "id": 6673951,
+    "is_description": true,
+    "path": "/6673951/Mange-schmidt-tick-tack/Tick-tack",
+    "range": {
+     "content": "Tick tack"
+    },
+    "song_id": 1986900,
+    "url": "https://genius.com/6673951/Mange-schmidt-tick-tack/Tick-tack",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1986900",
+     "client_timestamps": {
+      "updated_by_human_at": 1540556551,
+      "lyrics_updated_at": 1540556503
+     },
+     "context": "Mange Schmidt",
+     "id": 1986900,
+     "image_url": "https://images.genius.com/ee08f8fe6d8e44a5319dc98ecc3162a5.640x640x1.jpg",
+     "link_title": "Tick tack by\u00a0Mange\u00a0Schmidt",
+     "title": "Tick tack",
+     "type": "Song",
+     "url": "https://genius.com/Mange-schmidt-tick-tack-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6673951",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6673951,
+      "pinned": false,
+      "share_url": "https://genius.com/6673951",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6673951/Mange-schmidt-tick-tack/Tick-tack",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/308690",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 308690,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Saska Becker",
+     "url": "https://genius.com/artists/Saska-becker"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/362246",
+     "header_image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "id": 362246,
+     "image_url": "https://images.genius.com/bdd9442c5bba7f997c2dbd0260e513e5.300x300x1.gif",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mange Schmidt",
+     "url": "https://genius.com/artists/Mange-schmidt"
+    }
+   ],
+   "artist": "Mange Schmidt",
+   "lyrics": "Tick tack Lyrics[Vers 1]\nFan, klockan ringer, det e dags o vakna\nS\u00e5 j\u00e4vla mycket stress och e det n\u00e5t jag saknar\nE det lugn och ro och lite quality time\nTa det lugnt med en bok och skriva quality rimes\nMen nej nej, gl\u00f6m det, inte en chans\nInte ens om till och med chansen fanns\nF\u00f6r du ska alltid va s\u00e5 j\u00e4vla produktiv\nOch typ prioritera bort ditt eget liv\nBara glad o vara positiv\nOch helst av allt dela med dig av ditt positiva driv\nMen vem ska orka leva s\u00e5?\nOch s\u00e4g mig, vem ska orka str\u00e4va p\u00e5?\nSt\u00e5 p\u00e5 t\u00e5 med en kniv mot strupen\nOch orka g\u00e5 till jobbet varje dag utan o stupa sen\nOkej, min v\u00e4n, s\u00e4g mig vem\nJag s\u00e4ger nej till den, s\u00e4g mig sen\nE det s\u00e5 h\u00e4r vi ska ha det nu?\nE det s\u00e5 h\u00e4r det ska vara hela livet ut?\nSt\u00e4mpla in, st\u00e4mpla ut och se uppgiven ut\nBara stressa varje dag och sen tar livet slut\nMed lite tur kanske du kan f\u00e5 ett litet skjut\nMen kanske inte, f\u00f6r du ser s\u00e5 j\u00e4vla sliten ut\nF\u00f6r du har slitit som en h\u00e4st, vi har kolera och pest\nDu kan v\u00e4lja det som passar b\u00e4st\nOch vi som trodde livet skulle va en fest\nMed denna press k\u00e4nns livet mest som ett test\nMan e den man e och blir vid sin l\u00e4st\nS\u00e5 jag blir s\u00e5 j\u00e4vla less, yes\n[Refr\u00e4ng]\nTick tack, tick tack, tiden g\u00e5r\nDu ska ha tid till din partner och dom barn ni f\u00e5r\nTick tack, tick tack, \u00e5ren g\u00e5r\nDu sliter som ett djur, men din l\u00f6n best\u00e5r\nJag s\u00e4ger tick tack, tick tack, tiden g\u00e5r\nDu ska ha tid till din partner och dom barn ni f\u00e5r\nTick tack, tick tack, \u00e5ren g\u00e5r\nDu sliter som ett djur, men din l\u00f6n best\u00e5r\n\n[Vers 2]\nFan, klockan ringer, det e dags att stiga upp igen\nVarje dag ska man upp med tuppen\nSamma sak varje dag och min chef e rutten\nVarf\u00f6r sitter jag i den h\u00e4r fokusgruppen?\nJag vill helst resa bort s\u00e5 l\u00e5ngt det bara g\u00e5r\nMen tyv\u00e4rr e min pl\u00e5nbok ett \u00f6ppet s\u00e5r\nS\u00e4g mig\nSka vi alla denna v\u00e4gen vandra?\nK\u00e4nns ibland som det e jag emot alla andra\nK\u00e4nns ibland som varje dag e bara samma gamla\nHur kunde jag hamna h\u00e4r? Kan inte tiden stanna?\nFan att folk pallar\nDom m\u00e5ste vara s\u00e5na d\u00e4ra vinnarskallar\nS\u00e5na d\u00e4r som \u00e4r d\u00e4r n\u00e4r plikten kallar\nG\u00f6r allt r\u00e4tt, tj\u00e4nar fett och e skitballa\nSpelar ingen roll att man stretar p\u00e5\nSpelar ingen roll hur mycket man \u00e4n gnetar p\u00e5\nF\u00f6rs\u00f6ker hitta n\u00e5got b\u00e4ttre s\u00e5 jag letar p\u00e5\nDet verkar inte g\u00e5 n\u00e5t bra, men jag letar p\u00e5 \u00e4nd\u00e5\nJag undrar vad jag g\u00f6r f\u00f6r fel\nJag tycker sj\u00e4lv att jag har en hel del att ge\nFick jag chansen skulle jag nog dela med av det\nFick jag chansen skulle jag nog fan spela med\nD\u00e5 skulle jag nog spela samma spel\nSpela med i samma spel och bli en del av det\nMen \u00e4n s\u00e5 l\u00e4nge e det d\u00e4r blott en dr\u00f6m\nJag k\u00e4nner mig s\u00e5 j\u00e4vla bortgl\u00f6md\nEnsam och utbr\u00e4nd, mitt liv e en mess\nS\u00e5 jag blir s\u00e5 j\u00e4vla less, yes\nYou might also like[Refr\u00e4ng]\nTick tack, tick tack, tiden g\u00e5r\nDu ska ha tid till din partner och dom barn ni f\u00e5r\nTick tack, tick tack, \u00e5ren g\u00e5r\nDu sliter som ett djur, men din l\u00f6n best\u00e5r\nJag s\u00e4ger tick tack, tick tack, tiden g\u00e5r\nDu ska ha tid till din partner och dom barn ni f\u00e5r\nTick tack, tick tack, \u00e5ren g\u00e5r\nDu sliter som ett djur, men din l\u00f6n best\u00e5rEmbed"
+  }
+ ]
+}

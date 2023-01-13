@@ -1,0 +1,4021 @@
+{
+ "alternate_names": [
+  "Afasi och Filthy"
+ ],
+ "api_path": "/artists/356576",
+ "description": {
+  "plain": "Afasi & Filthy was a Swedish hip-hop duo from Uppsala, Sweden composed of rapper Herbert Munkhammar (AKA: Afasi) and producer Magnus Lideh\u00e4ll (AKA: Filthy). Herbert and Magnus were classmates in the same school and started performing at their school in Uppsala. In 2003 they released the EP 1990 N\u00e5nting. The title track, that included a collaboration from Snook was a success on radio that summer and charted in Sweden.\n\nBased on this radio success, the duo signed a contract with BMG, releasing the single \u201cBomfalleralla\u201d. After their major lable single, they released two mixtapes called Hotell Stress which was released in two separate volumes in 2006 and 2007. Fl\u00e4cken (which was their first and only studio album) was later released in 2008 to critical acclaim. The duo continued under the name Afasi & Filthy until 2009."
+ },
+ "facebook_name": null,
+ "followers_count": 2,
+ "header_image_url": "https://images.genius.com/06b3aec9e4abcee39190035d03dde6ff.666x1000x1.jpg",
+ "id": 356576,
+ "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Afasi & Filthy",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Afasi-and-filthy",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1545820,
+  "annotator_login": "estivee",
+  "api_path": "/referents/7074756",
+  "classification": "accepted",
+  "fragment": "Afasi & Filthy",
+  "id": 7074756,
+  "is_description": true,
+  "path": "/7074756/Afasi-and-filthy/Afasi-and-filthy",
+  "range": {
+   "content": "Afasi & Filthy"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7074756/Afasi-and-filthy/Afasi-and-filthy",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/356576",
+   "context": null,
+   "id": 356576,
+   "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+   "link_title": "Afasi & Filthy",
+   "title": "Afasi & Filthy",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Afasi-and-filthy"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7074756",
+    "body": {
+     "plain": "Afasi & Filthy was a Swedish hip-hop duo from Uppsala, Sweden composed of rapper Herbert Munkhammar (AKA: Afasi) and producer Magnus Lideh\u00e4ll (AKA: Filthy). Herbert and Magnus were classmates in the same school and started performing at their school in Uppsala. In 2003 they released the EP 1990 N\u00e5nting. The title track, that included a collaboration from Snook was a success on radio that summer and charted in Sweden.\n\nBased on this radio success, the duo signed a contract with BMG, releasing the single \u201cBomfalleralla\u201d. After their major lable single, they released two mixtapes called Hotell Stress which was released in two separate volumes in 2006 and 2007. Fl\u00e4cken (which was their first and only studio album) was later released in 2008 to critical acclaim. The duo continued under the name Afasi & Filthy until 2009."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7074756,
+    "pinned": false,
+    "share_url": "https://genius.com/7074756",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/7074756/Afasi-and-filthy/Afasi-and-filthy",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1545820",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/ad1901fd1d979325b57c76215d55536a",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/ad1901fd1d979325b57c76215d55536a",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/ad1901fd1d979325b57c76215d55536a",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/ad1901fd1d979325b57c76215d55536a",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/ad1901fd1d979325b57c76215d55536a",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1545820,
+       "iq": 918,
+       "login": "estivee",
+       "name": "estivee",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/estivee",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2179589",
+   "artist_names": "Afasi & Filthy (Ft. Snook)",
+   "full_title": "1990-n\u00e5nting by\u00a0Afasi\u00a0& Filthy (Ft.\u00a0Snook)",
+   "header_image_thumbnail_url": "https://images.genius.com/98c08b9542b237e07d03f6a2d316e325.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/98c08b9542b237e07d03f6a2d316e325.500x500x1.jpg",
+   "id": 2179589,
+   "language": "sv",
+   "lyrics_owner_id": 11294,
+   "lyrics_state": "complete",
+   "path": "/Afasi-and-filthy-1990-nanting-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Afasi-and-filthy-1990-nanting-sample",
+   "release_date_components": {
+    "year": 2003,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "2003",
+   "release_date_with_abbreviated_month_for_display": "2003",
+   "song_art_image_thumbnail_url": "https://images.genius.com/98c08b9542b237e07d03f6a2d316e325.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/98c08b9542b237e07d03f6a2d316e325.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 4,
+    "transcribers": 4,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 9530
+   },
+   "title": "1990-n\u00e5nting",
+   "title_with_featured": "1990-n\u00e5nting (Ft.\u00a0Snook)",
+   "url": "https://genius.com/Afasi-and-filthy-1990-nanting-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/149037",
+     "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+     "id": 149037,
+     "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Snook",
+     "url": "https://genius.com/artists/Snook"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/356576",
+    "header_image_url": "https://images.genius.com/06b3aec9e4abcee39190035d03dde6ff.666x1000x1.jpg",
+    "id": 356576,
+    "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Afasi & Filthy",
+    "url": "https://genius.com/artists/Afasi-and-filthy"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2179589/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2179589' class='rg_embed_link' data-song-id='2179589'>Read <a href='https://genius.com/Afasi-and-filthy-1990-nanting-lyrics'>\u201c1990-n\u00e5nting\u201d by Afasi\u00a0& Filthy</a> on Genius</div> <script crossorigin src='//genius.com/songs/2179589/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/270336",
+    "cover_art_url": "https://images.genius.com/98c08b9542b237e07d03f6a2d316e325.500x500x1.jpg",
+    "full_title": "1990n\u00e5nting by Afasi & Filthy",
+    "id": 270336,
+    "name": "1990n\u00e5nting",
+    "url": "https://genius.com/albums/Afasi-and-filthy/1990nanting",
+    "artist": {
+     "api_path": "/artists/356576",
+     "header_image_url": "https://images.genius.com/06b3aec9e4abcee39190035d03dde6ff.666x1000x1.jpg",
+     "id": 356576,
+     "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Afasi & Filthy",
+     "url": "https://genius.com/artists/Afasi-and-filthy"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7327746",
+    "classification": "needs_exegesis",
+    "fragment": "1990-n\u00e5nting",
+    "id": 7327746,
+    "is_description": true,
+    "path": "/7327746/Afasi-and-filthy-1990-nanting/1990-nanting",
+    "range": {
+     "content": "1990-n\u00e5nting"
+    },
+    "song_id": 2179589,
+    "url": "https://genius.com/7327746/Afasi-and-filthy-1990-nanting/1990-nanting",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2179589",
+     "client_timestamps": {
+      "updated_by_human_at": 1655805077,
+      "lyrics_updated_at": 1595262088
+     },
+     "context": "Afasi & Filthy",
+     "id": 2179589,
+     "image_url": "https://images.genius.com/98c08b9542b237e07d03f6a2d316e325.500x500x1.jpg",
+     "link_title": "1990-n\u00e5nting by\u00a0Afasi\u00a0& Filthy (Ft.\u00a0Snook)",
+     "title": "1990-n\u00e5nting",
+     "type": "Song",
+     "url": "https://genius.com/Afasi-and-filthy-1990-nanting-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7327746",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7327746,
+      "pinned": false,
+      "share_url": "https://genius.com/7327746",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7327746/Afasi-and-filthy-1990-nanting/1990-nanting",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "sonny roland andersson",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/sonny-roland-andersson/afasi-filthy-1990-nnting-feat"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=mkdNIWPlE-M"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/152194",
+     "header_image_url": "https://images.genius.com/9784e3acf230d65f3b24ee8ede7d424e.1000x661x1.png",
+     "id": 152194,
+     "image_url": "https://images.genius.com/d1674beff5834c6f4e5e1627a350e6eb.754x754x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Magnus Lideh\u00e4ll",
+     "url": "https://genius.com/artists/Magnus-lidehall"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/491215",
+       "artist_names": "The Foundations",
+       "full_title": "Build Me Up Buttercup by\u00a0The\u00a0Foundations",
+       "header_image_thumbnail_url": "https://images.genius.com/bcf12783e2cc3c5ec4c5d4d36702a41e.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/bcf12783e2cc3c5ec4c5d4d36702a41e.1000x1000x1.jpg",
+       "id": 491215,
+       "language": "en",
+       "lyrics_owner_id": 1107580,
+       "lyrics_state": "complete",
+       "path": "/The-foundations-build-me-up-buttercup-lyrics",
+       "pyongs_count": 11,
+       "relationships_index_url": "https://genius.com/The-foundations-build-me-up-buttercup-sample",
+       "release_date_components": {
+        "year": 1968,
+        "month": 12,
+        "day": 1
+       },
+       "release_date_for_display": "December 1, 1968",
+       "release_date_with_abbreviated_month_for_display": "Dec. 1, 1968",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0b4b228c5883a3018fb75279b7eef5a0.300x299x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0b4b228c5883a3018fb75279b7eef5a0.800x798x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 655424
+       },
+       "title": "Build Me Up Buttercup",
+       "title_with_featured": "Build Me Up Buttercup",
+       "url": "https://genius.com/The-foundations-build-me-up-buttercup-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/213744",
+        "header_image_url": "https://images.genius.com/e0a044d80e43fade065378c52030a4b8.960x540x1.jpg",
+        "id": 213744,
+        "image_url": "https://images.genius.com/b9fcdaadfa602d85b66aae4ee76fce92.720x720x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Foundations",
+        "url": "https://genius.com/artists/The-foundations"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": "https://genius.com/Cardi-b-bad-bunny-and-j-balvin-i-like-it-sample/translations",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/81307",
+     "header_image_url": "https://images.genius.com/d4cc262e1067f966f21113fda453283d.1000x201x1.jpg",
+     "id": 81307,
+     "image_url": "https://images.genius.com/4acc281192a4960cb55def24e3985c5b.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oskar Linnros",
+     "url": "https://genius.com/artists/Oskar-linnros"
+    },
+    {
+     "api_path": "/artists/152194",
+     "header_image_url": "https://images.genius.com/9784e3acf230d65f3b24ee8ede7d424e.1000x661x1.png",
+     "id": 152194,
+     "image_url": "https://images.genius.com/d1674beff5834c6f4e5e1627a350e6eb.754x754x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Magnus Lideh\u00e4ll",
+     "url": "https://genius.com/artists/Magnus-lidehall"
+    },
+    {
+     "api_path": "/artists/247819",
+     "header_image_url": "https://images.genius.com/95e63aeab34b7f6c74e4dbb283ddaa5b.311x311x1.jpg",
+     "id": 247819,
+     "image_url": "https://images.genius.com/95e63aeab34b7f6c74e4dbb283ddaa5b.311x311x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Herbert Munkhammar",
+     "url": "https://genius.com/artists/Herbert-munkhammar"
+    },
+    {
+     "api_path": "/artists/44577",
+     "header_image_url": "https://images.genius.com/02335b9286be0b6dd6e492f42b20e11a.1000x438x1.jpg",
+     "id": 44577,
+     "image_url": "https://images.genius.com/147eb8add044779629c2d2ca9f6b3570.840x840x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Daniel Adams-Ray",
+     "url": "https://genius.com/artists/Daniel-adams-ray"
+    }
+   ],
+   "artist": "Afasi & Filthy",
+   "lyrics": "1990-n\u00e5nting Lyrics[Motorisk Afasi]\nFightas med mamma pappa brorsan och kivas med systrarna\nOch jag rockade s\u00e4kerhetsn\u00e5lar i midjan p\u00e5 byxorna\nJag var sexfixerad trots att brudar inte existerat\nOch varenda j\u00e4vla tjej jag haft \u00e4r preskriberad\nMitt liv var regisserat f\u00f6r kids som h\u00e4ngde i sandl\u00e5dor\nI bl\u00f6ja, galonisar med Technic-lego och Transformers\nSl\u00e4ngde armb\u00e5gen, men b\u00f6rjade grina p\u00e5 m\u00f6rdarmovies\nMen gjorde mig v\u00e4lf\u00f6rtj\u00e4nt av veckopeng och l\u00f6rdagsgodis\nJag \u00e4r skittight nu, men ni har inte h\u00f6rt det f\u00f6rsta\nDet var p\u00e5 den tiden jag kunde m\u00f6rda f\u00f6r mina Turtles-gubbar\nSnorungar, vi sk\u00e4mtade tills vi fick magknip\nOch jag och Pablo blev alltid h\u00e4mtade sist p\u00e5 fritids\n[Kihlen]\nKanske \u00e4r det b\u00e4st att jag skriver en bok\nOm mitt vilda svenneliv innan jag blir Kihlen i Snook\nMen tills dess f\u00f6rs\u00f6ker jag s\u00f6ka Kihlen\nOch han finns p\u00e5 ett disco\nD\u00e4r Axe blandas med r\u00f6k ifr\u00e5n r\u00f6kmaskinen\n\n[Refr\u00e4ng]\nMin pappa var st\u00f6rst och starkast, back in the days\nSmygkikade in p\u00e5 tjejernas, back in the days\nFejkade mitt m\u00e5lbrott, det var back in the days\n\n[Motorisk Afasi]\nYo! MTV-raps, Banana skids, McGyver\nFruit of the loom, HB, br\u00f6st och butterflyer\nPalla \u00e4pplen, handen p\u00e5 rumpan och BMX\n1990-n\u00e5nting, det var back in the days\n\n[Daniel Adams-Ray]\nHakuna matata, storyn om Ray som unge\nBack in the days, homie, l\u00e5ngt innan Lejonkungen\nKenyanernas egna Mowgli\nSprang halvnaken barfota p\u00e5 bakgator i Nairobi\nDansa som Michael Jackson, jag var kung p\u00e5 att spela kula\nPangade Tetra-pak, snurra flaskan med heta brudar\nR\u00e4knade pengar i bugg, hustlade cash och samlade burkar\nBlev pimp numero uno n\u00e4r jag lade handen p\u00e5 rumpan\nYou might also like[Motorisk afasi]\n(Afasi!) Herbert grundade sin \u00f6lmage p\u00e5 chips\nN\u00e4r jag v\u00e4grade \u00e4ta allt ifr\u00e5n gr\u00f6nsaker till fisk\nKlassdisco med n\u00e5n brud som fr\u00e5gade lov om en dans\nRodnade ibland och stamma n\u00e4r hon fr\u00e5gade chans\n\n[Kihlen]\nJag var Boobi, en kort tjockis som lekte med barkb\u00e5tar\nMitt liv har varit som h\u00e4mtat ur Peter Lemarc-l\u00e5tar\n14, torska oskulden p\u00e5 v\u00e4rldens b\u00e4sta liv\nCilla, vila i frid, vi kanske syns i v\u00e5rt n\u00e4sta liv\n\n[Refr\u00e4ng]\n\n[Motorisk Afasi]\nF\u00f6rsta g\u00e5ngen en tjej frivilligt visa br\u00f6sten\nAlla jams p\u00e5 stan, men fr\u00e4mst Phonetiks freestyle sessions\n\u00c4lskar mitt sj\u00e4tte sinne\nMen jag var k\u00e4r i Kim och svenska rim blev j\u00e4tteinne\n\n[Kihlen]\nThats right, back in the days, man levde f\u00f6r att digga Petter\nSamtidigt som jag f\u00f6rst\u00f6rde mitt liv med cigaretter\nGillar du h\u00e5llig\u00e5ngen, brukar du d\u00f6lja din morgonb\u00e5nge\nV\u00e4ntar du ocks\u00e5 fortfarande p\u00e5 polisonger\n[Motorisk Afasi]\nSk\u00f6t med \u00e4rtor, r\u00e4nde runt och pantade tomburkar\nOch b\u00f6rjade h\u00f6gstadiet med massa pantade bondlurkar\nBlandade en h\u00e4xa och mixa med juice i l\u00e4sken\nN\u00e4r vi samlades de flesta och gitta till fjortisfesten\nFem Casanova med gasen i botten, men med kasst med lover\nHookade kvinnor och k\u00e4kade makaroner\nHylla min ungdom, dabaradibidibidobedam\nLukta p\u00e5 l\u00e5ngfingret och somna in i ett t\u00e4lt p\u00e5 Norderstrand\n\n[Refr\u00e4ng] \u2013 x2\n\n[Motorisk Afasi]\nYo! MTV-raps, Banana skids, McGyver\nFruit of the loom, HB, br\u00f6st och butterflyer\nPalla \u00e4pplen, handen p\u00e5 rumpan och BMX\n1990-n\u00e5nting, det var back in the daysEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/973936",
+   "artist_names": "Afasi & Filthy",
+   "full_title": "Bomfalleralla by\u00a0Afasi\u00a0& Filthy",
+   "header_image_thumbnail_url": "https://images.genius.com/7b93b95c8b2cccc12eb1d07fc31ad712.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/7b93b95c8b2cccc12eb1d07fc31ad712.600x600x1.jpg",
+   "id": 973936,
+   "language": "en",
+   "lyrics_owner_id": 11294,
+   "lyrics_state": "complete",
+   "path": "/Afasi-and-filthy-bomfalleralla-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Afasi-and-filthy-bomfalleralla-sample",
+   "release_date_components": {
+    "year": 2004,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "2004",
+   "release_date_with_abbreviated_month_for_display": "2004",
+   "song_art_image_thumbnail_url": "https://images.genius.com/7b93b95c8b2cccc12eb1d07fc31ad712.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7b93b95c8b2cccc12eb1d07fc31ad712.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 10,
+    "iq_earners": 10,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 6050
+   },
+   "title": "Bomfalleralla",
+   "title_with_featured": "Bomfalleralla",
+   "url": "https://genius.com/Afasi-and-filthy-bomfalleralla-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/356576",
+    "header_image_url": "https://images.genius.com/06b3aec9e4abcee39190035d03dde6ff.666x1000x1.jpg",
+    "id": 356576,
+    "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Afasi & Filthy",
+    "url": "https://genius.com/artists/Afasi-and-filthy"
+   },
+   "apple_music_id": "462239955",
+   "apple_music_player_url": "https://genius.com/songs/973936/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_973936' class='rg_embed_link' data-song-id='973936'>Read <a href='https://genius.com/Afasi-and-filthy-bomfalleralla-lyrics'>\u201cBomfalleralla\u201d by Afasi\u00a0& Filthy</a> on Genius</div> <script crossorigin src='//genius.com/songs/973936/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/101354",
+    "cover_art_url": "https://images.genius.com/9e0188f4ae1fd57bdd544e6256b37684.1000x1000x1.jpg",
+    "full_title": "The Fault in Our Stars: Music from the Motion Picture by Various Artists",
+    "id": 101354,
+    "name": "The Fault in Our Stars: Music from the Motion Picture",
+    "url": "https://genius.com/albums/Various-artists/The-fault-in-our-stars-music-from-the-motion-picture",
+    "artist": {
+     "api_path": "/artists/768",
+     "header_image_url": "https://images.genius.com/10da268551e38fd18cf057ac25bb1ac6.563x177x1.png",
+     "id": 768,
+     "image_url": "https://images.genius.com/058d7a1c280c0465ba0c108be8951ba2.594x594x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Various Artists",
+     "url": "https://genius.com/artists/Various-artists"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5469349",
+    "classification": "needs_exegesis",
+    "fragment": "Bomfalleralla",
+    "id": 5469349,
+    "is_description": true,
+    "path": "/5469349/Afasi-and-filthy-bomfalleralla/Bomfalleralla",
+    "range": {
+     "content": "Bomfalleralla"
+    },
+    "song_id": 973936,
+    "url": "https://genius.com/5469349/Afasi-and-filthy-bomfalleralla/Bomfalleralla",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/973936",
+     "client_timestamps": {
+      "updated_by_human_at": 1634766083,
+      "lyrics_updated_at": 1632004410
+     },
+     "context": "Afasi & Filthy",
+     "id": 973936,
+     "image_url": "https://images.genius.com/7b93b95c8b2cccc12eb1d07fc31ad712.600x600x1.jpg",
+     "link_title": "Bomfalleralla by\u00a0Afasi\u00a0& Filthy",
+     "title": "Bomfalleralla",
+     "type": "Song",
+     "url": "https://genius.com/Afasi-and-filthy-bomfalleralla-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5469349",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5469349,
+      "pinned": false,
+      "share_url": "https://genius.com/5469349",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5469349/Afasi-and-filthy-bomfalleralla/Bomfalleralla",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "afasi filthy",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/afasi-filthy/bomfalleralla"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=ei8fKLbZmeI"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Afasi & Filthy",
+   "lyrics": "Bomfalleralla Lyrics[Intro]\nMake my dreams come true\nBomfalleralla, falleralla, falleralla\nAfa-fa-fasi och Filthy\nBomfalleralla, falleralla, falleralla\n\n[Vers 1]\nJag st\u00f6rtar ner f\u00f6r gatan p\u00e5 en Pamplona-tjur\nP\u00e5 v\u00e4g mot en Pandora-brud med ett klitta som en anabolakuk\nOch sv\u00e4nger den r\u00f6da skynket som fladdrar i vinden\nOch flaggan som vajar och kladdande fradga p\u00e5 kinden\nShhh! Jag \u00e4r metallisk rakblad, smaka min tunga\nSom jag kommer hugga rakt ifr\u00e5n munnen som rabieshundar\nL\u00e4tt garderad med ett artilleri\nSom inte tar, t\u00e4nker eller n\u00e5nsin tatt ditt parti\nAf-af-asi h\u00e5ller v\u00e4ckningsm\u00e4ssa i en skoldress\nS\u00e5 ring och k\u00f6r din text och h\u00f6r mig g\u00e4spa som en flodh\u00e4st\nOch n\u00e4r ni springer p\u00e5 gl\u00f6dheta k\u00e4ndisgalor\nK\u00e4nner jag hur det v\u00e4nder i magen p\u00e5 grund utav av era k\u00f6nslekar\nSt\u00e5r du i min v\u00e4g s\u00e5 betala v\u00e4nligen tr\u00e4ngselavgift\nOavsett om du \u00e4r moderat eller v\u00e4nsterpartist\nF\u00f6r vi lever i en visslande tid som swishar f\u00f6rbi\nD\u00e4r jag gror i mitten och allt annat vissnar bredvid\n[Refr\u00e4ng]\nStubin, eld, torrt krut och bensin\nShu-shu-shuba-shuba-shuba\nSnus, porr och br\u00e4nnvin\nRitch-ratch-filibom-bom-bom\nExploderar som \u2013\nStubin, eld, torrt krut och bensin\nShu-shu-shuba-shuba-shuba\nSnus, porr och br\u00e4nnvin\nRitch-ratch-filibom-bom-bom\nExploderar som \u2013\n\n[Vers 2]\nJag blottar min bringa, m\u00e5tte du hinna st\u00e5nga mig\nS\u00e5 kom igen och ge mig n\u00e5t motst\u00e5nd innan du \u00e5ngrar dig\nBiter av stora kroppspuls\u00e5dern\nSom transporterar syre \u00e5t hela j\u00e4vla v\u00e4rldens dokus\u00e5per\nDet \u00e4r trist att jobba, s\u00e5 jag sitter och joddlar\nOch groggar vodka med diskmedel och fiskleverolja\nR\u00e4tt vad det \u00e4r s\u00e5 g\u00e5r rid\u00e5n i botten, \u00e5h nej!\nOch d\u00e4r st\u00e5r jag och sparkar testosteronet ur kroppen p\u00e5 dig\nBefinner mig sen hoes din bootylicious storasyster\nSom ligger och sover p\u00e5 soffan med h\u00e5ret i toffsar\nSkulle v\u00e4l \u00e5ka dit som en inbrottstjuv\nSom bara vips dyker upp som en tillbakaspolad simhoppsbrud\nT\u00e4njer p\u00e5 gr\u00e4nsen, n\u00e4r ni fr\u00e4mmande m\u00e4nniskor\nFryser f\u00f6r en propp som har g\u00e5tt i dom fem elementen\nMen jag \u00e4r v\u00e4l f\u00f6rberedd f\u00f6r det som komma skall\nS\u00e5 jag laddar upp och sl\u00e5r tillbaka med ett bombanfall\nYou might also like[Refr\u00e4ng]\nStubin, eld, torrt krut och bensin\nShu-shu-shuba-shuba-shuba\nSnus, porr och br\u00e4nnvin\nRitch-ratch-filibom-bom-bom\nExploderar som \u2013\nStubin, eld, torrt krut och bensin\nShu-shu-shuba-shuba-shuba\nSnus, porr och br\u00e4nnvin\nRitch-ratch-filibom-bom-bom\nExploderar som \u2013\n\n[Vers 3]\nDu f\u00e5r p\u00e5 k\u00e4ften n\u00e4r vi tagit ett tugg\nOch st\u00e4ller upp dig mot mig med lika beg\u00e5vad lyrik som en harlequinbok\nOm jag n\u00e5nsin faller i avgrunden, ja d\u00e5 \u00e5ker jag p\u00e5 v\u00e4rdekortet\nHela j\u00e4vla v\u00e4gen fram till P\u00e4rleporten\nD\u00e4r Sankte Per st\u00e5r och v\u00e4ntar med handen p\u00e5 gallret\nOch en iskall stor stark och en varm hamburgertallrik\nOch ni kan forts\u00e4tta stirra i porrblaskor\nMedan jag skingrar folkmassor som en brinnande Rolf Lassg\u00e5rd\nBoom! \u2026 Nej, flash! \u2026\nJag \u00e4r auktorit\u00e4r som skyddsv\u00e4star och polisbrickor\nMedans du \u00e4r nyttig som ryggs\u00e4ckar med mobilfickor\nHerbert kan tricksa och fixa\nHerbert kan mikra en pizza\nHerbert kan klippa och klistra och sitta och kissa\nJag tar mig fram l\u00e4tt och smidigt i ett land\nD\u00e4r skit-eliten br\u00e5kar om allting och l\u00e5ter som Styles P\nMen jag sl\u00e5r mig fast vid och l\u00e5ter det aldrig\nG\u00e5 s\u00e5 l\u00e5ngt att jag talar ut i n\u00e5n veckotidning\nN\u00e4r min skit lackar ur \u00e4r det ni som backar\n\u00c5ker likbil snabbt akut i en kritvit-svartkultur\nHaha, sanningen svider, jag vet\nN\u00e4r alla reppar ett sketet land p\u00e5 en liten planet\n[Refr\u00e4ng]\nStubin, eld, torrt krut och bensin\nShu-shu-shuba-shuba-shuba\nSnus, porr och br\u00e4nnvin\nRitch-ratch-filibom-bom-bom\nExploderar som \u2013\nStubin, eld, torrt krut och bensin\nShu-shu-shuba-shuba-shuba\nSnus, porr och br\u00e4nnvin\nRitch-ratch-filibom-bom-bom\nExploderar som \u20131Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1516555",
+   "artist_names": "Afasi & Filthy",
+   "full_title": "Jobb by\u00a0Afasi\u00a0& Filthy",
+   "header_image_thumbnail_url": "https://images.genius.com/b29824de91cbb89186049d9fc88dbbe5.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/b29824de91cbb89186049d9fc88dbbe5.400x400x1.jpg",
+   "id": 1516555,
+   "language": "sv",
+   "lyrics_owner_id": 1545820,
+   "lyrics_state": "complete",
+   "path": "/Afasi-and-filthy-jobb-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Afasi-and-filthy-jobb-sample",
+   "release_date_components": {
+    "year": 2008,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "2008",
+   "release_date_with_abbreviated_month_for_display": "2008",
+   "song_art_image_thumbnail_url": "https://images.genius.com/b29824de91cbb89186049d9fc88dbbe5.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b29824de91cbb89186049d9fc88dbbe5.400x400x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Jobb",
+   "title_with_featured": "Jobb",
+   "url": "https://genius.com/Afasi-and-filthy-jobb-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/356576",
+    "header_image_url": "https://images.genius.com/06b3aec9e4abcee39190035d03dde6ff.666x1000x1.jpg",
+    "id": 356576,
+    "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Afasi & Filthy",
+    "url": "https://genius.com/artists/Afasi-and-filthy"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1516555/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1516555' class='rg_embed_link' data-song-id='1516555'>Read <a href='https://genius.com/Afasi-and-filthy-jobb-lyrics'>\u201cJobb\u201d by Afasi\u00a0& Filthy</a> on Genius</div> <script crossorigin src='//genius.com/songs/1516555/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/235328",
+    "cover_art_url": "https://images.genius.com/b29824de91cbb89186049d9fc88dbbe5.400x400x1.jpg",
+    "full_title": "Fl\u00e4cken by Afasi & Filthy",
+    "id": 235328,
+    "name": "Fl\u00e4cken",
+    "url": "https://genius.com/albums/Afasi-and-filthy/Flacken",
+    "artist": {
+     "api_path": "/artists/356576",
+     "header_image_url": "https://images.genius.com/06b3aec9e4abcee39190035d03dde6ff.666x1000x1.jpg",
+     "id": 356576,
+     "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Afasi & Filthy",
+     "url": "https://genius.com/artists/Afasi-and-filthy"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6030983",
+    "classification": "needs_exegesis",
+    "fragment": "Jobb",
+    "id": 6030983,
+    "is_description": true,
+    "path": "/6030983/Afasi-and-filthy-jobb/Jobb",
+    "range": {
+     "content": "Jobb"
+    },
+    "song_id": 1516555,
+    "url": "https://genius.com/6030983/Afasi-and-filthy-jobb/Jobb",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1516555",
+     "client_timestamps": {
+      "updated_by_human_at": 1634766110,
+      "lyrics_updated_at": 1611919276
+     },
+     "context": "Afasi & Filthy",
+     "id": 1516555,
+     "image_url": "https://images.genius.com/b29824de91cbb89186049d9fc88dbbe5.400x400x1.jpg",
+     "link_title": "Jobb by\u00a0Afasi\u00a0& Filthy",
+     "title": "Jobb",
+     "type": "Song",
+     "url": "https://genius.com/Afasi-and-filthy-jobb-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6030983",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6030983,
+      "pinned": false,
+      "share_url": "https://genius.com/6030983",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6030983/Afasi-and-filthy-jobb/Jobb",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "afasi filthy",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/afasi-filthy/jobb"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=A6T-2qkWysE"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/27661",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+     "id": 27661,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Filthy",
+     "url": "https://genius.com/artists/Filthy"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/152194",
+     "header_image_url": "https://images.genius.com/9784e3acf230d65f3b24ee8ede7d424e.1000x661x1.png",
+     "id": 152194,
+     "image_url": "https://images.genius.com/d1674beff5834c6f4e5e1627a350e6eb.754x754x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Magnus Lideh\u00e4ll",
+     "url": "https://genius.com/artists/Magnus-lidehall"
+    },
+    {
+     "api_path": "/artists/247819",
+     "header_image_url": "https://images.genius.com/95e63aeab34b7f6c74e4dbb283ddaa5b.311x311x1.jpg",
+     "id": 247819,
+     "image_url": "https://images.genius.com/95e63aeab34b7f6c74e4dbb283ddaa5b.311x311x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Herbert Munkhammar",
+     "url": "https://genius.com/artists/Herbert-munkhammar"
+    }
+   ],
+   "artist": "Afasi & Filthy",
+   "lyrics": "Jobb Lyrics[Intro]\nAllting kommer l\u00f6sas och bli b\u00e4ttre igen\nOm du har pengar i fickan eller ett ess i din \u00e4rm\nYeah, yeah yeah\nNu k\u00f6r vi\nAfasi och Filthy\n\n[Refr\u00e4ng]\nAllting kommer l\u00f6sas och bli b\u00e4ttre igen\nOm du har pengar i fickan eller ett ess i din \u00e4rm\nOch vi tror vi str\u00e4var mot samma m\u00e5l\nMen n\u00e4r man tittar p\u00e5 dig \u00e4r det bara all you!\nAllting kommer l\u00f6sas och bli b\u00e4ttre igen\nOm du har pengar i fickan eller ett ess i din \u00e4rm\nOch vi tror vi str\u00e4var mot samma m\u00e5l\nMen n\u00e4r man tittar p\u00e5 dig \u00e4r det bara all you!\n\n[Vers 1]\nM\u00e5nga dom l\u00e5ter str\u00f6mmen f\u00f6ra dom fram\nAv olika anledningar\nLigger vissa p\u00e5 soffan\nAndra f\u00e5r ett jobb och\nDom flesta dom g\u00f6r vad dom kan\n\nS\u00e5 nu g\u00e5r man ut gymnasiet\nOch ekonomin den \u00e4r lika med noll\nOch s\u00e5 pluggar man vidare\nInte f\u00f6r att man vill\nBara f\u00f6r att det inte finns n\u00e5gra jobb\n\nEller s\u00e5 jobbar man svart japp mellan morgon och natt\nKanske till och med kv\u00e4llar och helger\nMed massa tur kan man f\u00e5 sig en rast\nMan ska v\u00e4l inte klaga antar jag f\u00f6r v\u00e5rt land \u00e4r ju tryggt\nAldrig krig, knappt n\u00e5n sv\u00e4lt\nMen fan inget anst\u00e4llningsskydd\n\n[Refr\u00e4ng]\nAllting kommer l\u00f6sas och bli b\u00e4ttre igen\nOm du har pengar i fickan eller ett ess i din \u00e4rm\nOch vi tror vi str\u00e4var mot samma m\u00e5l\nMen n\u00e4r man tittar p\u00e5 dig \u00e4r det bara all you!\nYou might also likeAllting kommer l\u00f6sas och bli b\u00e4ttre igen\nOm du har pengar i fickan eller ett ess i din \u00e4rm\nOch vi tror vi str\u00e4var mot samma m\u00e5l\nMen n\u00e4r man tittar p\u00e5 dig \u00e4r det bara all you!\n\n[Vers 2]\nVissa f\u00f6rknippar sin arbetssituation med v\u00e4lbehag\nOch pratar om jobb som n\u00e5nting\nSom dom g\u00f6r sig f\u00f6rtj\u00e4nta av\nP\u00e5 s\u00e4tt och vis \u00e4r det v\u00e4l r\u00e4tt och riktigt men\nDom som kvalificerar f\u00f6r samma sak\nOch dom letar efter samma jobb\nMen dom heter Muhammed i efternamn\nDom f\u00e5r sticka hem\n\nI landet med dom st\u00f6rsta varmaste \u00f6ppnade famnar\nR\u00f6star man fram att endast\nVissa ska bli kramade mjukt\nDet finns platser p\u00e5 v\u00e4gen d\u00e4r vissa av l\u00f6ftena stannar\nOch det g\u00f6r att man f\u00e5r forts\u00e4tta\nVa arbetsl\u00f6s eller slava som djur\n\n[Refr\u00e4ng]\nAllting kommer l\u00f6sas och bli b\u00e4ttre igen\nOm du har pengar i fickan eller ett ess i din \u00e4rm\nOch vi tror vi str\u00e4var mot samma m\u00e5l\nMen n\u00e4r man tittar p\u00e5 dig \u00e4r det bara all you!\nAllting kommer l\u00f6sas och bli b\u00e4ttre igen\nOm du har pengar i fickan eller ett ess i din \u00e4rm\nOch vi tror vi str\u00e4var mot samma m\u00e5l\nMen n\u00e4r man tittar p\u00e5 dig \u00e4r det bara all you!\n\n[Vers 3]\nDom l\u00e4gger fram f\u00f6rslag efter den franska modellen\nAtt du kan anst\u00e4llas\nUtan n\u00e5gra som helst tryggheter\nOch sparkas p\u00e5 fl\u00e4cken (va? meeen)\nEtt litet jobb i ditt lilla liv jag menar vad \u00e4r det?\nV\u00e4lkommen till ditt nya tidsf\u00f6rdriv h\u00e4lsningar A-U-C\n\nOch s\u00e5 tycker dom mest att man bara klagar och gn\u00e4ller\nVanliga m\u00e4nniskor utan plats i v\u00e5rat vardagssamh\u00e4lle (men)\nMan ska v\u00e4l inte klaga antar jag f\u00f6r v\u00e5rt land \u00e4r ju tryggt\nAldrig krig, knappt n\u00e5n sv\u00e4lt\nMen fan inget anst\u00e4llningsskydd\n\n[Refr\u00e4ng]\nAllting kommer l\u00f6sas och bli b\u00e4ttre igen\nOm du har pengar i fickan eller ett ess i din \u00e4rm\nOch vi tror vi str\u00e4var mot samma m\u00e5l\nMen n\u00e4r man tittar p\u00e5 dig \u00e4r det bara all you!\n\nAllting kommer l\u00f6sas och bli b\u00e4ttre igen\nOm du har pengar i fickan eller ett ess i din \u00e4rm\nOch vi tror vi str\u00e4var mot samma m\u00e5l\nMen n\u00e4r man tittar p\u00e5 dig \u00e4r det bara all you!Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/953351",
+   "artist_names": "Afasi & Filthy",
+   "full_title": "Sverigetrotters by\u00a0Afasi\u00a0& Filthy",
+   "header_image_thumbnail_url": "https://images.genius.com/b29824de91cbb89186049d9fc88dbbe5.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/b29824de91cbb89186049d9fc88dbbe5.400x400x1.jpg",
+   "id": 953351,
+   "language": "sv",
+   "lyrics_owner_id": 5750011,
+   "lyrics_state": "complete",
+   "path": "/Afasi-and-filthy-sverigetrotters-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Afasi-and-filthy-sverigetrotters-sample",
+   "release_date_components": {
+    "year": 2008,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "2008",
+   "release_date_with_abbreviated_month_for_display": "2008",
+   "song_art_image_thumbnail_url": "https://images.genius.com/b29824de91cbb89186049d9fc88dbbe5.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b29824de91cbb89186049d9fc88dbbe5.400x400x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Sverigetrotters",
+   "title_with_featured": "Sverigetrotters",
+   "url": "https://genius.com/Afasi-and-filthy-sverigetrotters-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/356576",
+    "header_image_url": "https://images.genius.com/06b3aec9e4abcee39190035d03dde6ff.666x1000x1.jpg",
+    "id": 356576,
+    "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Afasi & Filthy",
+    "url": "https://genius.com/artists/Afasi-and-filthy"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/953351/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_953351' class='rg_embed_link' data-song-id='953351'>Read <a href='https://genius.com/Afasi-and-filthy-sverigetrotters-lyrics'>\u201cSverigetrotters\u201d by Afasi\u00a0& Filthy</a> on Genius</div> <script crossorigin src='//genius.com/songs/953351/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/235328",
+    "cover_art_url": "https://images.genius.com/b29824de91cbb89186049d9fc88dbbe5.400x400x1.jpg",
+    "full_title": "Fl\u00e4cken by Afasi & Filthy",
+    "id": 235328,
+    "name": "Fl\u00e4cken",
+    "url": "https://genius.com/albums/Afasi-and-filthy/Flacken",
+    "artist": {
+     "api_path": "/artists/356576",
+     "header_image_url": "https://images.genius.com/06b3aec9e4abcee39190035d03dde6ff.666x1000x1.jpg",
+     "id": 356576,
+     "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Afasi & Filthy",
+     "url": "https://genius.com/artists/Afasi-and-filthy"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5447172",
+    "classification": "needs_exegesis",
+    "fragment": "Sverigetrotters",
+    "id": 5447172,
+    "is_description": true,
+    "path": "/5447172/Afasi-and-filthy-sverigetrotters/Sverigetrotters",
+    "range": {
+     "content": "Sverigetrotters"
+    },
+    "song_id": 953351,
+    "url": "https://genius.com/5447172/Afasi-and-filthy-sverigetrotters/Sverigetrotters",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/953351",
+     "client_timestamps": {
+      "updated_by_human_at": 1595262320,
+      "lyrics_updated_at": 1515453310
+     },
+     "context": "Afasi & Filthy",
+     "id": 953351,
+     "image_url": "https://images.genius.com/b29824de91cbb89186049d9fc88dbbe5.400x400x1.jpg",
+     "link_title": "Sverigetrotters by\u00a0Afasi\u00a0& Filthy",
+     "title": "Sverigetrotters",
+     "type": "Song",
+     "url": "https://genius.com/Afasi-and-filthy-sverigetrotters-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5447172",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5447172,
+      "pinned": false,
+      "share_url": "https://genius.com/5447172",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5447172/Afasi-and-filthy-sverigetrotters/Sverigetrotters",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "user 808503890",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/user-808503890/afasi-filthy-sverigetrotters-text-hq"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=qLrvmYgAFY4"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/27661",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+     "id": 27661,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Filthy",
+     "url": "https://genius.com/artists/Filthy"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/152194",
+     "header_image_url": "https://images.genius.com/9784e3acf230d65f3b24ee8ede7d424e.1000x661x1.png",
+     "id": 152194,
+     "image_url": "https://images.genius.com/d1674beff5834c6f4e5e1627a350e6eb.754x754x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Magnus Lideh\u00e4ll",
+     "url": "https://genius.com/artists/Magnus-lidehall"
+    },
+    {
+     "api_path": "/artists/247819",
+     "header_image_url": "https://images.genius.com/95e63aeab34b7f6c74e4dbb283ddaa5b.311x311x1.jpg",
+     "id": 247819,
+     "image_url": "https://images.genius.com/95e63aeab34b7f6c74e4dbb283ddaa5b.311x311x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Herbert Munkhammar",
+     "url": "https://genius.com/artists/Herbert-munkhammar"
+    }
+   ],
+   "artist": "Afasi & Filthy",
+   "lyrics": "Sverigetrotters Lyrics[Refrain]\nT\u00e5g, bil, b\u00e5t, flyg till och med i helikopter\nTar oss genom landet och dom kallar oss f\u00f6r Sverige-trotters\nT\u00e5g, bil, b\u00e5t, flyg till och med p\u00e5 eu-moppe\nTar oss genom landet och dom kallar oss f\u00f6r Sverige-trotters\n\nVi b\u00f6rjar i Uppsala stan d\u00e4r vi f\u00f6ddes\nD\u00e4r f\u00f6ljande uppdrag har sina r\u00f6tter\nVi satte ribban, vi giga p\u00e5 grand\nSen packade vi ryggan, drog vidare i landet\nEn tur upp till Dalarna, Borl\u00e4nge, Falun\nSuper som galningar f\u00e5r v\u00e5r betalning\nBr\u00e4nnvin i kroppen och st\u00e4mning p\u00e5 topp\nD\u00e4r satte vi en n\u00e5l nummer tv\u00e5 p\u00e5 v\u00e5r karta\nGratis bil ner till Sk\u00e5ne och Malm\u00f6\nJobbar som en d\u00e5re f\u00f6r att ha r\u00e5d med min standard\nMin vakna tid genom \u00e5ren \u00e4r samma sak som f\u00f6r er ni f\u00f6rst\u00e5r vad jag menar\nVardagliga ting sami och stim bla bla\nAvdragsgilt n\u00e4r jag pratar i rim\nVar sak har sin tid det \u00e4r helt klart\nAlltid kul att tr\u00e4ffas och jag hoppas att vi ses snart\n[Refrain]\nT\u00e5g, bil, b\u00e5t, flyg till och med i helikopter\nTar oss genom landet och dom kallar oss f\u00f6r Sverige-trotters\nT\u00e5g, bil, b\u00e5t, flyg till och med p\u00e5 eu-moppe\nTar oss genom landet och dom kallar oss f\u00f6r Sverige-trotters\n\nFramg\u00e5ng, bakg\u00e5ng om vartannat\nFansen \u00e4r som kontrollanter\nDet \u00e4r \u00e4rligt talat j\u00e4vligt bra\nVi \u00e4r h\u00e4r idag i det l\u00e5nga landet\nBig up till den omt\u00e4nksamme\nBig ner till den mer l\u00e5ngsinta\nJag har r\u00e5d att ge dig komplimanger\n\u00c4ven om du bara ger mig dina l\u00e5ngfingrar\nOch jag sitter p\u00e5 resande fot\nT\u00e4nker p\u00e5 n\u00e5t viktigt med eller mot\nLevererar schiznit battlar mig sj\u00e4lv men jag har ingen h\u00e4r att m\u00e4ta mig mot\nS\u00e5 jag l\u00e4ser en bok ist\u00e4llet\nOch jag sitter h\u00e4r l\u00e4ngtar till n\u00e4sta st\u00e4lle\n\u00c4n s\u00e5 l\u00e4nge \u00e4r jag kvar i landet\nYea yea yea jag tar mig fram med\n\n[Refrain]\nT\u00e5g, bil, b\u00e5t, flyg till och med i helikopter\nTar oss genom landet och dom kallar oss f\u00f6r Sverige-trotters\nT\u00e5g, bil, b\u00e5t, flyg till och med p\u00e5 eu-moppe\nTar oss genom landet och dom kallar oss f\u00f6r Sverige-trotters\nYou might also likeGlider omkring p\u00e5 v\u00e4g n\u00e5nstans\nF\u00f6r jag ger det h\u00e4r dagligen en \u00e4rlig chans\nFlowar som ett flipperspel\nHitta fel - skiiit i det\nF\u00f6r den d\u00e4r tiden \u00e4r f\u00f6rbi\nJapp d\u00e4r \u00e4r dom, d\u00e4r \u00e4r ni och h\u00e4r \u00e4r vi\nMen jag skiter helt \u00e4rligt i\nOch jag k\u00f6r om n\u00e4r du byter d\u00e4ck p\u00e5 din racerbil\nOch s\u00e5 vidare rakt i m\u00e5l\nJag kan plocka dig p\u00e5 v\u00e4gen om du hakar p\u00e5\nHar telefonen i handen s\u00e5 jag ringer bara f\u00f6r att s\u00e4ga vi \u00e4r framme om en timme\nF\u00f6rsta resan h\u00e4rifr\u00e5n\nHoppar p\u00e5 den n\u00e4r den g\u00e5r\n\n[Refrain]\nT\u00e5g, bil, b\u00e5t, flyg till och med i helikopter\nTar oss genom landet och dom kallar oss f\u00f6r Sverige-trotters\nT\u00e5g, bil, b\u00e5t, flyg till och med p\u00e5 eu-moppe\nTar oss genom landet och dom kallar oss f\u00f6r Sverige-trotters\n\nF\u00f6rsta resan h\u00e4rifr\u00e5n Hoppar p\u00e5 den n\u00e4r den g\u00e5r\nStressad som en j\u00e4vel\nMen jag k\u00e4nner det \u00e4r v\u00e4rt \u00e4nd\u00e5...Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1579178",
+   "artist_names": "Afasi & Filthy",
+   "full_title": "Natten Till Idag by\u00a0Afasi\u00a0& Filthy",
+   "header_image_thumbnail_url": "https://images.genius.com/b29824de91cbb89186049d9fc88dbbe5.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/b29824de91cbb89186049d9fc88dbbe5.400x400x1.jpg",
+   "id": 1579178,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Afasi-and-filthy-natten-till-idag-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Afasi-and-filthy-natten-till-idag-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/b29824de91cbb89186049d9fc88dbbe5.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b29824de91cbb89186049d9fc88dbbe5.400x400x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Natten Till Idag",
+   "title_with_featured": "Natten Till Idag",
+   "url": "https://genius.com/Afasi-and-filthy-natten-till-idag-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/356576",
+    "header_image_url": "https://images.genius.com/06b3aec9e4abcee39190035d03dde6ff.666x1000x1.jpg",
+    "id": 356576,
+    "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Afasi & Filthy",
+    "url": "https://genius.com/artists/Afasi-and-filthy"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1579178/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1579178' class='rg_embed_link' data-song-id='1579178'>Read <a href='https://genius.com/Afasi-and-filthy-natten-till-idag-lyrics'>\u201cNatten Till Idag\u201d by Afasi\u00a0& Filthy</a> on Genius</div> <script crossorigin src='//genius.com/songs/1579178/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/235328",
+    "cover_art_url": "https://images.genius.com/b29824de91cbb89186049d9fc88dbbe5.400x400x1.jpg",
+    "full_title": "Fl\u00e4cken by Afasi & Filthy",
+    "id": 235328,
+    "name": "Fl\u00e4cken",
+    "url": "https://genius.com/albums/Afasi-and-filthy/Flacken",
+    "artist": {
+     "api_path": "/artists/356576",
+     "header_image_url": "https://images.genius.com/06b3aec9e4abcee39190035d03dde6ff.666x1000x1.jpg",
+     "id": 356576,
+     "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Afasi & Filthy",
+     "url": "https://genius.com/artists/Afasi-and-filthy"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6093895",
+    "classification": "needs_exegesis",
+    "fragment": "Natten Till Idag",
+    "id": 6093895,
+    "is_description": true,
+    "path": "/6093895/Afasi-and-filthy-natten-till-idag/Natten-till-idag",
+    "range": {
+     "content": "Natten Till Idag"
+    },
+    "song_id": 1579178,
+    "url": "https://genius.com/6093895/Afasi-and-filthy-natten-till-idag/Natten-till-idag",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1579178",
+     "client_timestamps": {
+      "updated_by_human_at": 1476758944,
+      "lyrics_updated_at": 1429898218
+     },
+     "context": "Afasi & Filthy",
+     "id": 1579178,
+     "image_url": "https://images.genius.com/b29824de91cbb89186049d9fc88dbbe5.400x400x1.jpg",
+     "link_title": "Natten Till Idag by\u00a0Afasi\u00a0& Filthy",
+     "title": "Natten Till Idag",
+     "type": "Song",
+     "url": "https://genius.com/Afasi-and-filthy-natten-till-idag-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6093895",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6093895,
+      "pinned": false,
+      "share_url": "https://genius.com/6093895",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6093895/Afasi-and-filthy-natten-till-idag/Natten-till-idag",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Afasi & Filthy",
+   "lyrics": "Natten Till Idag LyricsVERS 1\nDen l\u00e5nga arbetsveckan n\u00e4rmar sig sitt slut och\nDe kommer fira fredagskv\u00e4llen med en utg\u00e5ng\nI vanlig ordning med kamraterna\nMen idag och imorgon kommer aldrig vara samma sak\nOvissheten \u00e4r med visst \u00f6kar det sp\u00e4nningen\nL\u00f6ningen \u00e4r h\u00e4r tryggheten bland h\u00f6ga f\u00f6rv\u00e4ntningar\nO f\u00e5 fylla upp den m\u00e5natliga fyllans kvot\nMed f\u00f6rhoppningen att tr\u00e4ffa sig en ny person\nH\u00e5lla tummarna att det kommer sl\u00e5 gnistor snart\nShit va bra, n\u00e5gon f\u00f6r kv\u00e4llen eller en livskamrat\nN\u00e5gra vet att n\u00e5gra mitt I stan har fetast fest\nD\u00e4r de kan sp\u00e5ra och d\u00e4r lika barn kan leka b\u00e4st\nHon ger sig dj\u00e4vulen p\u00e5 att g\u00f6ra det f\u00f6r kung och fosterhem\nHela v\u00e4rlden och slippa sm\u00e4rtan d\u00e4r skorna kl\u00e4mmer\nOch k\u00e4nna sig glad f\u00f6r sin trygghet\nV\u00e4nnerna har henne om ryggen\nVERS 2\nTaggad ut I fingerspetsen, laddad med en lina koks\nAlla fr\u00e5n den inre kretsen ingen risk att tina bort\nDen kalla k\u00e4rleken \u00e4r h\u00e4r och den g\u00f6r livet gott\nTills vi har hittat n\u00e5t som f\u00e5r hj\u00e4rtesm\u00e4rtan o brinna opp\nFinns \u00e4nd\u00e5 dagligen s\u00e5 mycket som kan skada oss\nEtt snedsteg ut I gatan och helvetet har brakat loss\nDet \u00e4r dags att l\u00e4mna kv\u00e4llens f\u00f6rsta anhalt\nOch pl\u00f6tsligt kommer den obligatoriska splittringen\nSom bara n\u00e5n timme tidigare var en liten vision\nOm att g\u00e4ngen ska va samlat\nHon drar till st\u00f6rsta klubben med den l\u00e4ngsta k\u00f6n\nF\u00f6rst in p\u00e5 muggen sen till baren och s\u00e4nker en \u00f6l\nHon ser hur n\u00e5gon dyker upp you're \u00f6gonvr\u00e5n\nOch f\u00f6rs\u00f6ker f\u00e5 kontakt, hon \u00e4r tillm\u00f6tesg\u00e5ende\nKanske ger hon k\u00e4rleken en andra chans\nPolarna \u00e4r n\u00e5gon annan stans\n\nVERS 3\nTimmarna springer iv\u00e4g den n\u00e4rmar sig tv\u00e5tiden\nDe \u00e4r b\u00e5da tv\u00e5 I sin bubbla mitt I folkvimlet\nHan f\u00f6resl\u00e5r att de besluter sig f\u00f6r o g\u00e5 hem\nOch f\u00f6r henne mot utg\u00e5ngen mot vakten med d\u00f6rren p\u00e5 gl\u00e4nt\nVinden viner och biter I deras kinder men\nIngenting \u00e4r isigare \u00e4n singellivet vintertid\nS\u00e5 lite kosta vad det kosta vill\nDe har best\u00e4mt sig f\u00f6r vems utav hemmen de ska ta sig en droska till\nV\u00e4l framme st\u00e5r hon och kr\u00e5nglar med nycklarna I l\u00e5set\nHan trycker sig mot henne, f\u00f6r m\u00e5nga h\u00e4nder p\u00e5 f\u00f6r m\u00e5nga st\u00e4llen\nF\u00f6r mycket f\u00f6r snabbt, hon k\u00e4nner att\nN\u00e5t inte st\u00e4mmer och f\u00f6r lite har blivit sagt\nD\u00f6rren s\u00e4ger PANG och de ligger p\u00e5 golvet I hallen\nHan sliter I hennes kl\u00e4der och hon skriker f\u00f6rg\u00e4ves men\nI vanlig ordning finns det ingen som kan h\u00f6ra det\nO om n\u00e5gra timmar \u00e4r det l\u00f6rdagkv\u00e4ll\n---\n\"Magnolian\" as written by Oskar Linnros, Herbert Munkhammar, Magnus Lidehall\nLyrics \u00a9 Universal Music Publishing GroupYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1248825",
+   "artist_names": "Afasi & Filthy",
+   "full_title": "Jag Kunde inte Bry mig Mindre by\u00a0Afasi\u00a0& Filthy",
+   "header_image_thumbnail_url": "https://images.genius.com/57cb2d84e2109050a1d1bbe6b54a3b68.242x242x1.jpg",
+   "header_image_url": "https://images.genius.com/57cb2d84e2109050a1d1bbe6b54a3b68.242x242x1.jpg",
+   "id": 1248825,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Afasi-and-filthy-jag-kunde-inte-bry-mig-mindre-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Afasi-and-filthy-jag-kunde-inte-bry-mig-mindre-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/57cb2d84e2109050a1d1bbe6b54a3b68.242x242x1.jpg",
+   "song_art_image_url": "https://images.genius.com/57cb2d84e2109050a1d1bbe6b54a3b68.242x242x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Jag Kunde inte Bry mig Mindre",
+   "title_with_featured": "Jag Kunde inte Bry mig Mindre",
+   "url": "https://genius.com/Afasi-and-filthy-jag-kunde-inte-bry-mig-mindre-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/356576",
+    "header_image_url": "https://images.genius.com/06b3aec9e4abcee39190035d03dde6ff.666x1000x1.jpg",
+    "id": 356576,
+    "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Afasi & Filthy",
+    "url": "https://genius.com/artists/Afasi-and-filthy"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1248825/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1248825' class='rg_embed_link' data-song-id='1248825'>Read <a href='https://genius.com/Afasi-and-filthy-jag-kunde-inte-bry-mig-mindre-lyrics'>\u201cJag Kunde inte Bry mig Mindre\u201d by Afasi\u00a0& Filthy</a> on Genius</div> <script crossorigin src='//genius.com/songs/1248825/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/536016",
+    "cover_art_url": "https://images.genius.com/57cb2d84e2109050a1d1bbe6b54a3b68.242x242x1.jpg",
+    "full_title": "Jag Kunde Inte Bry Mig Mindre - EP by Afasi & Filthy",
+    "id": 536016,
+    "name": "Jag Kunde Inte Bry Mig Mindre - EP",
+    "url": "https://genius.com/albums/Afasi-and-filthy/Jag-kunde-inte-bry-mig-mindre-ep",
+    "artist": {
+     "api_path": "/artists/356576",
+     "header_image_url": "https://images.genius.com/06b3aec9e4abcee39190035d03dde6ff.666x1000x1.jpg",
+     "id": 356576,
+     "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Afasi & Filthy",
+     "url": "https://genius.com/artists/Afasi-and-filthy"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5752839",
+    "classification": "needs_exegesis",
+    "fragment": "Jag Kunde inte Bry mig Mindre",
+    "id": 5752839,
+    "is_description": true,
+    "path": "/5752839/Afasi-and-filthy-jag-kunde-inte-bry-mig-mindre/Jag-kunde-inte-bry-mig-mindre",
+    "range": {
+     "content": "Jag Kunde inte Bry mig Mindre"
+    },
+    "song_id": 1248825,
+    "url": "https://genius.com/5752839/Afasi-and-filthy-jag-kunde-inte-bry-mig-mindre/Jag-kunde-inte-bry-mig-mindre",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1248825",
+     "client_timestamps": {
+      "updated_by_human_at": 1634766187,
+      "lyrics_updated_at": 1429720589
+     },
+     "context": "Afasi & Filthy",
+     "id": 1248825,
+     "image_url": "https://images.genius.com/57cb2d84e2109050a1d1bbe6b54a3b68.242x242x1.jpg",
+     "link_title": "Jag Kunde inte Bry mig Mindre by\u00a0Afasi\u00a0& Filthy",
+     "title": "Jag Kunde inte Bry mig Mindre",
+     "type": "Song",
+     "url": "https://genius.com/Afasi-and-filthy-jag-kunde-inte-bry-mig-mindre-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5752839",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5752839,
+      "pinned": false,
+      "share_url": "https://genius.com/5752839",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5752839/Afasi-and-filthy-jag-kunde-inte-bry-mig-mindre/Jag-kunde-inte-bry-mig-mindre",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "afasi filthy",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/afasi-filthy/jag-kunde-inte-bry-mig-mindre"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=tocWHuTxt2A"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Afasi & Filthy",
+   "lyrics": "Jag Kunde inte Bry mig Mindre LyricsRef\nNasdaqb\u00f6rsen har stigit med 2 procent\nJag kunde inte bry mig mindre\nVi toppar inte din lista, \u00e4n sen?\nJag kunde inte bry mig mindre\nParis Hilton har skaffat sig silikon\nJag kunde inte bry mig mindre\nNej nej, ville inte, borde inte, skulle inte\nJag kunde inte bry mig mindre\n\nVers 1\nJag undrar inte men vad st\u00e5r det p\u00e5 l\u00f6pen idag\nAtt Farmen-Robban s\u00f6p sig full p\u00e5 sin f\u00f6delsedag\nTankarna vandrar och Jag funderar\nMen allt jag kan komma fram till \u00e4r att\nJag kunde inte bry mig mindre\nJag l\u00e4gger mig g\u00e4rna ner och d\u00f6r\nBara Jag slipper l\u00e4sa Se & H\u00f6r\nJag undrar, undrar\nVill s\u00e5 j\u00e4vla g\u00e4rna veta vad som h\u00e4nt v\u00e5r kungafamilj\nDe \u00e4r s\u00e5nt som g\u00f6r att man m\u00e5r j\u00e4ttebra\nSom n\u00e4ringsliv och tipsresultat\n(Tja det \u00e4r Herbert, Har ni t\u00e4nkt p\u00e5 hur mycket saker det \u00e4r i ens omgivning som \u00e4r s\u00e5 j\u00e4vla ointressant)\nRef\n\nVers 2\nS\u00e5 varf\u00f6r skulle jag bry mig\nOm du talade om f\u00f6r mig att Jag inte var n\u00e5n som du brydde dig om\nSvara klassiskt, \u00e4r man inte omtalad \u00e4r v\u00e4gen l\u00e5ngsmal\nMed samma props som f\u00f6r en l\u00e5ngtradarchaffis\nMen tids nog blir nog v\u00e4gen b\u00e5de kort och bred\nMen i ert fall \u00e4r den nog alldeles f\u00f6r l\u00e5ngt bort f\u00f6r att se\nS\u00e5 du f\u00e5r tycka att produkten ger ett skrytigt intryck\nMen kom ih\u00e5g det att:\nJag kunde inte bry mig mindre\nF\u00f6r f\u00e5r jag alldeles f\u00f6r mycket ointressant information\nS\u00e5 blir jag bara tokig och blind\nSer hennes, hans och deras skandaler i TV\nUppgifterna k\u00e4nns som vissa av svaren i TP\n\nRef\n\nVers 3\nKicki Danielsson tr\u00f6st\u00e4ter falukorv\nS\u00e5 Jag vet, S\u00e5 Jag vet, Ifall Jag undrade, tack\nJag har ingen aning ens om varf\u00f6r jag ska veta det\nMen n\u00e5tt Jag vet , ja n\u00e5tt Jag vet -et \u00e4r att:\nJag kunde inte bry mig mindre\nDu, nu har dom p\u00e5 Biltema skitfet rea p\u00e5 bildelar till din Citro\u00ebn 103:a\nEventuellt V75 och \u00e4ven ibland\nSportevenemang som derbyt i, derbyt ikv\u00e4ll\nNu sl\u00e4pper Innovativ och Sjuk sitt 7-sp\u00e5rsdemo f\u00f6r 20 kronor\nSkynda k\u00f6p de innan de \u00e4r slut\n(Aaafasi, Filten)\nYou might also likeParis Hilton har Skaffat sig silikon\nJag kunde inte bry mig mindre\nSk\u00e4rpt TV-avgiftskontroll i Lund\nJag kunde inte bry mig mindre\nFotbollsderby p\u00e5 R\u00e5sunda ikv\u00e4ll\nJag kunde inte bry mig mindre\nJenny, 35 vann 1 miljon\nJag kunde inte bry mig mindre\nSnart s\u00e5 b\u00f6rjar V\u00e5ra B\u00e4sta \u00c5r\nJag kunde inte bry mig mindre\nNej nej, ville inte, borde inte, skulle inte\nJag kunde inte bry mig mindreEmbed"
+  },
+  {
+   "annotation_count": 6,
+   "api_path": "/songs/576396",
+   "artist_names": "Afasi & Filthy",
+   "full_title": "Bomfalleralla [English] by\u00a0Afasi\u00a0& Filthy",
+   "header_image_thumbnail_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+   "id": 576396,
+   "language": "sv",
+   "lyrics_owner_id": 197702,
+   "lyrics_state": "complete",
+   "path": "/Afasi-and-filthy-bomfalleralla-english-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Afasi-and-filthy-bomfalleralla-english-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 3,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Bomfalleralla [English]",
+   "title_with_featured": "Bomfalleralla [English]",
+   "url": "https://genius.com/Afasi-and-filthy-bomfalleralla-english-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/356576",
+    "header_image_url": "https://images.genius.com/06b3aec9e4abcee39190035d03dde6ff.666x1000x1.jpg",
+    "id": 356576,
+    "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Afasi & Filthy",
+    "url": "https://genius.com/artists/Afasi-and-filthy"
+   },
+   "apple_music_id": "462239955",
+   "apple_music_player_url": "https://genius.com/songs/576396/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_576396' class='rg_embed_link' data-song-id='576396'>Read <a href='https://genius.com/Afasi-and-filthy-bomfalleralla-english-lyrics'>\u201cBomfalleralla [English]\u201d by Afasi\u00a0& Filthy</a> on Genius</div> <script crossorigin src='//genius.com/songs/576396/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 197702,
+    "annotator_login": "comgoran",
+    "api_path": "/referents/4347601",
+    "classification": "needs_exegesis",
+    "fragment": "Bomfalleralla [English]",
+    "id": 4347601,
+    "is_description": true,
+    "path": "/4347601/Afasi-and-filthy-bomfalleralla-english/Bomfalleralla-english",
+    "range": {
+     "content": "Bomfalleralla [English]"
+    },
+    "song_id": 576396,
+    "url": "https://genius.com/4347601/Afasi-and-filthy-bomfalleralla-english/Bomfalleralla-english",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/576396",
+     "client_timestamps": {
+      "updated_by_human_at": 1477723060,
+      "lyrics_updated_at": 1534028601
+     },
+     "context": "Afasi & Filthy",
+     "id": 576396,
+     "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+     "link_title": "Bomfalleralla [English] by\u00a0Afasi\u00a0& Filthy",
+     "title": "Bomfalleralla [English]",
+     "type": "Song",
+     "url": "https://genius.com/Afasi-and-filthy-bomfalleralla-english-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4347601",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 4347601,
+      "pinned": false,
+      "share_url": "https://genius.com/4347601",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/4347601/Afasi-and-filthy-bomfalleralla-english/Bomfalleralla-english",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/197702",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1668789382",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1668789382",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1668789382",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+         "human_readable_role_for_display": "Contributor",
+         "id": 197702,
+         "iq": 407,
+         "login": "comgoran",
+         "name": "comgoran",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/comgoran",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Afasi & Filthy",
+   "lyrics": "Bomfalleralla [English] Lyrics[Intro]\nBom! falleralla, Bom! Bom! falleralla, Bom! Bom! falleralla\nAfa-fa-fasi och Filthy\nBomfalleralla, falleralla, falleralla\n\n[Verse 1]\nJag st\u00f6rtar ner f\u00f6r gatan p\u00e5 en Pamplona-tjur\nP\u00e5 v\u00e4g mot en Pandora-brud med klitta som en anabolakuk\nOch sv\u00e4nger den r\u00f6da skynket som fladdrar i vinden\nOch flaggan som vajar och kladdande fradga p\u00e5 kinden, shhh\nJag \u00e4r metallisk rakblad, smaka min tunga\nSom jag kommer att hugga rakt fr\u00e5n munnen som rabieshundar\nL\u00e4tt garderad med ett artilleri\nSom inte tar, t\u00e4nker eller n\u00e5nsin tatt ditt parti\nAf-af-asi h\u00e5ller v\u00e4ckningsm\u00e4ssa\nI en skoldress ring och k\u00f6r din text\nOch h\u00f6r mig g\u00e4spa som en flodh\u00e4st\nOch n\u00e4r ni springer p\u00e5 gl\u00f6dheta k\u00e4ndisgalor\nK\u00e4nner jag hur det v\u00e4nder i magen\nP\u00e5 grund utav av era k\u00f6nslekar\nSt\u00e5r du i min v\u00e4g s\u00e5 betala v\u00e4nligen tr\u00e4ngselavgift\nOavsett om du \u00e4r moderat eller v\u00e4nsterpartist\nF\u00f6r vi lever i en visslande tid som swishar f\u00f6rbi\nD\u00e4r jag gror i mitten och allt annat vissnar bredvid\n[Hook x2]\nStubin, eld\nTorrt krut och bensin\nShu-shu-shuba-shuba-shuba\nSnus, porr & br\u00e4nnvin\nRitch-ratch-filibom-bom-bom\nExploderar som...\n\n[Verse 2]\nJag blottar min bringa, m\u00e5tte du hinna st\u00e5nga mig\nS\u00e5 kom igen g\u00f6r n\u00e5got motst\u00e5nd innan du \u00e5ngrar dig\nBiter av stora kroppspuls\u00e5dern\nSom transporterar syre \u00e5t hela j\u00e4vla v\u00e4rldens dokus\u00e5per\nDet \u00e4r trist att jobba s\u00e5 jag sitter och joddlar\nOch groggar vodka med diskmedel och fiskleverolja\nR\u00e4tt vad det \u00e4r s\u00e5 g\u00e5r rid\u00e5n i botten, \u00e5 nej\nD\u00e4r st\u00e5r jag och sprakar testosteronet ur kroppen p\u00e5 dig\nBefinner mig sen hoes din bootylicius stora syster\nSom ligger och sover p\u00e5 soffan med h\u00e5ret i toffsar\nSkulle v\u00e4l \u00e5ka dit som en inbrottstjuv som bara vipps dyker upp\nSom en tillbakaspolad simhopps brud\nT\u00e4njer p\u00e5 gr\u00e4nsen n\u00e4r ni fr\u00e4mmande m\u00e4nniskor\nFryser f\u00f6r en propp som har g\u00e5tt i dom fem elementen\nMen jag \u00e4r v\u00e4l f\u00f6rberedd p\u00e5 det som komma skall\nS\u00e5 jag laddar upp och sl\u00e5r tillbaka med ett bombanfall\nYou might also like[Hook]\n\n[Verse 3]\nDu f\u00e5r p\u00e5 k\u00e4ften n\u00e4r vi tagit ett tugg\nOch st\u00e4ller upp dig mot mig med lika beg\u00e5vade lyrik som en harlequin bok\nOm jag n\u00e5nsin faller i avgrunden ja d\u00e5 \u00e5ker jag p\u00e5 v\u00e4rdekortet\nHela j\u00e4vla v\u00e4gen fram till p\u00e4rleporten\nD\u00e4r st. per st\u00e5r och v\u00e4ntar med handen p\u00e5 gallret\nOch en iskall stor stark och en varm hamburgertallrik\nOch ni kan forts\u00e4tta stirra i porrblaskor\nMedan jag skingrar folkmassor som en brinnande Rolf Lassg\u00e5rd\n....\nJag \u00e4r auktorit\u00e4r som skyddsv\u00e4star och polisbrickor\nMedans du \u00e4r nyttig som ryggs\u00e4ckar med mobilfickor\nHerbert kan tricksa och fixa\nHerbert kan micra en pizza\nHerbert kan klippa och klistra och sitta och kissa\nJag tar mig fram l\u00e4tt och smidigt i ett land\nJag skiter i den och br\u00e5kar med allting\nOch l\u00e5ter som Styles P\nMen jag sl\u00e5r mig fast vid och l\u00e5ter det aldrig\nG\u00e5 s\u00e5 l\u00e5ngt att jag talar ut i n\u00e5n veckotidning\nN\u00e4r min skit lackar ut \u00e4r det ni som backar\nOch \u00e5ker likbil, snabbt akut i en kritvit svartkultur\nHaha, sanningen svider jag vet\nMen alla reppar ett skitet land p\u00e5 en liten planet\n[Hook]Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1594728",
+   "artist_names": "Afasi & Filthy",
+   "full_title": "Le Parkour by\u00a0Afasi\u00a0& Filthy",
+   "header_image_thumbnail_url": "https://images.genius.com/57cb2d84e2109050a1d1bbe6b54a3b68.242x242x1.jpg",
+   "header_image_url": "https://images.genius.com/57cb2d84e2109050a1d1bbe6b54a3b68.242x242x1.jpg",
+   "id": 1594728,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Afasi-and-filthy-le-parkour-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Afasi-and-filthy-le-parkour-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/57cb2d84e2109050a1d1bbe6b54a3b68.242x242x1.jpg",
+   "song_art_image_url": "https://images.genius.com/57cb2d84e2109050a1d1bbe6b54a3b68.242x242x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Le Parkour",
+   "title_with_featured": "Le Parkour",
+   "url": "https://genius.com/Afasi-and-filthy-le-parkour-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/356576",
+    "header_image_url": "https://images.genius.com/06b3aec9e4abcee39190035d03dde6ff.666x1000x1.jpg",
+    "id": 356576,
+    "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Afasi & Filthy",
+    "url": "https://genius.com/artists/Afasi-and-filthy"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1594728/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1594728' class='rg_embed_link' data-song-id='1594728'>Read <a href='https://genius.com/Afasi-and-filthy-le-parkour-lyrics'>\u201cLe Parkour\u201d by Afasi\u00a0& Filthy</a> on Genius</div> <script crossorigin src='//genius.com/songs/1594728/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/536016",
+    "cover_art_url": "https://images.genius.com/57cb2d84e2109050a1d1bbe6b54a3b68.242x242x1.jpg",
+    "full_title": "Jag Kunde Inte Bry Mig Mindre - EP by Afasi & Filthy",
+    "id": 536016,
+    "name": "Jag Kunde Inte Bry Mig Mindre - EP",
+    "url": "https://genius.com/albums/Afasi-and-filthy/Jag-kunde-inte-bry-mig-mindre-ep",
+    "artist": {
+     "api_path": "/artists/356576",
+     "header_image_url": "https://images.genius.com/06b3aec9e4abcee39190035d03dde6ff.666x1000x1.jpg",
+     "id": 356576,
+     "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Afasi & Filthy",
+     "url": "https://genius.com/artists/Afasi-and-filthy"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6109497",
+    "classification": "needs_exegesis",
+    "fragment": "Le Parkour",
+    "id": 6109497,
+    "is_description": true,
+    "path": "/6109497/Afasi-and-filthy-le-parkour/Le-parkour",
+    "range": {
+     "content": "Le Parkour"
+    },
+    "song_id": 1594728,
+    "url": "https://genius.com/6109497/Afasi-and-filthy-le-parkour/Le-parkour",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1594728",
+     "client_timestamps": {
+      "updated_by_human_at": 1634766224,
+      "lyrics_updated_at": 1429899021
+     },
+     "context": "Afasi & Filthy",
+     "id": 1594728,
+     "image_url": "https://images.genius.com/57cb2d84e2109050a1d1bbe6b54a3b68.242x242x1.jpg",
+     "link_title": "Le Parkour by\u00a0Afasi\u00a0& Filthy",
+     "title": "Le Parkour",
+     "type": "Song",
+     "url": "https://genius.com/Afasi-and-filthy-le-parkour-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6109497",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6109497,
+      "pinned": false,
+      "share_url": "https://genius.com/6109497",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6109497/Afasi-and-filthy-le-parkour/Le-parkour",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "afasi filthy",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/afasi-filthy/le-parkour"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=d1-fIBh-Mn4"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Afasi & Filthy",
+   "lyrics": "Le Parkour LyricsRefr\nJag trampar \u00f6ver allt som st\u00e5r i min v\u00e4g\n\u00c4nda tills, jag faller omkull eller hur?\nSvetten rinner i nacken, ingen hinner i fatt mig\nN\u00e4r jag springer n\u00e4r jag springer n\u00e4r jag springer\n(g\u00e5 du nu) se vart du g\u00e5r\nJag trampa snett och s\u00e5 f\u00f6ll jag rakt ner i ett h\u00e5l\n\nVers 1\nJag kn\u00f6t mina skor och reste mig upp\nOch tog sen en tv\u00e5 tre snesteg \u00f6ver ett gupp\nHoppade \u00f6ver det stora taket p\u00e5 skolmatsalen\nMed en fot p\u00e5 sopcentralen sedan ner p\u00e5 fotbollsplanen\nOch s\u00e5 vidare med vinden i ryggen\nJag hinner och springer och svetten rinner p\u00e5 ryggen\nJag ilar och rushar mellan bussar och bilar\nVill hem igen s\u00e5 jag f\u00e5r borsta t\u00e4nderna, duscha och vila\nHoppar, skuttar upp \u00f6ver en tegeltrappa\nOch det gick lika fort uppf\u00f6r som i nedf\u00f6rsbackar\nJag blottar min bringa, sliter mitt h\u00e5r\nHar laddat upp min kropp med att springa en mil eller tv\u00e5\nOch trots mina f\u00f6r korta h\u00e4lsener b\u00e4r benen\n\u00d6ver tills dess att tr\u00f6jan \u00e4r bl\u00f6t som en tv\u00e4ttsvamp\nH\u00e4larna var tr\u00f6tta, jag tar stegen p\u00e5 t\u00e5\nJag trampa snett och s\u00e5 f\u00f6ll jag rakt ner i ett h\u00e5l\nRefr\n\nVers 2\n\nJag kn\u00f6t mina skor och reste mig upp\nOch hela j\u00e4vla hj\u00e4rnan var som sn\u00f6 slungades upp\nJag s\u00e5g ett h\u00e5l och tog dom tre stegen dit direkt\nOch v\u00e4xlade historien mellan presens och imperfekt\nPulsen \u00e4r 113 bpm s\u00e5 l\u00e4nge hj\u00e4rtan pumpar blod\nJag fullkomligt flyyyger i mina gympaskor\nK\u00e4nns som dags f\u00f6r en frukost strax\nJag saxade \u00f6ver en bussh\u00e5llsplats p\u00e5 jakt efter n\u00e5tt upp\u00e5tjack\n(tre chokladkakor) det r\u00e4cker med tv\u00e5\nOch vatten f\u00f6r att h\u00f6ja den obefintliga v\u00e4tskeniv\u00e5n\nVers efter vers \u00e4r v\u00e4rst f\u00f6r mina kn\u00e4sk\u00e5lar\nUt p\u00e5 landsbygden och tv\u00e4rs \u00f6ver g\u00e4rdsg\u00e5rdar\nIngen runt omkring som skriker, br\u00e5kar och fl\u00e4nger\nN\u00e4r jag springer \u00f6ver diken, \u00e5krar och \u00e4ngar\n(Vurpar) N\u00e4r man inte ser vart man g\u00e5r\nSkosn\u00f6ret gick upp och jag snubblade ner i ett h\u00e5l\n\n(Afasi och Filthy-y)\n\nRefr\n\nVers 3\nYou might also likeJag kn\u00f6t mina skor och reste mig upp\nOch stod och v\u00e4ntade i en kvart f\u00f6r att h\u00e4mta lite kraft\nMed inst\u00e4llnigen att det du ser du \u00e4r det du f\u00e5r\nJag springer p\u00e5 en motorv\u00e4g, \u00e5t helvete med elljussp\u00e5r\nTre plus tv\u00e5 \u00e4r takten som b\u00f6rjar med tv\u00e5-fots tramp\nOch aldrig slutar som Forrest Gump\nTungan h\u00e4nger i mungipan som en l\u00e5skolv\nJag fl\u00e5sar, andas, fl\u00e5sar f\u00f6r att undvika att f\u00e5 h\u00e5ll\n(Stad efter stad) Land utan min bil\nMen jag kutar beslutsamt med sjumila kliv\nSlutligen v\u00e4nder jag mig om och springer bakl\u00e4nges\nAsl\u00e4nge, allt som syns av mig \u00e4r mina fartr\u00e4nder\n(\u00c5 dammet fr\u00e5n gatan) Jag stannar och pratar\nEn bartender visar mig v\u00e4gen (f\u00f6r han hade kartan)\n\u00d6ver och under, underlaget \u00e4r asfalt, grus och betong, sand, sten, gr\u00e4s, vass, urskog\nMina apostlah\u00e4star l\u00f6per galopp\nTill n\u00e5n Galapagos-\u00f6 d\u00e4r vi travar och l\u00f6per amok\nSpring ner i ett h\u00e5l, spring p\u00e5 klungan\nTillbaka hem, ner i s\u00e4ngen och vakna upp ur dr\u00f6mmen\n\nRefr\n\nOch d\u00e5 trodde jag att du f\u00f6rstog att vi gjorde musiken som den borde va\nOch d\u00e5 trodde jag att du f\u00f6rstog att vi gjorde musiken som den borde va\nOch d\u00e5 trodde jag att du f\u00f6rstog att vi gjorde musiken som den borde va\nOch d\u00e5 trodde jag att du f\u00f6rstog att vi gjorde musiken som den borde vaEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/1933487",
+   "artist_names": "Afasi & Filthy",
+   "full_title": "Hej hej by\u00a0Afasi\u00a0& Filthy",
+   "header_image_thumbnail_url": "https://images.genius.com/e49fe99c1531696f6166b980b28b568c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e49fe99c1531696f6166b980b28b568c.600x599x1.jpg",
+   "id": 1933487,
+   "language": "sv",
+   "lyrics_owner_id": 10652195,
+   "lyrics_state": "complete",
+   "path": "/Afasi-and-filthy-hej-hej-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Afasi-and-filthy-hej-hej-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/e49fe99c1531696f6166b980b28b568c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e49fe99c1531696f6166b980b28b568c.600x599x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Hej hej",
+   "title_with_featured": "Hej hej",
+   "url": "https://genius.com/Afasi-and-filthy-hej-hej-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/356576",
+    "header_image_url": "https://images.genius.com/06b3aec9e4abcee39190035d03dde6ff.666x1000x1.jpg",
+    "id": 356576,
+    "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Afasi & Filthy",
+    "url": "https://genius.com/artists/Afasi-and-filthy"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1933487/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1933487' class='rg_embed_link' data-song-id='1933487'>Read <a href='https://genius.com/Afasi-and-filthy-hej-hej-lyrics'>\u201cHej hej\u201d by Afasi\u00a0& Filthy</a> on Genius</div> <script crossorigin src='//genius.com/songs/1933487/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/202402",
+    "cover_art_url": "https://images.genius.com/e49fe99c1531696f6166b980b28b568c.600x599x1.jpg",
+    "full_title": "Hotell Stress by Afasi & Filthy",
+    "id": 202402,
+    "name": "Hotell Stress",
+    "url": "https://genius.com/albums/Afasi-and-filthy/Hotell-stress",
+    "artist": {
+     "api_path": "/artists/356576",
+     "header_image_url": "https://images.genius.com/06b3aec9e4abcee39190035d03dde6ff.666x1000x1.jpg",
+     "id": 356576,
+     "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Afasi & Filthy",
+     "url": "https://genius.com/artists/Afasi-and-filthy"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6619010",
+    "classification": "needs_exegesis",
+    "fragment": "Hej hej",
+    "id": 6619010,
+    "is_description": true,
+    "path": "/6619010/Afasi-and-filthy-hej-hej/Hej-hej",
+    "range": {
+     "content": "Hej hej"
+    },
+    "song_id": 1933487,
+    "url": "https://genius.com/6619010/Afasi-and-filthy-hej-hej/Hej-hej",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1933487",
+     "client_timestamps": {
+      "updated_by_human_at": 1650990322,
+      "lyrics_updated_at": 1650990322
+     },
+     "context": "Afasi & Filthy",
+     "id": 1933487,
+     "image_url": "https://images.genius.com/e49fe99c1531696f6166b980b28b568c.600x599x1.jpg",
+     "link_title": "Hej hej by\u00a0Afasi\u00a0& Filthy",
+     "title": "Hej hej",
+     "type": "Song",
+     "url": "https://genius.com/Afasi-and-filthy-hej-hej-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6619010",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6619010,
+      "pinned": false,
+      "share_url": "https://genius.com/6619010",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6619010/Afasi-and-filthy-hej-hej/Hej-hej",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Afasi & Filthy",
+   "lyrics": "Hej hej LyricsHej hej allesammans, hj\u00e4rtligt v\u00e4lkomna till Hotell stress\nAfasi & Filthy 2006 mixtape\nS\u00e5 jag sa Hej Hej jag ba' beskriver det livet jag lever idag (dag)\nTa inte f\u00f6r givet att jag river av ett blad (blad)\nOch forts\u00e4tter skriva n\u00e4r jag hotar med min nedl\u00e4ggning\nF\u00f6r det m\u00e5ste ni nog ge mig ers\u00e4ttning\nNu n\u00e4r hela beatet g\u00e5r ticktackticktackbittibombombom\nSl\u00e4pper jag bomben som ritchratchfillifillibombombom\nOch om du t-t\u00e4nker som jag t\u00e4nker du fel (fel)\nF\u00f6r att jag e skev men jag vill ju vara det ditt j\u00e4vla CP\nHur ska du fatta att jag alltid \u00e4r b\u00e4ttre \u00e4n du (du)\nS\u00e4g vad du vill, du kan claima, det \u00e4r fritt, eller Sveriges pyttelilla utbud\nJag har f\u00f6rklaringen och l\u00e4gger fram den svart p\u00e5 vitt\nF\u00f6r att du \u00e4r laid back och jag visar framf\u00f6tterna som Crips\nAlla brottas i kampen (kampen) som \u00e4r h\u00e5rd (h\u00e5rd)\nMen det \u00e4r barabara att spotta fragda, stampa, stampa, sl\u00e5 SL\u00c5\nS\u00e5 det \u00e4r dags att du l\u00e4gger din lilla hatt p\u00e5 hyllan\nInnan jag f\u00f6rvandlar resten av ditt liv till en fattig fylla\nS\u00e5 jag s\u00e4ger hej hej, jag ba beskriver det livet jag lever idag (dag)\nVi lyfter mot toppen i Sverige som ett JASplan\nSkriker och gapar, inleder vant med: hej, hej, hej, hej, hej, hej, hej, hej\nS\u00e5 ja s\u00e4ger hej hej, jag ba beskriver det livet jag lever idag (dag)\nVi lyfter mot toppen i Sverige som ett JASplan\nSkriker och gapar, inleder vant med: hej, hej, hej, hej, hej, hej, hej, hej\n\nJapp Japp, v\u00e5r musik spr\u00e4cker trumhinnor\nOch l\u00e4mnar dig, din snurriga pundare kn\u00e4ckt som en trumpinne\nSverige, tomt p\u00e5 talanger och fullt av gammalt trams\nKanske f\u00f6r att om man ha n\u00e5t att komma med\nJa d\u00e5 g\u00f6r man det n\u00e5n annanstans\nS\u00e5 d\u00e4rf\u00f6r, st\u00e4ll er upp! jag pratar om en hel publik\nS\u00e5 jag kan banka ner alla hatare som en entumsspik\nMest f\u00f6r att jag inte har n\u00e5t' b\u00e4ttre f\u00f6r mig nu\nLedsen, jag \u00e4r nog r\u00e4dd att du g\u00f6r r\u00e4tt i att va avundsjuk\nVissa ber\u00e4ttar om relationer med inga kosing\nOch ger samma kloka intryck som man f\u00e5r av Linda Rosing\nDet blir inget fett f\u00f6r du saknar ditt driv och ditt go\nOch Herbert \u00e4r b\u00e4st s\u00e5 d\u00e5 har du n\u00e5t vettigt att skriva p\u00e5 Whoa!\nA och F, tight skit men du v\u00e4ntar tills slutet\nJag har bajsat i din Yankeeskeps, du nu s\u00e4tter p\u00e5 huvet\nKommer du n\u00e5nstans? sluta du ljuger, jag flyter p\u00e5 djup\nP\u00e5 ytan n\u00e4r ni f\u00f6rliser som skjutglada gutar\n\nS\u00e5 jag s\u00e4ger hej hej, jag ba beskriver det livet jag lever idag (dag)\nVi lyfter mot toppen i Sverige som ett JASplan\nSkriker och gapar, inleder vant med: hej, hej, hej, hej, hej, hej, hej, hej\nS\u00e5 ja s\u00e4ger hej hej, jag ba beskriver det livet jag lever idag (dag)\nVi lyfter mot toppen i Sverige som ett JASplan\nSkriker och gapar, inleder vant med: hej, hej, hej, hej, hej, hej, hej, hej\nYou might also likeAfafafafafafafafafafasi \u00e4r\nInne medan du \u00e4r utanf\u00f6r som n\u00e4r blinda kastar pil\nOch n\u00e4r du v\u00e4l kommer in m\u00f6ts du av annat \u00e4n \"v\u00e4lkommen in\"\n\u00c4ven om till och med haft kunskap och vilja, hade du v\u00e4l inte kunnat t\u00e4vla i rim?\nS\u00e5 vad tj\u00e4nar det till? collaben \u00e4r l\u00e5ngt h\u00e4rifr\u00e5n\nMen gr\u00e5t ej f\u00f6r v\u00e4der och vind f\u00f6r t\u00e5gen dom kommer och g\u00e5r\nMen vissa dom st\u00e5r och h\u00e4nger, bl\u00e4nger l\u00e4ngst bak i lokalen\nOch pratar i baren om att A-fasi \u00e4r galen (galen)\nMen du, (du du du du du) uttalar mitt namn fel\nS\u00e5 be om urs\u00e4kt nu till hela Luthagen som stadsdel\nAndra st\u00e5r p\u00e5 scen och tuggar sin fragda\nMen n\u00e4r allt kommer omkring s\u00e5 \u00e4r dem ingenting annat \u00e4n dubbelt s\u00e5 gamla\nJag s\u00e4ger sanningen som av kallocain\nOch d\u00e5 tappar ni ansiktet som om jag till\u00e4mpat karo-kari\nVi taggar ner och vi n\u00f6jer oss med att claima allt\nTar avst\u00e5nd ifr\u00e5n andra ist\u00e4llet f\u00f6r att jobba p\u00e5 v\u00e5r sj\u00e4lvdistans\n\nS\u00e5 jag s\u00e4ger hej hej, jag ba beskriver det livet jag lever idag (dag)\nVi lyfter mot toppen i Sverige som ett JASplan\nSkriker och gapar, inleder vant med: hej, hej, hej, hej, hej, hej, hej, hej\nS\u00e5 ja s\u00e4ger hej hej, jag ba beskriver det livet jag lever idag (dag)\nVi lyfter mot toppen i Sverige som ett JASplan\nSkriker och gapar, inleder vant med: hej, hej, hej, hej, hej, hej, hej, hejEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2292834",
+   "artist_names": "Afasi & Filthy (Ft. Promoe)",
+   "full_title": "Benen p\u00e5 ryggen by\u00a0Afasi\u00a0& Filthy (Ft.\u00a0Promoe)",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/d8b46b03806a57d7c6882a6ded1b6fb8.237x237x1.png",
+   "header_image_url": "https://images.rapgenius.com/d8b46b03806a57d7c6882a6ded1b6fb8.237x237x1.png",
+   "id": 2292834,
+   "language": "sv",
+   "lyrics_owner_id": 827359,
+   "lyrics_state": "complete",
+   "path": "/Afasi-and-filthy-benen-pa-ryggen-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Afasi-and-filthy-benen-pa-ryggen-sample",
+   "release_date_components": {
+    "year": 2008,
+    "month": 1,
+    "day": 1
+   },
+   "release_date_for_display": "January 1, 2008",
+   "release_date_with_abbreviated_month_for_display": "Jan. 1, 2008",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/d8b46b03806a57d7c6882a6ded1b6fb8.237x237x1.png",
+   "song_art_image_url": "https://images.rapgenius.com/d8b46b03806a57d7c6882a6ded1b6fb8.237x237x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Benen p\u00e5 ryggen",
+   "title_with_featured": "Benen p\u00e5 ryggen (Ft.\u00a0Promoe)",
+   "url": "https://genius.com/Afasi-and-filthy-benen-pa-ryggen-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/9506",
+     "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+     "id": 9506,
+     "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Promoe",
+     "url": "https://genius.com/artists/Promoe"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/356576",
+    "header_image_url": "https://images.genius.com/06b3aec9e4abcee39190035d03dde6ff.666x1000x1.jpg",
+    "id": 356576,
+    "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Afasi & Filthy",
+    "url": "https://genius.com/artists/Afasi-and-filthy"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2292834/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2292834' class='rg_embed_link' data-song-id='2292834'>Read <a href='https://genius.com/Afasi-and-filthy-benen-pa-ryggen-lyrics'>\u201cBenen p\u00e5 ryggen\u201d by Afasi\u00a0& Filthy</a> on Genius</div> <script crossorigin src='//genius.com/songs/2292834/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2008-01-01",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/235328",
+    "cover_art_url": "https://images.genius.com/b29824de91cbb89186049d9fc88dbbe5.400x400x1.jpg",
+    "full_title": "Fl\u00e4cken by Afasi & Filthy",
+    "id": 235328,
+    "name": "Fl\u00e4cken",
+    "url": "https://genius.com/albums/Afasi-and-filthy/Flacken",
+    "artist": {
+     "api_path": "/artists/356576",
+     "header_image_url": "https://images.genius.com/06b3aec9e4abcee39190035d03dde6ff.666x1000x1.jpg",
+     "id": 356576,
+     "image_url": "https://images.genius.com/261e3b39d8392a895c1d8c49c5688349.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Afasi & Filthy",
+     "url": "https://genius.com/artists/Afasi-and-filthy"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 827359,
+    "annotator_login": "Lainerd",
+    "api_path": "/referents/7709312",
+    "classification": "needs_exegesis",
+    "fragment": "Benen p\u00e5 ryggen",
+    "id": 7709312,
+    "is_description": true,
+    "path": "/7709312/Afasi-and-filthy-benen-pa-ryggen/Benen-pa-ryggen",
+    "range": {
+     "content": "Benen p\u00e5 ryggen"
+    },
+    "song_id": 2292834,
+    "url": "https://genius.com/7709312/Afasi-and-filthy-benen-pa-ryggen/Benen-pa-ryggen",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2292834",
+     "client_timestamps": {
+      "updated_by_human_at": 1626710414,
+      "lyrics_updated_at": 1515036205
+     },
+     "context": "Afasi & Filthy",
+     "id": 2292834,
+     "image_url": "https://images.rapgenius.com/d8b46b03806a57d7c6882a6ded1b6fb8.237x237x1.png",
+     "link_title": "Benen p\u00e5 ryggen by\u00a0Afasi\u00a0& Filthy (Ft.\u00a0Promoe)",
+     "title": "Benen p\u00e5 ryggen",
+     "type": "Song",
+     "url": "https://genius.com/Afasi-and-filthy-benen-pa-ryggen-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7709312",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7709312,
+      "pinned": false,
+      "share_url": "https://genius.com/7709312",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7709312/Afasi-and-filthy-benen-pa-ryggen/Benen-pa-ryggen",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/827359",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/tzq8x3mxhw",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/tzq8x3mxhw",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/tzq8x3mxhw",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/tzq8x3mxhw",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/qjdg3bj1hdi",
+         "human_readable_role_for_display": "Contributor",
+         "id": 827359,
+         "iq": 6166,
+         "login": "Lainerd",
+         "name": "Lainerd",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Lainerd",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=HJtrRHJ5YwE"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Afasi & Filthy",
+   "lyrics": "Benen p\u00e5 ryggen Lyrics[Refr\u00e4ng]\nF\u00f6r vi l\u00e4gger\nBenen p\u00e5 ryggen - lite som ett stretchingpass\nBenen p\u00e5 ryggen - handen ner i v\u00e4skan snabbt och\nBenen p\u00e5 ryggen - som att l\u00e4mna landet med ett fejkat pass\nBenen p\u00e5 ryggen, benen p\u00e5 ryggen\nJag sa\nBenen p\u00e5 ryggen - lite som ett stretchingpass\nBenen p\u00e5 ryggen - handen ner i v\u00e4skan snabbt och\nBenen p\u00e5 ryggen - som att l\u00e4mna landet med ett fejkat pass\nBenen p\u00e5 ryggen, benen p\u00e5 ryggen\n[Vers 1: Afasi]\nMitt namn \u00e4r Afasi kollegan heter Filthy\nHar k\u00f6rt i nio \u00e5r s\u00e5 ni f\u00f6rst\u00e5r att det g\u00e5r vilt till\nVi lever ingen l\u00e5tsasv\u00e4rld\nVi leverar som om det genererade mera deg i v\u00e5ran portmon\u00e4\nJag m\u00e5ste andas ut\nHar sprungit landet runt, andf\u00e5dd p\u00e5 dansgolv men jag lovar jag hade kul\nDet kommer mera f\u00f6r vi lever fredag hela m\u00e5nan, hela m\u00e5nan\nInget undantag p\u00e5 v\u00e5rat schema lovar\nJag menar att det du f\u00e5r med den \u00e4r det du s\u00e5g\nSe det stora i det lilla lite som en kemisk drog\nFull p\u00e5 \u00f6l, full p\u00e5 vin, full p\u00e5 sprit, full i fan\nBeter mig som en pacifistisk huligan\nHar man kul g\u00f6r man ofta sig skyldig till n\u00e5t\nMan borde b\u00f6rja med att bygga ett skjul men man bygger ett slott\nTagen p\u00e5 bar g\u00e4rning du st\u00e5r och famlar med ditt legg\nOch du har fyra val stanna stanna eller l\u00e4gg l\u00e4gg\n\n[Refr\u00e4ng]\nBenen p\u00e5 ryggen - lite som ett stretchingpass\nBenen p\u00e5 ryggen - handen ner i v\u00e4skan snabbt och\nBenen p\u00e5 ryggen - som att l\u00e4mna landet med ett fejkat pass\nBenen p\u00e5 ryggen, benen p\u00e5 ryggen\nJag sa\nBenen p\u00e5 ryggen - lite som ett stretchingpass\nBenen p\u00e5 ryggen - handen ner i v\u00e4skan snabbt och\nBenen p\u00e5 ryggen - som att l\u00e4mna landet med ett fejkat pass\nBenen p\u00e5 ryggen, benen p\u00e5 ryggen\nYou might also like[Vers 2: Promoe]\nJag l\u00e4gger benen p\u00e5 ryggen men du ser bara ryggen\nF\u00f6r mina ben sl\u00e5r som trumpinnar mot gatstenen i flykten\nFlyger mot planeten i rymden\nMed benen p\u00e5 ryggen och sk\u00e4gget i pannan och andan i halsen\nJag t\u00e4nker inte stanna, g\u00f6r b\u00e4ngen f\u00f6rbannande\nSvetten lackar, b\u00e4ngen knappar in f\u00f6r varje steg\nKan inte backa bandet, l\u00e4mnar \u00e4nnu ett kvarter\nBakom mitt dammoln kanske vi tv\u00e5 aldrig ses igen\nJag springer bort till indonesien\nL\u00e4gger benen p\u00e5 ryggen som en styckm\u00f6rdare med fj\u00e4llr\u00e4venk\u00e5nken\nL\u00e4gger rimmet p\u00e5 beatet tight som filthy levererar funken\nL\u00e4gger benen p\u00e5 ryggen som tanter som g\u00f6r tantrasex med bekantas-ex\nHar du n\u00e5gon s\u00e5n i din bekantskapskrets\nS\u00e5na fall vet du vad jag snackar om\nAllafall \u00e4r det ord p\u00e5 papper som\nKommer ut ur min mun vilket vacker s\u00e5ng\nHandlar om att springa runt som ett tjackare som\nInte hitta sitt gift i tjack i stan\nM\u00e5ste sticka \u00e5 gitta till pakistan\nHerbert, Magnus, M\u00e5rten, chaa chaa, det \u00e4r faktiskt dom\nMed benen p\u00e5 ryggen som en fegis p\u00e5 rymmen\nEn mediaskyggling som blir jagad medelst tillhyggen\nF\u00f6r jag har sprungit'sen barnsben och jag t\u00e4nker inte stanna \u00e4n p\u00e5 ett tag\nHar lite mer spring i benen s\u00e5 jag\nL\u00e4gger\n[Refr\u00e4ng]\nBenen p\u00e5 ryggen - lite som ett stretchingpass\nBenen p\u00e5 ryggen - handen ner i v\u00e4skan snabbt och\nBenen p\u00e5 ryggen - som att l\u00e4mna landet med ett fejkat pass\nBenen p\u00e5 ryggen, benen p\u00e5 ryggen\nJag sa\nBenen p\u00e5 ryggen - lite som ett stretchingpass\nBenen p\u00e5 ryggen - handen ner i v\u00e4skan snabbt och\nBenen p\u00e5 ryggen - som att l\u00e4mna landet med ett fejkat pass\nBenen p\u00e5 ryggen, benen p\u00e5 ryggen\n(x2)Embed"
+  }
+ ]
+}

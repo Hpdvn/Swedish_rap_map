@@ -1,0 +1,3877 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/73853",
+ "description": {
+  "plain": "Lilla Namo, artist name for Namo Marouf is a Swedish rapper, singer  and songwriter.\n\nIn the summer of 2012 Lilla Namo released her first rap single called Haffa Guzz. The same year she was nominated in the category of hiphop/soul at the Swedish national radio station P3\u2019s P3 Guld-awards in Sweden.\nIn 2013 she appeared in the rapper Petter\u2019s song King from the album B\u00f6rjan p\u00e5 allt, and in 2015 she appeared in the song Vandrar from Petters album Mitt folk. Namo has worked with artists such as Timbuktu, Loop Troop, Linnea Henriksson to name a few.\n\nIn 2013 her EP was released called Tuggare utan gr\u00e4nser. The same year she won New Artist of the year at the P3 Guld-awards and the album also got nominated in the Swedish grammy categories \u201csongwriter of the year\u201d and \u201cNew Artist of the year\u201d. Lilla Namo has been named \u201cthe best songsriter of the year\u201d by the Swedish Music journalist Jan Gradvall.\n\n5 years later, in 2018, Lilla Namo made a comeback and released her second EP called BEEP BEEP, produced by Australien Swick. Lilla Namo chose to have one guest on the album, Kamohelo from the group Off the Meds.\n\nShe is currently working on new material."
+ },
+ "facebook_name": "lilnamo",
+ "followers_count": 2,
+ "header_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+ "id": 73853,
+ "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+ "instagram_name": "lillanamo",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Lilla Namo",
+ "translation_artist": false,
+ "twitter_name": "lillanamo",
+ "url": "https://genius.com/artists/Lilla-namo",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4024279,
+  "annotator_login": "NamoMarouf",
+  "api_path": "/referents/6987747",
+  "classification": "unreviewed",
+  "fragment": "Lilla Namo",
+  "id": 6987747,
+  "is_description": true,
+  "path": "/6987747/Lilla-namo/Lilla-namo",
+  "range": {
+   "content": "Lilla Namo"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6987747/Lilla-namo/Lilla-namo",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/73853",
+   "context": null,
+   "id": 73853,
+   "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+   "link_title": "Lilla Namo",
+   "title": "Lilla Namo",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Lilla-namo"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6987747",
+    "body": {
+     "plain": "Lilla Namo, artist name for Namo Marouf is a Swedish rapper, singer  and songwriter.\n\nIn the summer of 2012 Lilla Namo released her first rap single called Haffa Guzz. The same year she was nominated in the category of hiphop/soul at the Swedish national radio station P3\u2019s P3 Guld-awards in Sweden.\nIn 2013 she appeared in the rapper Petter\u2019s song King from the album B\u00f6rjan p\u00e5 allt, and in 2015 she appeared in the song Vandrar from Petters album Mitt folk. Namo has worked with artists such as Timbuktu, Loop Troop, Linnea Henriksson to name a few.\n\nIn 2013 her EP was released called Tuggare utan gr\u00e4nser. The same year she won New Artist of the year at the P3 Guld-awards and the album also got nominated in the Swedish grammy categories \u201csongwriter of the year\u201d and \u201cNew Artist of the year\u201d. Lilla Namo has been named \u201cthe best songsriter of the year\u201d by the Swedish Music journalist Jan Gradvall.\n\n5 years later, in 2018, Lilla Namo made a comeback and released her second EP called BEEP BEEP, produced by Australien Swick. Lilla Namo chose to have one guest on the album, Kamohelo from the group Off the Meds.\n\nShe is currently working on new material."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 6987747,
+    "pinned": false,
+    "share_url": "https://genius.com/6987747",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/6987747/Lilla-namo/Lilla-namo",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4024279",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/7b2752556d5c590a36ab3cd8e94062f2",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/7b2752556d5c590a36ab3cd8e94062f2",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/7b2752556d5c590a36ab3cd8e94062f2",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/7b2752556d5c590a36ab3cd8e94062f2",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/FyXoNqWSMqK1L7gyabQb_OUT%F0%9F%8C%B9NOW!%0A%0A%23lillanamof%C3%B6rl%C3%A5t%0A%F0%9F%93%B8%3A%20%40isabellhojman%0AProd%3A%20%40kooliat.jpg",
+       "human_readable_role_for_display": null,
+       "id": 4024279,
+       "iq": 271,
+       "login": "NamoMarouf",
+       "name": "NamoMarouf",
+       "role_for_display": null,
+       "url": "https://genius.com/NamoMarouf",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/226396",
+   "artist_names": "Lilla Namo",
+   "full_title": "Badman by\u00a0Lilla\u00a0Namo",
+   "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "header_image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "id": 226396,
+   "language": "sv",
+   "lyrics_owner_id": 234091,
+   "lyrics_state": "complete",
+   "path": "/Lilla-namo-badman-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Lilla-namo-badman-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "song_art_image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 7687
+   },
+   "title": "Badman",
+   "title_with_featured": "Badman",
+   "url": "https://genius.com/Lilla-namo-badman-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/73853",
+    "header_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+    "id": 73853,
+    "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilla Namo",
+    "url": "https://genius.com/artists/Lilla-namo"
+   },
+   "apple_music_id": "700051438",
+   "apple_music_player_url": "https://genius.com/songs/226396/apple_music_player",
+   "description": {
+    "plain": "Sp\u00e5r 4 fr\u00e5n Lilla Namo\u2019s debut EP \u201cTuggare Utan Gr\u00e4nser\u201d."
+   },
+   "embed_content": "<div id='rg_embed_link_226396' class='rg_embed_link' data-song-id='226396'>Read <a href='https://genius.com/Lilla-namo-badman-lyrics'>\u201cBadman\u201d by Lilla\u00a0Namo</a> on Genius</div> <script crossorigin src='//genius.com/songs/226396/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/46348",
+    "cover_art_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+    "full_title": "Tuggare Utan Gr\u00e4nser EP by Lilla Namo",
+    "id": 46348,
+    "name": "Tuggare Utan Gr\u00e4nser EP",
+    "url": "https://genius.com/albums/Lilla-namo/Tuggare-utan-granser-ep",
+    "artist": {
+     "api_path": "/artists/73853",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+     "id": 73853,
+     "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilla Namo",
+     "url": "https://genius.com/artists/Lilla-namo"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 234091,
+    "annotator_login": "AABE",
+    "api_path": "/referents/3676595",
+    "classification": "accepted",
+    "fragment": "Badman",
+    "id": 3676595,
+    "is_description": true,
+    "path": "/3676595/Lilla-namo-badman/Badman",
+    "range": {
+     "content": "Badman"
+    },
+    "song_id": 226396,
+    "url": "https://genius.com/3676595/Lilla-namo-badman/Badman",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/226396",
+     "client_timestamps": {
+      "updated_by_human_at": 1476196696,
+      "lyrics_updated_at": 1425912270
+     },
+     "context": "Lilla Namo",
+     "id": 226396,
+     "image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+     "link_title": "Badman by\u00a0Lilla\u00a0Namo",
+     "title": "Badman",
+     "type": "Song",
+     "url": "https://genius.com/Lilla-namo-badman-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3676595",
+      "body": {
+       "plain": "Sp\u00e5r 4 fr\u00e5n Lilla Namo\u2019s debut EP \u201cTuggare Utan Gr\u00e4nser\u201d."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3676595,
+      "pinned": false,
+      "share_url": "https://genius.com/3676595",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3676595/Lilla-namo-badman/Badman",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/234091",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/928ccf760b656873599d28c4db7e9fca",
+         "human_readable_role_for_display": "Contributor",
+         "id": 234091,
+         "iq": 9579,
+         "login": "AABE",
+         "name": "AABE",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AABE",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:18CkUrP3DrQk4uTjW7Z40w",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/18CkUrP3DrQk4uTjW7Z40w"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Lilla Namo",
+   "lyrics": "Badman Lyrics[Refr\u00e4ng x2]\nF\u00f6r hon e badman, riktigt highwon\nIngen smutsig j\u00e4vel bara riktig halal\nF\u00f6r hon e badman, riktig highwon\nEy Lilla Namo, Emir Youthman\n\n[Vers 1]\nMitt namn \u00e4r Namo du kan kalla mig f\u00f6r Lilla\nLyssnade p\u00e5 Shabba Ranks sen p\u00e5 J Dilla\nH\u00f6gutbildad, KTH skillad\nJag e guzz, jag e killa som vanligt i Manila\nKolla in min syrra guzzen hon \u00e4r riktig boss\nHon kan ge dig box om du tjafsar med oss\nHon \u00e4r intellektuell som en riktig madmoiselle\nHon har h\u00f6gskolepo\u00e4ng mer \u00e4n 500 men\n[Brygga]\nVi ska ta \u00f6ver smider planer\nDet \u00e4r s\u00e5 vi glider sultaner, vi kn\u00e4pper i membranen\nVi bockar, vi bugar vi heter duga mannen vad ska jag ljuga\n\n[Refr\u00e4ng x2]\n\n[Vers 2]\nMitt namn \u00e4r Lilla ingen smutsig fucking j\u00e4vel\nJ\u00e4vligt mycket guzz, bara snippa ingen snabel\nSnubben e du galen, min rap den \u00e4r galen\nSnubben \u00e4r helt tagen f\u00f6r han vet att jag har den\nJe ne sais pas pourquoi mon fr\u00e8re\nDu kollar p\u00e5 mig som att jag vore dessert\nBadman \u00e4r vulg\u00e4r, han ba jag \u00e4r miljard\u00e4r\nTar fram mitt gev\u00e4r och lossar mot hans art\u00e4r\n\n[Brygga/Refr\u00e4ng x2]You might also likeEmbed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/226611",
+   "artist_names": "Lilla Namo",
+   "full_title": "Haffa Guzz by\u00a0Lilla\u00a0Namo",
+   "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "header_image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "id": 226611,
+   "language": "sv",
+   "lyrics_owner_id": 234091,
+   "lyrics_state": "complete",
+   "path": "/Lilla-namo-haffa-guzz-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Lilla-namo-haffa-guzz-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 9,
+    "day": 26
+   },
+   "release_date_for_display": "September 26, 2013",
+   "release_date_with_abbreviated_month_for_display": "Sep. 26, 2013",
+   "song_art_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "song_art_image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 7172
+   },
+   "title": "Haffa Guzz",
+   "title_with_featured": "Haffa Guzz",
+   "url": "https://genius.com/Lilla-namo-haffa-guzz-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/73853",
+    "header_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+    "id": 73853,
+    "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilla Namo",
+    "url": "https://genius.com/artists/Lilla-namo"
+   },
+   "apple_music_id": "700051445",
+   "apple_music_player_url": "https://genius.com/songs/226611/apple_music_player",
+   "description": {
+    "plain": "Sp\u00e5r 5 och Lilla Namo\u2019s debutsingel fr\u00e5n hennes debut EP \u201cTuggare Utan Gr\u00e4nser\u201d."
+   },
+   "embed_content": "<div id='rg_embed_link_226611' class='rg_embed_link' data-song-id='226611'>Read <a href='https://genius.com/Lilla-namo-haffa-guzz-lyrics'>\u201cHaffa Guzz\u201d by Lilla\u00a0Namo</a> on Genius</div> <script crossorigin src='//genius.com/songs/226611/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-09-26",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/46348",
+    "cover_art_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+    "full_title": "Tuggare Utan Gr\u00e4nser EP by Lilla Namo",
+    "id": 46348,
+    "name": "Tuggare Utan Gr\u00e4nser EP",
+    "url": "https://genius.com/albums/Lilla-namo/Tuggare-utan-granser-ep",
+    "artist": {
+     "api_path": "/artists/73853",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+     "id": 73853,
+     "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilla Namo",
+     "url": "https://genius.com/artists/Lilla-namo"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 234091,
+    "annotator_login": "AABE",
+    "api_path": "/referents/3677145",
+    "classification": "accepted",
+    "fragment": "Haffa Guzz",
+    "id": 3677145,
+    "is_description": true,
+    "path": "/3677145/Lilla-namo-haffa-guzz/Haffa-guzz",
+    "range": {
+     "content": "Haffa Guzz"
+    },
+    "song_id": 226611,
+    "url": "https://genius.com/3677145/Lilla-namo-haffa-guzz/Haffa-guzz",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/226611",
+     "client_timestamps": {
+      "updated_by_human_at": 1609588580,
+      "lyrics_updated_at": 1409422102
+     },
+     "context": "Lilla Namo",
+     "id": 226611,
+     "image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+     "link_title": "Haffa Guzz by\u00a0Lilla\u00a0Namo",
+     "title": "Haffa Guzz",
+     "type": "Song",
+     "url": "https://genius.com/Lilla-namo-haffa-guzz-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3677145",
+      "body": {
+       "plain": "Sp\u00e5r 5 och Lilla Namo\u2019s debutsingel fr\u00e5n hennes debut EP \u201cTuggare Utan Gr\u00e4nser\u201d."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3677145,
+      "pinned": false,
+      "share_url": "https://genius.com/3677145",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3677145/Lilla-namo-haffa-guzz/Haffa-guzz",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/234091",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/928ccf760b656873599d28c4db7e9fca",
+         "human_readable_role_for_display": "Contributor",
+         "id": 234091,
+         "iq": 9579,
+         "login": "AABE",
+         "name": "AABE",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AABE",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:1wnk3fXw1oQr9urMBZ1lH5",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/1wnk3fXw1oQr9urMBZ1lH5"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/74538",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 74538,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Up To No Good",
+     "url": "https://genius.com/artists/Up-to-no-good"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Lilla Namo",
+   "lyrics": "Haffa Guzz Lyrics[Refr\u00e4ng x2]\nHaffa haffa guzz, haffa haffa guzz guzz x3\nHaffa guzz, haffa haffa haffa guzz\nHaffa guzz p\u00e5 heltid\n\n[Vers 1]\nOm jag va snubbe hade haffat guzz p\u00e5 heltid\nGuzzarna i Stockholm fina, Angelina Jolie\nJag hade haffat p\u00e5 v\u00e4g till skolan, tunnelbanan\nJag hade haffat guzz klubben, fredag l\u00f6rdag s\u00f6ndag\nJag hade haffat k\u00e4ndisguzz, skriverier\nFinkl\u00e4dd, luktar gott, Jean Paul Gaultier\nJag hade haffat guzz med pitbullterrier\nIngen hade stoppat mig nej, terminator\nJag hade haffat guzz p\u00e5 FootLocker, Gallerian\nHade haffat guzz n\u00e4r jag k\u00e4ka, pizzerian\nHade haffat guzz n\u00e4r jag r\u00f6kte, paranoian\nHade haffat halvflummig guzz, yin och yang men\nKom inte n\u00e4ra f\u00f6r jag ringer upp min badman\nJag \u00e4r inte snubben [?] guzz, alltid heltid\nSnubbar fett jobbiga, juletid g\u00e5 ner i din arbetstid\nHaffa guzz deltid\n[Refr\u00e4ng x2]\n\n[Vers 2]\nOm jag var snubbe hade haffat guzz hela tiden\nHade haffat guzz n\u00e4r jag satte bilen n\u00e4r vi glider\nJag hade haffat guzz i orten, grillen\nHade haffat guzz som Michael Jackson, Thriller\nJag hade haffat guzz hoes l\u00e4karen, v\u00e4ntrum\nHade haffat guzz n\u00e4r jag beckna, centrum\nJag hade haffat guzzen p\u00e5 ditt jobb, i ditt fikarum\nHade haffat innestadsguzz, spektrum\nJag hade haffat guzz p\u00e5 Facebook, chattrum\nHade haffat guzzen i ditt sovrum, frugan\nHade haffat guzz n\u00e4r jag tv\u00e4ttade stugan\nIngen hade stoppat mig nej, Don Juan\nHaffa inte guzz hela tiden, big mac\nIngen Morrison \u00e5terv\u00e4ndo, flashback\nSnubben du e i Stockholm inte USA, jetlag\nIngen vill ha l\u00e5tsas vara thug life, 2 Pac\n\n[Refr\u00e4ng x4]You might also like2Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/226655",
+   "artist_names": "Lilla Namo",
+   "full_title": "H\u00f6j Volymen by\u00a0Lilla\u00a0Namo",
+   "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "header_image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "id": 226655,
+   "language": "sv",
+   "lyrics_owner_id": 234091,
+   "lyrics_state": "complete",
+   "path": "/Lilla-namo-hoj-volymen-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Lilla-namo-hoj-volymen-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 9,
+    "day": 26
+   },
+   "release_date_for_display": "September 26, 2013",
+   "release_date_with_abbreviated_month_for_display": "Sep. 26, 2013",
+   "song_art_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "song_art_image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 6902
+   },
+   "title": "H\u00f6j Volymen",
+   "title_with_featured": "H\u00f6j Volymen",
+   "url": "https://genius.com/Lilla-namo-hoj-volymen-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/73853",
+    "header_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+    "id": 73853,
+    "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilla Namo",
+    "url": "https://genius.com/artists/Lilla-namo"
+   },
+   "apple_music_id": "700051456",
+   "apple_music_player_url": "https://genius.com/songs/226655/apple_music_player",
+   "description": {
+    "plain": "Sp\u00e5r 6 fr\u00e5n Lilla Namo\u2019s debut EP \u201cTuggare Utan Gr\u00e4nser\u201d."
+   },
+   "embed_content": "<div id='rg_embed_link_226655' class='rg_embed_link' data-song-id='226655'>Read <a href='https://genius.com/Lilla-namo-hoj-volymen-lyrics'>\u201cH\u00f6j Volymen\u201d by Lilla\u00a0Namo</a> on Genius</div> <script crossorigin src='//genius.com/songs/226655/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-09-26",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/46348",
+    "cover_art_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+    "full_title": "Tuggare Utan Gr\u00e4nser EP by Lilla Namo",
+    "id": 46348,
+    "name": "Tuggare Utan Gr\u00e4nser EP",
+    "url": "https://genius.com/albums/Lilla-namo/Tuggare-utan-granser-ep",
+    "artist": {
+     "api_path": "/artists/73853",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+     "id": 73853,
+     "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilla Namo",
+     "url": "https://genius.com/artists/Lilla-namo"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 234091,
+    "annotator_login": "AABE",
+    "api_path": "/referents/3677180",
+    "classification": "accepted",
+    "fragment": "H\u00f6j Volymen",
+    "id": 3677180,
+    "is_description": true,
+    "path": "/3677180/Lilla-namo-hoj-volymen/Hoj-volymen",
+    "range": {
+     "content": "H\u00f6j Volymen"
+    },
+    "song_id": 226655,
+    "url": "https://genius.com/3677180/Lilla-namo-hoj-volymen/Hoj-volymen",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/226655",
+     "client_timestamps": {
+      "updated_by_human_at": 1510322375,
+      "lyrics_updated_at": 1510322375
+     },
+     "context": "Lilla Namo",
+     "id": 226655,
+     "image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+     "link_title": "H\u00f6j Volymen by\u00a0Lilla\u00a0Namo",
+     "title": "H\u00f6j Volymen",
+     "type": "Song",
+     "url": "https://genius.com/Lilla-namo-hoj-volymen-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3677180",
+      "body": {
+       "plain": "Sp\u00e5r 6 fr\u00e5n Lilla Namo\u2019s debut EP \u201cTuggare Utan Gr\u00e4nser\u201d."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3677180,
+      "pinned": false,
+      "share_url": "https://genius.com/3677180",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3677180/Lilla-namo-hoj-volymen/Hoj-volymen",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/234091",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/928ccf760b656873599d28c4db7e9fca",
+         "human_readable_role_for_display": "Contributor",
+         "id": 234091,
+         "iq": 9579,
+         "login": "AABE",
+         "name": "AABE",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AABE",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:0syrVcqLQMBMbj8VbthLA7",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/0syrVcqLQMBMbj8VbthLA7"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Lilla Namo",
+   "lyrics": "H\u00f6j Volymen Lyrics[Intro]\nDet \u00e4r Lilla Namo, morre\nUp to no good\n\n[Vers 1]\nJalla h\u00f6j volymen om du k\u00e4nner f\u00f6r o tugga\nH\u00f6j upp den s\u00e5 mycket dina \u00f6ron b\u00f6rjar ryka\nAina dom \u00e4r bakom dig din bil har f\u00e5tt en skugga\nH\u00f6j volymen du h\u00f6r inte n\u00e4r dom visslar, woop woop\nDet \u00e4r ljudet fr\u00e5n polisen, back inte bak du h\u00f6r inte bl\u00e5ljusen\nK\u00f6r bara 50 i timmen du kan inte \u00e5ka dit len\nStoppar dig \u00e4nd\u00e5 sv\u00e4ng v\u00e4nster vid h\u00f6ghusen (Abow)\nOh ho, konstapeln s\u00e4g mig vad \u00e4r dealen?\nHan ba; Hum, du har v\u00e4rsta fina bilen\nV\u00e4ldigt v\u00e4rdefull har du p\u00e5br\u00e5 fr\u00e5n Syrien?\n\u00c4ger du en kiosk eller bara efterbliven f\u00f6r\nDu kan inte lura oss, nej vi vet att du k\u00f6r svart taxi, extrajobb\nS\u00e4nk din radio innan jag kallar p\u00e5 backup\nSockertopp jag s\u00e4nker \u00e5t dig, f\u00f6r det \u00e4r f\u00f6r mycket hip-hop\n[Refr\u00e4ng x2]\nH\u00f6j upp volymen s\u00e5 h\u00f6gt att det blir \u00e4ckligt\nH\u00f6j upp volymen s\u00e5 h\u00f6gt att det blir \u00e4ckligt\nH\u00f6j upp volymen s\u00e5 h\u00f6gt att det blir \u00e4ckligt\n\u00c4r du deli lo, r\u00f6r inte min stereo\nFuck it\n\n[Vers 2]\nFuck vad han g\u00f6r mig lack\nLangar lite ortsnack han fattar inte ett skvatt\nJag ba lyssna \u00e4r du deli lo r\u00f6r inte min stereo\nDen skivan \u00e4r fr\u00e5n 92\u2019 men aina han bara klick p\u00e5\nJalla sluta stoppa s\u00e5nna du g\u00f6r ingenting vettigt f\u00f6r\nVi som bara ville tugga i v\u00e5r ort , aha\nVi som bara ville tugga i v\u00e5r ort\nFett on\u00f6digt stoppa inte dem, de har tillr\u00e4ckligt f\u00f6r\nVissa snubbar dem har ingen syssels\u00e4ttning\nA-Kassa, arbetsl\u00f6s utan n\u00e5gon ers\u00e4ttning\nBor hemma fortfarande n\u00e4r dem fyllt 30\nInget SL-kort bara broshans S60 men\nVi som bara ville tugga i v\u00e5r ort, aha\nVi som bara ville tugga i v\u00e5r ort\nFett on\u00f6digt stoppa inte dem, de har tillr\u00e4ckligt f\u00f6r\nS\u00e5 h\u00f6j upp volymen s\u00e5 h\u00f6gt att det blir \u00e4ckligt\n\n[Refr\u00e4ng x2]\nH\u00f6j upp volymen s\u00e5 h\u00f6gt att det blir \u00e4ckligt\nH\u00f6j upp volymen s\u00e5 h\u00f6gt att det blir \u00e4ckligt\nH\u00f6j upp volymen s\u00e5 h\u00f6gt att det blir \u00e4ckligt\n\u00c4r du deli lo, r\u00f6r inte min stereo\nFuck it\nYou might also like[Stick]\nKolla runt h\u00e4r du ser bara h\u00f6ghus\nJag har r\u00e4knat ut vart jag ska st\u00e5 s\u00e5 det blir h\u00f6gljutt\nS\u00e5 hela orten ekar men vill inte ha n\u00e5gon ekare\nF\u00f6r golare har inga polare, ni blir nekade\nGolare har inga polare, fattar du\nNi golar ner volymen, ni blir hotade, tagga nu\nGolare har inga polare, s\u00e5 vi ringer runt\nF\u00f6r att gola ner alla golare, fattar du\n\n[Refr\u00e4ng x2]\nH\u00f6j upp volymen s\u00e5 h\u00f6gt att det blir \u00e4ckligt\nH\u00f6j upp volymen s\u00e5 h\u00f6gt att det blir \u00e4ckligt\nH\u00f6j upp volymen s\u00e5 h\u00f6gt att det blir \u00e4ckligt\n\u00c4r du deli lo, r\u00f6r inte min stereo\nFuck itEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2926881",
+   "artist_names": "Lilla Namo",
+   "full_title": "F\u00f6rl\u00e5t by\u00a0Lilla\u00a0Namo",
+   "header_image_thumbnail_url": "https://images.genius.com/a604602cbb1ab6f0d04eb89c41806b09.300x111x1.jpg",
+   "header_image_url": "https://images.genius.com/a604602cbb1ab6f0d04eb89c41806b09.851x315x1.jpg",
+   "id": 2926881,
+   "language": "sv",
+   "lyrics_owner_id": 4024279,
+   "lyrics_state": "complete",
+   "path": "/Lilla-namo-forlat-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Lilla-namo-forlat-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 12,
+    "day": 2
+   },
+   "release_date_for_display": "December 2, 2016",
+   "release_date_with_abbreviated_month_for_display": "Dec. 2, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/b502099a081d6d86b17326f02f87bfd8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b502099a081d6d86b17326f02f87bfd8.400x400x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "F\u00f6rl\u00e5t",
+   "title_with_featured": "F\u00f6rl\u00e5t",
+   "url": "https://genius.com/Lilla-namo-forlat-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/73853",
+    "header_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+    "id": 73853,
+    "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilla Namo",
+    "url": "https://genius.com/artists/Lilla-namo"
+   },
+   "apple_music_id": "1176074766",
+   "apple_music_player_url": "https://genius.com/songs/2926881/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2926881' class='rg_embed_link' data-song-id='2926881'>Read <a href='https://genius.com/Lilla-namo-forlat-lyrics'>\u201cF\u00f6rl\u00e5t\u201d by Lilla\u00a0Namo</a> on Genius</div> <script crossorigin src='//genius.com/songs/2926881/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-12-02",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4024279,
+    "annotator_login": "NamoMarouf",
+    "api_path": "/referents/10970060",
+    "classification": "needs_exegesis",
+    "fragment": "F\u00f6rl\u00e5t",
+    "id": 10970060,
+    "is_description": true,
+    "path": "/10970060/Lilla-namo-forlat/Forlat",
+    "range": {
+     "content": "F\u00f6rl\u00e5t"
+    },
+    "song_id": 2926881,
+    "url": "https://genius.com/10970060/Lilla-namo-forlat/Forlat",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2926881",
+     "client_timestamps": {
+      "updated_by_human_at": 1481149427,
+      "lyrics_updated_at": 1481149164
+     },
+     "context": "Lilla Namo",
+     "id": 2926881,
+     "image_url": "https://images.genius.com/b502099a081d6d86b17326f02f87bfd8.400x400x1.jpg",
+     "link_title": "F\u00f6rl\u00e5t by\u00a0Lilla\u00a0Namo",
+     "title": "F\u00f6rl\u00e5t",
+     "type": "Song",
+     "url": "https://genius.com/Lilla-namo-forlat-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10970060",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10970060,
+      "pinned": false,
+      "share_url": "https://genius.com/10970060",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10970060/Lilla-namo-forlat/Forlat",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4024279",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/7b2752556d5c590a36ab3cd8e94062f2",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/7b2752556d5c590a36ab3cd8e94062f2",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/7b2752556d5c590a36ab3cd8e94062f2",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/7b2752556d5c590a36ab3cd8e94062f2",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/FyXoNqWSMqK1L7gyabQb_OUT%F0%9F%8C%B9NOW!%0A%0A%23lillanamof%C3%B6rl%C3%A5t%0A%F0%9F%93%B8%3A%20%40isabellhojman%0AProd%3A%20%40kooliat.jpg",
+         "human_readable_role_for_display": null,
+         "id": 4024279,
+         "iq": 271,
+         "login": "NamoMarouf",
+         "name": "NamoMarouf",
+         "role_for_display": null,
+         "url": "https://genius.com/NamoMarouf",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1042706",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1042706,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Elias Kapari",
+     "url": "https://genius.com/artists/Elias-kapari"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1042707",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1042707,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Namo Marouf",
+     "url": "https://genius.com/artists/Namo-marouf"
+    }
+   ],
+   "artist": "Lilla Namo",
+   "lyrics": "F\u00f6rl\u00e5t LyricsVers 1:\nAllt som har varit\nAllt \u00e4r som vanligt\nMen det sitter kvar i mina axlar\n\nJag vill axa\nBadar i aska\nM\u00e5ste br\u00e4nna det som varit vi\n\nBrygga:\nDet har tagit mig ett tag att komma dit jag ska\nDet varit virvelvindar och sm\u00e5 andetag\nVi som isbitar ingenting kan fastna kvar\nMen du fastna kvar\nRefr:\nFuck allt det d\u00e4r som har varit\nSvor \u00e5t dig log \u00e5t dig; ingenting har tagit\nF\u00f6rl\u00e5t f\u00f6r mitt beteende\nJag gjorde s\u00e5nt\u2019 jag inte menade\n\nFuck allt det d\u00e4r som har varit\nSvor \u00e5t dig log \u00e5t dig; ingenting har tagit\nF\u00f6rl\u00e5t f\u00f6r mitt beteende\nJag gjorde s\u00e5nt\u2019 jag inte menade\n\nVers2:\nVill ge sk\u00e4l f\u00f6r\nVad \u00e4r vi h\u00e4r f\u00f6r?\nOm man aldrig kan f\u00e5 fela\n\nVill byta m\u00f6nster\nSmutsiga f\u00f6nster\nDu aldrig fattat det jag menat\n\nBrygga:\nDet har tagit mig ett tag att komma dit jag ska\nDet varit virvelvindar och sm\u00e5 andetag\nVi som isbitar ingenting kan fastna kvar\nMen du fastna kvar\nYou might also likeRefr:\nFuck allt det d\u00e4r som har varit\nSvor \u00e5t dig log \u00e5t dig; ingenting har tagit\nF\u00f6rl\u00e5t f\u00f6r mitt beteende\nJag gjorde s\u00e5nt\u2019 jag inte menade\n\nFuck allt det d\u00e4r som har varit\nSvor \u00e5t dig log \u00e5t dig; ingenting har tagit\nF\u00f6rl\u00e5t f\u00f6r mitt beteende\nJag gjorde s\u00e5nt\u2019 jag inte menade\n\nMellansnack:\nVi g\u00f6r framtid, baserat p\u00e5 f\u00f6reg\u00e5ende handling\nInget f\u00f6rg\u00e4ves allt blir en del av oss, sanning\nDet vi l\u00e4rt oss skapar tyngd i v\u00e5r ryggs\u00e4ck\nJag b\u00e4r mig med stolthet\n\nRefr:\nFuck allt det d\u00e4r som har varit\nSvor \u00e5t dig log \u00e5t dig; ingenting har tagit\nF\u00f6rl\u00e5t f\u00f6r mitt beteende\nJag gjorde s\u00e5nt\u2019 jag inte menade\n\nFuck allt det d\u00e4r som har varit\nSvor \u00e5t dig log \u00e5t dig; ingenting har tagit\nF\u00f6rl\u00e5t f\u00f6r mitt beteende\nJag gjorde s\u00e5nt\u2019 jag inte menade\nGjorde s\u00e5nt\u2019 jag inte menade\nGjorde s\u00e5nt\u2019 jag inte menade1Embed"
+  },
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/226712",
+   "artist_names": "Lilla Namo (Ft. JaQe & Linnea Henriksson)",
+   "full_title": "Alla Fel P\u00e5 Samma G\u00e5ng by\u00a0Lilla\u00a0Namo (Ft.\u00a0JaQe & Linnea\u00a0Henriksson)",
+   "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "header_image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "id": 226712,
+   "language": "sv",
+   "lyrics_owner_id": 234091,
+   "lyrics_state": "complete",
+   "path": "/Lilla-namo-alla-fel-pa-samma-gang-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Lilla-namo-alla-fel-pa-samma-gang-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 9,
+    "day": 26
+   },
+   "release_date_for_display": "September 26, 2013",
+   "release_date_with_abbreviated_month_for_display": "Sep. 26, 2013",
+   "song_art_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "song_art_image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "stats": {
+    "accepted_annotations": 3,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Alla Fel P\u00e5 Samma G\u00e5ng",
+   "title_with_featured": "Alla Fel P\u00e5 Samma G\u00e5ng (Ft.\u00a0JaQe & Linnea\u00a0Henriksson)",
+   "url": "https://genius.com/Lilla-namo-alla-fel-pa-samma-gang-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/69041",
+     "header_image_url": "https://images.genius.com/03d7c53e8daa71d695b1f341d5b9619a.1000x274x1.jpg",
+     "id": 69041,
+     "image_url": "https://images.genius.com/1ae60d549b79c8b926f5a472ddd19d5e.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Linnea Henriksson",
+     "url": "https://genius.com/artists/Linnea-henriksson"
+    },
+    {
+     "api_path": "/artists/24305",
+     "header_image_url": "https://images.genius.com/dece0a3836f5be480e882cc6377a66e8.350x235x1.png",
+     "id": 24305,
+     "image_url": "https://images.genius.com/dece0a3836f5be480e882cc6377a66e8.350x235x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JaQe",
+     "url": "https://genius.com/artists/Jaqe"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/73853",
+    "header_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+    "id": 73853,
+    "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilla Namo",
+    "url": "https://genius.com/artists/Lilla-namo"
+   },
+   "apple_music_id": "700051494",
+   "apple_music_player_url": "https://genius.com/songs/226712/apple_music_player",
+   "description": {
+    "plain": "Sp\u00e5r 7 fr\u00e5n Lilla Namo\u2019s debut EP \u201cTuggare Utan Gr\u00e4nser\u201d.\n\nFEATURING Sveriges kanske hetaste hip-hop profil denna h\u00f6st, Jaqe och Linnea Henriksson som blommade ut ifjol med sitt debutalbum \u201cTill Mina \u00c4lskare och \u00c4lskade\u201d."
+   },
+   "embed_content": "<div id='rg_embed_link_226712' class='rg_embed_link' data-song-id='226712'>Read <a href='https://genius.com/Lilla-namo-alla-fel-pa-samma-gang-lyrics'>\u201cAlla Fel P\u00e5 Samma G\u00e5ng\u201d by Lilla\u00a0Namo</a> on Genius</div> <script crossorigin src='//genius.com/songs/226712/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-09-26",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/46348",
+    "cover_art_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+    "full_title": "Tuggare Utan Gr\u00e4nser EP by Lilla Namo",
+    "id": 46348,
+    "name": "Tuggare Utan Gr\u00e4nser EP",
+    "url": "https://genius.com/albums/Lilla-namo/Tuggare-utan-granser-ep",
+    "artist": {
+     "api_path": "/artists/73853",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+     "id": 73853,
+     "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilla Namo",
+     "url": "https://genius.com/artists/Lilla-namo"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 234091,
+    "annotator_login": "AABE",
+    "api_path": "/referents/3677237",
+    "classification": "accepted",
+    "fragment": "Alla Fel P\u00e5 Samma G\u00e5ng",
+    "id": 3677237,
+    "is_description": true,
+    "path": "/3677237/Lilla-namo-alla-fel-pa-samma-gang/Alla-fel-pa-samma-gang",
+    "range": {
+     "content": "Alla Fel P\u00e5 Samma G\u00e5ng"
+    },
+    "song_id": 226712,
+    "url": "https://genius.com/3677237/Lilla-namo-alla-fel-pa-samma-gang/Alla-fel-pa-samma-gang",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/226712",
+     "client_timestamps": {
+      "updated_by_human_at": 1416388655,
+      "lyrics_updated_at": 1416388655
+     },
+     "context": "Lilla Namo",
+     "id": 226712,
+     "image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+     "link_title": "Alla Fel P\u00e5 Samma G\u00e5ng by\u00a0Lilla\u00a0Namo (Ft.\u00a0JaQe & Linnea\u00a0Henriksson)",
+     "title": "Alla Fel P\u00e5 Samma G\u00e5ng",
+     "type": "Song",
+     "url": "https://genius.com/Lilla-namo-alla-fel-pa-samma-gang-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3677237",
+      "body": {
+       "plain": "Sp\u00e5r 7 fr\u00e5n Lilla Namo\u2019s debut EP \u201cTuggare Utan Gr\u00e4nser\u201d.\n\nFEATURING Sveriges kanske hetaste hip-hop profil denna h\u00f6st, Jaqe och Linnea Henriksson som blommade ut ifjol med sitt debutalbum \u201cTill Mina \u00c4lskare och \u00c4lskade\u201d."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3677237,
+      "pinned": false,
+      "share_url": "https://genius.com/3677237",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3677237/Lilla-namo-alla-fel-pa-samma-gang/Alla-fel-pa-samma-gang",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/234091",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/928ccf760b656873599d28c4db7e9fca",
+         "human_readable_role_for_display": "Contributor",
+         "id": 234091,
+         "iq": 9579,
+         "login": "AABE",
+         "name": "AABE",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AABE",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:0M4h0mPAfV1PuiZHQwRjQz",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/0M4h0mPAfV1PuiZHQwRjQz"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Lilla Namo",
+   "lyrics": "Alla Fel P\u00e5 Samma G\u00e5ng Lyrics[Vers 1: Lilla Namo]\nLyssna mina v\u00e4nner, yepp jag \u00e4r p\u00e5 t\u00e4nd len\nYepp jag \u00e4r fr\u00e5n orten f\u00f6r det \u00e4r det som ni vill h\u00f6ra\nGhettoromantik p\u00e5 h\u00f6g niv\u00e5, bara se men inte r\u00f6ra\nFett tjocka v\u00e4ggar, ingen j\u00e4vel kan st\u00f6ra\nBor, 52 v\u00e5ningar upp i ett h\u00f6ghus, ah\nInget varmvatten, ingen el bara r\u00f6ksug\nNi ba skippa vi och dem men\nVi \u00e4r dom som inte h\u00f6rs ut\nBygger f\u00f6rbifart trots att luften b\u00f6rjar ta slut\nAh, jag \u00e4r ingen smutsig fucking j\u00e4vel, men du\nVill \u00e5ka utan mannen men fuck det d\u00e4r din j\u00e4vel\nF\u00f6r din plan funkar inte l\u00e4ngre, storebror \u00e4r dum fan\nF\u00f6r jag e stor nog bror, fattar dina stora ord fan\nLika tomma som din skalle, lila slaka som din ball-e\nDitt retorikbabbel, f\u00f6r du \u00e4r r\u00e4tt och rik, falskhet\nDu vill att vi ska vara ghetto, du ska f\u00e5 det, faller ner\nAldrig mer s\u00e4tter jag min fot i ditt smutsiga spel\n[Refr\u00e4ng: Linnea Henriksson x2]\nDu kan plocka ner din gloria\nAllt vi delar \u00e4r historia\nDu tror du vet vad det handlar om\nMen du har alla fel p\u00e5 samma g\u00e5ng\n\n[Vers 2: Jaqe]\nEy, ey, knulla eran exotism\nS\u00e4g inte att hip-hopen r\u00e4ddat n\u00e5n av oss en g\u00e5ng till\nJag ser n\u00e4r n\u00e5tt \u00e4r destruktivt, vet n\u00e4r n\u00e5tt \u00e4r gott\nNi kan s\u00e4ga vad ni vill men hip-hop r\u00e4ddar inte n\u00e5n\nDet \u00e4r betong och alltid r\u00f6k kompis, dom \u00f6nskar att dom visste\nMen dom \u00e4r glada att dom inte bott i h\u00f6ghus hela livet\nVisst, vi r\u00f6cker och vi dricker, sitter h\u00f6ga bak i bilen jag h\u00f6r inte ens musiken\nMen min kompis lillebror sade att han \u00e4lskar Labyrint\nHan vill stanna kvar i f\u00f6rorten i resten av sitt liv\nF\u00f6rs\u00f6ker s\u00e4ga till han det finns mycket mer som man kan bli\nMen har man aldrig sett n\u00e5tt annat \u00e4r det sv\u00e5rt och veta vad man vill\nFuck romantisera, snackare tror sig veta\nEgentligen bor dem hemma men leker dom bor i Tensta\nS\u00e4ger broshan n\u00e4r vi h\u00e4lsar, kalla mig aldrig bror\nVi har aldrig haft samma blod, jag \u00e4r en annan typ av person\n\n[Refr\u00e4ng: Linnea Henriksson x2]\n\n[Outro: Linnea Henriksson x3]\nDu vill inte ens f\u00f6rs\u00f6ka f\u00f6rst\u00e5You might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/226358",
+   "artist_names": "Lilla Namo (Ft. Timbuktu)",
+   "full_title": "Lever Som Vi L\u00e4r by\u00a0Lilla\u00a0Namo (Ft.\u00a0Timbuktu)",
+   "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "header_image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "id": 226358,
+   "language": "sv",
+   "lyrics_owner_id": 234091,
+   "lyrics_state": "complete",
+   "path": "/Lilla-namo-lever-som-vi-lar-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Lilla-namo-lever-som-vi-lar-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "song_art_image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Lever Som Vi L\u00e4r",
+   "title_with_featured": "Lever Som Vi L\u00e4r (Ft.\u00a0Timbuktu)",
+   "url": "https://genius.com/Lilla-namo-lever-som-vi-lar-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/7655",
+     "header_image_url": "https://images.genius.com/95bab1bb12283973c1353e0205f90e76.500x347x1.png",
+     "id": 7655,
+     "image_url": "https://images.genius.com/95bab1bb12283973c1353e0205f90e76.500x347x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Timbuktu",
+     "url": "https://genius.com/artists/Timbuktu"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/73853",
+    "header_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+    "id": 73853,
+    "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilla Namo",
+    "url": "https://genius.com/artists/Lilla-namo"
+   },
+   "apple_music_id": "700051422",
+   "apple_music_player_url": "https://genius.com/songs/226358/apple_music_player",
+   "description": {
+    "plain": "Sp\u00e5r 3 fr\u00e5n Lilla Namo\u2019s debut EP \u201cTuggare Utan Gr\u00e4nser\u201d.\n\nFEATURING den levande svenska hip-hop legenden Timbuktu"
+   },
+   "embed_content": "<div id='rg_embed_link_226358' class='rg_embed_link' data-song-id='226358'>Read <a href='https://genius.com/Lilla-namo-lever-som-vi-lar-lyrics'>\u201cLever Som Vi L\u00e4r\u201d by Lilla\u00a0Namo</a> on Genius</div> <script crossorigin src='//genius.com/songs/226358/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/46348",
+    "cover_art_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+    "full_title": "Tuggare Utan Gr\u00e4nser EP by Lilla Namo",
+    "id": 46348,
+    "name": "Tuggare Utan Gr\u00e4nser EP",
+    "url": "https://genius.com/albums/Lilla-namo/Tuggare-utan-granser-ep",
+    "artist": {
+     "api_path": "/artists/73853",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+     "id": 73853,
+     "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilla Namo",
+     "url": "https://genius.com/artists/Lilla-namo"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 234091,
+    "annotator_login": "AABE",
+    "api_path": "/referents/3676503",
+    "classification": "accepted",
+    "fragment": "Lever Som Vi L\u00e4r",
+    "id": 3676503,
+    "is_description": true,
+    "path": "/3676503/Lilla-namo-lever-som-vi-lar/Lever-som-vi-lar",
+    "range": {
+     "content": "Lever Som Vi L\u00e4r"
+    },
+    "song_id": 226358,
+    "url": "https://genius.com/3676503/Lilla-namo-lever-som-vi-lar/Lever-som-vi-lar",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/226358",
+     "client_timestamps": {
+      "updated_by_human_at": 1626450153,
+      "lyrics_updated_at": 0
+     },
+     "context": "Lilla Namo",
+     "id": 226358,
+     "image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+     "link_title": "Lever Som Vi L\u00e4r by\u00a0Lilla\u00a0Namo (Ft.\u00a0Timbuktu)",
+     "title": "Lever Som Vi L\u00e4r",
+     "type": "Song",
+     "url": "https://genius.com/Lilla-namo-lever-som-vi-lar-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3676503",
+      "body": {
+       "plain": "Sp\u00e5r 3 fr\u00e5n Lilla Namo\u2019s debut EP \u201cTuggare Utan Gr\u00e4nser\u201d.\n\nFEATURING den levande svenska hip-hop legenden Timbuktu"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3676503,
+      "pinned": false,
+      "share_url": "https://genius.com/3676503",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3676503/Lilla-namo-lever-som-vi-lar/Lever-som-vi-lar",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/234091",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/928ccf760b656873599d28c4db7e9fca",
+         "human_readable_role_for_display": "Contributor",
+         "id": 234091,
+         "iq": 9579,
+         "login": "AABE",
+         "name": "AABE",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AABE",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:0TpblJqL2Nk254PAJ1SAE7",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/0TpblJqL2Nk254PAJ1SAE7"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Lilla Namo",
+   "lyrics": "Lever Som Vi L\u00e4r Lyrics[Refr\u00e4ng: Lilla Namo x2]\nVi lever som vi l\u00e4r, vi tar dig fr\u00e5n gatan\nVi lever som vi l\u00e4r, v\u00e4nd inte kinden tillbaka\nVi lever som vi l\u00e4r, flyga extra inte alltid s\u00e5 l\u00e4tt\nSista som l\u00e4mnar oss \u00e4r hoppet\n\n[Vers 1: Lilla Namo]\nKom \u00f6ver gr\u00e4nsen tomh\u00e4nt som inget h\u00e4nt\nDirekt in p\u00e5 h\u00e4ktet kriminell kunde ha v\u00e4nt gata\n\u00d6ver berg, fryset sk\u00e4gg frysna k\u00e4nslor\nK\u00e4nner pulsen sl\u00e5 har tappat alla sina r\u00e4dslor\nDom l\u00e4t oss k\u00e4mpa finns inget som heter motg\u00e5ng\nBlivit nerg\u00e5ng skiter i att vi ses som\nUtl\u00e4nningar utan n\u00e5gra h\u00e4mningar\nR\u00e4kna dagar d\u00e5 dr\u00f6mmen f\u00f6rverkligas\n[Refr\u00e4ng: Lilla Namo x2]\n\n[Vers 2: Timbuktu]\n[?] Nietzche, f\u00f6rs\u00f6kte l\u00e4ra mycket\nF\u00f6rs\u00f6ker leva mera men sv\u00e4var ut i rymden\nF\u00f6tterna planterat, huvudet i himmelen\nHar supersinnen, l\u00e5ngfingret till vinden\nKassa minnen jag v\u00e4nder inte andra kinden l\u00e4ngre\nSkiten gick hit men inte l\u00e4ngre\nF\u00f6r\u00e4ldrarna som kommit hit fr\u00e5n andra l\u00e4nder\nSkulle barnen bli till andra klassens m\u00e4nniskor\nFucking or\u00e4ttvisa, det borde ingen visa\nDe h\u00e4r overbord, rapmord fr\u00e5n nu till n\u00e4sta tisdag\nDet h\u00e4r \u00e4r inget ordkrig, det \u00e4r ett stort krig, det \u00e4r ett kort liv\nDet h\u00e4r \u00e4r n\u00e5tt som fortblir din golvning p\u00e5 nolltid\nDu kan pixla av mig tills dagen du blir begraven\nVi d\u00f6r som vi lever s\u00e5 vi lever l\u00e4ngre av den\nF\u00f6r vi \u00e4r alkemister, f\u00f6rvandlar skit till diamanter och\nG\u00f6r big things av small [?]\n\n[Refr\u00e4ng: Lilla Namo x2]\n\n[Vers 3: Lilla Namo]\nHopp om gr\u00f6na skogar, blev hoppl\u00f6sa dr\u00f6mmar\nMamma [?] baba arbetsl\u00f6s meningsl\u00f6st\nIbland tv\u00e4rtom fast dom var fast som\nF\u00e5ngar i en samh\u00e4lls[?] spelar de roll\nDu \u00e4r inte ensam det finns hundra andra\nMen det tar inget hopp att forts\u00e4tta vandra\nIngen att klandra om du tappar fotf\u00e4stet\nVi tar emot dig vid klippan\nYou might also like[Refr\u00e4ng: Lilla Namo x2]Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/658860",
+   "artist_names": "Lilla Namo (Ft. Blen)",
+   "full_title": "Min by\u00a0Lilla\u00a0Namo (Ft.\u00a0Blen)",
+   "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+   "header_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+   "id": 658860,
+   "language": "sv",
+   "lyrics_owner_id": 1243771,
+   "lyrics_state": "complete",
+   "path": "/Lilla-namo-min-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Lilla-namo-min-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 1,
+    "day": 1
+   },
+   "release_date_for_display": "January 1, 2014",
+   "release_date_with_abbreviated_month_for_display": "Jan. 1, 2014",
+   "song_art_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+   "song_art_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Min",
+   "title_with_featured": "Min (Ft.\u00a0Blen)",
+   "url": "https://genius.com/Lilla-namo-min-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/301200",
+     "header_image_url": "https://images.genius.com/718d50105bf7ff7fe27020a4460e3d62.592x390x1.jpg",
+     "id": 301200,
+     "image_url": "https://images.genius.com/718d50105bf7ff7fe27020a4460e3d62.592x390x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Blen",
+     "url": "https://genius.com/artists/Blen"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/73853",
+    "header_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+    "id": 73853,
+    "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilla Namo",
+    "url": "https://genius.com/artists/Lilla-namo"
+   },
+   "apple_music_id": "879465553",
+   "apple_music_player_url": "https://genius.com/songs/658860/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_658860' class='rg_embed_link' data-song-id='658860'>Read <a href='https://genius.com/Lilla-namo-min-lyrics'>\u201cMin\u201d by Lilla\u00a0Namo</a> on Genius</div> <script crossorigin src='//genius.com/songs/658860/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-01-01",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1243771,
+    "annotator_login": "dzg",
+    "api_path": "/referents/4653311",
+    "classification": "needs_exegesis",
+    "fragment": "Min",
+    "id": 4653311,
+    "is_description": true,
+    "path": "/4653311/Lilla-namo-min/Min",
+    "range": {
+     "content": "Min"
+    },
+    "song_id": 658860,
+    "url": "https://genius.com/4653311/Lilla-namo-min/Min",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/658860",
+     "client_timestamps": {
+      "updated_by_human_at": 1610799360,
+      "lyrics_updated_at": 1425583931
+     },
+     "context": "Lilla Namo",
+     "id": 658860,
+     "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+     "link_title": "Min by\u00a0Lilla\u00a0Namo (Ft.\u00a0Blen)",
+     "title": "Min",
+     "type": "Song",
+     "url": "https://genius.com/Lilla-namo-min-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4653311",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 4653311,
+      "pinned": false,
+      "share_url": "https://genius.com/4653311",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/4653311/Lilla-namo-min/Min",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1243771",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/85b497be986f3273e1ee50676717b207",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/85b497be986f3273e1ee50676717b207",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/85b497be986f3273e1ee50676717b207",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/85b497be986f3273e1ee50676717b207",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/85b497be986f3273e1ee50676717b207",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1243771,
+         "iq": 1723,
+         "login": "dzg",
+         "name": "dzg",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/dzg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Lilla Namo",
+   "lyrics": "Min Lyrics[Vers 1: Lilla Namo]\nN\u00e5t speciellt med dig\nFett tyst men syns \u00e4nd\u00e5\nVi syns \u00e4nd\u00e5 n\u00e4r du kl\u00e4r av mig med din blick \u00e5-h\u00e5\nDu snackar h\u00f6gt och folk h\u00f6r dig\nMen ingen lyssnar\nSkiter i, f\u00f6r dina kyssar, huh\nS\u00e5 fort vi kickish\nBlir jiddrish, \u00e4r tr\u00f6tt p\u00e5 det h\u00e4r\nVill vara mig sj\u00e4lv n\u00e4r du inte \u00e4r h\u00e4r\nFolk kollar snett n\u00e4r du inte \u00e4r h\u00e4r\nOch symbios \u00e4r symbol f\u00f6r oss\nP\u00e5 gott och ont f\u00f6r m\u00f6rka n\u00e4tter\nDemoner f\u00f6ljer oss\nGatuslang p\u00e5 dom, pang pang\nS\u00e5 akta dig om jag tar fram tabanja\nMunnen\nBeh\u00f6ver inte spelas mangas, dum len\nRevolutionen \u00e4r v\u00e5ra ord som tystar ner\nUpp med handen, den som tror mig\n[Hook: Blen]\n\u00c5h all tid som jag gav\nJag \u00e4r h\u00e4r i min stad\nVi har satt v\u00e5ra sp\u00e5r\nHur l\u00e5ngt kan vi g\u00e5?\nFr\u00e5n bl\u00e5a till r\u00f6da\nFr\u00e5n norra till s\u00f6dra\n\u00c4r ni med mig?\n\u00c4r ni, \u00e4r ni, \u00e4r ni med mig?\n\n[Vers 2: Blen]\nBaby du vill va med mig\n(Jag vet)\nOch baby jag vill va med dig\n(A-ha)\nV\u00e5ra blickar m\u00f6ts\nInget annat h\u00f6rs\nAllt jag sagt till dig\nIngen annan h\u00f6rt\nAllting b\u00f6rjar v\u00e5r v\u00e4g\n(G\u00e5r ner)\nP\u00e5 andra sidan v\u00e5r f\u00e4rd\n(Gl\u00f6m det)\nD\u00e4r vi v\u00e4xte upp\nRamla, plocka upp\nN\u00e4r vi kickas ut\nOrten fick oss upp\nD\u00e4r vi kickas upp\nTalar i tungor \u00e5t dig\nVad f\u00f6rv\u00e4ntar dom sig?\nF\u00f6r du gjorde mig till den jag \u00e4r\nJag sv\u00e4r, du \u00e4r fast i min ryggm\u00e4rg\nYou might also like[Hook: Blen]\n\u00c5h all tid som jag gav\nJag \u00e4r h\u00e4r i min stad\nVi har satt v\u00e5ra sp\u00e5r\nHur l\u00e5ngt kan vi g\u00e5?\nFr\u00e5n bl\u00e5a till r\u00f6da\nFr\u00e5n norra till s\u00f6dra\n\u00c4r ni med mig?\n\u00c4r ni, \u00e4r ni, \u00e4r ni med mig?\n\n[Vers 3: Lilla Namo]\nDu brinner, kanske jag som t\u00e4nt din l\u00e5ga\nUtifr\u00e5n dom ringer, fattar inte att vi v\u00e5gar\nF\u00f6rs\u00f6kte sl\u00e4cka branden men det var f\u00f6r sent\nSlangen, vattnet rann men allting brann ner (brann ner)\nN\u00e4r solen g\u00e5r ner, du blir s\u00e5 vacker\nRosa ljus som speglar mot ditt ansikte, huh\n\u00c4r kanske synd men jag s\u00e4tter mig i bikten\nBiktar bara sanning\nD\u00f6m mig s\u00e5 sikter\nG\u00f6mmer mig aldrig, stick len\nInte ens gatlyktans ljus n\u00e5r fram till oss\nMen tuggar utan gr\u00e4nser\nIngen n\u00e5r fram till oss\nMen n\u00e5gon dag, hj\u00e4lpen n\u00e5r fram till oss\nMen fram till dess, k\u00e4rleken h\u00e5ller ihop oss\n[Hook: Blen]\n\u00c5h all tid som jag gav\nJag \u00e4r h\u00e4r i min stad\nVi har satt v\u00e5ra sp\u00e5r\nHur l\u00e5ngt kan det g\u00e5?\nFr\u00e5n bl\u00e5a till r\u00f6da\nFr\u00e5n norra till s\u00f6dra\n\u00c4r ni med mig?\n\u00c4r ni, \u00e4r ni, \u00e4r ni med mig?\n\n[Bridge: Lilla Namo]\n\u00c4rligt, shuno eller g\u00e4ri\nSpelar ingen roll f\u00f6r det \u00e4r orten jag \u00e4r k\u00e4r i\nHuh, \u00e4rligt, shuno eller g\u00e4ri\nSpelar ingen roll f\u00f6r det \u00e4r orten jag \u00e4r k\u00e4r i\n\n[Bridge: Blen]\nFormades av min ort\nFormades av min trakt\nFormades av min ort\nFormades av min trakt\n\n[Bridge: Blen]\n\u00c5h allting som jag gav\nJag \u00e4r h\u00e4r i min stad\nVi har satt v\u00e5ra sp\u00e5r\nHur l\u00e5ngt kan vi g\u00e5?\nFr\u00e5n bl\u00e5a till r\u00f6da\nFr\u00e5n norra till s\u00f6dra\n\u00c4r ni med mig?\n\u00c4r ni, \u00e4r ni, \u00e4r ni med mig?Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/226357",
+   "artist_names": "Lilla Namo",
+   "full_title": "Tuggare Utan Gr\u00e4nser by\u00a0Lilla\u00a0Namo",
+   "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "header_image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "id": 226357,
+   "language": "sv",
+   "lyrics_owner_id": 234091,
+   "lyrics_state": "complete",
+   "path": "/Lilla-namo-tuggare-utan-granser-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Lilla-namo-tuggare-utan-granser-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 9,
+    "day": 26
+   },
+   "release_date_for_display": "September 26, 2013",
+   "release_date_with_abbreviated_month_for_display": "Sep. 26, 2013",
+   "song_art_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "song_art_image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tuggare Utan Gr\u00e4nser",
+   "title_with_featured": "Tuggare Utan Gr\u00e4nser",
+   "url": "https://genius.com/Lilla-namo-tuggare-utan-granser-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/73853",
+    "header_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+    "id": 73853,
+    "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilla Namo",
+    "url": "https://genius.com/artists/Lilla-namo"
+   },
+   "apple_music_id": "700051418",
+   "apple_music_player_url": "https://genius.com/songs/226357/apple_music_player",
+   "description": {
+    "plain": "Sp\u00e5r 2 fr\u00e5n Lilla Namo\u2019s debut EP \u201cTuggare Utan Gr\u00e4nser\u201d."
+   },
+   "embed_content": "<div id='rg_embed_link_226357' class='rg_embed_link' data-song-id='226357'>Read <a href='https://genius.com/Lilla-namo-tuggare-utan-granser-lyrics'>\u201cTuggare Utan Gr\u00e4nser\u201d by Lilla\u00a0Namo</a> on Genius</div> <script crossorigin src='//genius.com/songs/226357/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-09-26",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/46348",
+    "cover_art_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+    "full_title": "Tuggare Utan Gr\u00e4nser EP by Lilla Namo",
+    "id": 46348,
+    "name": "Tuggare Utan Gr\u00e4nser EP",
+    "url": "https://genius.com/albums/Lilla-namo/Tuggare-utan-granser-ep",
+    "artist": {
+     "api_path": "/artists/73853",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+     "id": 73853,
+     "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilla Namo",
+     "url": "https://genius.com/artists/Lilla-namo"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 234091,
+    "annotator_login": "AABE",
+    "api_path": "/referents/3676504",
+    "classification": "accepted",
+    "fragment": "Tuggare Utan Gr\u00e4nser",
+    "id": 3676504,
+    "is_description": true,
+    "path": "/3676504/Lilla-namo-tuggare-utan-granser/Tuggare-utan-granser",
+    "range": {
+     "content": "Tuggare Utan Gr\u00e4nser"
+    },
+    "song_id": 226357,
+    "url": "https://genius.com/3676504/Lilla-namo-tuggare-utan-granser/Tuggare-utan-granser",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/226357",
+     "client_timestamps": {
+      "updated_by_human_at": 1626450133,
+      "lyrics_updated_at": 1481150187
+     },
+     "context": "Lilla Namo",
+     "id": 226357,
+     "image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+     "link_title": "Tuggare Utan Gr\u00e4nser by\u00a0Lilla\u00a0Namo",
+     "title": "Tuggare Utan Gr\u00e4nser",
+     "type": "Song",
+     "url": "https://genius.com/Lilla-namo-tuggare-utan-granser-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3676504",
+      "body": {
+       "plain": "Sp\u00e5r 2 fr\u00e5n Lilla Namo\u2019s debut EP \u201cTuggare Utan Gr\u00e4nser\u201d."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3676504,
+      "pinned": false,
+      "share_url": "https://genius.com/3676504",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3676504/Lilla-namo-tuggare-utan-granser/Tuggare-utan-granser",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/234091",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/928ccf760b656873599d28c4db7e9fca",
+         "human_readable_role_for_display": "Contributor",
+         "id": 234091,
+         "iq": 9579,
+         "login": "AABE",
+         "name": "AABE",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AABE",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Lilla Namo",
+   "lyrics": "Tuggare Utan Gr\u00e4nser Lyrics[Intro x2]\nReppar alla postkoder\nReppa, reppa alla post, postkoder\n\n[Vers 1]\nTuggare utan gr\u00e4nser, tuggar i portar och i gr\u00e4nder\nFolk drar ner persienner f\u00f6r det \u00e4r n\u00e5nting som skr\u00e4mmer\nGl\u00e4nser, i solnedg\u00e5ngens r\u00e4nder silhouetter liknar br\u00e4nder\nK\u00f6per alkohol utan n\u00e5gra licenser\nHinkar trots \u00e5ldersgr\u00e4nser, ah knastendenser\nTuggare utan gr\u00e4nser, tuggare tuggare utan gr\u00e4nser\nVissa \u00e4r ortens legender, becknar utan mellanh\u00e4nder\nS\u00e5 snabbt blir ortens ligister, dom var kompisar f\u00f6rr men nu b\u00f6rjar tvister\nSkyldig dig en r\u00f6ding du har hamnat i klister\nSms-l\u00e5n i l\u00e5nga lister, hon har r\u00e5n i register\nMerca med f\u00e4lgar i krom, ah din mamma sa till dig men du k\u00f6r samma chargong\nDin mamma sa till dig, g\u00e5ng p\u00e5 g\u00e5ng p\u00e5 g\u00e5ng din g\u00e5ngstil \u00e4r en del av din nedg\u00e5ng\nDin g\u00e5ng blir en flykt till n\u00e5tt mer som romantiserar oss fr\u00e5n dom\nSpelar ingen roll vilken postkod vi reppar\nF\u00f6r dom \u00e4r alltid samma skiter i vad du reppar\n[Refr\u00e4ng]\nOh, oh spelar ingen roll vad du reppar\nF\u00f6r dom \u00e4r alltid samma skiter i vad du reppar\nDom kan ta bort dig fr\u00e5n gatan\nMen gatan kommer alltid finnas i dig\n\nReppar alla postkoder, ni h\u00f6r ingen skillnad\nReppar, reppar alla, alla post, postkoder x2\n\n[Vers 2]\nPosttrauma, men inte p\u00e5 grund av din postkod\nDu \u00e4r traumatiserad av medias rapporteringar\nSj\u00e4lvuppfyllda profetior, sj\u00e4lvupptagna individer\nDom vill inte k\u00e4nnas vid dig, l\u00e5tsas st\u00e5 bredvid dig\nH\u00e5ll ut st\u00e5 ut f\u00f6r du st\u00e5r utanf\u00f6r systemet\nSystembolagen st\u00e4nger ner, postkontoren st\u00e4nger ner\nDin postkod \u00e4r ov\u00e4sentlig, allting flyttas till stora centrum\nStorhetsvansinne driver dig till din nedg\u00e5ng\nF\u00f6r dom vill centralisera ekonomin\nSkapa stora k\u00f6pcentrum du bort i periferin\nKomedi eller tragedi, inte ditt val\nF\u00f6r dom byggde upp Stockholm som ett nytt USA\nMen det \u00e4r lugnt min v\u00e4n f\u00f6r allting g\u00e5r i cykler\nD\u00e5lig ekonomi, d\u00e5lig integrationspolitik\nMin filosofi \u00e4r fuck det d\u00e4r vi kommer er\u00f6vra\n\u00d6ga mot \u00f6ga striden fick oss att bl\u00f6da\nYou might also like[Refr\u00e4ng]\n\n[Outro x8]\nTuggare utan gr\u00e4nser, tuggare, tuggare utan gr\u00e4nserEmbed"
+  },
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/226349",
+   "artist_names": "Lilla Namo (Ft. Meron Mangasha)",
+   "full_title": "Tuggare Intro by\u00a0Lilla\u00a0Namo (Ft.\u00a0Meron\u00a0Mangasha)",
+   "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "header_image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "id": 226349,
+   "language": "sv",
+   "lyrics_owner_id": 234091,
+   "lyrics_state": "complete",
+   "path": "/Lilla-namo-tuggare-intro-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Lilla-namo-tuggare-intro-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 9,
+    "day": 26
+   },
+   "release_date_for_display": "September 26, 2013",
+   "release_date_with_abbreviated_month_for_display": "Sep. 26, 2013",
+   "song_art_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "song_art_image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tuggare Intro",
+   "title_with_featured": "Tuggare Intro (Ft.\u00a0Meron\u00a0Mangasha)",
+   "url": "https://genius.com/Lilla-namo-tuggare-intro-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/73854",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 73854,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Meron Mangasha",
+     "url": "https://genius.com/artists/Meron-mangasha"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/73853",
+    "header_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+    "id": 73853,
+    "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilla Namo",
+    "url": "https://genius.com/artists/Lilla-namo"
+   },
+   "apple_music_id": "700051361",
+   "apple_music_player_url": "https://genius.com/songs/226349/apple_music_player",
+   "description": {
+    "plain": "Sp\u00e5r 1 fr\u00e5n Lilla Namo\u2019s debut EP \u201cTuggare Utan Gr\u00e4nser\u201d.\n\nFEATURING Meron Mangasha som ocks\u00e5 gjort Epilogen i Ison & Fille\u2019s album F\u00f6r Evigt"
+   },
+   "embed_content": "<div id='rg_embed_link_226349' class='rg_embed_link' data-song-id='226349'>Read <a href='https://genius.com/Lilla-namo-tuggare-intro-lyrics'>\u201cTuggare Intro\u201d by Lilla\u00a0Namo</a> on Genius</div> <script crossorigin src='//genius.com/songs/226349/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-09-26",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/46348",
+    "cover_art_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+    "full_title": "Tuggare Utan Gr\u00e4nser EP by Lilla Namo",
+    "id": 46348,
+    "name": "Tuggare Utan Gr\u00e4nser EP",
+    "url": "https://genius.com/albums/Lilla-namo/Tuggare-utan-granser-ep",
+    "artist": {
+     "api_path": "/artists/73853",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+     "id": 73853,
+     "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilla Namo",
+     "url": "https://genius.com/artists/Lilla-namo"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 234091,
+    "annotator_login": "AABE",
+    "api_path": "/referents/3676493",
+    "classification": "accepted",
+    "fragment": "Tuggare Intro",
+    "id": 3676493,
+    "is_description": true,
+    "path": "/3676493/Lilla-namo-tuggare-intro/Tuggare-intro",
+    "range": {
+     "content": "Tuggare Intro"
+    },
+    "song_id": 226349,
+    "url": "https://genius.com/3676493/Lilla-namo-tuggare-intro/Tuggare-intro",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/226349",
+     "client_timestamps": {
+      "updated_by_human_at": 1626450124,
+      "lyrics_updated_at": 0
+     },
+     "context": "Lilla Namo",
+     "id": 226349,
+     "image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+     "link_title": "Tuggare Intro by\u00a0Lilla\u00a0Namo (Ft.\u00a0Meron\u00a0Mangasha)",
+     "title": "Tuggare Intro",
+     "type": "Song",
+     "url": "https://genius.com/Lilla-namo-tuggare-intro-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3676493",
+      "body": {
+       "plain": "Sp\u00e5r 1 fr\u00e5n Lilla Namo\u2019s debut EP \u201cTuggare Utan Gr\u00e4nser\u201d.\n\nFEATURING Meron Mangasha som ocks\u00e5 gjort Epilogen i Ison & Fille\u2019s album F\u00f6r Evigt"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3676493,
+      "pinned": false,
+      "share_url": "https://genius.com/3676493",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3676493/Lilla-namo-tuggare-intro/Tuggare-intro",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/234091",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/928ccf760b656873599d28c4db7e9fca",
+         "human_readable_role_for_display": "Contributor",
+         "id": 234091,
+         "iq": 9579,
+         "login": "AABE",
+         "name": "AABE",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AABE",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Lilla Namo",
+   "lyrics": "Tuggare Intro Lyrics[Intro: Meron Mangasha]\nNamo, du vet att svenskan har kallats f\u00f6r \u00e4ran och hj\u00e4ltarnas spr\u00e5k\n\u00c4nd\u00e5 hittar jag l\u00e5neord fr\u00e5n orten i deras ordf\u00f6rr\u00e5d\nOch jag undrar, vem tar \u00e4ran d\u00e5?\nTuggaren \u00e4r charmig och trendig tills han vill ha en f\u00f6r\u00e4ndring\nH\u00e5ll k\u00e4ften och titta p\u00e5 n\u00e4r vi skapar din sj\u00e4lvbild\nDu gick fran dax vax till guldsax till bilbax till laddfnask\nNu har Beatrice \u00f6ppnat v\u00e5ran Ask, som i Pandoras finns bara hoppet kvar\nDet spelar ingen roll vart jag hoppar av, du \u00e4r mer \u00e4n ditt omr\u00e5de\nN\u00e4r du reppar alla postkoderYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/226777",
+   "artist_names": "Lilla Namo (Ft. Moms)",
+   "full_title": "Minns Mitt Namn by\u00a0Lilla\u00a0Namo (Ft.\u00a0Moms)",
+   "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "header_image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "id": 226777,
+   "language": "sv",
+   "lyrics_owner_id": 234091,
+   "lyrics_state": "complete",
+   "path": "/Lilla-namo-minns-mitt-namn-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Lilla-namo-minns-mitt-namn-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 9,
+    "day": 26
+   },
+   "release_date_for_display": "September 26, 2013",
+   "release_date_with_abbreviated_month_for_display": "Sep. 26, 2013",
+   "song_art_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "song_art_image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Minns Mitt Namn",
+   "title_with_featured": "Minns Mitt Namn (Ft.\u00a0Moms)",
+   "url": "https://genius.com/Lilla-namo-minns-mitt-namn-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/55390",
+     "header_image_url": "https://images.genius.com/30f9fb1109c9e45b09a5ccaf3a0ef073.331x331x1.jpg",
+     "id": 55390,
+     "image_url": "https://images.genius.com/30f9fb1109c9e45b09a5ccaf3a0ef073.331x331x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Moms",
+     "url": "https://genius.com/artists/Moms"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/73853",
+    "header_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+    "id": 73853,
+    "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lilla Namo",
+    "url": "https://genius.com/artists/Lilla-namo"
+   },
+   "apple_music_id": "700051698",
+   "apple_music_player_url": "https://genius.com/songs/226777/apple_music_player",
+   "description": {
+    "plain": "Sp\u00e5r 8 fr\u00e5n Lilla Namo\u2019s debut EP \u201cTuggare Utan Gr\u00e4nser\u201d.\n\nFEATURING enligt m\u00e5nga, en av Sveriges b\u00e4sta rappare, Moms"
+   },
+   "embed_content": "<div id='rg_embed_link_226777' class='rg_embed_link' data-song-id='226777'>Read <a href='https://genius.com/Lilla-namo-minns-mitt-namn-lyrics'>\u201cMinns Mitt Namn\u201d by Lilla\u00a0Namo</a> on Genius</div> <script crossorigin src='//genius.com/songs/226777/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-09-26",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/46348",
+    "cover_art_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+    "full_title": "Tuggare Utan Gr\u00e4nser EP by Lilla Namo",
+    "id": 46348,
+    "name": "Tuggare Utan Gr\u00e4nser EP",
+    "url": "https://genius.com/albums/Lilla-namo/Tuggare-utan-granser-ep",
+    "artist": {
+     "api_path": "/artists/73853",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+     "id": 73853,
+     "image_url": "https://s3.amazonaws.com/rapgenius/namo_rulltrappa_niceguzz_s.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lilla Namo",
+     "url": "https://genius.com/artists/Lilla-namo"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 234091,
+    "annotator_login": "AABE",
+    "api_path": "/referents/3677306",
+    "classification": "accepted",
+    "fragment": "Minns Mitt Namn",
+    "id": 3677306,
+    "is_description": true,
+    "path": "/3677306/Lilla-namo-minns-mitt-namn/Minns-mitt-namn",
+    "range": {
+     "content": "Minns Mitt Namn"
+    },
+    "song_id": 226777,
+    "url": "https://genius.com/3677306/Lilla-namo-minns-mitt-namn/Minns-mitt-namn",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/226777",
+     "client_timestamps": {
+      "updated_by_human_at": 1626450116,
+      "lyrics_updated_at": 0
+     },
+     "context": "Lilla Namo",
+     "id": 226777,
+     "image_url": "https://s3.amazonaws.com/rapgenius/lilla-namo-tuggare-ep-S.jpg",
+     "link_title": "Minns Mitt Namn by\u00a0Lilla\u00a0Namo (Ft.\u00a0Moms)",
+     "title": "Minns Mitt Namn",
+     "type": "Song",
+     "url": "https://genius.com/Lilla-namo-minns-mitt-namn-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3677306",
+      "body": {
+       "plain": "Sp\u00e5r 8 fr\u00e5n Lilla Namo\u2019s debut EP \u201cTuggare Utan Gr\u00e4nser\u201d.\n\nFEATURING enligt m\u00e5nga, en av Sveriges b\u00e4sta rappare, Moms"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3677306,
+      "pinned": false,
+      "share_url": "https://genius.com/3677306",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3677306/Lilla-namo-minns-mitt-namn/Minns-mitt-namn",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/234091",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/928ccf760b656873599d28c4db7e9fca",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/928ccf760b656873599d28c4db7e9fca",
+         "human_readable_role_for_display": "Contributor",
+         "id": 234091,
+         "iq": 9579,
+         "login": "AABE",
+         "name": "AABE",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AABE",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Lilla Namo",
+   "lyrics": "Minns Mitt Namn Lyrics[Vers 1: Lilla Namo]\nSimon sade s\u00e4tt dig ner, Namo s\u00e4ger k\u00e4ften bre\nKommer s\u00e4tta dig p\u00e5 plats, kommer inte s\u00e4tta mig nu\nF\u00f6r du [?]\nAllting \u00e4r sagt bara tomma l\u00f6ften men det \u00e4r fucked up\nAllting du skriver \u00e4r osant, skriver om v\u00e5r historia\nSanningen ska fram jag b\u00e4r mitt namn \u00f6ver gr\u00e4nsland\nFr\u00e4mling s\u00e5 jag gr\u00e4nslas, ropar tills min refr\u00e4ng h\u00f6rs\nS\u00e5 tro mig, mitt starkaste vapen \u00e4r orden\nKollar p\u00e5 mig som jag vore din broder, bygger broar \u00f6ver orden men\nM\u00f6rdar ditt spr\u00e5k, s\u00e4tt dig ner, s\u00e4ger \u201dAh, Yeah\u201d n\u00e4r du h\u00f6r mig, kicka\nSlap p\u00e5 din retorik, h\u00f6r mig lyckas, [?] p\u00e5 din crap n\u00e4r du ser mig lyckas\nF\u00f6r vi kommer in p\u00e5 lista och d\u00e4r \u00e4r mitt namn inget misstag\n\u00c4ven om du v\u00e4nder om din kind \u00e4r jag fast mellan tv\u00e5 v\u00e4rldar l\u00e5ngt ifr\u00e5n din\nOch \u00e4ven om du inte minns mitt namn, s\u00e5 minns det jag s\u00e5\nOrsak till mer \u00e4n bara hat, f\u00f6rklarar mer \u00e4n bara slag\nTillsvidare, 1-0 till mig minns mig bror, s\u00e4ger det igen s\u00e5 du minns mig bror\nMinns mig bror f\u00f6r n\u00e4r jag blir stor jag tar med dig till toppen s\u00e5 minns mig bror\n[Refr\u00e4ng]\nMinns mitt namn, minns mitt namn\nMinns mitt namn, minns minns mitt namn x2\n\n\u00c4ven om du inte minns mig, minns vad vi sade\nMinns vart vi var, minns vart vi var x2\n\n[Vers 2: Moms]\nF\u00f6rs\u00f6ker leva som jag l\u00e4r ibland s\u00e5 kan det vara sv\u00e5rt\nMen jag s\u00e4ger som det \u00e4r, har ingen tid o f\u00e4lla t\u00e5r\nBlatteliv, fast i klistret, statistik, prick i registret\nAttityd, fuck ditt liv, \u00e4r minister ja ni visste\nD\u00e4rf\u00f6r leken k\u00f6ra tills ni minns mitt namn, ni minns mitt namn, krigar till siste man\nJag f\u00e5r top dog gash, laddar upp bars, f\u00f6r varje rad \u00e4r v\u00e4rd minst en gram\nM\u00e5la med ord varje bild blir sann, Instagram du vet att det \u00e4r intressant\nOch vad dom \u00e4n s\u00e4ger l\u00e5ter inte sant, det l\u00e5ter inte sant\nBlattebarn, ingen suedi, smider p\u00e5  en plan n\u00e5gondag ser mina barn i Mercedes\nVi \u00e4r ghetto-crazy, ingenting och leva f\u00f6r fuck you, pay me\nAllt jag har det \u00e4r mitt rykte, allt jag har \u00e4r mitt ord och min bror mittemot\nOch vad du sade, vad du tycker, det spelar ingen roll skiter i vad du tror\nOch du ska minnas vem jag \u00e4r om det blir det sista som jag g\u00f6r\nIfr\u00e5n orten d\u00e4r jag \u00e4r, br\u00f6der och systrar s\u00e4ger k\u00f6r, k\u00f6r, k\u00f6r, k\u00f6r, k\u00f6r\nHar ingen r\u00e4dsla kvar, penna mitt sv\u00e4rd bev\u00e4pna barn\nHar aldrig gett upp tills jag r\u00e4knat klart\n\n[Refr\u00e4ng]You might also likeEmbed"
+  }
+ ]
+}

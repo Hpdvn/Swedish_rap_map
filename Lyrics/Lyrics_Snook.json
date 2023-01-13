@@ -1,0 +1,5070 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/149037",
+ "description": {
+  "plain": "Snook is a Swedish rap group from Stockholm. The group consists of Oskar \u201cKihlen\u201d Linnros and Daniel \u201cBig Danne\u201d Adams-Ray. The group was active during 2000-2007, but made comebacks in 2009 and 2016."
+ },
+ "facebook_name": null,
+ "followers_count": 5,
+ "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+ "id": 149037,
+ "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Snook",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Snook",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4477004,
+  "annotator_login": "JamesMcAndrews",
+  "api_path": "/referents/7009501",
+  "classification": "accepted",
+  "fragment": "Snook",
+  "id": 7009501,
+  "is_description": true,
+  "path": "/7009501/Snook/Snook",
+  "range": {
+   "content": "Snook"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7009501/Snook/Snook",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/149037",
+   "context": null,
+   "id": 149037,
+   "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+   "link_title": "Snook",
+   "title": "Snook",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Snook"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7009501",
+    "body": {
+     "plain": "Snook is a Swedish rap group from Stockholm. The group consists of Oskar \u201cKihlen\u201d Linnros and Daniel \u201cBig Danne\u201d Adams-Ray. The group was active during 2000-2007, but made comebacks in 2009 and 2016."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 7009501,
+    "pinned": false,
+    "share_url": "https://genius.com/7009501",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/7009501/Snook/Snook",
+    "verified": false,
+    "votes_total": 2,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.5757575757575758,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4477004",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/cab7733f0947539dd9c501c99b0e9fd4",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/cab7733f0947539dd9c501c99b0e9fd4",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/cab7733f0947539dd9c501c99b0e9fd4",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/cab7733f0947539dd9c501c99b0e9fd4",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/cab7733f0947539dd9c501c99b0e9fd4",
+       "human_readable_role_for_display": "Editor",
+       "id": 4477004,
+       "iq": 5207,
+       "login": "JamesMcAndrews",
+       "name": "JamesMcAndrews",
+       "role_for_display": "editor",
+       "url": "https://genius.com/JamesMcAndrews",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.36363636363636365,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4205685",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/7d22ac14e4e3baad2d95aeb300b09331",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/7d22ac14e4e3baad2d95aeb300b09331",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/7d22ac14e4e3baad2d95aeb300b09331",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/7d22ac14e4e3baad2d95aeb300b09331",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/7d22ac14e4e3baad2d95aeb300b09331",
+       "human_readable_role_for_display": "Contributor",
+       "id": 4205685,
+       "iq": 9145,
+       "login": "prefixal",
+       "name": "prefixal",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/prefixal",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.030303030303030304,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/322702",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/xyE6Kfk4S1Orsce4FGIV",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/xyE6Kfk4S1Orsce4FGIV",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/xyE6Kfk4S1Orsce4FGIV",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/xyE6Kfk4S1Orsce4FGIV",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/xyE6Kfk4S1Orsce4FGIV",
+       "human_readable_role_for_display": "Contributor",
+       "id": 322702,
+       "iq": 626,
+       "login": "llllll",
+       "name": "llllll",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/llllll",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.030303030303030304,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6044727",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/w56e2qxmu9g",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/w56e2qxmu9g",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/w56e2qxmu9g",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/w56e2qxmu9g",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/vh2e1wxd6h",
+       "human_readable_role_for_display": "Editor",
+       "id": 6044727,
+       "iq": 21019,
+       "login": "Invissible",
+       "name": "Invissible",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Invissible",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 15,
+   "api_path": "/songs/966574",
+   "artist_names": "Snook",
+   "full_title": "Mister Cool by\u00a0Snook",
+   "header_image_thumbnail_url": "https://images.genius.com/7f9afbe900435112761f844872bf463d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/7f9afbe900435112761f844872bf463d.640x639x1.jpg",
+   "id": 966574,
+   "language": "sv",
+   "lyrics_owner_id": 2025001,
+   "lyrics_state": "complete",
+   "path": "/Snook-mister-cool-lyrics",
+   "pyongs_count": 3,
+   "relationships_index_url": "https://genius.com/Snook-mister-cool-sample",
+   "release_date_components": {
+    "year": 2004,
+    "month": 5,
+    "day": null
+   },
+   "release_date_for_display": "May 2004",
+   "release_date_with_abbreviated_month_for_display": "May. 2004",
+   "song_art_image_thumbnail_url": "https://images.genius.com/7f9afbe900435112761f844872bf463d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7f9afbe900435112761f844872bf463d.640x639x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 14,
+    "iq_earners": 14,
+    "transcribers": 4,
+    "unreviewed_annotations": 14,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 42299
+   },
+   "title": "Mister Cool",
+   "title_with_featured": "Mister Cool",
+   "url": "https://genius.com/Snook-mister-cool-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/149037",
+    "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+    "id": 149037,
+    "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Snook",
+    "url": "https://genius.com/artists/Snook"
+   },
+   "apple_music_id": "1442636317",
+   "apple_music_player_url": "https://genius.com/songs/966574/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_966574' class='rg_embed_link' data-song-id='966574'>Read <a href='https://genius.com/Snook-mister-cool-lyrics'>\u201cMister Cool\u201d by Snook</a> on Genius</div> <script crossorigin src='//genius.com/songs/966574/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/85536",
+    "cover_art_url": "https://images.genius.com/7f9afbe900435112761f844872bf463d.640x639x1.jpg",
+    "full_title": "Vi vet inte vart vi ska men vi ska komma dit by Snook",
+    "id": 85536,
+    "name": "Vi vet inte vart vi ska men vi ska komma dit",
+    "url": "https://genius.com/albums/Snook/Vi-vet-inte-vart-vi-ska-men-vi-ska-komma-dit",
+    "artist": {
+     "api_path": "/artists/149037",
+     "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+     "id": 149037,
+     "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Snook",
+     "url": "https://genius.com/artists/Snook"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6044727,
+    "annotator_login": "Invissible",
+    "api_path": "/referents/14663211",
+    "classification": "needs_exegesis",
+    "fragment": "Mister Cool",
+    "id": 14663211,
+    "is_description": true,
+    "path": "/14663211/Snook-mister-cool/Mister-cool",
+    "range": {
+     "content": "Mister Cool"
+    },
+    "song_id": 966574,
+    "url": "https://genius.com/14663211/Snook-mister-cool/Mister-cool",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/966574",
+     "client_timestamps": {
+      "updated_by_human_at": 1605028791,
+      "lyrics_updated_at": 1605028791
+     },
+     "context": "Snook",
+     "id": 966574,
+     "image_url": "https://images.genius.com/7f9afbe900435112761f844872bf463d.640x639x1.jpg",
+     "link_title": "Mister Cool by\u00a0Snook",
+     "title": "Mister Cool",
+     "type": "Song",
+     "url": "https://genius.com/Snook-mister-cool-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14663211",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14663211,
+      "pinned": false,
+      "share_url": "https://genius.com/14663211",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14663211/Snook-mister-cool/Mister-cool",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6044727",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/w56e2qxmu9g",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/w56e2qxmu9g",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/w56e2qxmu9g",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/w56e2qxmu9g",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/vh2e1wxd6h",
+         "human_readable_role_for_display": "Editor",
+         "id": 6044727,
+         "iq": 21019,
+         "login": "Invissible",
+         "name": "Invissible",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Invissible",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=W_eepOSos88"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/81307",
+     "header_image_url": "https://images.genius.com/d4cc262e1067f966f21113fda453283d.1000x201x1.jpg",
+     "id": 81307,
+     "image_url": "https://images.genius.com/4acc281192a4960cb55def24e3985c5b.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oskar Linnros",
+     "url": "https://genius.com/artists/Oskar-linnros"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/81307",
+     "header_image_url": "https://images.genius.com/d4cc262e1067f966f21113fda453283d.1000x201x1.jpg",
+     "id": 81307,
+     "image_url": "https://images.genius.com/4acc281192a4960cb55def24e3985c5b.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oskar Linnros",
+     "url": "https://genius.com/artists/Oskar-linnros"
+    },
+    {
+     "api_path": "/artists/44577",
+     "header_image_url": "https://images.genius.com/02335b9286be0b6dd6e492f42b20e11a.1000x438x1.jpg",
+     "id": 44577,
+     "image_url": "https://images.genius.com/147eb8add044779629c2d2ca9f6b3570.840x840x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Daniel Adams-Ray",
+     "url": "https://genius.com/artists/Daniel-adams-ray"
+    }
+   ],
+   "artist": "Snook",
+   "lyrics": "Mister Cool Lyrics[Intro]\nDet h\u00e4r \u00e4r sagan om\nCoolaste katten i det l\u00e5nga landet falukorv\nDet h\u00e4r \u00e4r sagan om\nKillen som garvar \u00e5t dem som pratar om Babylon\nHan kallas Mister ssscch\u2026\nHan l\u00e4gger puh p\u00e5 chics innan han sticker\nHan \u00e4r pang, han \u00e4r oh, han \u00e4r Clint Eastwood\nHan \u00e4r vart, han \u00e4r d\u00e4r, han \u00e4r Mister Cool\n\n[Vers 1]\nIngen lur, ingen brud, han \u00e4r \u00f6verallt\n\u00c4nda fr\u00e5n Lund, G\u00f6teborg och till S\u00f6dermalm\nHan \u00e4r din r\u00e4ddare i n\u00f6den han, han \u00e4r din h\u00f6gra hand\nBattlar du honom har du m\u00f6tt din \u00f6verman\nOch d\u00e4r b\u00f6rjar v\u00e5r saga, bland dudes och brudes var han popul\u00e4r\nMen han var speciell och dom var likadana\nS\u00e5 vissa snackade skit, ni vet hur Stockholm \u00e4r\nS\u00e5 en dag ner p\u00e5 stan n\u00e4r han kollade rean\nKom ett crew och de skrek typ: \"Kolla d\u00e4r \u00e4r han!\"\nOch nu b\u00f6rja en jakt, de var 40 stycken\nUnder en trapp, \u00f6ver en buss, de var hack i h\u00e4l\nMen han var snabb f\u00f6r han var cool, han var Jackie Chan\nS\u00e5 han duckade kulor med kullerbyttor\nIn p\u00e5 \u00c5hl\u00e9ns och en trapp till taket\nRyggen mot stupet och alla runt sig\nS\u00e5 han backa bak\u00e5t\n[Refr\u00e4ng]\nPang (Pang), boom (Boom), crash - Mister Cool\nPang (Pang), boom (Boom), crash - Mister Cool\nAlla brudes, alla dudes\nHan \u00e4r h\u00e4r, han \u00e4r d\u00e4r, han \u00e4r Mister Cool\n\n[Vers 2]\nNu n\u00e4r ni vet hur cool han \u00e4r\nF\u00f6rst\u00e5r ni att han aldrig finns d\u00e4r man tror han \u00e4r?\nMen ass\u00e5 kommer han att klara det? Idiot!\nHan \u00e4r vart, han \u00e4r d\u00e4r, han \u00e4r Mister Cool\nHan backar, nu faller han ner\nMen han greppar tag i en visare p\u00e5 det stora j\u00e4vla uret p\u00e5 v\u00e4ggen\nOch tynger den ner\u00e5t till kvart \u00f6ver tre\nMen nu kommer b\u00e4ngen, han snor deras vapen och skjuter mot g\u00e4nget\nDet d\u00e4r var n\u00e4ra \u00f6gat\nAhrr, nu ska n\u00e5gra j\u00e4vlar d\u00f6das\n10, 7, spring eller dra\n5, 3, ingen \u00e4r kvar\nHan \u00e4r en cool kille med solbrillor p\u00e5 Roskilde\nTjejer s\u00e4ger han \u00e4r player\nHan leder k\u00e4rringarna \u00f6ver \u00f6verg\u00e5ngst\u00e4llen\nRegerar \u00f6ver S\u00f6der och fj\u00e4llen\nKom tillbaka n\u00e4sta vecka, samma tid och kanal\nS\u00e5 f\u00e5r du veta hur det gick f\u00f6r Snook\nEh, f\u00f6rl\u00e5t ja.. Jag menar Mister Cool\nYou might also like[Refr\u00e4ng]\nPang (Pang), boom (Boom), crash - Mister Cool\nPang (Pang), boom (Boom), crash - Mister Cool\nAlla brudes, alla dudes\nHan \u00e4r h\u00e4r, han \u00e4r d\u00e4r, han \u00e4r Mister Cool\n\n[Stick]\nTa av dig din truckerkeps, lystring!\nTa av dig din truckerkeps, yes!\nTa av dig din truckerkeps, Mister Cool s\u00e4ger:\nMen ta av dig din truckerkeps, f\u00f6r jag vill att du\nTa av dig din truckerkeps\nTa av dig din truckerkeps\nTa av dig din truckerkeps\nTa av dig din truckerkeps\nTa av, ta av, ta av, ta av, ta av dig din truckerkeps\nF\u00f6r Mister Cool\n\n[Refr\u00e4ng]\nPang (Pang), boom (Boom), crash - Mister Cool\nPang (Pang), boom (Boom), crash - Mister Cool\nAlla brudes, alla dudes\nHan \u00e4r h\u00e4r, han \u00e4r d\u00e4r, han \u00e4r Mister Cool\nOww (Oww), ooh (Ooh), wow - Mister Cool\nPang (Pang), boom (Boom), crash - Mister Cool\nAlla brudes, alla dudes\nHan \u00e4r h\u00e4r, han \u00e4r d\u00e4r, han \u00e4r Mister Cool\nOww (Oww), ooh (Ooh), wow - Mister Cool\nPang (Pang), boom (Boom), crash - Mister Cool\nAlla brudes, alla dudes\nHan \u00e4r h\u00e4r, han \u00e4r d\u00e4r, han \u00e4r Mister Cool3Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/1440830",
+   "artist_names": "Snook",
+   "full_title": "L\u00e4ngst fram i taxin by\u00a0Snook",
+   "header_image_thumbnail_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+   "id": 1440830,
+   "language": "sv",
+   "lyrics_owner_id": 2025001,
+   "lyrics_state": "complete",
+   "path": "/Snook-langst-fram-i-taxin-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Snook-langst-fram-i-taxin-sample",
+   "release_date_components": {
+    "year": 2006,
+    "month": 5,
+    "day": 10
+   },
+   "release_date_for_display": "May 10, 2006",
+   "release_date_with_abbreviated_month_for_display": "May. 10, 2006",
+   "song_art_image_thumbnail_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 7,
+    "iq_earners": 7,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 21726
+   },
+   "title": "L\u00e4ngst fram i taxin",
+   "title_with_featured": "L\u00e4ngst fram i taxin",
+   "url": "https://genius.com/Snook-langst-fram-i-taxin-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/149037",
+    "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+    "id": 149037,
+    "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Snook",
+    "url": "https://genius.com/artists/Snook"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1440830/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1440830' class='rg_embed_link' data-song-id='1440830'>Read <a href='https://genius.com/Snook-langst-fram-i-taxin-lyrics'>\u201cL\u00e4ngst fram i taxin\u201d by Snook</a> on Genius</div> <script crossorigin src='//genius.com/songs/1440830/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2006-05-10",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/87647",
+    "cover_art_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+    "full_title": "\u00c4r by Snook",
+    "id": 87647,
+    "name": "\u00c4r",
+    "url": "https://genius.com/albums/Snook/Ar",
+    "artist": {
+     "api_path": "/artists/149037",
+     "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+     "id": 149037,
+     "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Snook",
+     "url": "https://genius.com/artists/Snook"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Additional Vocals By",
+     "artists": [
+      {
+       "api_path": "/artists/7655",
+       "header_image_url": "https://images.genius.com/95bab1bb12283973c1353e0205f90e76.500x347x1.png",
+       "id": 7655,
+       "image_url": "https://images.genius.com/95bab1bb12283973c1353e0205f90e76.500x347x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Timbuktu",
+       "url": "https://genius.com/artists/Timbuktu"
+      }
+     ]
+    },
+    {
+     "label": "Co Produced by",
+     "artists": [
+      {
+       "api_path": "/artists/64761",
+       "header_image_url": "https://images.genius.com/50939cc5526bbb0cca18f2d872a8e4ff.1000x1000x1.jpg",
+       "id": 64761,
+       "image_url": "https://images.genius.com/50939cc5526bbb0cca18f2d872a8e4ff.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Salem Al Fakir",
+       "url": "https://genius.com/artists/Salem-al-fakir"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6044727,
+    "annotator_login": "Invissible",
+    "api_path": "/referents/14663220",
+    "classification": "needs_exegesis",
+    "fragment": "L\u00e4ngst fram i taxin",
+    "id": 14663220,
+    "is_description": true,
+    "path": "/14663220/Snook-langst-fram-i-taxin/Langst-fram-i-taxin",
+    "range": {
+     "content": "L\u00e4ngst fram i taxin"
+    },
+    "song_id": 1440830,
+    "url": "https://genius.com/14663220/Snook-langst-fram-i-taxin/Langst-fram-i-taxin",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1440830",
+     "client_timestamps": {
+      "updated_by_human_at": 1614874310,
+      "lyrics_updated_at": 1527502978
+     },
+     "context": "Snook",
+     "id": 1440830,
+     "image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+     "link_title": "L\u00e4ngst fram i taxin by\u00a0Snook",
+     "title": "L\u00e4ngst fram i taxin",
+     "type": "Song",
+     "url": "https://genius.com/Snook-langst-fram-i-taxin-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14663220",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14663220,
+      "pinned": false,
+      "share_url": "https://genius.com/14663220",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14663220/Snook-langst-fram-i-taxin/Langst-fram-i-taxin",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6044727",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/w56e2qxmu9g",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/w56e2qxmu9g",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/w56e2qxmu9g",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/w56e2qxmu9g",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/vh2e1wxd6h",
+         "human_readable_role_for_display": "Editor",
+         "id": 6044727,
+         "iq": 21019,
+         "login": "Invissible",
+         "name": "Invissible",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Invissible",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=0FiKnVfxdck"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/81307",
+     "header_image_url": "https://images.genius.com/d4cc262e1067f966f21113fda453283d.1000x201x1.jpg",
+     "id": 81307,
+     "image_url": "https://images.genius.com/4acc281192a4960cb55def24e3985c5b.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oskar Linnros",
+     "url": "https://genius.com/artists/Oskar-linnros"
+    },
+    {
+     "api_path": "/artists/64761",
+     "header_image_url": "https://images.genius.com/50939cc5526bbb0cca18f2d872a8e4ff.1000x1000x1.jpg",
+     "id": 64761,
+     "image_url": "https://images.genius.com/50939cc5526bbb0cca18f2d872a8e4ff.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Salem Al Fakir",
+     "url": "https://genius.com/artists/Salem-al-fakir"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/64761",
+     "header_image_url": "https://images.genius.com/50939cc5526bbb0cca18f2d872a8e4ff.1000x1000x1.jpg",
+     "id": 64761,
+     "image_url": "https://images.genius.com/50939cc5526bbb0cca18f2d872a8e4ff.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Salem Al Fakir",
+     "url": "https://genius.com/artists/Salem-al-fakir"
+    },
+    {
+     "api_path": "/artists/81307",
+     "header_image_url": "https://images.genius.com/d4cc262e1067f966f21113fda453283d.1000x201x1.jpg",
+     "id": 81307,
+     "image_url": "https://images.genius.com/4acc281192a4960cb55def24e3985c5b.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oskar Linnros",
+     "url": "https://genius.com/artists/Oskar-linnros"
+    },
+    {
+     "api_path": "/artists/44577",
+     "header_image_url": "https://images.genius.com/02335b9286be0b6dd6e492f42b20e11a.1000x438x1.jpg",
+     "id": 44577,
+     "image_url": "https://images.genius.com/147eb8add044779629c2d2ca9f6b3570.840x840x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Daniel Adams-Ray",
+     "url": "https://genius.com/artists/Daniel-adams-ray"
+    }
+   ],
+   "artist": "Snook",
+   "lyrics": "L\u00e4ngst fram i taxin Lyrics[Intro]\nMannen \u00e4r den nya kvinnan\nSmink f\u00f6r m\u00e4n, avkl\u00e4dda m\u00e4n\nSex s\u00e4ljer, och jag menar\nBimbon blev f\u00f6rbytt med himbon, you know\nSnook\n\n[Stick]\nBaby, du knullar bra\nDu var, du var underbar\nMen jag, men jag tror det vore b\u00e4st om du rullar av\n[Vers 1]\nChecka chicks, dom ser n\u00e4r jag rullar upp\nSkr\u00e4ddarsydd, rockar aldrig n\u00e5gon gummisnodd\nN\u00e4r jag \u00e5ker hem ska det vara bakifr\u00e5n\nSittplatsen, dummer!\nJag \u00e4r ingen karlakarl\nJag m\u00e5 vara ung och dum men \u00e4r inte den som \u00e4r den som knullar runt\nMen du v\u00e4ljer \u00e4nd\u00e5 att kalla mig mansgris\nShut the fuck up och s\u00e4tt dig l\u00e4ngst fram i taxin!\n\n[Vers 2]\nJag \u00e4r ingen riddare p\u00e5 vit h\u00e4st\nVille du ha biceps kan du \u00e5ka hem, ha det skitfett\nH\u00e4r \u00e4r han, den som \u00e4r sist i k\u00f6n\nMed en \u00f6verkropp som Mr. Burns\nInte, inte n\u00e5gon grekisk diskuskastare\nS\u00e5 vad var det du missuppfattade?\nDu betalar taxin, tack, den drar jag av\nH\u00f6rru, du f\u00e5r ha det bra, okej (yeah)\n\n[Refr\u00e4ng]\nJag \u00e4r ingen alfahanne honey\nS\u00e5 du f\u00e5r sitta l\u00e4ngst fram i taxin\nDet \u00e4r inte l\u00e4tt att verka manlig\nS\u00e5 du f\u00e5r sitta l\u00e4ngst fram i taxin\nYou might also like[Stick]\nBaby du knullar bra\nDu var underbar\nMen jag tror det vore b\u00e4st om du rullar av\nBaby du knullar bra\nDu var, du var underbar\nMen jag, men jag tror det vore b\u00e4st om du rullar av\n\n[Break]\nJag \u00e4r bara 1,77 och sanningen \u00e4r\nJag tj\u00e4nar mer pengar p\u00e5 ICA \u00e4n min rapkarri\u00e4r\nJag b\u00e4nkar bara 70 kilo, sanningen \u00e4r\nJag \u00e4r tv\u00e5 sekunder fr\u00e5n att va en one minute man\n\n[Vers 3]\nVill du inte l\u00e4gga dina hundar\nKan du hoppa av h\u00e4r och sm\u00f6ra f\u00f6r en d\u00f6rrvakt\nDu \u00e4r snygg och du vet om det\nM\u00e4n \u00e4r m\u00e4n och m\u00e4n \u00e4r dumma f\u00f6r de vill ju bara knulla\nVem sa att det var l\u00e4tt att va man?\nLyft upp ringen och str\u00e4ck upp en hand\nDet finns m\u00e5nga fler d\u00e4r ute som k\u00e4nner som jag\nS\u00e5 n\u00e4r du h\u00f6r det h\u00e4r ljudet \u00e4r det dags att v\u00e4nda blad (yeah)\n\n[Refr\u00e4ng]\nJag \u00e4r ingen alfahanne honey\nS\u00e5 du f\u00e5r sitta l\u00e4ngst fram i taxin\nDet \u00e4r inte l\u00e4tt att verka manlig\nS\u00e5 du f\u00e5r sitta l\u00e4ngst fram i taxin\n[Vers 4]\nJag kommer att se ner p\u00e5 dig\nSen n\u00e4r du ligger underst, dummer\nStunden efter det g\u00e5tt \u00e4r pl\u00e5gsam\nD\u00e5 kan, d\u00e5 kan du rulla av l\u00e5ngsamt\nOch g\u00f6ra det bekv\u00e4mt f\u00f6r det h\u00e4r \u00e4r ingen porrfilm\nTa mina byxor, du beh\u00f6ver inget korvskinn\nEller string f\u00f6r det sl\u00f6sar v\u00e5r dyra tid\nDet h\u00e4r \u00e4r n\u00e5len i min symaskin\nTa det lugnt nu gumman, jag vill va med dig\nJag vill se dig som Gud skapa dig\nDu m\u00e5ste tro p\u00e5 dig sj\u00e4lv idag\nF\u00f6r jag t\u00e4nker inte dyka upp i d\u00f6rren med en ros mellan t\u00e4nderna\nF\u00f6r jag \u00e4r ingen Kos-kille, m\u00e5ste vi l\u00e5tsas det?\nOs-Oskar \u00e4r ingen riktig karl, besviken?\nVisst vi kan \u00e5ka hem men jag sitter bak\nJa, jag sitter bak (yeah)\n\n[Refr\u00e4ng]\nJag \u00e4r ingen alfahanne honey\nS\u00e5 du f\u00e5r sitta l\u00e4ngst fram i taxin\nDet \u00e4r inte l\u00e4tt att verka manlig\nS\u00e5 du f\u00e5r sitta l\u00e4ngst fram i taxin\n\n[Stick]\nBa-baby du knullar bra\nDu, du var underbar\nMen, men jag tror det vore b\u00e4st om du rullar av\nBaby du knullar bra\nDu var, du var underbar\nMen jag tror det vore b\u00e4st om du rullar av\n\n[Outro]\nAllts\u00e5 du vet, det typiska \u00e4r att hon s\u00e4ger s\u00e5 h\u00e4r\nAmen ni m\u00e4n ni t\u00e4nker bara p\u00e5 en sak\nEgentligen skulle jag vilja s\u00e4ga att vi inte t\u00e4nker alls\nUh, uh, uh, uh!\nSnook\nBaby du knullar bra\nDu var underbar\nMen jag tror det vore b\u00e4st om du rullar avEmbed"
+  },
+  {
+   "annotation_count": 5,
+   "api_path": "/songs/1445206",
+   "artist_names": "Snook",
+   "full_title": "Kommer ifr\u00e5n by\u00a0Snook",
+   "header_image_thumbnail_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+   "id": 1445206,
+   "language": "sv",
+   "lyrics_owner_id": 6044727,
+   "lyrics_state": "complete",
+   "path": "/Snook-kommer-ifran-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Snook-kommer-ifran-sample",
+   "release_date_components": {
+    "year": 2006,
+    "month": 5,
+    "day": 10
+   },
+   "release_date_for_display": "May 10, 2006",
+   "release_date_with_abbreviated_month_for_display": "May. 10, 2006",
+   "song_art_image_thumbnail_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 13,
+    "iq_earners": 13,
+    "transcribers": 3,
+    "unreviewed_annotations": 5,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 20759
+   },
+   "title": "Kommer ifr\u00e5n",
+   "title_with_featured": "Kommer ifr\u00e5n",
+   "url": "https://genius.com/Snook-kommer-ifran-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/149037",
+    "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+    "id": 149037,
+    "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Snook",
+    "url": "https://genius.com/artists/Snook"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1445206/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1445206' class='rg_embed_link' data-song-id='1445206'>Read <a href='https://genius.com/Snook-kommer-ifran-lyrics'>\u201cKommer ifr\u00e5n\u201d by Snook</a> on Genius</div> <script crossorigin src='//genius.com/songs/1445206/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2006-05-10",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/87647",
+    "cover_art_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+    "full_title": "\u00c4r by Snook",
+    "id": 87647,
+    "name": "\u00c4r",
+    "url": "https://genius.com/albums/Snook/Ar",
+    "artist": {
+     "api_path": "/artists/149037",
+     "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+     "id": 149037,
+     "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Snook",
+     "url": "https://genius.com/artists/Snook"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Manufactured by",
+     "artists": [
+      {
+       "api_path": "/artists/1081283",
+       "header_image_url": "https://images.genius.com/eb1aa588ff68e6b43701d550e9ce9713.200x61x1.jpg",
+       "id": 1081283,
+       "image_url": "https://images.genius.com/1e5901a1c9c3d8e81772f104bd2c8d4f.378x378x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Optimal Media Production",
+       "url": "https://genius.com/artists/Optimal-media-production"
+      }
+     ]
+    },
+    {
+     "label": "Published By",
+     "artists": [
+      {
+       "api_path": "/artists/2296653",
+       "header_image_url": "https://images.genius.com/1693a28b615f9d3692642f56be696fbc.1000x1000x1.png",
+       "id": 2296653,
+       "image_url": "https://images.genius.com/1693a28b615f9d3692642f56be696fbc.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Sweden",
+       "url": "https://genius.com/artists/Universal-music-sweden"
+      }
+     ]
+    },
+    {
+     "label": "Distributed By",
+     "artists": [
+      {
+       "api_path": "/artists/1088452",
+       "header_image_url": "https://images.genius.com/a48d02ab90fcafc0d28400ff77fdfcb1.600x159x1.jpg",
+       "id": 1088452,
+       "image_url": "https://images.genius.com/3df5f6fc859fbb542afb43d5dcd0d017.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Playground Music Scandinavia",
+       "url": "https://genius.com/artists/Playground-music-scandinavia"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/1088452",
+       "header_image_url": "https://images.genius.com/a48d02ab90fcafc0d28400ff77fdfcb1.600x159x1.jpg",
+       "id": 1088452,
+       "image_url": "https://images.genius.com/3df5f6fc859fbb542afb43d5dcd0d017.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Playground Music Scandinavia",
+       "url": "https://genius.com/artists/Playground-music-scandinavia"
+      },
+      {
+       "api_path": "/artists/526031",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 526031,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Pope",
+       "url": "https://genius.com/artists/Pope"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/1088452",
+       "header_image_url": "https://images.genius.com/a48d02ab90fcafc0d28400ff77fdfcb1.600x159x1.jpg",
+       "id": 1088452,
+       "image_url": "https://images.genius.com/3df5f6fc859fbb542afb43d5dcd0d017.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Playground Music Scandinavia",
+       "url": "https://genius.com/artists/Playground-music-scandinavia"
+      },
+      {
+       "api_path": "/artists/526031",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 526031,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Pope",
+       "url": "https://genius.com/artists/Pope"
+      }
+     ]
+    },
+    {
+     "label": "Photography By",
+     "artists": [
+      {
+       "api_path": "/artists/44577",
+       "header_image_url": "https://images.genius.com/02335b9286be0b6dd6e492f42b20e11a.1000x438x1.jpg",
+       "id": 44577,
+       "image_url": "https://images.genius.com/147eb8add044779629c2d2ca9f6b3570.840x840x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Daniel Adams-Ray",
+       "url": "https://genius.com/artists/Daniel-adams-ray"
+      },
+      {
+       "api_path": "/artists/2630481",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 2630481,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dag M\u00e5nsson",
+       "url": "https://genius.com/artists/Dag-mansson"
+      }
+     ]
+    },
+    {
+     "label": "Designed By",
+     "artists": [
+      {
+       "api_path": "/artists/44577",
+       "header_image_url": "https://images.genius.com/02335b9286be0b6dd6e492f42b20e11a.1000x438x1.jpg",
+       "id": 44577,
+       "image_url": "https://images.genius.com/147eb8add044779629c2d2ca9f6b3570.840x840x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Daniel Adams-Ray",
+       "url": "https://genius.com/artists/Daniel-adams-ray"
+      },
+      {
+       "api_path": "/artists/2630481",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 2630481,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dag M\u00e5nsson",
+       "url": "https://genius.com/artists/Dag-mansson"
+      }
+     ]
+    },
+    {
+     "label": "Art Direction By",
+     "artists": [
+      {
+       "api_path": "/artists/44577",
+       "header_image_url": "https://images.genius.com/02335b9286be0b6dd6e492f42b20e11a.1000x438x1.jpg",
+       "id": 44577,
+       "image_url": "https://images.genius.com/147eb8add044779629c2d2ca9f6b3570.840x840x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Daniel Adams-Ray",
+       "url": "https://genius.com/artists/Daniel-adams-ray"
+      },
+      {
+       "api_path": "/artists/2630481",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 2630481,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dag M\u00e5nsson",
+       "url": "https://genius.com/artists/Dag-mansson"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Location",
+     "artists": [
+      {
+       "api_path": "/artists/1405327",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1405327,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cosmos Mastering",
+       "url": "https://genius.com/artists/Cosmos-mastering"
+      }
+     ]
+    },
+    {
+     "label": "Mastered by",
+     "artists": [
+      {
+       "api_path": "/artists/1585990",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1585990,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Soren Elonsson",
+       "url": "https://genius.com/artists/Soren-elonsson"
+      }
+     ]
+    },
+    {
+     "label": "Mixed By",
+     "artists": [
+      {
+       "api_path": "/artists/1054570",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1054570,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jonas Nordelius",
+       "url": "https://genius.com/artists/Jonas-nordelius"
+      }
+     ]
+    },
+    {
+     "label": "Strings By",
+     "artists": [
+      {
+       "api_path": "/artists/64761",
+       "header_image_url": "https://images.genius.com/50939cc5526bbb0cca18f2d872a8e4ff.1000x1000x1.jpg",
+       "id": 64761,
+       "image_url": "https://images.genius.com/50939cc5526bbb0cca18f2d872a8e4ff.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Salem Al Fakir",
+       "url": "https://genius.com/artists/Salem-al-fakir"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 126836,
+    "annotator_login": "ChloeConlon",
+    "api_path": "/referents/22164629",
+    "classification": "needs_exegesis",
+    "fragment": "Kommer ifr\u00e5n",
+    "id": 22164629,
+    "is_description": true,
+    "path": "/22164629/Snook-kommer-ifran/Kommer-ifran",
+    "range": {
+     "content": "Kommer ifr\u00e5n"
+    },
+    "song_id": 1445206,
+    "url": "https://genius.com/22164629/Snook-kommer-ifran/Kommer-ifran",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1445206",
+     "client_timestamps": {
+      "updated_by_human_at": 1617491177,
+      "lyrics_updated_at": 1627690968
+     },
+     "context": "Snook",
+     "id": 1445206,
+     "image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+     "link_title": "Kommer ifr\u00e5n by\u00a0Snook",
+     "title": "Kommer ifr\u00e5n",
+     "type": "Song",
+     "url": "https://genius.com/Snook-kommer-ifran-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/22164629",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 22164629,
+      "pinned": false,
+      "share_url": "https://genius.com/22164629",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/22164629/Snook-kommer-ifran/Kommer-ifran",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/126836",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/2f4efbb8d2031e656696b1f2e029c742",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/2f4efbb8d2031e656696b1f2e029c742",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/2f4efbb8d2031e656696b1f2e029c742",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/2f4efbb8d2031e656696b1f2e029c742",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/27d4ff0a8726ba5d0d06dc681ee8d18e.480x270x23.gif",
+         "human_readable_role_for_display": "Moderator",
+         "id": 126836,
+         "iq": 3197462,
+         "login": "ChloeConlon",
+         "name": "Chloe Conlon \u2618\ufe0f",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/ChloeConlon",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=AH_hmvzVDQk"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/81307",
+     "header_image_url": "https://images.genius.com/d4cc262e1067f966f21113fda453283d.1000x201x1.jpg",
+     "id": 81307,
+     "image_url": "https://images.genius.com/4acc281192a4960cb55def24e3985c5b.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oskar Linnros",
+     "url": "https://genius.com/artists/Oskar-linnros"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/81307",
+     "header_image_url": "https://images.genius.com/d4cc262e1067f966f21113fda453283d.1000x201x1.jpg",
+     "id": 81307,
+     "image_url": "https://images.genius.com/4acc281192a4960cb55def24e3985c5b.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oskar Linnros",
+     "url": "https://genius.com/artists/Oskar-linnros"
+    },
+    {
+     "api_path": "/artists/44577",
+     "header_image_url": "https://images.genius.com/02335b9286be0b6dd6e492f42b20e11a.1000x438x1.jpg",
+     "id": 44577,
+     "image_url": "https://images.genius.com/147eb8add044779629c2d2ca9f6b3570.840x840x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Daniel Adams-Ray",
+     "url": "https://genius.com/artists/Daniel-adams-ray"
+    }
+   ],
+   "artist": "Snook",
+   "lyrics": "Kommer ifr\u00e5n Lyrics(Ber\u00e4tta vart du kommer ifr\u00e5n)\n\n[Vers 1: Khilen]\nHaka p\u00e5 n\u00e4r jag promenerar i sm\u00e5stan\nKaxiga sm\u00e5barn dominerar sin g\u00e5rdsplan\nF\u00f6r det \u00e4r varken vitt eller svart\nD\u00e4r vissa g\u00e5r p\u00e5 friskis och vissa p\u00e5 tjack\nD\u00e4r vissa pluggar till tentor och dr\u00f6mmer om stan\nD\u00e4r vissa gubbar \u00e4r Svensson, vissa tuggar i centrum\nSlutet \u00e4r tungt f\u00f6r den som stupade ung\nVissa f\u00e5r bara se sin mormor plus en kruka med jumm\nD\u00e4r vissa ger sonen sp\u00f6\nD\u00e4r vissa fyller s\u00e4tena p\u00e5 tunnelbanevagnarna med f\u00e5gelfr\u00f6n\nD\u00e4r vissa ber sin morgonb\u00f6n\nHar vissa tre g\u00e5nger mer \u00e4n vad grannen har i m\u00e5nadsl\u00f6n\nMin f\u00f6rort \u00e4r en egen statsdel\nVarken n\u00e5gon under-, \u00f6ver- eller medelklassdel\nDet \u00e4r d\u00e4r jag kommer ifr\u00e5n\nIngen betong eller s\u00e5\nMen det finns alltid paraboler p\u00e5 balkongerna, \u00e5h\n[Refr\u00e4ng]\nDet kommer aldrig n\u00e5nsin vara perfekt, hey\nMen det \u00e4r d\u00e4r jag kommer ifr\u00e5n\nOch vart jag \u00e4n kommer och g\u00e5r\n\u00c4r det n\u00e5nting som jag aldrig kommer ifr\u00e5n\nDet kommer aldrig n\u00e5nsin vara perfekt, hey\nMen det \u00e4r d\u00e4r jag kommer ifr\u00e5n\nOch vart jag \u00e4n kommer och g\u00e5r\n\u00c4r det n\u00e5nting som jag aldrig kommer ifr\u00e5n\n\n[Vers 2: Big Danne]\nJag kan svara p\u00e5 din fr\u00e5ga men det tar en minut\nF\u00f6r sagan om f\u00e5glar som piper den tar aldrig slut\nEtt paradis utan f\u00f6rdomar jag tar dig dit ut\nOm du v\u00e4ntar med din slutsats tills sagan \u00e4r slut\nH\u00e4r skiljer sig f\u00f6r\u00e4ldrar och delar barnen p\u00e5 mitten\nL\u00e4mnar dem i villan och undrar varf\u00f6r de dricker\nMis\u00e4r p\u00e5 Liding\u00f6\nT\u00e4nk p\u00e5 det, j\u00e4vel, att svenne, man byter bara problem n\u00e4r man har v\u00e4lf\u00e4rd och pengar\nVissa tror att allting \u00e4r svart eller vitt\nMin f\u00f6rort formade mannen som m\u00f6rdade Anna Lindh, vila i frid\nVissa h\u00e4r har bara 1:an, 2:an och 4:an\nVissa \u00e4ger en 1:a, en 2:a och 4:a\nFr\u00e5gan \u00e4r v\u00e4l den om det spelar n\u00e5n riktig roll, min v\u00e4n\nSm\u00e4rtan \u00e4r densamma \u00e4ven f\u00f6r hypokondrikern\nKommer ifr\u00e5n?\nMan, jag kommer ih\u00e5g\nJag ville s\u00e5 l\u00e5ngt h\u00e4rifr\u00e5n att jag boffade krom\nYou might also like[Refr\u00e4ng]\nDet kommer aldrig n\u00e5nsin vara perfekt, hey\nMen det \u00e4r d\u00e4r jag kommer ifr\u00e5n\nOch vart jag \u00e4n kommer och g\u00e5r\n\u00c4r det n\u00e5nting som jag aldrig kommer ifr\u00e5n\nDet kommer aldrig n\u00e5nsin vara perfekt, hey\nMen det \u00e4r d\u00e4r jag kommer ifr\u00e5n\nOch vart jag \u00e4n kommer och g\u00e5r\n\u00c4r det n\u00e5nting som jag aldrig kommer ifr\u00e5n\n\n[Vers 3: Khilen]\nDet finns allt fr\u00e5n h\u00f6ghus till villor h\u00e4r\nSoc-fall till miljon\u00e4r\nMen ingen av dem vet vilka Moodysson och Birro \u00e4r\nKnas och f\u00f6rdom romantiseras ihop av m\u00e4nniskor som aldrig n\u00e5nsin levt i en ort\nS\u00e5 tyv\u00e4rr kommer n\u00e4stan ingen hit f\u00f6r och roa sig p\u00e5 fredag eller l\u00f6rdag\nVi f\u00e5r mer och mer att g\u00f6ra\nMen v\u00e4lkommen hit, se men inte r\u00f6ra\nSom n\u00e5gon sa: \"Sundbyberg ser man sedan d\u00f6r man\"\n\n[Bridge]\nS\u00e5, l\u00e5t mig ber\u00e4tta vart jag kommer ifr\u00e5n\n(Ber\u00e4tta vart du kommer ifr\u00e5n)\nOkej, okej, l\u00e5t mig ber\u00e4tta vart jag kommer ifr\u00e5n\n(Ber\u00e4tta vart du kommer ifr\u00e5n)\nMen nej, l\u00e5t mig ber\u00e4tta vart jag kommer ifr\u00e5n\n(Ber\u00e4tta vart du kommer ifr\u00e5n)\nOkej, f\u00f6r d\u00e4r jag kommer ifr\u00e5n st\u00e5r vi p\u00e5 perrongen i \u00e5r och v\u00e4ntar p\u00e5 att t\u00e5get ifr\u00e5n Sp\u00e5nga ska g\u00e5\n[Refr\u00e4ng]\nDet kommer aldrig n\u00e5nsin vara perfekt, hey\nMen det \u00e4r d\u00e4r jag kommer ifr\u00e5n\nOch vart jag \u00e4n kommer och g\u00e5r\n\u00c4r det n\u00e5nting som jag aldrig kommer ifr\u00e5n\nDet kommer aldrig n\u00e5nsin vara perfekt, hey\nMen det \u00e4r d\u00e4r jag kommer ifr\u00e5n\nOch vart jag \u00e4n kommer och g\u00e5r\n\u00c4r det n\u00e5nting som jag aldrig kommer ifr\u00e5n\nDet kommer aldrig n\u00e5nsin vara perfekt, hey\nMen det \u00e4r d\u00e4r jag kommer ifr\u00e5n\nOch vart jag \u00e4n kommer och g\u00e5r\n\u00c4r det n\u00e5nting som jag aldrig kommer ifr\u00e5n\nDet kommer aldrig n\u00e5nsin vara perfekt, hey\nMen det \u00e4r d\u00e4r jag kommer ifr\u00e5n\nOch vart jag \u00e4n kommer och g\u00e5r\n\u00c4r det n\u00e5nting som jag aldrig kommer ifr\u00e5nEmbed"
+  },
+  {
+   "annotation_count": 24,
+   "api_path": "/songs/380553",
+   "artist_names": "Snook",
+   "full_title": "Snook, svett & t\u00e5rar by\u00a0Snook",
+   "header_image_thumbnail_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+   "id": 380553,
+   "language": "sv",
+   "lyrics_owner_id": 627926,
+   "lyrics_state": "complete",
+   "path": "/Snook-snook-svett-and-tarar-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Snook-snook-svett-and-tarar-sample",
+   "release_date_components": {
+    "year": 2006,
+    "month": 5,
+    "day": 10
+   },
+   "release_date_for_display": "May 10, 2006",
+   "release_date_with_abbreviated_month_for_display": "May. 10, 2006",
+   "song_art_image_thumbnail_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 22,
+    "contributors": 16,
+    "iq_earners": 15,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 14164
+   },
+   "title": "Snook, svett & t\u00e5rar",
+   "title_with_featured": "Snook, svett & t\u00e5rar",
+   "url": "https://genius.com/Snook-snook-svett-and-tarar-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/149037",
+    "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+    "id": 149037,
+    "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Snook",
+    "url": "https://genius.com/artists/Snook"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/380553/apple_music_player",
+   "description": {
+    "plain": "I den h\u00e4r l\u00e5ten ber\u00e4ttas det fr\u00e5n b\u00e5de Khilens och Big Dannes synvinklar om deras bakgrunder och hur Snook bildades."
+   },
+   "embed_content": "<div id='rg_embed_link_380553' class='rg_embed_link' data-song-id='380553'>Read <a href='https://genius.com/Snook-snook-svett-and-tarar-lyrics'>\u201cSnook, svett & t\u00e5rar\u201d by Snook</a> on Genius</div> <script crossorigin src='//genius.com/songs/380553/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2006-05-10",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/87647",
+    "cover_art_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+    "full_title": "\u00c4r by Snook",
+    "id": 87647,
+    "name": "\u00c4r",
+    "url": "https://genius.com/albums/Snook/Ar",
+    "artist": {
+     "api_path": "/artists/149037",
+     "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+     "id": 149037,
+     "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Snook",
+     "url": "https://genius.com/artists/Snook"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Manufactured by",
+     "artists": [
+      {
+       "api_path": "/artists/1081283",
+       "header_image_url": "https://images.genius.com/eb1aa588ff68e6b43701d550e9ce9713.200x61x1.jpg",
+       "id": 1081283,
+       "image_url": "https://images.genius.com/1e5901a1c9c3d8e81772f104bd2c8d4f.378x378x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Optimal Media Production",
+       "url": "https://genius.com/artists/Optimal-media-production"
+      }
+     ]
+    },
+    {
+     "label": "Published By",
+     "artists": [
+      {
+       "api_path": "/artists/2296653",
+       "header_image_url": "https://images.genius.com/1693a28b615f9d3692642f56be696fbc.1000x1000x1.png",
+       "id": 2296653,
+       "image_url": "https://images.genius.com/1693a28b615f9d3692642f56be696fbc.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Sweden",
+       "url": "https://genius.com/artists/Universal-music-sweden"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Location",
+     "artists": [
+      {
+       "api_path": "/artists/1405327",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1405327,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cosmos Mastering",
+       "url": "https://genius.com/artists/Cosmos-mastering"
+      }
+     ]
+    },
+    {
+     "label": "Distributed By",
+     "artists": [
+      {
+       "api_path": "/artists/1088452",
+       "header_image_url": "https://images.genius.com/a48d02ab90fcafc0d28400ff77fdfcb1.600x159x1.jpg",
+       "id": 1088452,
+       "image_url": "https://images.genius.com/3df5f6fc859fbb542afb43d5dcd0d017.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Playground Music Scandinavia",
+       "url": "https://genius.com/artists/Playground-music-scandinavia"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/1088452",
+       "header_image_url": "https://images.genius.com/a48d02ab90fcafc0d28400ff77fdfcb1.600x159x1.jpg",
+       "id": 1088452,
+       "image_url": "https://images.genius.com/3df5f6fc859fbb542afb43d5dcd0d017.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Playground Music Scandinavia",
+       "url": "https://genius.com/artists/Playground-music-scandinavia"
+      },
+      {
+       "api_path": "/artists/526031",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 526031,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Pope",
+       "url": "https://genius.com/artists/Pope"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/1088452",
+       "header_image_url": "https://images.genius.com/a48d02ab90fcafc0d28400ff77fdfcb1.600x159x1.jpg",
+       "id": 1088452,
+       "image_url": "https://images.genius.com/3df5f6fc859fbb542afb43d5dcd0d017.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Playground Music Scandinavia",
+       "url": "https://genius.com/artists/Playground-music-scandinavia"
+      },
+      {
+       "api_path": "/artists/526031",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 526031,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Pope",
+       "url": "https://genius.com/artists/Pope"
+      }
+     ]
+    },
+    {
+     "label": "Photography By",
+     "artists": [
+      {
+       "api_path": "/artists/2535599",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 2535599,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Knotan",
+       "url": "https://genius.com/artists/Knotan"
+      },
+      {
+       "api_path": "/artists/44577",
+       "header_image_url": "https://images.genius.com/02335b9286be0b6dd6e492f42b20e11a.1000x438x1.jpg",
+       "id": 44577,
+       "image_url": "https://images.genius.com/147eb8add044779629c2d2ca9f6b3570.840x840x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Daniel Adams-Ray",
+       "url": "https://genius.com/artists/Daniel-adams-ray"
+      },
+      {
+       "api_path": "/artists/2630481",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 2630481,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dag M\u00e5nsson",
+       "url": "https://genius.com/artists/Dag-mansson"
+      }
+     ]
+    },
+    {
+     "label": "Mixed By",
+     "artists": [
+      {
+       "api_path": "/artists/1054570",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1054570,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jonas Nordelius",
+       "url": "https://genius.com/artists/Jonas-nordelius"
+      }
+     ]
+    },
+    {
+     "label": "Mastered by",
+     "artists": [
+      {
+       "api_path": "/artists/1585990",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1585990,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Soren Elonsson",
+       "url": "https://genius.com/artists/Soren-elonsson"
+      }
+     ]
+    },
+    {
+     "label": "Design By",
+     "artists": [
+      {
+       "api_path": "/artists/44577",
+       "header_image_url": "https://images.genius.com/02335b9286be0b6dd6e492f42b20e11a.1000x438x1.jpg",
+       "id": 44577,
+       "image_url": "https://images.genius.com/147eb8add044779629c2d2ca9f6b3570.840x840x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Daniel Adams-Ray",
+       "url": "https://genius.com/artists/Daniel-adams-ray"
+      },
+      {
+       "api_path": "/artists/2630481",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 2630481,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dag M\u00e5nsson",
+       "url": "https://genius.com/artists/Dag-mansson"
+      }
+     ]
+    },
+    {
+     "label": "Art Direction By",
+     "artists": [
+      {
+       "api_path": "/artists/44577",
+       "header_image_url": "https://images.genius.com/02335b9286be0b6dd6e492f42b20e11a.1000x438x1.jpg",
+       "id": 44577,
+       "image_url": "https://images.genius.com/147eb8add044779629c2d2ca9f6b3570.840x840x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Daniel Adams-Ray",
+       "url": "https://genius.com/artists/Daniel-adams-ray"
+      },
+      {
+       "api_path": "/artists/2630481",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 2630481,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dag M\u00e5nsson",
+       "url": "https://genius.com/artists/Dag-mansson"
+      }
+     ]
+    },
+    {
+     "label": "Brass Section By",
+     "artists": [
+      {
+       "api_path": "/artists/64761",
+       "header_image_url": "https://images.genius.com/50939cc5526bbb0cca18f2d872a8e4ff.1000x1000x1.jpg",
+       "id": 64761,
+       "image_url": "https://images.genius.com/50939cc5526bbb0cca18f2d872a8e4ff.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Salem Al Fakir",
+       "url": "https://genius.com/artists/Salem-al-fakir"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2792960,
+    "annotator_login": "CorporateP",
+    "api_path": "/referents/3631981",
+    "classification": "accepted",
+    "fragment": "Snook, svett & t\u00e5rar",
+    "id": 3631981,
+    "is_description": true,
+    "path": "/3631981/Snook-snook-svett-and-tarar/Snook-svett-and-tarar",
+    "range": {
+     "content": "Snook, svett & t\u00e5rar"
+    },
+    "song_id": 380553,
+    "url": "https://genius.com/3631981/Snook-snook-svett-and-tarar/Snook-svett-and-tarar",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/380553",
+     "client_timestamps": {
+      "updated_by_human_at": 1632252546,
+      "lyrics_updated_at": 1632252546
+     },
+     "context": "Snook",
+     "id": 380553,
+     "image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+     "link_title": "Snook, svett & t\u00e5rar by\u00a0Snook",
+     "title": "Snook, svett & t\u00e5rar",
+     "type": "Song",
+     "url": "https://genius.com/Snook-snook-svett-and-tarar-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3631981",
+      "body": {
+       "plain": "I den h\u00e4r l\u00e5ten ber\u00e4ttas det fr\u00e5n b\u00e5de Khilens och Big Dannes synvinklar om deras bakgrunder och hur Snook bildades."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3631981,
+      "pinned": false,
+      "share_url": "https://genius.com/3631981",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3631981/Snook-snook-svett-and-tarar/Snook-svett-and-tarar",
+      "verified": false,
+      "votes_total": 1,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2792960",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1669064443",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1669064443",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1669064443",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2792960,
+         "iq": 420,
+         "login": "CorporateP",
+         "name": "CorporateP",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/CorporateP",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=5XILhVUdpbs"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/81307",
+     "header_image_url": "https://images.genius.com/d4cc262e1067f966f21113fda453283d.1000x201x1.jpg",
+     "id": 81307,
+     "image_url": "https://images.genius.com/4acc281192a4960cb55def24e3985c5b.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oskar Linnros",
+     "url": "https://genius.com/artists/Oskar-linnros"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/44577",
+     "header_image_url": "https://images.genius.com/02335b9286be0b6dd6e492f42b20e11a.1000x438x1.jpg",
+     "id": 44577,
+     "image_url": "https://images.genius.com/147eb8add044779629c2d2ca9f6b3570.840x840x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Daniel Adams-Ray",
+     "url": "https://genius.com/artists/Daniel-adams-ray"
+    },
+    {
+     "api_path": "/artists/81307",
+     "header_image_url": "https://images.genius.com/d4cc262e1067f966f21113fda453283d.1000x201x1.jpg",
+     "id": 81307,
+     "image_url": "https://images.genius.com/4acc281192a4960cb55def24e3985c5b.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oskar Linnros",
+     "url": "https://genius.com/artists/Oskar-linnros"
+    }
+   ],
+   "artist": "Snook",
+   "lyrics": "Snook, svett & t\u00e5rar Lyrics[Vers 1: Kihlen]\nJag rappade f\u00f6r f\u00f6-f\u00f6-f\u00f6-f\u00f6rsta g\u00e5ngen i Rissne Centrum\nL\u00e5ngt innan rap mest kom att\nHandla om sex och 50 Cents mun\nMed v\u00e5ran Wu-Tang:iga, osv\u00e4ngiga skolengelska\nVar man nog mest en t\u00f6nt med en dr\u00f6m om en mick\nOch de gula Timberlandboots-k\u00e4ngorna (yo, yo)\nJag hookade upp med en snubbe som ocks\u00e5 rappa ibland\nS\u00e5 vi battla varann, men det kr\u00e4vdes ett namn\nF\u00f6r att bilda en grupp-grupp\nMed de keffaste h\u00f6gtalarna, l\u00f6stagbara\nBara jag och Danne vi var tr\u00f6tta p\u00e5 att allt som skulle f\u00f6rest\u00e4lla ballt f\u00f6rs\u00f6kte va amerikanskt\n[Refr\u00e4ng: Daniel-Adams Ray + Kihlen]\nMamma, jag har varit f\u00f6r sn\u00e4ll och obstinat\nIngen backup, inget crew\nMen vi \u00e4r h\u00e4r, uh-uh, \u00e4r h\u00e4r, uh-uh\n\n[Vers 2: Big Danne]\nN\u00e5gra \u00e5r innan dess, ja, d\u00e5 landa' ett plan\nUr en storm utav sn\u00f6 kom en afrikan\nFick en chock n\u00e4r han s\u00e5g att det var svart mitt p\u00e5 dan\nOch det sl\u00e5r mig idag att den d\u00e4r grabben var jag\nBlev retad f\u00f6r bajs\nSkrev sedan ner rhymes, blev redo f\u00f6r fight\nF\u00f6r mitt liv det var skit och jag hatade allt\nF\u00f6r min hy den var vit men jag k\u00e4nde mig svart\nSom Miklo i Blood In Blood Out\nN\u00e5got intr\u00e4ffade som f\u00f6r\u00e4ndrade allt\nJag tr\u00e4ffade Kihlen, han fl\u00f6t ju som Nilen\nDet k\u00e4ndes som vi k\u00e4nt varann hela livet\nVi tr\u00f6ttnade p\u00e5 (skrytet) som d\u00e5 utgjorde (stilen)\nVi br\u00e4nde ned (skiten), sen v\u00e4nde v\u00e4l (vinden)\nN\u00e4r vi l\u00e4mnade skolan med snodd mikrofon\nOch samma \u00e5r tog vi v\u00e5rt hiphop-award\n\n[Refr\u00e4ng: Daniel-Adams Ray + Kihlen]\nMamma, jag har varit f\u00f6r sn\u00e4ll och obstinat\nIngen backup, inget crew\nMen vi \u00e4r h\u00e4r, uh-uh, \u00e4r h\u00e4r, uh-uh\nYou might also like[Vers 3: Kihlen]\nNu har det blivit noll tre\nOch vi har en otrolig t\u00f6rst, bland stor st\u00f6rre st\u00f6rst\nBlev vi toys utan boys eller crew\nMen vi g\u00f6r det ju p\u00e5 skoj (eller hur?)\nNu f\u00e5r vi kontrakt och \u00e5ret \u00e4r strax slut, det g\u00e5r snabbt nu\nVi \u00e4r clownen med ess i \u00e4rmen\nMen k\u00e4nner oss fanemej b\u00e4st i v\u00e4rlden, s\u00e5 fuck you!\nJag flippar n\u00e4r jag hittar undanstoppade trumstockar i den garderob d\u00e4r vi spela in plattan\nFattigt, f\u00f6r v\u00e5rt lilla, lilla skivbolag inte hade r\u00e5d\nNu hissar vissa hiphop-flaggan p\u00e5 halvst\u00e5ng\nS\u00e5 vi kallar till alls\u00e5ng\nVissa dissar, men dessa pissar vi p\u00e5\nUtan att svara, bara genom framg\u00e5ng\nI spegeln ser jag bra st\u00f6ddig ut, med det d\u00e4r ansiktsuttrycket\nEn kille med alldeles f\u00f6r mycket rakl\u00f6dder\nMen som pallar f\u00f6r trycket va alla \u00e4n tycker\nHiphop handlar om att sl\u00e5 underifr\u00e5n\nOch vilka f\u00f6rutom dubbel-O K har gjort det? Vi \u00e4r kungar i \u00e5r!\n\n[Refr\u00e4ng: Daniel-Adams Ray + Kihlen]\nMamma, jag har varit f\u00f6r sn\u00e4ll och obstinat\nIngen backup, inget crew\nMen vi \u00e4r h\u00e4r, \u00e4r h\u00e4r, yeah-yeah-yeah\n\n[Vers 4: Big Danne]\nTio \u00e5r fr\u00e5n 2006 \u00e4r i v\u00e5ran tid lika med 2026\nOch f\u00f6rhoppningsvis h\u00e5ller vi hungern vid liv\nI v\u00e5ra tickeri-t\u00e5r\u00f6gda bl\u00e5\u00f6gda sm\u00e5 liv\nF\u00f6r det som kommer att ske har redan varit f\u00f6r oss\nS\u00e5 vi vill tacka er som att ni hatade oss\nB\u00f6rjade p\u00e5 en open mic och slutar v\u00e4l d\u00e4r ocks\u00e5\nVi ska fan ha kommit dit innan slutet v\u00e4l har n\u00e5tt oss\n[Refr\u00e4ng: Daniel-Adams Ray + Kihlen]\nMamma, jag har varit f\u00f6r sn\u00e4ll och obstinat\nIngen backup, inget crew\nMen vi \u00e4r h\u00e4r, \u00e4r h\u00e4r, yeah-yeah-yeah\nMamma, jag har varit f\u00f6r sn\u00e4ll och obstinat\nIngen backup, inget crew\nMen vi \u00e4r h\u00e4r, \u00e4r h\u00e4r, yeah-yeah-yeah2Embed"
+  },
+  {
+   "annotation_count": 7,
+   "api_path": "/songs/1505483",
+   "artist_names": "Snook",
+   "full_title": "Inga problem by\u00a0Snook",
+   "header_image_thumbnail_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+   "id": 1505483,
+   "language": "sv",
+   "lyrics_owner_id": 1545820,
+   "lyrics_state": "complete",
+   "path": "/Snook-inga-problem-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Snook-inga-problem-sample",
+   "release_date_components": {
+    "year": 2006,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "2006",
+   "release_date_with_abbreviated_month_for_display": "2006",
+   "song_art_image_thumbnail_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 12,
+    "iq_earners": 11,
+    "transcribers": 3,
+    "unreviewed_annotations": 6,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 6807
+   },
+   "title": "Inga problem",
+   "title_with_featured": "Inga problem",
+   "url": "https://genius.com/Snook-inga-problem-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/149037",
+    "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+    "id": 149037,
+    "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Snook",
+    "url": "https://genius.com/artists/Snook"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1505483/apple_music_player",
+   "description": {
+    "plain": "L\u00e5ten handlar om det tr\u00e5kiga i att leva ett liv som \u00e4r helt okej, varken b\u00e4ttre eller s\u00e4mre. det finns inga st\u00f6rre problem med att leva livet av en helt vanligt medelklass svenne. Men Linnros och Adams-Ray uttrycker att dom vill ha ut mer ur livet. I l\u00e5ten tar dom \u00e4ven upp problemet med att inte kunna prata ut om sm\u00e5problem. p\u00e5 grund av globalisering och internationella medier kan vi se hela v\u00e4rldens problem fr\u00e5n perspektivet av offren som f\u00f6rlorat mest. de vardagliga problem som vi alla genomg\u00e5r f\u00f6rlorar d\u00e5 sin relevans.\n\n2007 gjordes en remix p\u00e5 den h\u00e4r l\u00e5ten med Snook ft. Petter & Veronica Maggio"
+   },
+   "embed_content": "<div id='rg_embed_link_1505483' class='rg_embed_link' data-song-id='1505483'>Read <a href='https://genius.com/Snook-inga-problem-lyrics'>\u201cInga problem\u201d by Snook</a> on Genius</div> <script crossorigin src='//genius.com/songs/1505483/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/87647",
+    "cover_art_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+    "full_title": "\u00c4r by Snook",
+    "id": 87647,
+    "name": "\u00c4r",
+    "url": "https://genius.com/albums/Snook/Ar",
+    "artist": {
+     "api_path": "/artists/149037",
+     "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+     "id": 149037,
+     "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Snook",
+     "url": "https://genius.com/artists/Snook"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5099118,
+    "annotator_login": "Hans_Haydn",
+    "api_path": "/referents/15636573",
+    "classification": "accepted",
+    "fragment": "Inga problem",
+    "id": 15636573,
+    "is_description": true,
+    "path": "/15636573/Snook-inga-problem/Inga-problem",
+    "range": {
+     "content": "Inga problem"
+    },
+    "song_id": 1505483,
+    "url": "https://genius.com/15636573/Snook-inga-problem/Inga-problem",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1505483",
+     "client_timestamps": {
+      "updated_by_human_at": 1579825341,
+      "lyrics_updated_at": 1625996978
+     },
+     "context": "Snook",
+     "id": 1505483,
+     "image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+     "link_title": "Inga problem by\u00a0Snook",
+     "title": "Inga problem",
+     "type": "Song",
+     "url": "https://genius.com/Snook-inga-problem-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/15636573",
+      "body": {
+       "plain": "L\u00e5ten handlar om det tr\u00e5kiga i att leva ett liv som \u00e4r helt okej, varken b\u00e4ttre eller s\u00e4mre. det finns inga st\u00f6rre problem med att leva livet av en helt vanligt medelklass svenne. Men Linnros och Adams-Ray uttrycker att dom vill ha ut mer ur livet. I l\u00e5ten tar dom \u00e4ven upp problemet med att inte kunna prata ut om sm\u00e5problem. p\u00e5 grund av globalisering och internationella medier kan vi se hela v\u00e4rldens problem fr\u00e5n perspektivet av offren som f\u00f6rlorat mest. de vardagliga problem som vi alla genomg\u00e5r f\u00f6rlorar d\u00e5 sin relevans.\n\n2007 gjordes en remix p\u00e5 den h\u00e4r l\u00e5ten med Snook ft. Petter & Veronica Maggio"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 15636573,
+      "pinned": false,
+      "share_url": "https://genius.com/15636573",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/15636573/Snook-inga-problem/Inga-problem",
+      "verified": false,
+      "votes_total": 1,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.9811320754716981,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5099118",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ap3ks3o5vc",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ap3ks3o5vc",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ap3ks3o5vc",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ap3ks3o5vc",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/mjr9jy5c0el",
+         "human_readable_role_for_display": null,
+         "id": 5099118,
+         "iq": 288,
+         "login": "Hans_Haydn",
+         "name": "Hans_Haydn",
+         "role_for_display": null,
+         "url": "https://genius.com/Hans_Haydn",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.018867924528301886,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1545820",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ad1901fd1d979325b57c76215d55536a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ad1901fd1d979325b57c76215d55536a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ad1901fd1d979325b57c76215d55536a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ad1901fd1d979325b57c76215d55536a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/ad1901fd1d979325b57c76215d55536a",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1545820,
+         "iq": 918,
+         "login": "estivee",
+         "name": "estivee",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/estivee",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=gsj3iZEDsSU"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1994530",
+       "artist_names": "Snook (Ft. Petter & Veronica Maggio)",
+       "full_title": "Inga Problem (Remix) by\u00a0Snook (Ft.\u00a0Petter & Veronica\u00a0Maggio)",
+       "header_image_thumbnail_url": "https://images.genius.com/a47e6f79b4826d3cc4e88f6bd99feb7e.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/a47e6f79b4826d3cc4e88f6bd99feb7e.500x500x1.jpg",
+       "id": 1994530,
+       "language": "sv",
+       "lyrics_owner_id": 5843669,
+       "lyrics_state": "complete",
+       "path": "/Snook-inga-problem-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Snook-inga-problem-remix-sample",
+       "release_date_components": {
+        "year": 2007,
+        "month": 6,
+        "day": 13
+       },
+       "release_date_for_display": "June 13, 2007",
+       "release_date_with_abbreviated_month_for_display": "Jun. 13, 2007",
+       "song_art_image_thumbnail_url": "https://images.genius.com/a47e6f79b4826d3cc4e88f6bd99feb7e.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a47e6f79b4826d3cc4e88f6bd99feb7e.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Inga Problem (Remix)",
+       "title_with_featured": "Inga Problem (Remix) (Ft.\u00a0Petter & Veronica\u00a0Maggio)",
+       "url": "https://genius.com/Snook-inga-problem-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/36986",
+         "header_image_url": "https://images.genius.com/7826c47e41a5bacc74024c8d009b1a58.954x368x1.jpg",
+         "id": 36986,
+         "image_url": "https://images.genius.com/7036277050fa78f6bb54eaaf5889ee86.576x576x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Veronica Maggio",
+         "url": "https://genius.com/artists/Veronica-maggio"
+        },
+        {
+         "api_path": "/artists/32186",
+         "header_image_url": "https://images.genius.com/5b17af2472027230c57703099bcaea53.690x460x1.jpg",
+         "id": 32186,
+         "image_url": "https://images.genius.com/130d989ab7c246949373a089ecc5a951.960x960x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Petter",
+         "url": "https://genius.com/artists/Petter"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/149037",
+        "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+        "id": 149037,
+        "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Snook",
+        "url": "https://genius.com/artists/Snook"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/81307",
+     "header_image_url": "https://images.genius.com/d4cc262e1067f966f21113fda453283d.1000x201x1.jpg",
+     "id": 81307,
+     "image_url": "https://images.genius.com/4acc281192a4960cb55def24e3985c5b.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oskar Linnros",
+     "url": "https://genius.com/artists/Oskar-linnros"
+    },
+    {
+     "api_path": "/artists/44577",
+     "header_image_url": "https://images.genius.com/02335b9286be0b6dd6e492f42b20e11a.1000x438x1.jpg",
+     "id": 44577,
+     "image_url": "https://images.genius.com/147eb8add044779629c2d2ca9f6b3570.840x840x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Daniel Adams-Ray",
+     "url": "https://genius.com/artists/Daniel-adams-ray"
+    }
+   ],
+   "artist": "Snook",
+   "lyrics": "Inga problem Lyrics[Intro]\n\u00c4r det s\u00e5 h\u00e4r?\n\n[Vers 1: Big Danne]\nS\u00e5\nH\u00e4r finns ingenting att klaga p\u00e5\nF\u00f6r el och rinnande vatten, det har jag dagen l\u00e5ng\nJag har en iPod om jag vill ha klagos\u00e5ng\nOch en arbetsdag som \u00e4r lagom l\u00e5ng\nHar vunnit titlar med min gatukonst\nNumera nummer ett h\u00e4r i falukorv\nS\u00e5 ni kan inte tysta mig som Falun Gong i Babylon\nF\u00f6r de r\u00e4knar ju min r\u00f6st n\u00e4r det blir valomg\u00e5ng\nJag kan utbilda mig nu, det \u00e4r bara att ett l\u00e5n\n(H\u00e4-h\u00e4r, h\u00e4r) H\u00e4r finns ingenting att klaga p\u00e5\nMitt liv g\u00e5r fram\u00e5t som ett maraton\nDe spelar v\u00e5r l\u00e5t hela dagen l\u00e5ng\nVet inte varf\u00f6r men det saknas n\u00e5t\nDet \u00e4r som att l\u00e5tsas som det regnar i en hagelstorm\nS\u00e5 jag borde v\u00e4l va lycklig utan klagom\u00e5l\n(F\u00f6r) H\u00e4r finns ingenting att klaga p\u00e5\n[Refr\u00e4ng]\n\u00c4r det s\u00e5 h\u00e4r det k\u00e4nns att va lycklig?\nDet \u00e4r inga problem\n\u00c4r det s\u00e5 h\u00e4r det k\u00e4nns att va lycklig?\nDet \u00e4r inga problem, det \u00e4r inga problem\n\n[Vers 2: Khilen]\nJag har klippt mig skaffat ett jobb och lite br\u00f6sth\u00e5r\nFlickv\u00e4n och en garderob med m\u00f6ssor\nS\u00e5 jag borde vara lycklig nu\nEller vad\u00e5?\nEller vad tycker du?\nMina problem \u00e4r sm\u00e5, jag har en egen TV-vr\u00e5 med PS2\nH\u00f6rru vad \u00e4r det d\u00e5 som st\u00e5r i v\u00e4gen f\u00f6r att vara lycklig nu?\n(Vad, vad, vad) H\u00f6rru vad tycker du?\nJag har en j\u00e4vligt fet l\u00e4genhet i H\u00e4gersten som s\u00e4kerhet\nS\u00e5 att jag s\u00e4kert vet att jag kommer att bli lycklig nu\n(Eller hur)\nOch jag \u00e4r en av de b\u00e4sta i gamet\nHar f-skattesedel och sponsordeal\nS\u00e5 det \u00e4r b\u00e4st att det leder till att\nTill att livet f\u00e5r ett lyckligt slut\nJag kanske borde vara lycklig nu\n\n[Refr\u00e4ng]\n\u00c4r det s\u00e5 h\u00e4r det k\u00e4nns att va lycklig?\nDet \u00e4r inga problem\n\u00c4r det s\u00e5 h\u00e4r det k\u00e4nns att va lycklig?\nDet \u00e4r inga problem, det \u00e4r inga problem\nYou might also like[Vers 3: Big Danne]\nJag blir galen snart f\u00f6r varje dag av mitt liv \u00e4r galenskap\nNu n\u00e4r jag har det bra\nF\u00f6r, du, jag v\u00e4xte upp som barn i Afrika\nS\u00e5 jag har sett baksidorna i Afrika\nS\u00e5 nu idag borde jag va riktigt lycklig\nMen k\u00e4nner mig nog mera som en vingklippt pingvin\nSamvetet s\u00e4ger en sak, lust n\u00e5got annat\nDet l\u00e4r v\u00e4l \u00e4ven de va \u00f6verens om\n\n[Brygga: Big Danne]\nSe mitt stora problem \u00e4r att mina problem\n\u00c4r s\u00e5 pass sm\u00e5 att de knappt r\u00e4knas som problem\nMen de g\u00f6r lika ont f\u00f6r det s\u00e5 sjung med\n\n[Refr\u00e4ng]\n\u00c4r det s\u00e5 h\u00e4r det k\u00e4nns att va lycklig?\nDet \u00e4r inga problem\n\u00c4r det s\u00e5 h\u00e4r det k\u00e4nns att va lycklig?\nDet \u00e4r inga problem, det \u00e4r inga problem\n\n[Outro]\nEller vad tycker du?\nEller vad tycker du?\nBorde va lycklig nu, eller vad\u00e5?\nEller vad tycker du?\nLycklig nu\nVad tycker du?Embed"
+  },
+  {
+   "annotation_count": 34,
+   "api_path": "/songs/372700",
+   "artist_names": "Snook (Ft. Organismen)",
+   "full_title": "Lejonhj\u00e4rta by\u00a0Snook (Ft.\u00a0Organismen)",
+   "header_image_thumbnail_url": "https://images.genius.com/7f9afbe900435112761f844872bf463d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/7f9afbe900435112761f844872bf463d.640x639x1.jpg",
+   "id": 372700,
+   "language": "sv",
+   "lyrics_owner_id": 409651,
+   "lyrics_state": "complete",
+   "path": "/Snook-lejonhjarta-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Snook-lejonhjarta-sample",
+   "release_date_components": {
+    "year": 2004,
+    "month": 5,
+    "day": null
+   },
+   "release_date_for_display": "May 2004",
+   "release_date_with_abbreviated_month_for_display": "May. 2004",
+   "song_art_image_thumbnail_url": "https://images.genius.com/7f9afbe900435112761f844872bf463d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7f9afbe900435112761f844872bf463d.640x639x1.jpg",
+   "stats": {
+    "accepted_annotations": 8,
+    "contributors": 11,
+    "iq_earners": 10,
+    "transcribers": 2,
+    "unreviewed_annotations": 26,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 5220
+   },
+   "title": "Lejonhj\u00e4rta",
+   "title_with_featured": "Lejonhj\u00e4rta (Ft.\u00a0Organismen)",
+   "url": "https://genius.com/Snook-lejonhjarta-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/40358",
+     "header_image_url": "https://images.genius.com/eba82fcc7f9acd689a4288e19ad78fa5.590x393x1.png",
+     "id": 40358,
+     "image_url": "https://images.genius.com/16658b74435a32160232627738308f0a.473x473x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Organismen",
+     "url": "https://genius.com/artists/Organismen"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/149037",
+    "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+    "id": 149037,
+    "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Snook",
+    "url": "https://genius.com/artists/Snook"
+   },
+   "apple_music_id": "1442636774",
+   "apple_music_player_url": "https://genius.com/songs/372700/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_372700' class='rg_embed_link' data-song-id='372700'>Read <a href='https://genius.com/Snook-lejonhjarta-lyrics'>\u201cLejonhj\u00e4rta\u201d by Snook</a> on Genius</div> <script crossorigin src='//genius.com/songs/372700/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/85536",
+    "cover_art_url": "https://images.genius.com/7f9afbe900435112761f844872bf463d.640x639x1.jpg",
+    "full_title": "Vi vet inte vart vi ska men vi ska komma dit by Snook",
+    "id": 85536,
+    "name": "Vi vet inte vart vi ska men vi ska komma dit",
+    "url": "https://genius.com/albums/Snook/Vi-vet-inte-vart-vi-ska-men-vi-ska-komma-dit",
+    "artist": {
+     "api_path": "/artists/149037",
+     "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+     "id": 149037,
+     "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Snook",
+     "url": "https://genius.com/artists/Snook"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Mixed By",
+     "artists": [
+      {
+       "api_path": "/artists/2733333",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 2733333,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Per Stappe",
+       "url": "https://genius.com/artists/Per-stappe"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 409651,
+    "annotator_login": "theappropriator",
+    "api_path": "/referents/3750391",
+    "classification": "needs_exegesis",
+    "fragment": "Lejonhj\u00e4rta",
+    "id": 3750391,
+    "is_description": true,
+    "path": "/3750391/Snook-lejonhjarta/Lejonhjarta",
+    "range": {
+     "content": "Lejonhj\u00e4rta"
+    },
+    "song_id": 372700,
+    "url": "https://genius.com/3750391/Snook-lejonhjarta/Lejonhjarta",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/372700",
+     "client_timestamps": {
+      "updated_by_human_at": 1636914818,
+      "lyrics_updated_at": 1636914818
+     },
+     "context": "Snook",
+     "id": 372700,
+     "image_url": "https://images.genius.com/7f9afbe900435112761f844872bf463d.640x639x1.jpg",
+     "link_title": "Lejonhj\u00e4rta by\u00a0Snook (Ft.\u00a0Organismen)",
+     "title": "Lejonhj\u00e4rta",
+     "type": "Song",
+     "url": "https://genius.com/Snook-lejonhjarta-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3750391",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3750391,
+      "pinned": false,
+      "share_url": "https://genius.com/3750391",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3750391/Snook-lejonhjarta/Lejonhjarta",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/409651",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/92987a8fca627f835f3f792876e25228",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/92987a8fca627f835f3f792876e25228",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/92987a8fca627f835f3f792876e25228",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/92987a8fca627f835f3f792876e25228",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/6ys6RFmTf2oCHu3Bl6zO_caesar.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 409651,
+         "iq": 1941,
+         "login": "theappropriator",
+         "name": "theappropriator",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/theappropriator",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=SbA4biGZveg"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/81307",
+     "header_image_url": "https://images.genius.com/d4cc262e1067f966f21113fda453283d.1000x201x1.jpg",
+     "id": 81307,
+     "image_url": "https://images.genius.com/4acc281192a4960cb55def24e3985c5b.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oskar Linnros",
+     "url": "https://genius.com/artists/Oskar-linnros"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/40358",
+     "header_image_url": "https://images.genius.com/eba82fcc7f9acd689a4288e19ad78fa5.590x393x1.png",
+     "id": 40358,
+     "image_url": "https://images.genius.com/16658b74435a32160232627738308f0a.473x473x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Organismen",
+     "url": "https://genius.com/artists/Organismen"
+    },
+    {
+     "api_path": "/artists/44577",
+     "header_image_url": "https://images.genius.com/02335b9286be0b6dd6e492f42b20e11a.1000x438x1.jpg",
+     "id": 44577,
+     "image_url": "https://images.genius.com/147eb8add044779629c2d2ca9f6b3570.840x840x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Daniel Adams-Ray",
+     "url": "https://genius.com/artists/Daniel-adams-ray"
+    },
+    {
+     "api_path": "/artists/81307",
+     "header_image_url": "https://images.genius.com/d4cc262e1067f966f21113fda453283d.1000x201x1.jpg",
+     "id": 81307,
+     "image_url": "https://images.genius.com/4acc281192a4960cb55def24e3985c5b.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oskar Linnros",
+     "url": "https://genius.com/artists/Oskar-linnros"
+    }
+   ],
+   "artist": "Snook",
+   "lyrics": "Lejonhj\u00e4rta Lyrics[Vers 1: Big Danne]\nInga klappar mot kinden, v\u00e4nda kappan mot vinden\nK\u00e4mpar tappert tills den dagen jag blir r\u00e4dd f\u00f6r din klick\n\u00c4lskar att \u00e4lska \u00e4lska, hatar att hata har sett\nSatan p\u00e5 gatan och han s\u00e4nkte sin blick\nDen h\u00e4r v\u00e4gen har bara plats f\u00f6r en person\nIngen kan n\u00e5nsin kn\u00e4cka mig om de s\u00e5 skadar min snook\nHata mig fort, \u00e4lska mig aldrig\nB\u00e4r p\u00e5 ett lejonhj\u00e4rta, det l\u00e4mnar mig aldrig\nMen det blir som det blir n\u00e4r vi battlar p\u00e5 scen\nBakom mitt leende, d\u00e4r d\u00f6ljer sig ett hj\u00e4rta av sten\nMen gillar ni inte mina principer\nGaranterar jag hela v\u00e4rlden att jag b\u00e4r p\u00e5 massa fler\n[Refr\u00e4ng: Kihlen]\nNu ska jag \u00e4ndra p\u00e5 mig\nP\u00e5 tisdag ska jag flytta ut ur mig sj\u00e4lv\nOch v\u00e4nda andra kinden, dagen ska jag s\u00e4nka blicken\n\n[Vers 2: Kihlen]\nOkej, kan du k\u00e4nna t\u00e5rarna rinna n\u00e4r melodierna n\u00e5r mina fingrar?\nKan du k\u00e4nna fukten p\u00e5 min tungspets?\nJag \u00e4r bara en pojke, men jag fuckar upp mitt trumset!\nAlright, jag l\u00e4gger korten p\u00e5 bordet, aldrig v\u00e4nt den d\u00e4r kinden\nAldrig gjort det jag borde, s\u00e5 fort jag f\u00e5r ordet v\u00e4nder jag vinden\nAllt f\u00f6r kantig mot snubbar och burdus n\u00e4r jag pratar med chicksen\nOskar \u00e5skar (snart kommer blixten)\nM\u00e5nga fjantar hatar mig, men de kan inte skada mig\nHar aldrig f\u00e5tt en sm\u00e4ll, inte ens tanken har slagit mig\nMen om du ger mig f\u00e5r du se vad det leder till\nN\u00e4r den f\u00f6rsta stenen river s\u00f6nder vattenytans spegelbild\nF\u00f6r det blir som det blir n\u00e4r vi battlar p\u00e5 scen\nBakom den h\u00e5rda masken d\u00f6ljer sig ett hj\u00e4rta av sten\nS\u00e5 svara mig nu, ska ett lejon som ryter i frihet i dagarna sju\nByta sitt liv mot ett lamm f\u00e4ngslat av tystnad till sagornas slut?\n\n[Refr\u00e4ng: Kihlen]\nNu ska jag \u00e4ndra p\u00e5 mig\nP\u00e5 tisdag ska jag flytta ut ur mig sj\u00e4lv\nOch v\u00e4nda andra kinden, dagen ska jag s\u00e4nka blicken\nYou might also like[Vers 3: Organism 12]\nMitt i r\u00f6kiga diskussioner, d\u00e4r lever jag\nDen fulaste ankungen som sen v\u00e4xte upp och blev en gam\nJag m\u00e5ste spela som att jag kan ta mig i kragen\nGlorian var som en badring, jag kan ha den runt magen\nMitt ego sv\u00e4ller, badar in mig sj\u00e4lv i brist p\u00e5 vett\nBara ni vaknar nu, \u00e4ndrar er och slutar hitta fel\nEgon sv\u00e4ller, svarar elden som en rikoschett\nRaderna talar ju f\u00f6r sig sj\u00e4lva som en schizofren\nFirar att ni nu n\u00e5tt botten, jag h\u00e5ller en spliff\nAlla \u00e4r fan korta i rocken som Oliver Twist\nF\u00f6rs\u00f6k ta f\u00f6r dig bara, h\u00e4r \u00e4r ett sm\u00f6rg\u00e5sbord\nR\u00f6ster av tomhet som bara sk\u00e4r sig som mj\u00f6lk och juice\nM\u00e5nga b\u00e4ckar flyter ihop till miljoner\nAkta dig innan vi ryker ihop som tvillingtornen\nNu t\u00e4nker jag sakta s\u00e5 ser jag vad pennan min skriver\nAtt det b\u00e4sta utav mig finns djupt i mina s\u00e4msta sidor\n\n[Refr\u00e4ng; Kihlen]\nNu ska jag \u00e4ndra p\u00e5 mig\nP\u00e5 tisdag ska jag flytta ut ur mig sj\u00e4lv\nOch v\u00e4nda andra kinden, dagen ska jag s\u00e4nka blicken\nNu ska jag \u00e4ndra p\u00e5 mig\nP\u00e5 tisdag ska jag flytta ut ur mig sj\u00e4lv\nOch v\u00e4nda andra kinden, dagen ska jag s\u00e4nka blicken\n[Stick: Big Danne & Kihlen]\nNej, nej\nNej du kan \u00e4ndra p\u00e5 dig\nP\u00e5 tisdag kan du flytta ut ur dig sj\u00e4lv\nOch v\u00e4nda andra kinden, dagen ska du s\u00e4nka blicken\nNej du kan \u00e4ndra p\u00e5 dig\nP\u00e5 tisdag kan du flytta ut ur dig sj\u00e4lv\nOch v\u00e4nda andra kinden, dagen ska du s\u00e4nka blicken\n\n[Outro: Organism 12, Big Danne & Kihlen]\nJag \u00e4r stukad och kaxig, jag tror du har r\u00e4tt\nOrganism 12, den st\u00f6rsta personen du sett\nJag \u00e4r liten men jag \u00e4r kaxig, jag tror du har r\u00e4tt\nJag \u00e4r den st\u00f6rsta personen du settEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1809732",
+   "artist_names": "Snook (Ft. Herbert Munkhammar)",
+   "full_title": "17 juni by\u00a0Snook (Ft.\u00a0Herbert\u00a0Munkhammar)",
+   "header_image_thumbnail_url": "https://images.genius.com/7f9afbe900435112761f844872bf463d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/7f9afbe900435112761f844872bf463d.640x639x1.jpg",
+   "id": 1809732,
+   "language": "sv",
+   "lyrics_owner_id": 11557672,
+   "lyrics_state": "complete",
+   "path": "/Snook-17-juni-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Snook-17-juni-sample",
+   "release_date_components": {
+    "year": 2004,
+    "month": 5,
+    "day": null
+   },
+   "release_date_for_display": "May 2004",
+   "release_date_with_abbreviated_month_for_display": "May. 2004",
+   "song_art_image_thumbnail_url": "https://images.genius.com/7f9afbe900435112761f844872bf463d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7f9afbe900435112761f844872bf463d.640x639x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "17 juni",
+   "title_with_featured": "17 juni (Ft.\u00a0Herbert\u00a0Munkhammar)",
+   "url": "https://genius.com/Snook-17-juni-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/247819",
+     "header_image_url": "https://images.genius.com/95e63aeab34b7f6c74e4dbb283ddaa5b.311x311x1.jpg",
+     "id": 247819,
+     "image_url": "https://images.genius.com/95e63aeab34b7f6c74e4dbb283ddaa5b.311x311x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Herbert Munkhammar",
+     "url": "https://genius.com/artists/Herbert-munkhammar"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/149037",
+    "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+    "id": 149037,
+    "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Snook",
+    "url": "https://genius.com/artists/Snook"
+   },
+   "apple_music_id": "1442636789",
+   "apple_music_player_url": "https://genius.com/songs/1809732/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1809732' class='rg_embed_link' data-song-id='1809732'>Read <a href='https://genius.com/Snook-17-juni-lyrics'>\u201c17 juni\u201d by Snook</a> on Genius</div> <script crossorigin src='//genius.com/songs/1809732/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/85536",
+    "cover_art_url": "https://images.genius.com/7f9afbe900435112761f844872bf463d.640x639x1.jpg",
+    "full_title": "Vi vet inte vart vi ska men vi ska komma dit by Snook",
+    "id": 85536,
+    "name": "Vi vet inte vart vi ska men vi ska komma dit",
+    "url": "https://genius.com/albums/Snook/Vi-vet-inte-vart-vi-ska-men-vi-ska-komma-dit",
+    "artist": {
+     "api_path": "/artists/149037",
+     "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+     "id": 149037,
+     "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Snook",
+     "url": "https://genius.com/artists/Snook"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Mixed By",
+     "artists": [
+      {
+       "api_path": "/artists/2733333",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 2733333,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Per Stappe",
+       "url": "https://genius.com/artists/Per-stappe"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6422074",
+    "classification": "needs_exegesis",
+    "fragment": "17 juni",
+    "id": 6422074,
+    "is_description": true,
+    "path": "/6422074/Snook-17-juni/17-juni",
+    "range": {
+     "content": "17 juni"
+    },
+    "song_id": 1809732,
+    "url": "https://genius.com/6422074/Snook-17-juni/17-juni",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1809732",
+     "client_timestamps": {
+      "updated_by_human_at": 1645048665,
+      "lyrics_updated_at": 1645048665
+     },
+     "context": "Snook",
+     "id": 1809732,
+     "image_url": "https://images.genius.com/7f9afbe900435112761f844872bf463d.640x639x1.jpg",
+     "link_title": "17 juni by\u00a0Snook (Ft.\u00a0Herbert\u00a0Munkhammar)",
+     "title": "17 juni",
+     "type": "Song",
+     "url": "https://genius.com/Snook-17-juni-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6422074",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6422074,
+      "pinned": false,
+      "share_url": "https://genius.com/6422074",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6422074/Snook-17-juni/17-juni",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=lpX0mxgQ4Js"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/81307",
+     "header_image_url": "https://images.genius.com/d4cc262e1067f966f21113fda453283d.1000x201x1.jpg",
+     "id": 81307,
+     "image_url": "https://images.genius.com/4acc281192a4960cb55def24e3985c5b.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oskar Linnros",
+     "url": "https://genius.com/artists/Oskar-linnros"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/81307",
+     "header_image_url": "https://images.genius.com/d4cc262e1067f966f21113fda453283d.1000x201x1.jpg",
+     "id": 81307,
+     "image_url": "https://images.genius.com/4acc281192a4960cb55def24e3985c5b.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oskar Linnros",
+     "url": "https://genius.com/artists/Oskar-linnros"
+    },
+    {
+     "api_path": "/artists/44577",
+     "header_image_url": "https://images.genius.com/02335b9286be0b6dd6e492f42b20e11a.1000x438x1.jpg",
+     "id": 44577,
+     "image_url": "https://images.genius.com/147eb8add044779629c2d2ca9f6b3570.840x840x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Daniel Adams-Ray",
+     "url": "https://genius.com/artists/Daniel-adams-ray"
+    }
+   ],
+   "artist": "Snook",
+   "lyrics": "17 juni Lyrics[Refr\u00e4ng: Big Danne, Kihlen, & Afasi]\nSt\u00e4ll er upp, hur l\u00e5ter en hund? S\u00e4g voff!\nSt\u00e4ll er upp, hur l\u00e5ter en hund? S\u00e4g voff!\nSt\u00e4ll er upp, hur l\u00e5ter en hund? S\u00e4g voff!\nSt\u00e4ll er upp, hu-hur l\u00e5ter ni? Skrik!\n\n[Vers 1: Afasi, Kihlen & Big Danne]\nD\u00e4r st\u00e5r en grabb med jeans, som kollat in allt som finns\nP\u00e5 hela festivalomr\u00e5det\nD\u00e4r st\u00e5r en r\u00e4tt s\u00e5 k\u00e4nd recensent\nSom kommer att spy p\u00e5 efterfesten sen\nD\u00e4r st\u00e5r en chick som \u00e4r j\u00e4vligt s\u00f6t\nMed fr\u00e4scha br\u00f6st, Danne t\u00e4nker: \"tight like a tiger\"\nD\u00e4r st\u00e5r en j\u00e4ttetjock man I keps och rock\nHan har varit h\u00e4r n\u00e5gra \u00e5r f\u00f6rut\nD\u00e4r st\u00e5r en snubbe som lever f\u00f6r rap\nOch tycker v\u00e5r spelning \u00e4r whack men han \u00e4r glad \u00e4nd\u00e5\nD\u00e4r st\u00e5r en motherfucker och kastar papper\nHoppar ner ifr\u00e5n scenen och d\u00f6da den j\u00e4veln\nD\u00e4r st\u00e5r den naturliga h\u00e4stsvansmannen\nMed en l\u00e4sk i handen, han har aldrig n\u00e5gonsin sett en sax\nKlockan \u00e4r tolv men kv\u00e4llen \u00e4r ung\nChicken d\u00e4r borta, sk\u00e4ll som en hund!\n[Refr\u00e4ng Big Danne, Kihlen & Afasi]\nSt\u00e4ll er upp, hur l\u00e5ter en hund? S\u00e4g voff!\nSt\u00e4ll er upp, hur l\u00e5ter en hund? S\u00e4g voff!\nSt\u00e4ll er upp, hur l\u00e5ter en hund? S\u00e4g voff!\nSt\u00e4ll er upp, hu-hur l\u00e5ter ni?\n\n[Vers 2: Big Danne, Afasi & Kihlen]\nNi \u00e4r en grym publik\nTrots sprit och vin och gyttjekrig\nEfter den f\u00f6rsta dagen p\u00e5 Hultsfredfestivalen\nS\u00e5 ser du \u00e4nd\u00e5 fr\u00e4sch ut\nN\u00e4ej, kolla p\u00e5 han som \u00e4r kr\u00e4ksjuk\nMannen med en n\u00e4sduk i handen, i vinden, vinden\nBl\u00e5ser bort od\u00f6ren ni f\u00e5tt av \u00f6len\nVi blottar r\u00f6ven \u00e5t en dyster tid\nNi \u00e4r en grym publik\nTrots bajamajor, v\u00e4lta t\u00e4lt och hysteri\nD\u00e4r st\u00e5r en anarkist som r\u00f6ker cannabis\nOch han f\u00f6rs\u00f6ker g\u00f6ra det i smyg\nMan kanske borde ta och rulla en sj\u00e4lv\nOch de d\u00e4r tv\u00e5 d\u00e4r borta kommer knulla ikv\u00e4ll, (Yeah)\nKv\u00e4llen var s\u00e5 ung och Hebbe var s\u00e5 full\nN\u00e4r publiken b\u00f6rjade sk\u00e4lla som en hund\n\n[Refr\u00e4ng: Big Danne, Kihlen & Afasi]\nSt\u00e4ll er upp, hur l\u00e5ter en hund? S\u00e4g voff!\nSt\u00e4ll er upp, hur l\u00e5ter en hund? S\u00e4g voff!\nSt\u00e4ll er upp, hur l\u00e5ter en hund? S\u00e4g voff!\nSt\u00e4ll er upp, hu-hur l\u00e5ter ni? Skrik!\nSt\u00e4ll er upp, hur l\u00e5ter en hund? S\u00e4g voff!\nSt\u00e4ll er upp, hur l\u00e5ter en hund? S\u00e4g voff!\nSt\u00e4ll er upp, hur l\u00e5ter en hund? S\u00e4g voff!\nSt\u00e4ll er upp, hu-hur l\u00e5ter ni? Skrik!\nYou might also like[Outro: Kihlen & Big Danne]\nAlright, droppa dem d\u00e4r ja\u2014\nDet spelar ingen roll jag kommer \u00e5ngra mig\nKommer troligen snagga mig se ut som Alfons \u00c5berg, men k\u00f6r\nOkej, ta hela skiten jag bryr mig inte\nVill inte ens se mig sj\u00e4lv i spegeln ass\u00e5, k\u00f6r nu\n(Tack s\u00e5 j\u00e4vla mycket ass\u00e5)Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1972934",
+   "artist_names": "Snook",
+   "full_title": "Hiphop by\u00a0Snook",
+   "header_image_thumbnail_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+   "id": 1972934,
+   "language": "sv",
+   "lyrics_owner_id": 11557672,
+   "lyrics_state": "complete",
+   "path": "/Snook-hiphop-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Snook-hiphop-sample",
+   "release_date_components": {
+    "year": 2006,
+    "month": 5,
+    "day": 10
+   },
+   "release_date_for_display": "May 10, 2006",
+   "release_date_with_abbreviated_month_for_display": "May. 10, 2006",
+   "song_art_image_thumbnail_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Hiphop",
+   "title_with_featured": "Hiphop",
+   "url": "https://genius.com/Snook-hiphop-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/149037",
+    "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+    "id": 149037,
+    "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Snook",
+    "url": "https://genius.com/artists/Snook"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1972934/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1972934' class='rg_embed_link' data-song-id='1972934'>Read <a href='https://genius.com/Snook-hiphop-lyrics'>\u201cHiphop\u201d by Snook</a> on Genius</div> <script crossorigin src='//genius.com/songs/1972934/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2006-05-10",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/87647",
+    "cover_art_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+    "full_title": "\u00c4r by Snook",
+    "id": 87647,
+    "name": "\u00c4r",
+    "url": "https://genius.com/albums/Snook/Ar",
+    "artist": {
+     "api_path": "/artists/149037",
+     "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+     "id": 149037,
+     "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Snook",
+     "url": "https://genius.com/artists/Snook"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6659503",
+    "classification": "needs_exegesis",
+    "fragment": "Hiphop",
+    "id": 6659503,
+    "is_description": true,
+    "path": "/6659503/Snook-hiphop/Hiphop",
+    "range": {
+     "content": "Hiphop"
+    },
+    "song_id": 1972934,
+    "url": "https://genius.com/6659503/Snook-hiphop/Hiphop",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1972934",
+     "client_timestamps": {
+      "updated_by_human_at": 1645105414,
+      "lyrics_updated_at": 1645105414
+     },
+     "context": "Snook",
+     "id": 1972934,
+     "image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+     "link_title": "Hiphop by\u00a0Snook",
+     "title": "Hiphop",
+     "type": "Song",
+     "url": "https://genius.com/Snook-hiphop-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6659503",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6659503,
+      "pinned": false,
+      "share_url": "https://genius.com/6659503",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6659503/Snook-hiphop/Hiphop",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=cuWBASC5KGU"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/81307",
+     "header_image_url": "https://images.genius.com/d4cc262e1067f966f21113fda453283d.1000x201x1.jpg",
+     "id": 81307,
+     "image_url": "https://images.genius.com/4acc281192a4960cb55def24e3985c5b.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oskar Linnros",
+     "url": "https://genius.com/artists/Oskar-linnros"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/81307",
+     "header_image_url": "https://images.genius.com/d4cc262e1067f966f21113fda453283d.1000x201x1.jpg",
+     "id": 81307,
+     "image_url": "https://images.genius.com/4acc281192a4960cb55def24e3985c5b.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oskar Linnros",
+     "url": "https://genius.com/artists/Oskar-linnros"
+    }
+   ],
+   "artist": "Snook",
+   "lyrics": "Hiphop Lyrics[Kihlen]\nDet h\u00e4r \u00e4r hip-hop, h\u00e4r \u00e4r listan jag ska riva av\nHip-hop som att inte f\u00e5 kontrakt och d\u00e4rf\u00f6r hata alla skivbolag\nHip-hop f\u00f6renar oss, hip-hop f\u00f6rnedrar oss\nHiphop f\u00f6rmedlar n\u00e5t (Vad det nu \u00e4r)\nHip-hop som att f\u00e5 barn tidigt, astidigt\nOch hip-hop som att hylla vem det \u00e4n \u00e4r bara han avlidit\nHip-hop som allt det du k\u00e4nde n\u00e4r du och dina v\u00e4nner\nF\u00f6r f\u00f6rsta g\u00e5ngen bombade pendeln\nHip-hop som kasseter det brusar p\u00e5\nD\u00e4r andra sidan h\u00f6rs igenom till den sida som du lyssnar p\u00e5\nHip-hop som sk\u00e4ggv\u00e4xt\nOch hip-hop som att hata alla b\u00f6gar men ha videos med lebbsex\nHip-hop som tjocka DJs, hip-hop som mixerbord\nHip-hop som kristendom, hip-hop som Mr. Cool\nHip-hop som gr\u00e4nder du b\u00f6r undvika\nHip-hop som att alltid g\u00e5 omkring med en klubba i sin mungipa\nHip-hop som nostalgi, hip-hop som kostar liv\nHip-hop som n-ordet, hip-hop som l\u00e5tsasbeef\nHip-hop som PSP, hip-hop som tevespel\n\u00d6verhuvudtaget, hip-hop som USA \u00e4r\nHip-hop som \u00f6verdrifter, hip-hop som \u00f6verviktig\nHip-hop som Malm\u00f6, hip-hop som kall \u00f6l\nHip-hop som frukostflingor\nOch hip-hop som att ha en j\u00e4vligt simpel titel p\u00e5 sin f\u00f6rsta singel\nHip-hop som fredagskv\u00e4ll\nOch hip-hop som att sampla f\u00f6r att man inte har l\u00e4rt sig spela sj\u00e4lv\nHip-hopen d\u00e4r mamman \u00e4r auktorit\u00e4r\nHip-hop som ilskan \u00f6ver farsan som aldrig var d\u00e4r\nHip-hop d\u00e4r alla kan sl\u00e5ss\nHip-hop som konserter d\u00e4r alla st\u00e5r med armarna i kors\nHip-hop g\u00f6r mig inkonsekvent\nF\u00f6r nu n\u00e4r hip-hop blivit stort s\u00e5 vill jag g\u00f6ra det mindre igenYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/1952689",
+   "artist_names": "Snook",
+   "full_title": "\u00c4lskling jag \u00e4r hemma nu by\u00a0Snook",
+   "header_image_thumbnail_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+   "id": 1952689,
+   "language": "sv",
+   "lyrics_owner_id": 11557672,
+   "lyrics_state": "complete",
+   "path": "/Snook-alskling-jag-ar-hemma-nu-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Snook-alskling-jag-ar-hemma-nu-sample",
+   "release_date_components": {
+    "year": 2006,
+    "month": 5,
+    "day": 10
+   },
+   "release_date_for_display": "May 10, 2006",
+   "release_date_with_abbreviated_month_for_display": "May. 10, 2006",
+   "song_art_image_thumbnail_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 2,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "\u00c4lskling jag \u00e4r hemma nu",
+   "title_with_featured": "\u00c4lskling jag \u00e4r hemma nu",
+   "url": "https://genius.com/Snook-alskling-jag-ar-hemma-nu-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/149037",
+    "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+    "id": 149037,
+    "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Snook",
+    "url": "https://genius.com/artists/Snook"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1952689/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1952689' class='rg_embed_link' data-song-id='1952689'>Read <a href='https://genius.com/Snook-alskling-jag-ar-hemma-nu-lyrics'>\u201c\u00c4lskling jag \u00e4r hemma nu\u201d by Snook</a> on Genius</div> <script crossorigin src='//genius.com/songs/1952689/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2006-05-10",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/87647",
+    "cover_art_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+    "full_title": "\u00c4r by Snook",
+    "id": 87647,
+    "name": "\u00c4r",
+    "url": "https://genius.com/albums/Snook/Ar",
+    "artist": {
+     "api_path": "/artists/149037",
+     "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+     "id": 149037,
+     "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Snook",
+     "url": "https://genius.com/artists/Snook"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Piano By",
+     "artists": [
+      {
+       "api_path": "/artists/1810213",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1810213,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Patrik Andr\u00e9n",
+       "url": "https://genius.com/artists/Patrik-andren"
+      }
+     ]
+    },
+    {
+     "label": "Clavinet By",
+     "artists": [
+      {
+       "api_path": "/artists/1810213",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1810213,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Patrik Andr\u00e9n",
+       "url": "https://genius.com/artists/Patrik-andren"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6638728",
+    "classification": "needs_exegesis",
+    "fragment": "\u00c4lskling jag \u00e4r hemma nu",
+    "id": 6638728,
+    "is_description": true,
+    "path": "/6638728/Snook-alskling-jag-ar-hemma-nu/Alskling-jag-ar-hemma-nu",
+    "range": {
+     "content": "\u00c4lskling jag \u00e4r hemma nu"
+    },
+    "song_id": 1952689,
+    "url": "https://genius.com/6638728/Snook-alskling-jag-ar-hemma-nu/Alskling-jag-ar-hemma-nu",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1952689",
+     "client_timestamps": {
+      "updated_by_human_at": 1645104421,
+      "lyrics_updated_at": 1645104421
+     },
+     "context": "Snook",
+     "id": 1952689,
+     "image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+     "link_title": "\u00c4lskling jag \u00e4r hemma nu by\u00a0Snook",
+     "title": "\u00c4lskling jag \u00e4r hemma nu",
+     "type": "Song",
+     "url": "https://genius.com/Snook-alskling-jag-ar-hemma-nu-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6638728",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6638728,
+      "pinned": false,
+      "share_url": "https://genius.com/6638728",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6638728/Snook-alskling-jag-ar-hemma-nu/Alskling-jag-ar-hemma-nu",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=oqruch1INb4"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/81307",
+     "header_image_url": "https://images.genius.com/d4cc262e1067f966f21113fda453283d.1000x201x1.jpg",
+     "id": 81307,
+     "image_url": "https://images.genius.com/4acc281192a4960cb55def24e3985c5b.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oskar Linnros",
+     "url": "https://genius.com/artists/Oskar-linnros"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/81307",
+     "header_image_url": "https://images.genius.com/d4cc262e1067f966f21113fda453283d.1000x201x1.jpg",
+     "id": 81307,
+     "image_url": "https://images.genius.com/4acc281192a4960cb55def24e3985c5b.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oskar Linnros",
+     "url": "https://genius.com/artists/Oskar-linnros"
+    },
+    {
+     "api_path": "/artists/44577",
+     "header_image_url": "https://images.genius.com/02335b9286be0b6dd6e492f42b20e11a.1000x438x1.jpg",
+     "id": 44577,
+     "image_url": "https://images.genius.com/147eb8add044779629c2d2ca9f6b3570.840x840x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Daniel Adams-Ray",
+     "url": "https://genius.com/artists/Daniel-adams-ray"
+    }
+   ],
+   "artist": "Snook",
+   "lyrics": "\u00c4lskling jag \u00e4r hemma nu Lyrics[Intro: Kihlen]\nKom vi drar h\u00e4rifr\u00e5n liksom\nJag trodde jag klarat att s\u00e4ga \"adj\u00f6\" liksom\nMen jag hatar fan att s\u00e4ga \"hall\u00e5\" ocks\u00e5\nMen fuck it\n\n[Refr\u00e4ng: Big Danne & Kihlen]\nDet har vart en l\u00e5ng, m\u00f6rk, ensam vinter (Kallt och j\u00e4vligt)\nOroa dig inte\n(Det \u00e4r bara att gunga med p\u00e5 det som att det va, som att det vore f\u00f6rsta l\u00e5ten liksom, efter vintern kommer v\u00e5ren)\nJag \u00e4r, jag \u00e4r\n\u00c4lskling jag \u00e4r hemma nu\nDet har vart en l\u00e5ng, m\u00f6rk, ensam vinter (Brrr)\nOroa dig inte (Some burden i\u2014)\nJag \u00e4r, jag \u00e4r (Gled omkring med vinterjacka liksom)\n\u00c4lskling jag \u00e4r hemma nu\n[Post-Refr\u00e4ng: Big Danne & Kihlen]\n\u00c4lskling jag \u00e4r hemma nu\nHemma som en hemmafru (Vi vill tacka f\u00f6r oss)\nEller som en hemmaman (Men vi har en grej till att s\u00e4ga)\nDet spelar ingen roll (Jag \u00e4r hemma nu) om vi kan va med varann\n\n[Vers 1: Kihlen]\nDet h\u00e4r \u00e4r kungen utav Sumpan, v\u00e4lkommen hem till mig\nDu k\u00e4nner mig, grabben med hatten p\u00e5 sned som Hemingway\nDu k\u00e4nner k\u00e4nslan nu, jag ser det p\u00e5 dig\nVill du ha beef, skriv en diss och bara posta ett demo till mig\nF\u00f6rvandla mitt flow, det handlar om soul\nI kulissen st\u00e5r jag snart och skriker \"honey I'm home\"\nS\u00e5 blanda upp en cocktail, jag ordnar det h\u00e4r\nRepresenterar scenen f\u00f6r folket, jag lovar och sv\u00e4r\nNi ville dansa och ha reda typ p\u00e5 vart vi bor\nVi gav er svaret \u00e4n en g\u00e5ng f\u00f6r en trekvarts miljon\nNi har vart underbara, h\u00e4r \u00e4r skivan, vars\u00e5god\nS\u00e5 torka t\u00e5rarna nu st\u00e5r vi h\u00e4r p\u00e5 farstubron\nF\u00f6r snygg f\u00f6r att va underjord, men f\u00f6r blek f\u00f6r att va flickidol\nVi kr\u00e4nger plattor som om det var '92\n\u00c4r, och kommer forts\u00e4tta va\nNog f\u00f6r idag, Snook \u00e4r tillbaks, yeah\n\n[Refr\u00e4ng: Big Danne & Kihlen]\nDet har vart en l\u00e5ng, m\u00f6rk, ensam vinter (Uh)\nOroa dig inte\nJag \u00e4r (Uh, f\u00f6r du vet att, uh) jag \u00e4r\n\u00c4lskling jag \u00e4r hemma nu (Juste)\nDet har vart en l\u00e5ng, m\u00f6rk, ensam vinter\nOroa dig inte\n(F\u00f6r h\u00f6rrudu \u00e4lskling), Jag \u00e4r, jag \u00e4r\n\u00c4lskling jag \u00e4r hemma nu\nYou might also like[Post-Refr\u00e4ng: Big Danne]\nShh, s\u00e5ja, s\u00e5ja\nJag vet \u00e4lskling att jag inte varit, v\u00e4rldens b\u00e4sta kille\nMen jag har varit b\u00e4st i Sverige liksom\nDet h\u00e4r f\u00f6rut det var inte ditt fel och det var inte mitt fel\nDet \u00e4r st\u00f6rre \u00e4n s\u00e5, det \u00e4r st\u00f6rre \u00e4n Big Danne\nDet handlar om, det handlar om oss och\n\n[Vers 2: Big Danne]\nDen h\u00e4r skivan g\u00e5r ut till svenska folket\nPumpa den h\u00f6gt, jag vet att ni k\u00e4nner stolthet\nUh, f\u00f6r jag k\u00e4nner detsamma\nJag \u00e4r tillbaks motherfuckers, med lite j\u00e4vlar anamma\nSpottar direkt ifr\u00e5n min sj\u00e4l (Whoa)\nOch d\u00e4rf\u00f6r fick den heta \"\u00c4r\"\nMin mamma hon slog mig, min flickv\u00e4n bedrog mig\nNi m\u00e5ste bara tro mig, h\u00e5ll inte n\u00e5gonting emot mig\nTack till DJ Sprutla som backa n\u00e4r alla backade\nTill alla fuckade, Redline graffare\nSt\u00e4llde ner v\u00e4skan i hallen\nHar varit borta ett tag, var tvungen att vinna ett battle (Whoa)\nMen l\u00e4mnar er aldrig mera som Tupac\nJag \u00e4r tillbaka som Rusiak\nS\u00e5 oroa dig inte, efter vintern kommer v\u00e5r\nSnook, \u00c4r, 2006, (Oh!)\n[Outro: Big Danne & Kihlen]\nDet har vart en l\u00e5ng, m\u00f6rk, ensam vinter\nOroa dig inte\nHar druckit alldeles f\u00f6r mycket s\u00e5 den st\u00e5r inte upp\nOch vi kan g\u00f6ra det baby tills solen g\u00e5r upp\nDet har vart en l\u00e5ng, m\u00f6rk, ensam vinter\nOroa dig inte\nHar druckit alldeles f\u00f6r mycket och den st\u00e5r inte upp\nS\u00e5 vi kan g\u00f6ra det baby (\u00c4lskling jag \u00e4r hemma nu) tills solen g\u00e5r upp\nDet har vart en l\u00e5ng, m\u00f6rk, ensam vinter\nOroa dig inte\nJag har druckit alldeles f\u00f6r mycket s\u00e5 den st\u00e5r inte upp (Jag \u00e4r, jag \u00e4r)\nS\u00e5 vi kan g\u00f6ra det baby (\u00c4lskling jag \u00e4r hemma nu) tills solen g\u00e5r upp\nDet har vart en l\u00e5ng, m\u00f6rk, ensam vinter (Woo!)\nOroa dig inte\nHar druckit alldeles f\u00f6r mycket s\u00e5 den st\u00e5r inte upp (Jag \u00e4r, jag \u00e4r)\nOch vi kan g\u00f6ra det baby (\u00c4lskling jag \u00e4r hemma nu) tills solen g\u00e5r upp\nOch vi kan g\u00f6ra det baby tills solen g\u00e5r upp (Det har vart en l\u00e5ng, m\u00f6rk, ensam vinter)\nOch vi kan, g\u00f6ra det baby tills solen g\u00e5r upp (Oroa dig inte)\nOch bara g\u00f6ra det, (Jag \u00e4r) baby tills solen g\u00e5r upp (Jag \u00e4r)\nS\u00e5 vi kan g\u00f6ra det baby (\u00c4lskling jag \u00e4r hemma nu) tills solen g\u00e5r upp, okej\nDet har vart en l\u00e5ng, m\u00f6rk, ensam vinter\nOroa dig inte\nUh, Har druckit alldeles f\u00f6r mycket och den st\u00e5r inte upp (Jag \u00e4r, jag \u00e4r)\nS\u00e5 vi kan g\u00f6ra det baby (\u00c4lskling jag \u00e4r hemma nu) tills solen g\u00e5r uppEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1014748",
+   "artist_names": "Snook",
+   "full_title": "Bejbi by\u00a0Snook",
+   "header_image_thumbnail_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+   "id": 1014748,
+   "language": "sv",
+   "lyrics_owner_id": 11557672,
+   "lyrics_state": "complete",
+   "path": "/Snook-bejbi-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Snook-bejbi-sample",
+   "release_date_components": {
+    "year": 2006,
+    "month": 5,
+    "day": 10
+   },
+   "release_date_for_display": "May 10, 2006",
+   "release_date_with_abbreviated_month_for_display": "May. 10, 2006",
+   "song_art_image_thumbnail_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Bejbi",
+   "title_with_featured": "Bejbi",
+   "url": "https://genius.com/Snook-bejbi-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/149037",
+    "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+    "id": 149037,
+    "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Snook",
+    "url": "https://genius.com/artists/Snook"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1014748/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1014748' class='rg_embed_link' data-song-id='1014748'>Read <a href='https://genius.com/Snook-bejbi-lyrics'>\u201cBejbi\u201d by Snook</a> on Genius</div> <script crossorigin src='//genius.com/songs/1014748/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2006-05-10",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/87647",
+    "cover_art_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+    "full_title": "\u00c4r by Snook",
+    "id": 87647,
+    "name": "\u00c4r",
+    "url": "https://genius.com/albums/Snook/Ar",
+    "artist": {
+     "api_path": "/artists/149037",
+     "header_image_url": "https://images.genius.com/898443dd6c6c6fbf5ab1e70f6e8c09ca.710x473x1.jpg",
+     "id": 149037,
+     "image_url": "https://images.genius.com/c68ced364e80de6cbc467b8aced71120.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Snook",
+     "url": "https://genius.com/artists/Snook"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5511490",
+    "classification": "needs_exegesis",
+    "fragment": "Bejbi",
+    "id": 5511490,
+    "is_description": true,
+    "path": "/5511490/Snook-bejbi/Bejbi",
+    "range": {
+     "content": "Bejbi"
+    },
+    "song_id": 1014748,
+    "url": "https://genius.com/5511490/Snook-bejbi/Bejbi",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1014748",
+     "client_timestamps": {
+      "updated_by_human_at": 1644936096,
+      "lyrics_updated_at": 1644934485
+     },
+     "context": "Snook",
+     "id": 1014748,
+     "image_url": "https://images.genius.com/732e32ceb77eacb352060d01d060f14e.640x640x1.jpg",
+     "link_title": "Bejbi by\u00a0Snook",
+     "title": "Bejbi",
+     "type": "Song",
+     "url": "https://genius.com/Snook-bejbi-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5511490",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5511490,
+      "pinned": false,
+      "share_url": "https://genius.com/5511490",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5511490/Snook-bejbi/Bejbi",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=ZxyqmqLaoxs"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/152194",
+     "header_image_url": "https://images.genius.com/9784e3acf230d65f3b24ee8ede7d424e.1000x661x1.png",
+     "id": 152194,
+     "image_url": "https://images.genius.com/d1674beff5834c6f4e5e1627a350e6eb.754x754x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Magnus Lideh\u00e4ll",
+     "url": "https://genius.com/artists/Magnus-lidehall"
+    },
+    {
+     "api_path": "/artists/81307",
+     "header_image_url": "https://images.genius.com/d4cc262e1067f966f21113fda453283d.1000x201x1.jpg",
+     "id": 81307,
+     "image_url": "https://images.genius.com/4acc281192a4960cb55def24e3985c5b.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oskar Linnros",
+     "url": "https://genius.com/artists/Oskar-linnros"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/152194",
+     "header_image_url": "https://images.genius.com/9784e3acf230d65f3b24ee8ede7d424e.1000x661x1.png",
+     "id": 152194,
+     "image_url": "https://images.genius.com/d1674beff5834c6f4e5e1627a350e6eb.754x754x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Magnus Lideh\u00e4ll",
+     "url": "https://genius.com/artists/Magnus-lidehall"
+    },
+    {
+     "api_path": "/artists/81307",
+     "header_image_url": "https://images.genius.com/d4cc262e1067f966f21113fda453283d.1000x201x1.jpg",
+     "id": 81307,
+     "image_url": "https://images.genius.com/4acc281192a4960cb55def24e3985c5b.403x403x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oskar Linnros",
+     "url": "https://genius.com/artists/Oskar-linnros"
+    },
+    {
+     "api_path": "/artists/44577",
+     "header_image_url": "https://images.genius.com/02335b9286be0b6dd6e492f42b20e11a.1000x438x1.jpg",
+     "id": 44577,
+     "image_url": "https://images.genius.com/147eb8add044779629c2d2ca9f6b3570.840x840x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Daniel Adams-Ray",
+     "url": "https://genius.com/artists/Daniel-adams-ray"
+    }
+   ],
+   "artist": "Snook",
+   "lyrics": "Bejbi Lyrics[Vers 1: Kihlen]\nS\u00e5g en nyhetss\u00e4ndning h\u00e4romdan p\u00e5 TV\nOm ett land d\u00e4r bilar hade br\u00e4nts, heh\nMen jag bytte f\u00f6r jag ville inte se det\nF\u00f6r har det inte h\u00e4nt mig har det kanske aldrig h\u00e4nt\nOch jag, jag f\u00e5r ett samtal under dan p\u00e5 telefonen\nOm att n\u00e5n precis har somnat in, somnat in\nTar en cigg i solen n\u00e4r jag l\u00e4gger p\u00e5 den\nOch k\u00e4nner att jag inte k\u00e4nner n\u00e5gonting, ting\n\n[Refr\u00e4ng: Kihlen & Big Danne]\nNej, jag k\u00e4nner ingenting, aldrig igen baby (A-woohoo)\nOch m\u00e5ste himlen falla ner vill jag att det sker, baby\n\u00d6ver landet d\u00e4r ingenting h\u00e4nt\n(Som man b\u00e4ddar f\u00e5r man ligga, oh j\u00e4vlar)\n[Vers 2: Big Danne]\nSanningen \u00e4r att\nJag kanske kan vara den mest obstinata person\nSom satt sin fot p\u00e5 v\u00e5r jord, m\u00e5 ni tro\n\u00c4nd\u00e5 s\u00e5 k\u00e4ra\nMen att du och jag varit ihop \u00e4r r\u00e4tt skumt\nF\u00f6r vi hade ju inte s\u00e5 mycket gemensamt ihop\nMen t\u00e4nk om vi hade\nMen \u00e4ven om s\u00e5 vore fallet s\u00e5 l\u00e4mnar du Danne f\u00f6r Lund\nOch du betedde dig dumt, du \u00e4r luft\nS\u00e5 kalla mig aldrig mer \u00e4lskling\nOch kan du bara vara s\u00e5 v\u00e4nlig att aldrig mer ringa mig igen\nF\u00f6r jag vill aldrig k\u00e4nna igen, yeah\n\n[Refr\u00e4ng: Kihlen & Big Danne]\nK\u00e4nner ingenting, aldrig igen baby (A-woohoo)\nOch m\u00e5ste himlen falla ner vill jag att det sker, baby\n\u00d6ver landet d\u00e4r ingenting h\u00e4nt\n\n[Stick: Kihlen]\nI ett land som n\u00e4stan aldrig sett ett krig\nHar jag tappat bort mitt temperament, uh\nDen ena dagen \u00e4r den andra r\u00e4tt s\u00e5 lik\nI landet d\u00e4r ingenting h\u00e4nt\n\n[Refr\u00e4ng: Kihlen & Big Danne]\nOch jag k\u00e4nner ingenting, aldrig igen baby (A-woohoo)\nOch m\u00e5ste himlen falla ner vill jag att det sker, baby\n\u00d6ver landet d\u00e4r ingenting h\u00e4nt\nJag k\u00e4nner ingenting, aldrig igen baby (A-woohoo)\nOch m\u00e5ste himlen falla ner vill jag att det sker, baby\n\u00d6ver landet d\u00e4r ingenting h\u00e4ntYou might also likeEmbed"
+  }
+ ]
+}

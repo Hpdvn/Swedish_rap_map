@@ -1,0 +1,3740 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/6651",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+ "id": 6651,
+ "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Infinite Mass",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Infinite-mass",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 50,
+  "annotator_login": "AlysonWonderland",
+  "api_path": "/referents/6930110",
+  "classification": "needs_exegesis",
+  "fragment": "Infinite Mass",
+  "id": 6930110,
+  "is_description": true,
+  "path": "/6930110/Infinite-mass/Infinite-mass",
+  "range": {
+   "content": "Infinite Mass"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6930110/Infinite-mass/Infinite-mass",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/6651",
+   "context": null,
+   "id": 6651,
+   "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+   "link_title": "Infinite Mass",
+   "title": "Infinite Mass",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Infinite-mass"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6930110",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 6930110,
+    "pinned": false,
+    "share_url": "https://genius.com/6930110",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/6930110/Infinite-mass/Infinite-mass",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/50",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/f815fe8f1b9c915e5b77e6089431c771",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/f815fe8f1b9c915e5b77e6089431c771",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/f815fe8f1b9c915e5b77e6089431c771",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+       "human_readable_role_for_display": "Contributor",
+       "id": 50,
+       "iq": 3400,
+       "login": "AlysonWonderland",
+       "name": "AlysonWonderland",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/AlysonWonderland",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/23595",
+   "artist_names": "Infinite Mass",
+   "full_title": "She's a Freak by\u00a0Infinite\u00a0Mass",
+   "header_image_thumbnail_url": "https://images.genius.com/4fc8bbdbd9a214305e5f0732e352c529.300x297x1.jpg",
+   "header_image_url": "https://images.genius.com/4fc8bbdbd9a214305e5f0732e352c529.640x634x1.jpg",
+   "id": 23595,
+   "language": "en",
+   "lyrics_owner_id": 50,
+   "lyrics_state": "complete",
+   "path": "/Infinite-mass-shes-a-freak-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Infinite-mass-shes-a-freak-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/4fc8bbdbd9a214305e5f0732e352c529.300x297x1.jpg",
+   "song_art_image_url": "https://images.genius.com/4fc8bbdbd9a214305e5f0732e352c529.640x634x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 0,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 7873
+   },
+   "title": "She\u2019s a Freak",
+   "title_with_featured": "She's a Freak",
+   "url": "https://genius.com/Infinite-mass-shes-a-freak-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/6651",
+    "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+    "id": 6651,
+    "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Infinite Mass",
+    "url": "https://genius.com/artists/Infinite-mass"
+   },
+   "apple_music_id": "1442543372",
+   "apple_music_player_url": "https://genius.com/songs/23595/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_23595' class='rg_embed_link' data-song-id='23595'>Read <a href='https://genius.com/Infinite-mass-shes-a-freak-lyrics'>\u201cShe's a Freak\u201d by Infinite\u00a0Mass</a> on Genius</div> <script crossorigin src='//genius.com/songs/23595/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/3848",
+    "cover_art_url": "https://images.genius.com/4fc8bbdbd9a214305e5f0732e352c529.640x634x1.jpg",
+    "full_title": "The Face by Infinite Mass",
+    "id": 3848,
+    "name": "The Face",
+    "url": "https://genius.com/albums/Infinite-mass/The-face",
+    "artist": {
+     "api_path": "/artists/6651",
+     "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+     "id": 6651,
+     "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Infinite Mass",
+     "url": "https://genius.com/artists/Infinite-mass"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 50,
+    "annotator_login": "AlysonWonderland",
+    "api_path": "/referents/3514868",
+    "classification": "needs_exegesis",
+    "fragment": "She\u2019s a Freak",
+    "id": 3514868,
+    "is_description": true,
+    "path": "/3514868/Infinite-mass-shes-a-freak/Shes-a-freak",
+    "range": {
+     "content": "She's a Freak"
+    },
+    "song_id": 23595,
+    "url": "https://genius.com/3514868/Infinite-mass-shes-a-freak/Shes-a-freak",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/23595",
+     "client_timestamps": {
+      "updated_by_human_at": 0,
+      "lyrics_updated_at": 0
+     },
+     "context": "Infinite Mass",
+     "id": 23595,
+     "image_url": "https://images.genius.com/4fc8bbdbd9a214305e5f0732e352c529.640x634x1.jpg",
+     "link_title": "She\u2019s a Freak by\u00a0Infinite\u00a0Mass",
+     "title": "She's a Freak",
+     "type": "Song",
+     "url": "https://genius.com/Infinite-mass-shes-a-freak-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3514868",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3514868,
+      "pinned": false,
+      "share_url": "https://genius.com/3514868",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3514868/Infinite-mass-shes-a-freak/Shes-a-freak",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/50",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+         "human_readable_role_for_display": "Contributor",
+         "id": 50,
+         "iq": 3400,
+         "login": "AlysonWonderland",
+         "name": "AlysonWonderland",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AlysonWonderland",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Infinite Mass",
+   "lyrics": "She\u2019s a Freak Lyrics[Chorus: repeat 2X]\nThis young girl\nShe's a freak\nShe's up clubbing\nEvery night of the weekend\nAnd all around town\nIt's the same old sound\nSpread that fever\nLet us all get down\n\n[Rodde a.k.a Rigorod]\nShe loves the late night in the city action\nTo be the centre of attraction\nGifts of satisfaction\nShe wants your reaction (hey!)\nHey, watcha think her bottom weighs\nIs it okay, or is it going late\nStop with you lies 'n', open your eyes\nThis is to be the last sin instead of vandalisin\nThis young girl put you in a song\nTo dance rule it's the second flow\nSo just let it role\n[Chorus]\n\n[Cham]\nI like freaks like hardcore beats\nHangin out in the streets some boys that won't sleep\nCrash a joint, let it all out, crane built\nToo much money spending, talk about your romance\nI like that low cut waistline\nSee through panties always corrupt my mind\nI am what I am and I hope you like me too\nThe most beautiful thing in the world is a girl and thats true\nSlink, skinny, high heels is my passion\nAnything goin from street clothes to the latest french fashion\nI got your back, say no more\nBad girls like it roar, UH\n\n[Chorus]\n\nBridge: [Linda] dadedadedadeda!!\n\n[Choru] (with Linda)\n\n[Rigorod]\nShe's not even 15 but looks older than 19\nSo what they mean, the thought in every man's wet dreams\nStraight VIP, never said a line, she can toss the game\nHeard that every bastard knows her name\nPull'n all nighters, here we got war fighters\nFrom gypsies, call girls, start poets with some writers\nPlus she did things with her tongue\nThat leave ya outta breath (hu!)\nTold ya (hu!) she was under 21\nYou might also like[Cham]\nTwo, three, down on the four\nSex in the city, hot like never before\nThis kiddie\nSince bold place\nNever settle for less\nLadies and gents\nWelcome to the funkfest\n\n[Chorus] - 2XEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1043977",
+   "artist_names": "Infinite Mass",
+   "full_title": "Bullet by\u00a0Infinite\u00a0Mass",
+   "header_image_thumbnail_url": "https://images.genius.com/4fc8bbdbd9a214305e5f0732e352c529.300x297x1.jpg",
+   "header_image_url": "https://images.genius.com/4fc8bbdbd9a214305e5f0732e352c529.640x634x1.jpg",
+   "id": 1043977,
+   "language": "en",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Infinite-mass-bullet-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Infinite-mass-bullet-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/4fc8bbdbd9a214305e5f0732e352c529.300x297x1.jpg",
+   "song_art_image_url": "https://images.genius.com/4fc8bbdbd9a214305e5f0732e352c529.640x634x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Bullet",
+   "title_with_featured": "Bullet",
+   "url": "https://genius.com/Infinite-mass-bullet-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/6651",
+    "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+    "id": 6651,
+    "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Infinite Mass",
+    "url": "https://genius.com/artists/Infinite-mass"
+   },
+   "apple_music_id": "1442543544",
+   "apple_music_player_url": "https://genius.com/songs/1043977/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1043977' class='rg_embed_link' data-song-id='1043977'>Read <a href='https://genius.com/Infinite-mass-bullet-lyrics'>\u201cBullet\u201d by Infinite\u00a0Mass</a> on Genius</div> <script crossorigin src='//genius.com/songs/1043977/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/179258",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "Bullet by Infinite Mass",
+    "id": 179258,
+    "name": "Bullet",
+    "url": "https://genius.com/albums/Infinite-mass/Bullet",
+    "artist": {
+     "api_path": "/artists/6651",
+     "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+     "id": 6651,
+     "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Infinite Mass",
+     "url": "https://genius.com/artists/Infinite-mass"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5541144",
+    "classification": "needs_exegesis",
+    "fragment": "Bullet",
+    "id": 5541144,
+    "is_description": true,
+    "path": "/5541144/Infinite-mass-bullet/Bullet",
+    "range": {
+     "content": "Bullet"
+    },
+    "song_id": 1043977,
+    "url": "https://genius.com/5541144/Infinite-mass-bullet/Bullet",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1043977",
+     "client_timestamps": {
+      "updated_by_human_at": 1477032986,
+      "lyrics_updated_at": 1429601968
+     },
+     "context": "Infinite Mass",
+     "id": 1043977,
+     "image_url": "https://images.genius.com/4fc8bbdbd9a214305e5f0732e352c529.640x634x1.jpg",
+     "link_title": "Bullet by\u00a0Infinite\u00a0Mass",
+     "title": "Bullet",
+     "type": "Song",
+     "url": "https://genius.com/Infinite-mass-bullet-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5541144",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5541144,
+      "pinned": false,
+      "share_url": "https://genius.com/5541144",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5541144/Infinite-mass-bullet/Bullet",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Infinite Mass",
+   "lyrics": "Bullet LyricsChorus (Roger Daltrey):\nLoad up your bullet, shoot me throught the head\nYou ask from where you standing, you must think I'm dead\nLoad up your bullet, shoot me throught the head\nYou ask from where you standing, you must think I'm dead\n\n(Cham)\nIt's law of the land when I say go, move by the plan\nNo time to look back and excuse\nYou lose youself and win you lose\nChose the way we like to pray\nSay what you say, no way you gotta get away\nBring me joy, bring me life, bring me some that feels right\nNegativity (thrashy) conspiracy\nI've got a mirror in my pocket pracks lookin hard, that's reality\nI say!!, free the mass for the riot\nOr something thangs at night, quite!!\nAm I right or am I right?? Infinte for liffe!! Rrrrru!\n(Chorus)\nLoad up your bullet, shoot me throught the head\nYou ask from where you standing, you must think I'm dead\nLoad up your bullet, shoot me throught the head\nYou ask from where you standing, you must think I'm dead\n\n(Rigorod)\nGotta get my feelings across in a world full of snake lies\nFrauds and fakes, take advantage of another mans losse\nDo whatever it cause, is your force, To be divorced\nUsed to be the model right now in this day age and time\nThat's with the redlines, when the mass say, take contact\nThey send out our rhymes, get a part of this, gonna be in fire\nWe hate to be manipulated, try to get away instead focus\nLocate we fo' what ill created\nCan test the rest of luck, tryin to change this mothaf**ker up\nTryin to shut me+down, seem another man witin that, let's do infinity!!\n\n(Chorus)\nX2 (Cham & Rigo)\nOur time is gonna come, that's why we don't run\nNow if you're thinkin I'm dead, put you bullet in my head, uh\n\n(Chorus) *repeat several times*You might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/23587",
+   "artist_names": "Infinite Mass (Ft. Pauline)",
+   "full_title": "La La Song by\u00a0Infinite\u00a0Mass (Ft.\u00a0Pauline)",
+   "header_image_thumbnail_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.640x640x1.jpg",
+   "id": 23587,
+   "language": null,
+   "lyrics_owner_id": 50,
+   "lyrics_state": "complete",
+   "path": "/Infinite-mass-la-la-song-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Infinite-mass-la-la-song-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 0,
+    "iq_earners": 0,
+    "transcribers": 0,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "La La Song",
+   "title_with_featured": "La La Song (Ft.\u00a0Pauline)",
+   "url": "https://genius.com/Infinite-mass-la-la-song-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/6652",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 6652,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pauline",
+     "url": "https://genius.com/artists/Pauline"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/6651",
+    "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+    "id": 6651,
+    "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Infinite Mass",
+    "url": "https://genius.com/artists/Infinite-mass"
+   },
+   "apple_music_id": "1502112996",
+   "apple_music_player_url": "https://genius.com/songs/23587/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_23587' class='rg_embed_link' data-song-id='23587'>Read <a href='https://genius.com/Infinite-mass-la-la-song-lyrics'>\u201cLa La Song\u201d by Infinite\u00a0Mass</a> on Genius</div> <script crossorigin src='//genius.com/songs/23587/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/3845",
+    "cover_art_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.640x640x1.jpg",
+    "full_title": "1991 by Infinite Mass",
+    "id": 3845,
+    "name": "1991",
+    "url": "https://genius.com/albums/Infinite-mass/1991",
+    "artist": {
+     "api_path": "/artists/6651",
+     "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+     "id": 6651,
+     "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Infinite Mass",
+     "url": "https://genius.com/artists/Infinite-mass"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 50,
+    "annotator_login": "AlysonWonderland",
+    "api_path": "/referents/3514847",
+    "classification": "needs_exegesis",
+    "fragment": "La La Song",
+    "id": 3514847,
+    "is_description": true,
+    "path": "/3514847/Infinite-mass-la-la-song/La-la-song",
+    "range": {
+     "content": "La La Song"
+    },
+    "song_id": 23587,
+    "url": "https://genius.com/3514847/Infinite-mass-la-la-song/La-la-song",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/23587",
+     "client_timestamps": {
+      "updated_by_human_at": 0,
+      "lyrics_updated_at": 0
+     },
+     "context": "Infinite Mass",
+     "id": 23587,
+     "image_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.640x640x1.jpg",
+     "link_title": "La La Song by\u00a0Infinite\u00a0Mass (Ft.\u00a0Pauline)",
+     "title": "La La Song",
+     "type": "Song",
+     "url": "https://genius.com/Infinite-mass-la-la-song-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3514847",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3514847,
+      "pinned": false,
+      "share_url": "https://genius.com/3514847",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3514847/Infinite-mass-la-la-song/La-la-song",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/50",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+         "human_readable_role_for_display": "Contributor",
+         "id": 50,
+         "iq": 3400,
+         "login": "AlysonWonderland",
+         "name": "AlysonWonderland",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AlysonWonderland",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Infinite Mass",
+   "lyrics": "La La Song Lyrics[Pauline - Intro]\nLa la lala la la la la, Oooh yeaaah\nLa la lala la la la la\nLa la lala la la la la\nLa la lala la la la la\n\n[Verse 1 - Rigorod a.k.a Rodde]\nYo.. Uh.. Yeah... Huh!!!\nWaking up in the evening, facing up to the sealing\nLook it to my right I see a fantasy from last night\nMy princess, my godess from the backstage\nImmortalized in my diary page, age\nAin't nothing but a number they say\nBut 18 and over is the game that I play, lady!\nIt's all about feelings, get you our reactions\nAnything for you is also my satisfaction\n[Pauline - Chorus] (Cham)\nLa la lala la la la la (You're my only sunshine)\nLa la lala la la la la (??-??-??-??)\nLa la lala la la la la (You're my only sunshine)\nLa la lala la la la la (??-??-??-??)\n\n[Verse 2 - Cham] (Pauline)\n(Oooh) I need a kiss let me blindfold your eyes\n(Oooh) Your body so rich, let me push my love inside\n(La la la la) Deadly sounds, lovely sins\nMakin out ---???--- your skin\nAll I want is the world to know\nThe boyfriend-girlfriend thing is getting old\nOne shot if you love I'm hooked\nYou can be my baby cop and I can be your crook\nAll night I can sing Lala, and let your body rock, oh baby now!\n\n[Pauline - Chorus] (Cham)\nLa la lala la la la la (You're my only sunshine)\nLa la lala la la la la (??-??-??-??)\nLa la lala la la la la (You're my only sunshine)\nLa la lala la la la la (??-??-??-??)\n\n[Pauline] (Rigorod)\nI like to take a bath in a tub full of candles\nYou just have to la la like them all (Like theeeem!!!)\nEveryday is a new day while I'm burning with my fire\nTake you as my man or my king like a la la la la yeah (huh.. yo)\nYou might also like[Rigorod]\nNow baby girl it's over, I thought you knew I'll always be your casanova\nI'm like your --?-- , we don't need no witness\nIt's confidental business, what up miss\nThey try to take my sweetness for punishment\n\n[Pauline - Chorus] (Cham)\nLa la lala la la la la (You're my only sunshine)\nLa la lala la la la la (??-??-??-??)\nLa la lala la la la la (You're my only sunshine)\nLa la lala la la la la (??-??-??-??)\n\nLa la la la *untill the music fades away*Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/303191",
+   "artist_names": "Infinite Mass",
+   "full_title": "Area Turns Red by\u00a0Infinite\u00a0Mass",
+   "header_image_thumbnail_url": "https://images.genius.com/13845e59a292ef62cb83e32167ecf353.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/13845e59a292ef62cb83e32167ecf353.595x595x1.jpg",
+   "id": 303191,
+   "language": "en",
+   "lyrics_owner_id": 6372,
+   "lyrics_state": "complete",
+   "path": "/Infinite-mass-area-turns-red-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Infinite-mass-area-turns-red-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/13845e59a292ef62cb83e32167ecf353.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/13845e59a292ef62cb83e32167ecf353.595x595x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 1,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Area Turns Red",
+   "title_with_featured": "Area Turns Red",
+   "url": "https://genius.com/Infinite-mass-area-turns-red-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/6651",
+    "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+    "id": 6651,
+    "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Infinite Mass",
+    "url": "https://genius.com/artists/Infinite-mass"
+   },
+   "apple_music_id": "351775621",
+   "apple_music_player_url": "https://genius.com/songs/303191/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_303191' class='rg_embed_link' data-song-id='303191'>Read <a href='https://genius.com/Infinite-mass-area-turns-red-lyrics'>\u201cArea Turns Red\u201d by Infinite\u00a0Mass</a> on Genius</div> <script crossorigin src='//genius.com/songs/303191/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/3849",
+    "cover_art_url": "https://images.genius.com/13845e59a292ef62cb83e32167ecf353.595x595x1.jpg",
+    "full_title": "The Infinite Patio by Infinite Mass",
+    "id": 3849,
+    "name": "The Infinite Patio",
+    "url": "https://genius.com/albums/Infinite-mass/The-infinite-patio",
+    "artist": {
+     "api_path": "/artists/6651",
+     "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+     "id": 6651,
+     "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Infinite Mass",
+     "url": "https://genius.com/artists/Infinite-mass"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6372,
+    "annotator_login": "Desdinova",
+    "api_path": "/referents/3697415",
+    "classification": "needs_exegesis",
+    "fragment": "Area Turns Red",
+    "id": 3697415,
+    "is_description": true,
+    "path": "/3697415/Infinite-mass-area-turns-red/Area-turns-red",
+    "range": {
+     "content": "Area Turns Red"
+    },
+    "song_id": 303191,
+    "url": "https://genius.com/3697415/Infinite-mass-area-turns-red/Area-turns-red",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/303191",
+     "client_timestamps": {
+      "updated_by_human_at": 1387145263,
+      "lyrics_updated_at": 0
+     },
+     "context": "Infinite Mass",
+     "id": 303191,
+     "image_url": "https://images.genius.com/13845e59a292ef62cb83e32167ecf353.595x595x1.jpg",
+     "link_title": "Area Turns Red by\u00a0Infinite\u00a0Mass",
+     "title": "Area Turns Red",
+     "type": "Song",
+     "url": "https://genius.com/Infinite-mass-area-turns-red-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3697415",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3697415,
+      "pinned": false,
+      "share_url": "https://genius.com/3697415",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3697415/Infinite-mass-area-turns-red/Area-turns-red",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6372",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/039fb294155c10729a49a80adf9016c5",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/039fb294155c10729a49a80adf9016c5",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/039fb294155c10729a49a80adf9016c5",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/039fb294155c10729a49a80adf9016c5",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/039fb294155c10729a49a80adf9016c5",
+         "human_readable_role_for_display": "Moderator",
+         "id": 6372,
+         "iq": 32119,
+         "login": "Desdinova",
+         "name": "Desdinova",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Desdinova",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Infinite Mass",
+   "lyrics": "Area Turns Red Lyrics[Intro]\nWho, you fucking with?\n\n[Verse 1: Chamdin ]\n\n? cause they got me on the run\nBut now I won't run no more, come again\nProud to be black and not a european\n? is a must these days\n? surprise me in the goddamn train\nThey grab me and lift me up against the wall\n? where you from\nCause I look different from the whites (?)\nBraindead, shit head, skinhead\nAll they wanna do is see my lying on the death bed\nSeveral goals are delivered to my head\nRevenge, revenge, I shoot 'em dead\nRevenge, revenge, I shoot 'em dead\n[Hook]\nShoot the racist and the area turns red!\nShoot the racist and the area turns red!\nShoot the racist and the area turns red!\nShoot! Shoot!\n\n[Verse 2: Rod-E ]\n? without blinking\nThe fools thought the motherfuckers were chocolate\nBut (i'll/i don't) see what they done did\nBrought up my family i'll fuck up a lonely kid\nWhere's time to talk and make peace\nAnd ain't the first time that people are dying\nI'mma grab a gun and resist with a fist\nAnd strike upon the who wish to kill me\nThe one who take things lightly\nBlack and white, together? Never!\nUnless you pray to see a new day\nA major problem can be solved in heaven\nRight about now stuck I'm in the middle\nIt ain't no fun to be chased on the run\nRegardless of your side, choose your weapon\nLocate the racists and start cappin'\n\n[Hook]\nYou might also like[Verse 3]\n? get treated like dirt\nBut at least we got heard?\nRed man, but man was also white\n? time to unite, cause\nBack in the jungle a man was free\nFree from fear of captivity, cause\nNo where a color ?\nThe real blood brother got as sick as you\nRunning trough his veins, just like the ocean\nSo they won't admit that to take caution\nCause the enemy just want to separate\nThe human race, so there ain't no time to debate\n? Bang! and the area turns red\n? close minded people\n? that makes us evil\nDisagree ?\n? shoot 'em DEAD!\n\n[Hook]\n\n[Outro]\nI shoot 'em dead!Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/23589",
+   "artist_names": "Infinite Mass",
+   "full_title": "The Thief by\u00a0Infinite\u00a0Mass",
+   "header_image_thumbnail_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.640x640x1.jpg",
+   "id": 23589,
+   "language": "en",
+   "lyrics_owner_id": 50,
+   "lyrics_state": "complete",
+   "path": "/Infinite-mass-the-thief-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Infinite-mass-the-thief-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 0,
+    "iq_earners": 0,
+    "transcribers": 0,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "The Thief",
+   "title_with_featured": "The Thief",
+   "url": "https://genius.com/Infinite-mass-the-thief-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/6651",
+    "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+    "id": 6651,
+    "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Infinite Mass",
+    "url": "https://genius.com/artists/Infinite-mass"
+   },
+   "apple_music_id": "1449458927",
+   "apple_music_player_url": "https://genius.com/songs/23589/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_23589' class='rg_embed_link' data-song-id='23589'>Read <a href='https://genius.com/Infinite-mass-the-thief-lyrics'>\u201cThe Thief\u201d by Infinite\u00a0Mass</a> on Genius</div> <script crossorigin src='//genius.com/songs/23589/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/3845",
+    "cover_art_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.640x640x1.jpg",
+    "full_title": "1991 by Infinite Mass",
+    "id": 3845,
+    "name": "1991",
+    "url": "https://genius.com/albums/Infinite-mass/1991",
+    "artist": {
+     "api_path": "/artists/6651",
+     "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+     "id": 6651,
+     "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Infinite Mass",
+     "url": "https://genius.com/artists/Infinite-mass"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 50,
+    "annotator_login": "AlysonWonderland",
+    "api_path": "/referents/3514852",
+    "classification": "needs_exegesis",
+    "fragment": "The Thief",
+    "id": 3514852,
+    "is_description": true,
+    "path": "/3514852/Infinite-mass-the-thief/The-thief",
+    "range": {
+     "content": "The Thief"
+    },
+    "song_id": 23589,
+    "url": "https://genius.com/3514852/Infinite-mass-the-thief/The-thief",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/23589",
+     "client_timestamps": {
+      "updated_by_human_at": 1359630518,
+      "lyrics_updated_at": 0
+     },
+     "context": "Infinite Mass",
+     "id": 23589,
+     "image_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.640x640x1.jpg",
+     "link_title": "The Thief by\u00a0Infinite\u00a0Mass",
+     "title": "The Thief",
+     "type": "Song",
+     "url": "https://genius.com/Infinite-mass-the-thief-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3514852",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3514852,
+      "pinned": false,
+      "share_url": "https://genius.com/3514852",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3514852/Infinite-mass-the-thief/The-thief",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/50",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+         "human_readable_role_for_display": "Contributor",
+         "id": 50,
+         "iq": 3400,
+         "login": "AlysonWonderland",
+         "name": "AlysonWonderland",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AlysonWonderland",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Infinite Mass",
+   "lyrics": "The Thief Lyrics[Cham]\n1991, Deliver hits by the tongue (AK)\nSon of a gun, what you want\nTurn it up, pump up this shit\nInfinite all day and shit\nI see fools hanging out at the corner\nWe know no lickses played out licks\nOnce I was top 10 to porterflick\nChampagne caught up in the mix\nDance! put yourself passatoos\nRadio Mass got nothing to lose\nWe don't need no education\nWhat we need is a radio station\n(Chorus)\nAll I see is all I get I stole the music with no regrets\nAll I want that's all I need I'm a thief I stole the beat\n\n[Rigorod]\nJust me whaap, In no around in the clock (THE MASS)\nBroadcast what you need (NON STOP)\nShall we all got faithed this a meditop\nRigo with never comache (comache)\nAnd with this winning team\nEach mate putties spells, lady SCREAM!!!!\nYeah thats what we need quit or the women will succeed\nMc's bleed, suffer like hell\nMade mic's explode like mother dot cocktails\nWell, it ain't hard to tell like winning ya\nBarabarapa barabarapa and let me say it again\n\n(Chorus)\nAll I see is all I get I stole the music with no regrets\nAll I want that's all I need I'm a thief I stole the beat {*2X*}\nI'm a thief I stole the beat {*2X*}\n\n[Women](Rigo and Cham)\nThis is radiomass (Tracks from the future tracks from the past)\nThis is radiomass (I'm a thief I stole the beat)\nThis is radiomass (Tracks from the future tracks from the past)\nThis is radiomass\nThis is radiomass (I'm a thief I stole the beat)\nThis is radiomass\nYou might also like(Chorus)\nAll I see is all I get I stole the music with no regrets\nAll I want is all I need I'm a thief I stole the beat {*2X*}\nThe beat the beat etcEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1032057",
+   "artist_names": "Infinite Mass",
+   "full_title": "Fire Fire by\u00a0Infinite\u00a0Mass",
+   "header_image_thumbnail_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.640x640x1.jpg",
+   "id": 1032057,
+   "language": "en",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Infinite-mass-fire-fire-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Infinite-mass-fire-fire-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Fire Fire",
+   "title_with_featured": "Fire Fire",
+   "url": "https://genius.com/Infinite-mass-fire-fire-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/6651",
+    "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+    "id": 6651,
+    "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Infinite Mass",
+    "url": "https://genius.com/artists/Infinite-mass"
+   },
+   "apple_music_id": "1223373443",
+   "apple_music_player_url": "https://genius.com/songs/1032057/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1032057' class='rg_embed_link' data-song-id='1032057'>Read <a href='https://genius.com/Infinite-mass-fire-fire-lyrics'>\u201cFire Fire\u201d by Infinite\u00a0Mass</a> on Genius</div> <script crossorigin src='//genius.com/songs/1032057/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/3845",
+    "cover_art_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.640x640x1.jpg",
+    "full_title": "1991 by Infinite Mass",
+    "id": 3845,
+    "name": "1991",
+    "url": "https://genius.com/albums/Infinite-mass/1991",
+    "artist": {
+     "api_path": "/artists/6651",
+     "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+     "id": 6651,
+     "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Infinite Mass",
+     "url": "https://genius.com/artists/Infinite-mass"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5529098",
+    "classification": "needs_exegesis",
+    "fragment": "Fire Fire",
+    "id": 5529098,
+    "is_description": true,
+    "path": "/5529098/Infinite-mass-fire-fire/Fire-fire",
+    "range": {
+     "content": "Fire Fire"
+    },
+    "song_id": 1032057,
+    "url": "https://genius.com/5529098/Infinite-mass-fire-fire/Fire-fire",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1032057",
+     "client_timestamps": {
+      "updated_by_human_at": 1479335574,
+      "lyrics_updated_at": 1429596962
+     },
+     "context": "Infinite Mass",
+     "id": 1032057,
+     "image_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.640x640x1.jpg",
+     "link_title": "Fire Fire by\u00a0Infinite\u00a0Mass",
+     "title": "Fire Fire",
+     "type": "Song",
+     "url": "https://genius.com/Infinite-mass-fire-fire-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5529098",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5529098,
+      "pinned": false,
+      "share_url": "https://genius.com/5529098",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5529098/Infinite-mass-fire-fire/Fire-fire",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Infinite Mass",
+   "lyrics": "Fire Fire LyricsAaaaaaaa!\nOh no! Gotta get away!\nMan see that girl she's pushing right there man\nOh! Nice one! Where you make it she's been?\nPlus then I can find lace that never end\nShe don't have heart, man, hell nah!\nSo don't let her rip you apart, hell nah!\nShe's so bad, so bad it hurts\nSo if you got the chance you better splurk\nSome says life's short but she don't care\nCause she's made to live a paradise like me\nBut she's got her hair done right\nShe's got her nails done right\nShe's so fine, a whole lot of more\nMake it high but sling me down to the floor\nPlay with fire get burned\nSo it's time to make a U-turn\nFire fire she's all in my veins\nTakes me higher higher, I'm in love she's cocaine\nFire fire, fire you good\nShe loves having fun\nBut she's got me on the run\n\nEeny meeny likes this easy\nWay you walking that bikini\nBurning hot, parental advice, can't get enough of sweet brown thighs\nGive me a kiss (I won't tell)\nWish me well before they send me to hell\nLaid back in a gangsta league, all I need is a highway queen\n\nFire fire she's all in my veins\nTakes me higher higher\nI'm in love she's cocaine\nFire fire, fire you good\nShe loves having fun\nBut she's got me on the run\n\nGirl you're looking sexy with you're murdering style\nI know I play with fire but you drive me kinda wild\nGirl you looking \"phoo!\" with your murdering style\nI know I gotta go but you make me wanna stay\n\nI ire\nIt's a murderplay\nI ire\nIt's a killer way\nYou might also likeFire fire she's all in my veins\nTakes me higher higher\nI'm in love she's cocaine\nFire fire, fire you good\n\nFire fire she's all in my veins\nTakes me higher higher\nI'm in love she's cocaine\nFire fire, fire you good\nShe loves having fun\nBut she's got me on the run\nBut she's got me on the run, run run\nBut she's got me on the run\nBut she's got me on the run, run run\nBut she's got me on the runEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/23591",
+   "artist_names": "Infinite Mass",
+   "full_title": "No. 1 Svartskalle by\u00a0Infinite\u00a0Mass",
+   "header_image_thumbnail_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.640x640x1.jpg",
+   "id": 23591,
+   "language": "en",
+   "lyrics_owner_id": 50,
+   "lyrics_state": "complete",
+   "path": "/Infinite-mass-no-1-svartskalle-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Infinite-mass-no-1-svartskalle-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 0,
+    "iq_earners": 0,
+    "transcribers": 0,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "No. 1 Svartskalle",
+   "title_with_featured": "No. 1 Svartskalle",
+   "url": "https://genius.com/Infinite-mass-no-1-svartskalle-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/6651",
+    "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+    "id": 6651,
+    "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Infinite Mass",
+    "url": "https://genius.com/artists/Infinite-mass"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/23591/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_23591' class='rg_embed_link' data-song-id='23591'>Read <a href='https://genius.com/Infinite-mass-no-1-svartskalle-lyrics'>\u201cNo. 1 Svartskalle\u201d by Infinite\u00a0Mass</a> on Genius</div> <script crossorigin src='//genius.com/songs/23591/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/3845",
+    "cover_art_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.640x640x1.jpg",
+    "full_title": "1991 by Infinite Mass",
+    "id": 3845,
+    "name": "1991",
+    "url": "https://genius.com/albums/Infinite-mass/1991",
+    "artist": {
+     "api_path": "/artists/6651",
+     "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+     "id": 6651,
+     "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Infinite Mass",
+     "url": "https://genius.com/artists/Infinite-mass"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 50,
+    "annotator_login": "AlysonWonderland",
+    "api_path": "/referents/3514857",
+    "classification": "needs_exegesis",
+    "fragment": "No. 1 Svartskalle",
+    "id": 3514857,
+    "is_description": true,
+    "path": "/3514857/Infinite-mass-no-1-svartskalle/No-1-svartskalle",
+    "range": {
+     "content": "No. 1 Svartskalle"
+    },
+    "song_id": 23591,
+    "url": "https://genius.com/3514857/Infinite-mass-no-1-svartskalle/No-1-svartskalle",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/23591",
+     "client_timestamps": {
+      "updated_by_human_at": 0,
+      "lyrics_updated_at": 0
+     },
+     "context": "Infinite Mass",
+     "id": 23591,
+     "image_url": "https://images.genius.com/925f14d7dd0da392a4d7a46807c3c954.640x640x1.jpg",
+     "link_title": "No. 1 Svartskalle by\u00a0Infinite\u00a0Mass",
+     "title": "No. 1 Svartskalle",
+     "type": "Song",
+     "url": "https://genius.com/Infinite-mass-no-1-svartskalle-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3514857",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3514857,
+      "pinned": false,
+      "share_url": "https://genius.com/3514857",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3514857/Infinite-mass-no-1-svartskalle/No-1-svartskalle",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/50",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+         "human_readable_role_for_display": "Contributor",
+         "id": 50,
+         "iq": 3400,
+         "login": "AlysonWonderland",
+         "name": "AlysonWonderland",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AlysonWonderland",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Infinite Mass",
+   "lyrics": "No. 1 Svartskalle Lyrics[Cham]\n1991\nI'm that dude you see hanging around the town\nYou can call me a greaseball if you like the way it sounds\nIs it a smile on your lips turned upside down\nOr is it the ugliest frown in this goddamn town\nI know your parents worn you about people like me\nI know you ain't stupid girl, just open your eyes and see\nIf you wanna take my hand I can show you what our life could really be\n'Cause people like us loves a big family, Yeah!\n[Rodde a.k.a Rigorod]\nI don't wanna be the one you like!\nI don't wanna be the one you talk about!\nAll I wanna be is the No1 Swartskalle!\n\n[Cham]\nI ride a train\nI ride a metro everyday\nI see the sun kiss the dirty windows everyday\nLook at me wearing jeans, sneakers and a hat\nBaby girl this is what I know and how I act, Yeah!\n\n[Rodde a.k.a Rigorod] (Cham)\nI don't wanna be the one you like! (No, I don't wanna)\nI don't wanna be the one you talk about! (No, I don't wanna)\nAll I wanna be is the No1 Swartskalle!\n\nYo! Hey, hey!\n\nI don't wanna be the one you like! (No, I don't wanna)\nI don't wanna be the one you talk about! (No, I don't wanna)\nAll I wanna be is the No1 Swartskalle!You might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1181524",
+   "artist_names": "Infinite Mass",
+   "full_title": "No 1 Swartskalle by\u00a0Infinite\u00a0Mass",
+   "header_image_thumbnail_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+   "id": 1181524,
+   "language": "en",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Infinite-mass-no-1-swartskalle-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Infinite-mass-no-1-swartskalle-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "No 1 Swartskalle",
+   "title_with_featured": "No 1 Swartskalle",
+   "url": "https://genius.com/Infinite-mass-no-1-swartskalle-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/6651",
+    "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+    "id": 6651,
+    "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Infinite Mass",
+    "url": "https://genius.com/artists/Infinite-mass"
+   },
+   "apple_music_id": "604868988",
+   "apple_music_player_url": "https://genius.com/songs/1181524/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1181524' class='rg_embed_link' data-song-id='1181524'>Read <a href='https://genius.com/Infinite-mass-no-1-swartskalle-lyrics'>\u201cNo 1 Swartskalle\u201d by Infinite\u00a0Mass</a> on Genius</div> <script crossorigin src='//genius.com/songs/1181524/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5683633",
+    "classification": "needs_exegesis",
+    "fragment": "No 1 Swartskalle",
+    "id": 5683633,
+    "is_description": true,
+    "path": "/5683633/Infinite-mass-no-1-swartskalle/No-1-swartskalle",
+    "range": {
+     "content": "No 1 Swartskalle"
+    },
+    "song_id": 1181524,
+    "url": "https://genius.com/5683633/Infinite-mass-no-1-swartskalle/No-1-swartskalle",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1181524",
+     "client_timestamps": {
+      "updated_by_human_at": 1437429632,
+      "lyrics_updated_at": 1429684238
+     },
+     "context": "Infinite Mass",
+     "id": 1181524,
+     "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+     "link_title": "No 1 Swartskalle by\u00a0Infinite\u00a0Mass",
+     "title": "No 1 Swartskalle",
+     "type": "Song",
+     "url": "https://genius.com/Infinite-mass-no-1-swartskalle-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5683633",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5683633,
+      "pinned": false,
+      "share_url": "https://genius.com/5683633",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5683633/Infinite-mass-no-1-swartskalle/No-1-swartskalle",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Infinite Mass",
+   "lyrics": "No 1 Swartskalle Lyrics1991\nI'm that dude you see hanging around the town\nYou can call me a greaseball if you like the way it sounds\nIs it a smile on your lips turned upside down\nOr is it the ugliest frown in this goddamn town\nI know your parents warned you about people like me\nI know you ain't stupid girl, just open your eyes and see\nIf you wanna take my hand I can show you what life could really be\n'Cause people like us loves a big family\nYeah!\nI don't wanna be the one you like!\nI don't wanna be the one you talk about!\nAll I wanna be is the No1 Swartskalle!\nI ride a train I ride a metro everyday\nI see the sun kiss the dirty windows everyday\nLook at me worn out jeans, old sneakers and a hat\nBaby girl this is what I know and how I act\nYeah!\nI don't wanna be the one you like! (No, I don't wanna)\nI don't wanna be the one you talk about! (No, I don't wanna)\nAll I wanna be is the No1 Swartskalle!\nYo! Hey, hey!\nI don't wanna be the one you like! (No, I don't wanna)\nI don't wanna be the one you talk about! (No, I don't wanna)\nAll I wanna be is the No1 Swartskalle!You might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/23596",
+   "artist_names": "Infinite Mass",
+   "full_title": "Mah Boyz by\u00a0Infinite\u00a0Mass",
+   "header_image_thumbnail_url": "https://images.genius.com/13845e59a292ef62cb83e32167ecf353.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/13845e59a292ef62cb83e32167ecf353.595x595x1.jpg",
+   "id": 23596,
+   "language": "en",
+   "lyrics_owner_id": 50,
+   "lyrics_state": "complete",
+   "path": "/Infinite-mass-mah-boyz-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Infinite-mass-mah-boyz-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/13845e59a292ef62cb83e32167ecf353.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/13845e59a292ef62cb83e32167ecf353.595x595x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 0,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Mah Boyz",
+   "title_with_featured": "Mah Boyz",
+   "url": "https://genius.com/Infinite-mass-mah-boyz-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/6651",
+    "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+    "id": 6651,
+    "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Infinite Mass",
+    "url": "https://genius.com/artists/Infinite-mass"
+   },
+   "apple_music_id": "351775515",
+   "apple_music_player_url": "https://genius.com/songs/23596/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_23596' class='rg_embed_link' data-song-id='23596'>Read <a href='https://genius.com/Infinite-mass-mah-boyz-lyrics'>\u201cMah Boyz\u201d by Infinite\u00a0Mass</a> on Genius</div> <script crossorigin src='//genius.com/songs/23596/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/3849",
+    "cover_art_url": "https://images.genius.com/13845e59a292ef62cb83e32167ecf353.595x595x1.jpg",
+    "full_title": "The Infinite Patio by Infinite Mass",
+    "id": 3849,
+    "name": "The Infinite Patio",
+    "url": "https://genius.com/albums/Infinite-mass/The-infinite-patio",
+    "artist": {
+     "api_path": "/artists/6651",
+     "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+     "id": 6651,
+     "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Infinite Mass",
+     "url": "https://genius.com/artists/Infinite-mass"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 50,
+    "annotator_login": "AlysonWonderland",
+    "api_path": "/referents/3514871",
+    "classification": "needs_exegesis",
+    "fragment": "Mah Boyz",
+    "id": 3514871,
+    "is_description": true,
+    "path": "/3514871/Infinite-mass-mah-boyz/Mah-boyz",
+    "range": {
+     "content": "Mah Boyz"
+    },
+    "song_id": 23596,
+    "url": "https://genius.com/3514871/Infinite-mass-mah-boyz/Mah-boyz",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/23596",
+     "client_timestamps": {
+      "updated_by_human_at": 0,
+      "lyrics_updated_at": 0
+     },
+     "context": "Infinite Mass",
+     "id": 23596,
+     "image_url": "https://images.genius.com/13845e59a292ef62cb83e32167ecf353.595x595x1.jpg",
+     "link_title": "Mah Boyz by\u00a0Infinite\u00a0Mass",
+     "title": "Mah Boyz",
+     "type": "Song",
+     "url": "https://genius.com/Infinite-mass-mah-boyz-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3514871",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3514871,
+      "pinned": false,
+      "share_url": "https://genius.com/3514871",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3514871/Infinite-mass-mah-boyz/Mah-boyz",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/50",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+         "human_readable_role_for_display": "Contributor",
+         "id": 50,
+         "iq": 3400,
+         "login": "AlysonWonderland",
+         "name": "AlysonWonderland",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AlysonWonderland",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Infinite Mass",
+   "lyrics": "Mah Boyz LyricsArtist: Infinite Mass\nAlbum:  The Infinite Patio\nSong:   Mah Boyz\n\nTHE MASS THE MASS THE INFINITE MASS\n\nIf you hear any noise, it's just me and mah boyz\nIf you hear any noise, it's just me and mah boyz\n\nIf you hear any noise, it's just me and mah boyz\nIf you hear any noise, it's just me and mah boyz\nFunkin' it up\nHey yeah... and me and my boyz\nGettin' funky only\nInfinite Mass\nRunin' down the street\nMe and Mah Boyz\nCome on\n\n[-= Rod-i =-]\n\nRight from beach back into the hood\nInfinite mass got the bottle\nCloser than a groupie and I\nLook for BD BD BD dove high\nI'm sending you a bud\nOf the money to the chevy\nAnd from the old to the heavywight school\nFresh round fool\n{The Mass}\nThe choice of the G-funk generation that is\n{whaaat}\nA group of domination so\nFifth year I never neglect\nThe boyz who branch here triple X\nThe plot thickens\nA bunch of set of homiez\n[Takin' over - keepin' it right ah]\nYou might also like[-= Bechir =-]\n\nFace to the ghetto\nDirt of '76\nEven it does\nThe pets and the mix\nIn the summertime rolling in the park\nBad women in the light and OG's in the dark\n{what's up}\nAnd I don't give a damn too\nI'm straight up phat because my homiez got my back\nWithin the years I'm donin' in here\nAct'em fools who thought they could fade me\nHUH\nThey try to couple the move to sweep mah ba-back\nBut I picture that\nCoz every fool who style is tired\nA dove to mah boyz coz they love me right\n\nChorus\n\nIf You Hear Any Noise, It's Just Me And Mah Boyz\nIf You Hear Any Noise, It's Just Me And Mah Boyz\n\nIf You Hear Any Noise, It's Just Me And Mah Boyz\nIf You Hear Any Noise, It's Just Me And Mah Boyz\n[-= Chamdin =-]\n\nQuick\nBreak 'em off with a freaky tail\nAbout a clique who's deep as hell\nChamdin\nAlwayz been\nTrue to the M-A-double S\nThe group you don't test\nWe come like G's we dress like G's\nWe cool like G's we get all the Ladies\nWhile I nod my head to the gangsta groove\nReal smooth\n{yep}\nWe're now into groove\n{so}\nHoneyz step to me\nI never step to 'em\nTell'em it's my homiez\nWe share all ins\nSee us in the joint\nGet the point it's me and Mah Boyz\nPlayin' with dogs\n\n[-= Polarbear =-]\n\nBaby baby\nIt's the P O L A R\n{what?}\nYeah the B to the E A R\n{what?}\nWith effect and from the funk coast\nCaliforni-a USA\n{Hey}\nWell I be chillin in my homiez Jacuzzi\nOr playin' world wild funk like Bootsy\nStraight from LA to swe-sh-ville\nAcross the ocean in my\nCoup De Ville Cadillac\nBack and forth like Aaliyah\nI'm livin PHAT I'm livin' like a playa\nBut I won't switch you on my roots\n[It's finally time, Polar - Put on your suit]\n\nChorus\n\nIf You Hear Any Noise, It's Just Me And Mah Boyz\nIf You Hear Any Noise, It's Just Me And Mah Boyz\n\nIf You Hear Any Noise, It's Just Me And Mah Boyz\nIf You Hear Any Noise, It's Just Me And Mah Boyz\n\nTHE MASS THE MASS\nTHE INFINITE MASS\nTHE MASS THE MASS\n{The Infinite Mass}\n\nTHE MASS THE MASS\nTHE INFINITE MASS\nTHE MASS THE MASS\n{The Infinite Mass}\n\nTHE MASS THE MASS\nTHE INFINITE MASS\nTHE MASS THE MASS\n{The Infinite Mass}\n\nTHE MASS THE MASS\nTHE INFINITE MASS\nTHE MASS THE MASS THE MASS\n\nIf You Hear Any Noise, It's Just Me And Mah Boyz\nIf You Hear Any Noise, It's Just Me And Mah Boyz\n\nIf You Hear Any Noise, It's Just Me And Mah Boyz\nIf You Hear Any Noise, It's Just Me And Mah Boyz\nFunkin' it up!Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/23593",
+   "artist_names": "Infinite Mass",
+   "full_title": "Ride by\u00a0Infinite\u00a0Mass",
+   "header_image_thumbnail_url": "https://images.genius.com/e87a0a32a9bb2079bc63eda04daf0364.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e87a0a32a9bb2079bc63eda04daf0364.300x300x1.jpg",
+   "id": 23593,
+   "language": "en",
+   "lyrics_owner_id": 50,
+   "lyrics_state": "complete",
+   "path": "/Infinite-mass-ride-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Infinite-mass-ride-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/e87a0a32a9bb2079bc63eda04daf0364.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e87a0a32a9bb2079bc63eda04daf0364.300x300x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 0,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ride",
+   "title_with_featured": "Ride",
+   "url": "https://genius.com/Infinite-mass-ride-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/6651",
+    "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+    "id": 6651,
+    "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Infinite Mass",
+    "url": "https://genius.com/artists/Infinite-mass"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/23593/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_23593' class='rg_embed_link' data-song-id='23593'>Read <a href='https://genius.com/Infinite-mass-ride-lyrics'>\u201cRide\u201d by Infinite\u00a0Mass</a> on Genius</div> <script crossorigin src='//genius.com/songs/23593/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/3847",
+    "cover_art_url": "https://images.genius.com/e87a0a32a9bb2079bc63eda04daf0364.300x300x1.jpg",
+    "full_title": "Ride EP - 5 Track E.P. by Infinite Mass",
+    "id": 3847,
+    "name": "Ride EP - 5 Track E.P.",
+    "url": "https://genius.com/albums/Infinite-mass/Ride-ep-5-track-e-p",
+    "artist": {
+     "api_path": "/artists/6651",
+     "header_image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+     "id": 6651,
+     "image_url": "https://images.genius.com/a899a7765aa0cf62d9cd9a11075ebd8f.390x390x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Infinite Mass",
+     "url": "https://genius.com/artists/Infinite-mass"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 50,
+    "annotator_login": "AlysonWonderland",
+    "api_path": "/referents/3514861",
+    "classification": "needs_exegesis",
+    "fragment": "Ride",
+    "id": 3514861,
+    "is_description": true,
+    "path": "/3514861/Infinite-mass-ride/Ride",
+    "range": {
+     "content": "Ride"
+    },
+    "song_id": 23593,
+    "url": "https://genius.com/3514861/Infinite-mass-ride/Ride",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/23593",
+     "client_timestamps": {
+      "updated_by_human_at": 1619211036,
+      "lyrics_updated_at": 1619210980
+     },
+     "context": "Infinite Mass",
+     "id": 23593,
+     "image_url": "https://images.genius.com/e87a0a32a9bb2079bc63eda04daf0364.300x300x1.jpg",
+     "link_title": "Ride by\u00a0Infinite\u00a0Mass",
+     "title": "Ride",
+     "type": "Song",
+     "url": "https://genius.com/Infinite-mass-ride-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3514861",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3514861,
+      "pinned": false,
+      "share_url": "https://genius.com/3514861",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3514861/Infinite-mass-ride/Ride",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/50",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+         "human_readable_role_for_display": "Contributor",
+         "id": 50,
+         "iq": 3400,
+         "login": "AlysonWonderland",
+         "name": "AlysonWonderland",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AlysonWonderland",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2614149",
+     "header_image_url": "https://images.genius.com/5cecb0e15768053fe53c06917d6dea6b.191x191x1.jpg",
+     "id": 2614149,
+     "image_url": "https://images.genius.com/5cecb0e15768053fe53c06917d6dea6b.191x191x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bechir Eklund",
+     "url": "https://genius.com/artists/Bechir-eklund"
+    }
+   ],
+   "artist": "Infinite Mass",
+   "lyrics": "Ride Lyrics[Intro]\nAow aow wow aow wow ahyeahheeeii\nAow aow wow aow how yeahheeeii\n\n[Chorus]\nRide, and slide in my G-Ride\nAll you freaks out there\nCome on and ride and slide in my G-Ride\nAll you freaks out there\n\n{Verse 1: Cham}\nComing round the block once again bring my jam, Ride\nCham is the man with love for the brown thighs\nAnd the butt stuffed, burn rubber\nOn me baby but you know you can't fade me\nOr my crew, the infinite mass late night creepin\nUnder skirts we peepin'\nSo whatcha gonna do (whatcha gonna do)\nNothing (Nada) Comprende\nI know you like it so why fight it?\nHella tight, my clique is rolling big time\nIn a 'lack or a Beemer, we don't care we ballin' anytime\nAnywhere with the windows down\nAnd the hands in the air, screaming party over here\nBeware playa hatas around the world\nYou better take a step back if I come braided or in curls\n'Cause my clique don't give a hoooo\nFront back side to side that's my clique we ride\n[Chorus]\nRide, and slide in my G-Ride\nAll you freaks out there\nCome on and ride and slide in my G-Ride\nAll you freaks out there\n\n{Verse 2: Rod-i}\nAhh yeah, right front seat open\nHands on the wheel and loc's on the feelin'\n'Cause I got it goin' it's on\nBumpin' the new mass ride song\nG-ride' and slide in my ride\nAnd hoochies better run and hide\nOr get a shot of bump and grind (Bump and grind)\nDrink red wine, glad to be alive\nBalla balla balla to the day that I die\n'Cause where I'm from the players keep playin'\nThe players ain't payin' let your momma sing what she's sayin'\nCham keep 'em on (They on)\n'Cause today it's an all night bone\nTurn the pager off and kill the segular\nRoll through the city and forget about the regular\nIs'nit\nAnd hook the fine digits up\n'Cause tonight's the night Yo! you know what's up\nYou might also like[Chorus]\nRide, and slide in my G-Ride\nAll you freaks out there\nCome on and ride and slide in my G-Ride\nAll you freaks out there\n\n{Verse 3: Bechir}\nMobin' through the city on a creep tip\nLow profilin' and straight stylin'\nNo raggedy ride [?] Sit up bow ow (ow)\nYellow with the tinted windows\nWith the pimp and gangsta [?]\nI got 5 on the sac but I ain't touchin' that, you dig\nOn the look out for the babes on the streets\nI know they finna see 'cause we pump the beats\nIt ain't no love but they know that\nBut still jump in' the ride an get ah ha!\nLadies wanna give me the hoochie coo\nBut the hoochie cool it ain't known for me and you\n'Cause I'm a mane and use a piece of meat\nDon't have a B but you come real cheap\nBechir is the name, got fame of the game\nThe hood cat black, now suck on that\nAnd I'ma ride\n(Ride)\n{Talkbox}\nThe freaky tail in the life of a G\nThe freaky tails in the life of a G\n\n[Chorus]\nRide, and slide in my G-Ride\nAll you freaks out there\nCome on and ride and slide in my G-Ride\nAll you freaks out thereEmbed"
+  }
+ ]
+}

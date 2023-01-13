@@ -1,0 +1,3698 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/373242",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 2,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+ "id": 373242,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Svenska Akademien",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Svenska-akademien",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7090442",
+  "classification": "needs_exegesis",
+  "fragment": "Svenska Akademien",
+  "id": 7090442,
+  "is_description": true,
+  "path": "/7090442/Svenska-akademien/Svenska-akademien",
+  "range": {
+   "content": "Svenska Akademien"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7090442/Svenska-akademien/Svenska-akademien",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/373242",
+   "context": null,
+   "id": 373242,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1669064443",
+   "link_title": "Svenska Akademien",
+   "title": "Svenska Akademien",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Svenska-akademien"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7090442",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7090442,
+    "pinned": false,
+    "share_url": "https://genius.com/7090442",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7090442/Svenska-akademien/Svenska-akademien",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1433241",
+   "artist_names": "Svenska Akademien",
+   "full_title": "Snapphaneklanen by\u00a0Svenska\u00a0Akademien",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "id": 1433241,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Svenska-akademien-snapphaneklanen-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Svenska-akademien-snapphaneklanen-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Snapphaneklanen",
+   "title_with_featured": "Snapphaneklanen",
+   "url": "https://genius.com/Svenska-akademien-snapphaneklanen-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/373242",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "id": 373242,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Svenska Akademien",
+    "url": "https://genius.com/artists/Svenska-akademien"
+   },
+   "apple_music_id": "419122233",
+   "apple_music_player_url": "https://genius.com/songs/1433241/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1433241' class='rg_embed_link' data-song-id='1433241'>Read <a href='https://genius.com/Svenska-akademien-snapphaneklanen-lyrics'>\u201cSnapphaneklanen\u201d by Svenska\u00a0Akademien</a> on Genius</div> <script crossorigin src='//genius.com/songs/1433241/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/315810",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "Snapphaneklanen by Svenska Akademien",
+    "id": 315810,
+    "name": "Snapphaneklanen",
+    "url": "https://genius.com/albums/Svenska-akademien/Snapphaneklanen",
+    "artist": {
+     "api_path": "/artists/373242",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 373242,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Svenska Akademien",
+     "url": "https://genius.com/artists/Svenska-akademien"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5945013",
+    "classification": "needs_exegesis",
+    "fragment": "Snapphaneklanen",
+    "id": 5945013,
+    "is_description": true,
+    "path": "/5945013/Svenska-akademien-snapphaneklanen/Snapphaneklanen",
+    "range": {
+     "content": "Snapphaneklanen"
+    },
+    "song_id": 1433241,
+    "url": "https://genius.com/5945013/Svenska-akademien-snapphaneklanen/Snapphaneklanen",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1433241",
+     "client_timestamps": {
+      "updated_by_human_at": 1481760622,
+      "lyrics_updated_at": 1429841730
+     },
+     "context": "Svenska Akademien",
+     "id": 1433241,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+     "link_title": "Snapphaneklanen by\u00a0Svenska\u00a0Akademien",
+     "title": "Snapphaneklanen",
+     "type": "Song",
+     "url": "https://genius.com/Svenska-akademien-snapphaneklanen-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5945013",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5945013,
+      "pinned": false,
+      "share_url": "https://genius.com/5945013",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5945013/Svenska-akademien-snapphaneklanen/Snapphaneklanen",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Svenska Akademien",
+   "lyrics": "Snapphaneklanen LyricsSk\u00e5nska huen vilar aldrig p\u00e5 hanen\nVik h\u00e4dan f\u00f6r snapphaneklanen\nOch du uppl\u00e4ndska knekt, vet hut, l\u00e4r respekt\n261 tvingar dig till retr\u00e4tt. x2\n\nBryt upp, fly din kos (kos)\nVerbal \u00f6verdos (dos) f\u00f6rvandlar din hj\u00e4rna till mos (till mos)\nSom boozestarka droger mina m\u00f6rdarf\u00f6rm\u00e5gor sk\u00f6rdar liv (aah!)\nN\u00e4r din stad st\u00e5r i l\u00e5gor\nD\u00f6 i sm\u00e4rtsamma pl\u00e5gor n\u00e4r fr\u00e5gor besvaras\nKvalitet bevaras, ditt klick ska begravas\nH\u00f6r till en b\u00e4ttre skara, t\u00e4nker inte va' blyg\nHellre fet och dryg \u00e4n fin och pryd\nAldrig krig i smyg, men jag h\u00e5ller distansen\nMellan stenh\u00e5rda rim och gullig alls\u00e5ng p\u00e5 Skansen\nVi br\u00f6der ifr\u00e5n s\u00f6der \u00e4r som bestar\nDu f\u00f6rlorar ditt liv om du testar\nRekommenderar skaffa skotts\u00e4kra v\u00e4star\nLeml\u00e4star\n\nDet kommer r\u00f6k ur v\u00e5ra munnar\nN\u00e4r vi f\u00f6rkunnar v\u00e5rt broderskap\nDet \u00e4r Don, Ess och Knas\nDet kommer r\u00f6k ur v\u00e5ra munnar\nN\u00e4r vi f\u00f6rkunnar v\u00e5rt broderskap\nS\u00e5 n\u00e5 s\u00e5 n\u00e5 s\u00e5\n\nSk\u00e5nska huen vilar aldrig p\u00e5 hanen\nVik h\u00e4dan f\u00f6r snapphaneklanen\nOch du uppl\u00e4ndska knekt, vet hut, l\u00e4r respekt\n261 tvingar dig till retr\u00e4tt. x2\n\nH\u00f6jer niv\u00e5n nerifr\u00e5n mikrofonatleter\nKalla oss f\u00f6r profeter, sexhundra kilometer\nR\u00e4tt upp i Norrland med skorrland i sj\u00e4len\n\u00c4r kontinental n\u00e4r mitt uttal tinar tj\u00e4len\n\nMen i marken n\u00e4stan uppe vid Norra Kvarken\nG\u00e5r in som patriarken och skapar minnesm\u00e4rken\nHistoria! Falska fakta revideras\nN\u00e4r monument raseras, platinan inkasseras\nStockholm invaderas, kartor omarbetas\nSveriges hetaste fetaste akt bombarderar\nYou might also likeDet kommer r\u00f6k ur v\u00e5ra munnar\nN\u00e4r vi f\u00f6rkunnar v\u00e5rt broderskap\nDet \u00e4r Don, Ess och Knas\n\nUpphovsm\u00e4nnen till den sk\u00e5nska raggan\nJa, k\u00e4rleken \u00e4r sann till den gul- och r\u00f6da flaggan\nOch som vi alla vet s\u00e5 \u00e4r Sk\u00e5neland vaggan\nF\u00f6r snapphanerebeller som g\u00e5r fram\u00e5t n\u00e4r det g\u00e4ller\nInte bak\u00e5t n\u00e4r det sm\u00e4ller, historiska k\u00e4llor\nTill att h\u00f6ja v\u00e5r upprorsfana s\u00e5 jag forts\u00e4tter uppmana\nTill revolt, st\u00e5 upp stolt, f\u00f6r ditt folk, sk\u00e5neman\n\u00d6ppna upp ditt hj\u00e4rta och l\u00e5t k\u00e4rleken va' sann\nS\u00f6k djupt i dig sj\u00e4lv, s\u00e4g mig vad du fann\nMan! Vi kan, hj\u00e4lpa dig lite grand\nMen du f\u00e5r g\u00f6ra vad du kan sj\u00e4lv\nS\u00e5 stanna upp och v\u00e4lj\nOm du vill ha munnen \u00f6ppen eller st\u00e4ngd\nN\u00e4r G\u00f6ran Persson s\u00e4ger \"v\u00e4lj mig\", nej nej\nS\u00e5 h\u00f6r nu mig det \u00e4r bara att s\u00e4ga nej\nF\u00f6r de sk\u00f6ter inte sig\nHajar du min grej, n\u00e4r jag ber\u00e4ttar f\u00f6r dig?\n\nDet kommer r\u00f6k ur v\u00e5ra munnar\nN\u00e4r vi f\u00f6rkunnar v\u00e5rt broderskap\nDet \u00e4r Don, Ess och Knas\nDet kommer r\u00f6k ur v\u00e5ra munnar\nN\u00e4r vi f\u00f6rkunnar v\u00e5rt broderskap\nS\u00e5 n\u00e5 s\u00e5 n\u00e5 s\u00e5\nSk\u00e5nska huen vilar aldrig p\u00e5 hanen\nVik h\u00e4dan f\u00f6r snapphaneklanen\n\u00c5 du uppl\u00e4ndska knekt, vet hut l\u00e4r respekt\n261 tvingar dig till retr\u00e4tt. x2\n\nJa, det var en sn\u00f6ig en, den!Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2010151",
+   "artist_names": "Svenska Akademien",
+   "full_title": "Du Vill S\u00e5 Du Kan by\u00a0Svenska\u00a0Akademien",
+   "header_image_thumbnail_url": "https://images.genius.com/672915270a2baac11bc5a434fbf451d1.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/672915270a2baac11bc5a434fbf451d1.640x640x1.jpg",
+   "id": 2010151,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Svenska-akademien-du-vill-sa-du-kan-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Svenska-akademien-du-vill-sa-du-kan-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/672915270a2baac11bc5a434fbf451d1.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/672915270a2baac11bc5a434fbf451d1.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Du Vill S\u00e5 Du Kan",
+   "title_with_featured": "Du Vill S\u00e5 Du Kan",
+   "url": "https://genius.com/Svenska-akademien-du-vill-sa-du-kan-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/373242",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "id": 373242,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Svenska Akademien",
+    "url": "https://genius.com/artists/Svenska-akademien"
+   },
+   "apple_music_id": "420523012",
+   "apple_music_player_url": "https://genius.com/songs/2010151/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2010151' class='rg_embed_link' data-song-id='2010151'>Read <a href='https://genius.com/Svenska-akademien-du-vill-sa-du-kan-lyrics'>\u201cDu Vill S\u00e5 Du Kan\u201d by Svenska\u00a0Akademien</a> on Genius</div> <script crossorigin src='//genius.com/songs/2010151/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/249492",
+    "cover_art_url": "https://images.genius.com/672915270a2baac11bc5a434fbf451d1.640x640x1.jpg",
+    "full_title": "Resa Sig Opp by Svenska Akademien",
+    "id": 249492,
+    "name": "Resa Sig Opp",
+    "url": "https://genius.com/albums/Svenska-akademien/Resa-sig-opp",
+    "artist": {
+     "api_path": "/artists/373242",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 373242,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Svenska Akademien",
+     "url": "https://genius.com/artists/Svenska-akademien"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6697929",
+    "classification": "needs_exegesis",
+    "fragment": "Du Vill S\u00e5 Du Kan",
+    "id": 6697929,
+    "is_description": true,
+    "path": "/6697929/Svenska-akademien-du-vill-sa-du-kan/Du-vill-sa-du-kan",
+    "range": {
+     "content": "Du Vill S\u00e5 Du Kan"
+    },
+    "song_id": 2010151,
+    "url": "https://genius.com/6697929/Svenska-akademien-du-vill-sa-du-kan/Du-vill-sa-du-kan",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2010151",
+     "client_timestamps": {
+      "updated_by_human_at": 1666538823,
+      "lyrics_updated_at": 1432945824
+     },
+     "context": "Svenska Akademien",
+     "id": 2010151,
+     "image_url": "https://images.genius.com/672915270a2baac11bc5a434fbf451d1.640x640x1.jpg",
+     "link_title": "Du Vill S\u00e5 Du Kan by\u00a0Svenska\u00a0Akademien",
+     "title": "Du Vill S\u00e5 Du Kan",
+     "type": "Song",
+     "url": "https://genius.com/Svenska-akademien-du-vill-sa-du-kan-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6697929",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6697929,
+      "pinned": false,
+      "share_url": "https://genius.com/6697929",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6697929/Svenska-akademien-du-vill-sa-du-kan/Du-vill-sa-du-kan",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Svenska Akademien",
+   "lyrics": "Du Vill S\u00e5 Du Kan LyricsDu vill s\u00e5 du kan\nJag sa du kan om du vill, du vill s\u00e5 du kan (Det \u00e4r klart du kan)\nJag sa du kan om du vill, du vill s\u00e5 du kan\n\nDom som styr v\u00e5r v\u00e4rld \u00e4r inkompetenta\nVarf\u00f6r be om tillst\u00e5nd varf\u00f6r lyda v\u00e4nta\nVarf\u00f6r sl\u00f6sa tid vi har v\u00e4l velat klart\nUppenbart n\u00e5got m\u00e5ste h\u00e4nda snart\nI en rasande fart har dom t\u00e4rt p\u00e5 v\u00e5rt klot\nDom har gjort dr\u00f6mmar till aska och sot\n\u00c5 den som lyder idioten \u00e4r sj\u00e4lv idiot\nF\u00e4ster boja runt sin egen fot\nS\u00e5 k\u00e4fta emot och finn kraft i ditt inre\nD\u00e5rarnas drivhus g\u00f6r m\u00e4nniskorna mindre\nS\u00e5 r\u00e4dda, bl\u00e5sta missledda\nStyrda bevakade men aldrig sedda\nP\u00e5tvingat oss inget verkligt vi\nStyrd av n\u00e5gon annan inte verklig fri\nH\u00f6g tid sluta v\u00e4nta, g\u00f6r gjort av det t\u00e4nkta\nTanken h\u00e5ller d\u00f6rrarna st\u00e4ngda\nJag sa du kan om du vill, du vill s\u00e5 du kan\nJag sa du kan om du vill, du vill s\u00e5 du kan\nV\u00e5ga vilja v\u00e5ga fr\u00e5ga, k\u00e4nn din egen f\u00f6rm\u00e5ga\n\nJa sa vafan l\u00e4gg av \u00e5 gn\u00e4ll sluta snacka, prata massa skit\nDu e ju alldeles f\u00f6r bra f\u00f6r att ha gnat \u00e5 klagan som gebit\nG\u00f6r dig av med dina ok o kedjor \u00e5 ana k\u00e4nn hur stark du e\nSkriv din egen bok \u00e5 bygg smedjor f\u00f6r varje god id\u00e9\nProtestera kritisera sjung skrik prata diskutera\nVr\u00e5la m\u00e5la initiera gl\u00f6d f\u00f6r vatten \u00e5 br\u00f6d f\u00f6r flera\nT\u00e4nd eldar d\u00e4r du ser m\u00f6rker du orkar f\u00f6r du blir aldrig tr\u00f6tt\nV\u00e4nd n\u00e4r du fastnar vattna d\u00e4r det torkar skrik n\u00e4r du ser r\u00f6tt\nG\u00f6r egna konstruktioner i auktoritetsfria zoner\nEgna legioner k\u00e4rlekssoldater med kanoner\n\u00c5 gl\u00f6mmer v\u00e4derkvarnar \u00e5 miljoner illusioner\nSprider gl\u00e4dje skjuter toner verklighet av visioner\nDin egen tanke var god s\u00e5 g\u00f6r verklighet av den\nL\u00e5t din k\u00e4nsla ge dig mod och g\u00f6r din n\u00e4sta till din v\u00e4n\nB\u00e4st du g\u00f6r det nu, f\u00f6r din tid \u00e4r nu och inte sen\nB\u00e4sta att du \u00e4r du och du kan g\u00f6ra det igen\n\nJag sa du kan om du vill, du vill s\u00e5 du kan\nJag sa du kan om du vill, du vill s\u00e5 du kan\nDet e klart du kan, klart du kan (S\u00e5 du kan ja)\n\nS\u00e5 m\u00e5nga m\u00e5sten \u00e4r dom verkligen dina\nM\u00e5nga tar andras och g\u00f6r dom till sina\nStressade j\u00e4ktar f\u00f6r n\u00e5n annans skull\nSom aldrig finns n\u00e4r du faller omkull\n\u00c5 beh\u00f6ver st\u00f6d bara tar \u00f6ver gl\u00f6d\nG\u00f6r den till sin lever i \u00f6verfl\u00f6d\nLev inte d\u00f6d samla s\u00e5nt du aldrig hann\nDu kan om du vill, du vill s\u00e5 du kan\nYou might also likeE enda jag ser e st\u00e4ngda d\u00f6rrar d\u00e4r\nF\u00f6r oss som vill mer \u00e4n att bygga karri\u00e4r\nS\u00f6k i dig sj\u00e4lv f\u00f6r de e l\u00f6gner dom l\u00e4r\nDom leker med eld \u00e5 l\u00e5ga beg\u00e4r\nS\u00e5 v\u00e4gra st\u00e5 still\nVet vad du vill\nStr\u00e4va i k\u00e4rlek med v\u00e4nnen intill\nDu kan och jag kan tillsammans kan vi mer\nFram som en brand av hettan blir vi fler\n\nJag sa du kan om du vill, du vill s\u00e5 du kan\nDet e klart du kan, klart du kan, klart du kan g\u00f6ra dr\u00f6mmen till sann\nJag sa du kan om du vill, du vill s\u00e5 du kan\nL\u00e5t dom se du har fan mer att geEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1322860",
+   "artist_names": "Svenska Akademien",
+   "full_title": "Vakna by\u00a0Svenska\u00a0Akademien",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "id": 1322860,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Svenska-akademien-vakna-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Svenska-akademien-vakna-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Vakna",
+   "title_with_featured": "Vakna",
+   "url": "https://genius.com/Svenska-akademien-vakna-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/373242",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "id": 373242,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Svenska Akademien",
+    "url": "https://genius.com/artists/Svenska-akademien"
+   },
+   "apple_music_id": "597947117",
+   "apple_music_player_url": "https://genius.com/songs/1322860/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1322860' class='rg_embed_link' data-song-id='1322860'>Read <a href='https://genius.com/Svenska-akademien-vakna-lyrics'>\u201cVakna\u201d by Svenska\u00a0Akademien</a> on Genius</div> <script crossorigin src='//genius.com/songs/1322860/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/198914",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "G\u00f6r det \u00e4nd\u00e5 by Svenska Akademien",
+    "id": 198914,
+    "name": "G\u00f6r det \u00e4nd\u00e5",
+    "url": "https://genius.com/albums/Svenska-akademien/Gor-det-anda",
+    "artist": {
+     "api_path": "/artists/373242",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 373242,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Svenska Akademien",
+     "url": "https://genius.com/artists/Svenska-akademien"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5829875",
+    "classification": "needs_exegesis",
+    "fragment": "Vakna",
+    "id": 5829875,
+    "is_description": true,
+    "path": "/5829875/Svenska-akademien-vakna/Vakna",
+    "range": {
+     "content": "Vakna"
+    },
+    "song_id": 1322860,
+    "url": "https://genius.com/5829875/Svenska-akademien-vakna/Vakna",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1322860",
+     "client_timestamps": {
+      "updated_by_human_at": 1481747910,
+      "lyrics_updated_at": 1429764384
+     },
+     "context": "Svenska Akademien",
+     "id": 1322860,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+     "link_title": "Vakna by\u00a0Svenska\u00a0Akademien",
+     "title": "Vakna",
+     "type": "Song",
+     "url": "https://genius.com/Svenska-akademien-vakna-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5829875",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5829875,
+      "pinned": false,
+      "share_url": "https://genius.com/5829875",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5829875/Svenska-akademien-vakna/Vakna",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Svenska Akademien",
+   "lyrics": "Vakna LyricsTankarna \u00e4r rej\u00e4lt korrumperade\nN\u00e4r fredsduvor \u00e4r uniformerade\nVi st\u00e5r handlingsf\u00f6rlamade, f\u00f6rstenade\nMedan dom starka utnyttjar dom klenare\nOch utan att vi alls reagerade\nHar v\u00e5ra hj\u00e4rtan blivit h\u00f6gerplacerade\nTiden \u00e4r nu inte senare\nVi m\u00e5ste vakna upp och jag menar det\n\nVi m\u00e5ste vakna\nAllians f\u00f6r dom svaga\nIgnorerar deras expertis\nR\u00e4dda planeten fr\u00e5n m\u00e4nniskans kris\nVi h\u00e5ller p\u00e5 att drunkna i v\u00e5rt eget \u00f6verfl\u00f6d\nF\u00f6r \u00e5 fylla denna dumhet och gl\u00f6ma v\u00e5r d\u00f6d\nAtt bli r\u00e4dda f\u00f6r livet\nS\u00e5 tappar vi v\u00e5r gl\u00f6d\nTappar vi drivet f\u00f6rlorar vi v\u00e5rt st\u00f6d\nS\u00e4r v\u00e4rlden blir fientlig\nFull av konkurrens\nMen utan varann har vi inte n\u00e5n chans\nFr\u00e5n denna tomma str\u00e4van, denna t\u00e4vlan, denna trans\nH\u00f6r det \u00e4r dags att vakna och bilda allians\n\nVi m\u00e5ste vakna\nAllians f\u00f6r dom svaga\nIgnorerar deras expertis\nR\u00e4dda planeten fr\u00e5n m\u00e4nniskans kris\n\nDom s\u00e4ger\nVar och en \u00e4r en isolerad \u00f6\nSom kr\u00e4ver: mer k\u00e4rnkraft f\u00f6r god milj\u00f6\nOch ska ha sommarv\u00e4rme inne trots is och sn\u00f6\nSj\u00e4lv i bilen och ingen k\u00f6\nDet ska va full service men ingen skatt\nBetalar sig f\u00f6rbi g\u00e5r f\u00f6re dag som natt\nMedan fotfolket ska k\u00e4nna glatt f\u00f6r\nEkonomen kan visa att dom\nRika f\u00e5r mer blir det smulor \u00f6ver\nDet kan tyckas skumt men tvn s\u00f6ver\nLansera massa skit alla snart beh\u00f6ver\nMera kneg, regeringskl\u00f6ver\nMera prylar flera l\u00e5n, platt sk\u00e4rm, ny telefon\nSm\u00e5folket drar alla str\u00e5n medan finfolket smiter ifr\u00e5n, sa\nYou might also likeVi m\u00e5ste vakna\nAllians f\u00f6r dom svaga\nIgnorerar deras expertis\nR\u00e4dda planeten fr\u00e5n m\u00e4nniskans krisEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1419878",
+   "artist_names": "Svenska Akademien",
+   "full_title": "Ctrl+alt+del by\u00a0Svenska\u00a0Akademien",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "id": 1419878,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Svenska-akademien-ctrl-alt-del-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Svenska-akademien-ctrl-alt-del-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ctrl+alt+del",
+   "title_with_featured": "Ctrl+alt+del",
+   "url": "https://genius.com/Svenska-akademien-ctrl-alt-del-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/373242",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "id": 373242,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Svenska Akademien",
+    "url": "https://genius.com/artists/Svenska-akademien"
+   },
+   "apple_music_id": "420512649",
+   "apple_music_player_url": "https://genius.com/songs/1419878/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1419878' class='rg_embed_link' data-song-id='1419878'>Read <a href='https://genius.com/Svenska-akademien-ctrl-alt-del-lyrics'>\u201cCtrl+alt+del\u201d by Svenska\u00a0Akademien</a> on Genius</div> <script crossorigin src='//genius.com/songs/1419878/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/190097",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "T\u00e4ndstickor f\u00f6r m\u00f6rkr\u00e4dda by Svenska Akademien",
+    "id": 190097,
+    "name": "T\u00e4ndstickor f\u00f6r m\u00f6rkr\u00e4dda",
+    "url": "https://genius.com/albums/Svenska-akademien/Tandstickor-for-morkradda",
+    "artist": {
+     "api_path": "/artists/373242",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 373242,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Svenska Akademien",
+     "url": "https://genius.com/artists/Svenska-akademien"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5931188",
+    "classification": "needs_exegesis",
+    "fragment": "Ctrl+alt+del",
+    "id": 5931188,
+    "is_description": true,
+    "path": "/5931188/Svenska-akademien-ctrl-alt-del/Ctrl-alt-del",
+    "range": {
+     "content": "Ctrl+alt+del"
+    },
+    "song_id": 1419878,
+    "url": "https://genius.com/5931188/Svenska-akademien-ctrl-alt-del/Ctrl-alt-del",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1419878",
+     "client_timestamps": {
+      "updated_by_human_at": 1477004441,
+      "lyrics_updated_at": 1429833390
+     },
+     "context": "Svenska Akademien",
+     "id": 1419878,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+     "link_title": "Ctrl+alt+del by\u00a0Svenska\u00a0Akademien",
+     "title": "Ctrl+alt+del",
+     "type": "Song",
+     "url": "https://genius.com/Svenska-akademien-ctrl-alt-del-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5931188",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5931188,
+      "pinned": false,
+      "share_url": "https://genius.com/5931188",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5931188/Svenska-akademien-ctrl-alt-del/Ctrl-alt-del",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Svenska Akademien",
+   "lyrics": "Ctrl+alt+del LyricsDe vill f\u00f6rsvara en lag f\u00f6r de sl\u00e5r sig\nF\u00f6rklara f\u00f6r mig f\u00f6r jag kan inte f\u00f6rst\u00e5\nDe har handskar p\u00e5, illa kan det g\u00e5\nHj\u00e4rnskador kan de f\u00e5\nVi kan inte bara st\u00e5 och se p\u00e5, n\u00e4r de pucklar p\u00e5\nN\u00e4r n\u00e5n blir slagen gul och bl\u00e5\nVi kan inte bara st\u00e5 och se p\u00e5, f\u00f6r illa kan det g\u00e5\nMen n\u00e4r barnen trampar p\u00e5 minor i Angola\nT\u00e4nker vi d\u00e5 att det kan de t\u00e5la\nBryr vi oss inte mer \u00e4n s\u00e5?\nF\u00f6rklara f\u00f6r mig f\u00f6r jag kan inte f\u00f6rst\u00e5\nHan vill \u00e4ndra en lag f\u00f6r att slippa n\u00e5n skatt\nF\u00f6rklara f\u00f6r mig f\u00f6r jag kan inte f\u00f6rst\u00e5\nHan har vitaste kragen, mat i magen, makt \u00f6ver lagen\nOch av makt betagen och bedragen\n\u00c4ger tv-bolagen, \u00e4r p\u00e5 mittuppslaget med l\u00e4ttkl\u00e4dda flickor\nPengarna fr\u00e5n scoopen hamnar i hans egna djupa och giriga fickor\nMen n\u00e4r m\u00e4nskor inte har vatten f\u00f6r dagen bryr vi oss \u00e4nd\u00e5 om bostadsbidragen\nBryr vi oss inte mer \u00e4n s\u00e5?\nF\u00f6rklara f\u00f6r mig f\u00f6r jag kan inte f\u00f6rst\u00e5\nK\u00e4nner saknad och jag k\u00e4nner mig ibland som en fr\u00e4mling\nF\u00f6dd i fr\u00e4mmande land\nOch jag lever icke allenast av br\u00f6d\nDenna andliga n\u00f6d blir min l\u00e5ngsamma d\u00f6d\nJag tynar bort och jag finner ingen ro\nF\u00f6r f\u00f6r m\u00e4nskor av min sort finns det v\u00e4l ingenstans att bo\nIngen v\u00e4lsignad jord d\u00e4r k\u00e4rleken kan gro\nL\u00e5ngt, l\u00e5ngt bort fr\u00e5n brodermord vill jag finna min rot\n\nChorus//:\nApparaten luktar skit\nEscape escape, control alt delete\nApatiapparaten luktar skit\nEscape escape, control alt delete\n:\n\nVi lever i en sluten tid\nTystnaden \u00e4r talande malande vi ser en f\u00f6rljugen tid\nL\u00f6gnerna \u00e4r skvalande malande vi tar hand i fr\u00e5n mun\n\u00d6ppna och sjung ditt hj\u00e4rtas lust\nTar hand i fr\u00e5n mun h\u00e4mta och sjung fr\u00e5n din djupaste brunn\n\nBabylon\nDe sprider propaganda som om det var deras s\u00e4tt att andas\nMen det \u00e4r inte dem som vi ska klandra\nDet \u00e4r vi som m\u00e5ste handla\nDe g\u00e5r ju alltid att skylla p\u00e5 de andra\nMen ett steg och sen har man b\u00f6rjat vandra\nOch n\u00e4r man v\u00e4l har tatt det f\u00f6rsta, lika bra att ta det andra\nVi m\u00e5ste v\u00e4gra deras sanning, v\u00e4gra deras l\u00f6gn\nSt\u00e4nga av apparaten och vakna ur v\u00e5r s\u00f6mn\nF\u00f6r det \u00e4r dags att ta till handling, dags att ta tillbaks\nAvsl\u00f6ja spektaklet, det blir General Knas\nYou might also likeTekniken h\u00f6jer v\u00e4lf\u00e4rdsniv\u00e5n\nKostnaden blir fl\u00e5sande l\u00e5sande l\u00e5n\nBl\u00e4ddrar runt i tv-tabl\u00e5n\n\u00c4cklad varje dag, jag vill dra h\u00e4rifr\u00e5n\n\nVi ska g\u00f6ra folk av dig\nM\u00e5ndag till fredag, ett flertal ska ledas\nN\u00e5gra ska leda, ordning och reda\nSitt nu tyst i din b\u00e4nk n\u00e4r vi matar dig med leda och tillv\u00e4xtt\u00e4nk\nDu blir hunsad tystad, satt p\u00e5 plats\nF\u00f6r lydnad \u00e4r t\u00e4nkt som din samh\u00e4llsinsats\nDu ska kunna skilja mellan mitt och ditt\nN\u00e4r du ser svart och vitt s\u00e5 f\u00e5r du v\u00e4lja fritt\n\nAlternativen vi ger dig\nDe ser till att du beter dig som folk\nGl\u00f6m inte att storebror alltid ser dig\nT\u00e4nk p\u00e5 det n\u00e4r v\u00e4rlden ter sig lite skum\n\nAlternativen vi ger dig\nDe ser till att du beter dig som folk\nGl\u00f6m inte att storebror alltid ser dig\nT\u00e4nk p\u00e5 det n\u00e4r v\u00e4rlden ter sig lite skumEmbed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/993261",
+   "artist_names": "Svenska Akademien",
+   "full_title": "Falsk Matematik (Del III) by\u00a0Svenska\u00a0Akademien",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "id": 993261,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Svenska-akademien-falsk-matematik-del-iii-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Svenska-akademien-falsk-matematik-del-iii-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Falsk Matematik (Del III)",
+   "title_with_featured": "Falsk Matematik (Del III)",
+   "url": "https://genius.com/Svenska-akademien-falsk-matematik-del-iii-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/373242",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "id": 373242,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Svenska Akademien",
+    "url": "https://genius.com/artists/Svenska-akademien"
+   },
+   "apple_music_id": "419122252",
+   "apple_music_player_url": "https://genius.com/songs/993261/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_993261' class='rg_embed_link' data-song-id='993261'>Read <a href='https://genius.com/Svenska-akademien-falsk-matematik-del-iii-lyrics'>\u201cFalsk Matematik (Del III)\u201d by Svenska\u00a0Akademien</a> on Genius</div> <script crossorigin src='//genius.com/songs/993261/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5489396",
+    "classification": "needs_exegesis",
+    "fragment": "Falsk Matematik (Del III)",
+    "id": 5489396,
+    "is_description": true,
+    "path": "/5489396/Svenska-akademien-falsk-matematik-del-iii/Falsk-matematik-del-iii",
+    "range": {
+     "content": "Falsk Matematik (Del III)"
+    },
+    "song_id": 993261,
+    "url": "https://genius.com/5489396/Svenska-akademien-falsk-matematik-del-iii/Falsk-matematik-del-iii",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/993261",
+     "client_timestamps": {
+      "updated_by_human_at": 1615315230,
+      "lyrics_updated_at": 1615315230
+     },
+     "context": "Svenska Akademien",
+     "id": 993261,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+     "link_title": "Falsk Matematik (Del III) by\u00a0Svenska\u00a0Akademien",
+     "title": "Falsk Matematik (Del III)",
+     "type": "Song",
+     "url": "https://genius.com/Svenska-akademien-falsk-matematik-del-iii-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5489396",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5489396,
+      "pinned": false,
+      "share_url": "https://genius.com/5489396",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5489396/Svenska-akademien-falsk-matematik-del-iii/Falsk-matematik-del-iii",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Svenska Akademien",
+   "lyrics": "Falsk Matematik (Del III) LyricsWoohooo! Hall\u00e5, hall\u00e5!\n\u00c4h, d\u00e4r \u00e4r bara en massa folk som snackar; fr\u00e5gar vem jag var, vad\u00e5?\n\nPassa dig grabben, f\u00f6r jag \u00e4r fetare \u00e4n Babben p\u00e5 micken\nDen akademiska kicken sl\u00e5r ner dig, en klick som alltid ser dig\nLi'a bra du ger dig. Jag ber dig\nS\u00e5 stick och brinn, f\u00f6rsvinn, pallar inte med dig, pallar inte se dig\nHar inga props att ge dig, luktar illa mannen!\nEn v\u00e4mjelig od\u00f6r, du luktar \"Se och h\u00f6r\", publikfl\u00f6rt och sm\u00f6r, toalukter av produkter, fr\u00e5n industrin\nSvenska Akademien serverar besk medicin f\u00f6r verbal uppgradering, arkebusering n\u00e4r hiphopb\u00f6nder tills\u00e4tter ny regering och ledning\nBombar din brevl\u00e5da, puffar k\u00e5da, h\u00e5ller l\u00e5da, b\u00e4ttre flyt har aldrig sk\u00e5dats\nDet kan jag lova\nAll\u00e9n har ordets g\u00e5va plus en j\u00e4vligt stor passion f\u00f6r min sak som Jehovas\nN\u00e4r jag sparkar in din d\u00f6rr (Wa!), utan att knacka, d\u00e4ckar hela dig\nSom en horsemacka\nOch n\u00e4r sk\u00e5ningar snackar \u00e4r det b\u00e4st att du h\u00e5ller dig borta\nSk\u00e5nska m\u00f6rdarrutiner och stubiner som \u00e4r korta\nSiktar mot aorta, ringar in akillesh\u00e4lar. Jag trollbinder vilsna sj\u00e4lar!\nVersen du k\u00f6r kommer alltid l\u00e5ta bull om du g\u00f6r den f\u00f6r pengarnas skull\n\nChorus\nSamma resonemang, samma brist p\u00e5 talang, samma skit, samma etablissemang, samma\nFalska klang, falsk matematik. Unik lyrik g\u00f6r ingen MC s\u00e4rskilt rik. x2\n\n30 \u00e5r i gamet, men vad \u00e4r d\u00e4r med det? En tr\u00f6ttsam klich\u00e9 l\u00e4r bli hoppl\u00f6st pass\u00e9\n30 \u00e5r i gamet, men har inget att ge, nej, nej, nej, nej s\u00e5 l\u00e5t bli, l\u00e5t bli!\nDe vill br\u00e4nna min penna, riva mitt block\nDagsl\u00e4nda vill sk\u00e4nda min \u00f6k\u00e4nda flock\nF\u00e5 vindar att v\u00e4nda och bl\u00e4nda publiken\nDet kommer aldrig h\u00e4nda du saknar lyriken, tekniken\nLika bra du st\u00e4nger butiken, (Vad\u00e5?)\nF\u00f6r du kommer bara bli besviken n\u00e4r branschen \u00e4r sniken. (Jaha!)\nMusiken n\u00e5r s\u00e4llan publiken\nKritiken \u00e4r bull, din saga ber\u00e4ttad, aff\u00e4ren \u00e4r full\nOch marknaden m\u00e4ttad, rej\u00e4lt \u00f6verhettad\nN\u00e4r nu hiphopkultur g\u00e5r fr\u00e5n h\u00f6gkonjunktur\nFett med najs, mad props eller hur?\nVa va va va va va va va?\n\nVersen du k\u00f6r kommer alltid l\u00e5ta bull om du g\u00f6r den f\u00f6r pengarnas skull\n\nFilosofi i era magasin, samla p\u00e4rlor f\u00f6r svin, Svenska Akademien\nDet \u00e4r Don, Ess och Knas\nEn h\u00e5rdare typ av spr\u00e5kv\u00e5rdare\nVar man till sin dunk, bensindunk, klunk klunk, i tingssal och riksdag, drar opp\nEn solsticka sen f\u00e5r du nog sticka\nKvicka dig mannen och opp med kapuschongen\nF\u00f6r jag ser de v\u00e4rdel\u00f6sa hundarna komma med batongen\nH\u00f6r nu s\u00e5ngen om den fullst\u00e4ndiga underg\u00e5ngen, den d\u00e4r kom den, underg\u00e5ngen\nN\u00e4r de leder dig fr\u00e5n h\u00e4kte till cell\nN\u00e4r de sl\u00e4ckte f\u00f6r kv\u00e4ll, vi br\u00e4ckte, med en sm\u00e4ll, oss opp fr\u00e5n underjord\nSatte stopp f\u00f6r frihetsord\n\u00d6verg\u00e5ng fr\u00e5n underg\u00e5ng till genomg\u00e5ng av celler\n(Vilka celler? Hj\u00e4rnceller!)\nSe dem, de h\u00e4ller, sv\u00e4ljer bestseller, en v\u00e4ljer rebeller eller s\u00e4ljer sig sj\u00e4lv\nEller t\u00e4ljer sig sj\u00e4lv, n\u00e4, du v\u00e4ljer ju sj\u00e4lv, man!\nYou might also likeSj\u00e4lvrannsakan \u00e4r den raka gatan fram\nF\u00f6rsakar satans namn, orsakar sprakande brand\nF\u00f6rsvarar satans namn med en skakande hand och en mick. (Sicken kick!)\n\nFilosofi i era magasin, samla p\u00e4rlor f\u00f6r svin, Svenska Akademien\nJa, det var Don, Ess och Knas\nEn h\u00e5rdare typ av spr\u00e5kv\u00e5rdare\n\nChorus\nSamma resonemang, samma brist p\u00e5 talang, samma skit, samma etablissemang, samma\nFalska klang, falsk matematik. Unik lyrik g\u00f6r ingen MC s\u00e4rskilt rik. [repeat]\n\nSpoken\nHall\u00e5, hall\u00e5, hall\u00e5, hall\u00e5\nS\u00e5 kom ih\u00e5g, vad du \u00e4n g\u00f6r:\nAll\u00e9n den yngre kommer alltid till att va' tyngre, eller hur? (Va?)\nVad \u00e4r d\u00e4r med di'?\n\u00c4h, pluggisEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1578825",
+   "artist_names": "Svenska Akademien",
+   "full_title": "Kenneths Nya by\u00a0Svenska\u00a0Akademien",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "id": 1578825,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Svenska-akademien-kenneths-nya-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Svenska-akademien-kenneths-nya-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Kenneths Nya",
+   "title_with_featured": "Kenneths Nya",
+   "url": "https://genius.com/Svenska-akademien-kenneths-nya-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/373242",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "id": 373242,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Svenska Akademien",
+    "url": "https://genius.com/artists/Svenska-akademien"
+   },
+   "apple_music_id": "420512674",
+   "apple_music_player_url": "https://genius.com/songs/1578825/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1578825' class='rg_embed_link' data-song-id='1578825'>Read <a href='https://genius.com/Svenska-akademien-kenneths-nya-lyrics'>\u201cKenneths Nya\u201d by Svenska\u00a0Akademien</a> on Genius</div> <script crossorigin src='//genius.com/songs/1578825/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6093543",
+    "classification": "needs_exegesis",
+    "fragment": "Kenneths Nya",
+    "id": 6093543,
+    "is_description": true,
+    "path": "/6093543/Svenska-akademien-kenneths-nya/Kenneths-nya",
+    "range": {
+     "content": "Kenneths Nya"
+    },
+    "song_id": 1578825,
+    "url": "https://genius.com/6093543/Svenska-akademien-kenneths-nya/Kenneths-nya",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1578825",
+     "client_timestamps": {
+      "updated_by_human_at": 1444313882,
+      "lyrics_updated_at": 1429898201
+     },
+     "context": "Svenska Akademien",
+     "id": 1578825,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+     "link_title": "Kenneths Nya by\u00a0Svenska\u00a0Akademien",
+     "title": "Kenneths Nya",
+     "type": "Song",
+     "url": "https://genius.com/Svenska-akademien-kenneths-nya-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6093543",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6093543,
+      "pinned": false,
+      "share_url": "https://genius.com/6093543",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6093543/Svenska-akademien-kenneths-nya/Kenneths-nya",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Svenska Akademien",
+   "lyrics": "Kenneths Nya LyricsN\u00e4r du ligger vaken t\u00e4nder av ifr\u00e5n lyckligt gift\nBl\u00f6t i svett av vad du sett som ditt livs bedrift\nMed ett livstilsmagasin som din heliga skrift\nGick du vilse n\u00e5nstans\nHamna ur balans\nDu \u00e5nga p\u00e5 och tog f\u00f6r sant att inga andra v\u00e4gar fanns\nDet \u00e5ngrar du och hoppas p\u00e5 en andra chans\nOch 47 veckors \u00e5ngest g\u00f6r dig tom och svag\nFast du skildras s\u00e5 stark i vart reklaminslag\nOch kring ditt frukostbord syns inga leenden till\nFast du gjort allt som du kan f\u00f6r att f\u00e5 det som dom vill\nSom s\u00e5 ska vara bra, s\u00e5 som det ska vara\nDu l\u00e4ngtar efter lyckan men g\u00f6r ingen dj\u00e4vel glad\nDet dom sa var ditt hem det ser du aldrig till\nF\u00f6r du slutar s\u00e4llan kneget f\u00f6re fem\nStress och j\u00e4kt igen, blev s\u00e5 kn\u00e4ckt min v\u00e4n\nSex var l\u00e4nge sen, tv:n \u00e4r din enda v\u00e4n\nOch d\u00e4r matas du med bilder av dom som pallar med\nReser lite mer\nJobbar lite mer\nH\u00e4nger hemma lite mer\nOch h\u00e5ller fest f\u00f6r lite fler\nLyckligt lottade och ler i stadens finare kvarter\nMen en vanlig l\u00f6neslav ser mest inkassokrav\nStressar hem fr\u00e5n jobbet f\u00f6r att hinna slappna av\nDet \u00e4r n\u00e5got skumt med det h\u00e4r\nF\u00f6r du pallar aldrig leva som dom d\u00e4r\nHon \u00e4r fokuserad men frustrerad\nK\u00e4nslom\u00e4ssigt ruinerad\nRenskrubbad\nAvtrubbad och helt alginerad\nD\u00e4r finns Zoloft och Immigran mot sorg och migr\u00e4n\nD\u00e4r finns parfym mot hennes doft\nMot hennes kr\u00e4mpor finns en kr\u00e4m\nHennes livsl\u00e5nga ansvar \u00f6ver d\u00f6lja sina \u00e5r\nSkapar \u00e5ngest inf\u00f6r mat p\u00e5 hennes armar finns det s\u00e5r\nTiden g\u00e5r men hennes l\u00e4ngtan efter lycka den best\u00e5r\nVill g\u00e4rna hitta k\u00e4rlek men vet inte om det g\u00e5r\nFr\u00f6 hennes tiden \u00e4r f\u00f6r liten, hennes budget f\u00f6r sliten\nMed en tv\u00e5a p\u00e5 s\u00f6dern med ett mags\u00e5r som bl\u00f6der\nHennes byxa, f\u00f6r tajt\nTrots att hon \u00e4ter light\nV\u00e5gar aldrig ge inviter f\u00f6r hon har f\u00f6r tjocka l\u00e5r\nOm jag sk\u00f6ter mina kort r\u00e4tt\nOm jag satsar cash p\u00e5 r\u00e4tt h\u00e4st\nOm jag bara kunde vinna\nOm jag bara kunde hinna motionera den d\u00e4r milen\nBara hade den d\u00e4r bilen\nSkulle allting bli s\u00e5 bra d\u00e5 skulle livet bli en fest\nOm bara l\u00f6nen blivit h\u00f6g\nOm jag varit mindre tr\u00f6g\nOm bara n\u00e4san vore rak\nJag hade lite mindre bak\nSkulle jag kunna le som dom andra\nDansa som dom andra\nSe ut som dom andra och kanske k\u00e4nna samma sak\nYou might also likeDen v\u00e4rlden tycks smyckas av framg\u00e5ng och lycka\nJag ser inga f\u00f6rtryckta\nBara h\u00e4nryckta flykt f\u00f6rryckta i ett m\u00f6rker utan lycka se\nDen v\u00e4rlden tycks krysta utan lust men med lysta stor\nVissa surrogat \u00e4r vi tystade \u00e4r vi folk\nSett i samma dj\u00e4vla tjat om och om igen\nK\u00e4nn igen\n\nSt\u00e4ng ditt magasin\n\u00d6ppna ditt sinne f\u00f6r nog har du v\u00e4l f\u00f6rst\u00e5tt\nAtt deras falska grin allt de s\u00e4ger ska vara inne\nBara b\u00f6r bli ett minne blott\nF\u00f6r vi ska v\u00e4l inte hyckla\nOm att allt m\u00e4ts med sjuka m\u00e5tt\nOm man kan k\u00f6pa sig sin lycka\nVad \u00e4r v\u00e5rt inre d\u00e5 f\u00f6r n\u00e5got?\n\nDu k\u00f6pte allt det d\u00e4r f\u00f6r att slippa vara ensam\nEnsam blev man\nEnsam \u00e4r man\nEnsami ledan\nFr\u00e5n m\u00e5ndag till fredag\n\u00c4r man l\u00e4mnad i sticket\nSv\u00e5rt att fatta vinken\nVad som fick dig att falla\nAlla andra tycks ju palla\nLyckliga, snygga enligt klyshor och mallar\nLyckliga, balla ror pojektet i land\nKan allt du inte kan och fixar allt det d\u00e4r\nDu aldrig lyckas med\nS\u00e5 l\u00e4tt att ryckas med\nF\u00f6rs\u00f6ka bli som dom och d\u00e4rmed tryckas ned\nF\u00f6rtryckta ser n\u00e5nting dom aldrig kan bli\nVi blir som det dom ser\nOch d\u00e4rf\u00f6r handlar dom med oss\nOch hamnar man fel\nOch har g\u00e5tt vilse n\u00e5nstans\nVilsen sj\u00e4l f\u00f6rsatt i trans ser sin chans p\u00e5 distans\nOch mannen det \u00e4r l\u00e4tt att tappa tron\nN\u00e4r de lyckliga tycks leva i en annan dimension\nTror du p\u00e5 fullaste allvar att svaret finns utanf\u00f6r dig sj\u00e4lv?\nN\u00e4r alla r\u00f6ster tystnat\nN\u00e4r du smetats med all skit\nTror du p\u00e5 fullaste allvar att v\u00e4gen till lyckan finns d\u00e4r?\nUtanf\u00f6r dig sj\u00e4lv\n\nVid massiva uppvigglande l\u00f6gner\nSluta lyssna och le\nLevande och g\u00e5ende\nKan du inte se att dom gr\u00e5ter leende?\nAtt dom lever d\u00f6ende?Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1090578",
+   "artist_names": "Svenska Akademien",
+   "full_title": "M\u00e4ster Bl\u00e4ster by\u00a0Svenska\u00a0Akademien",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "id": 1090578,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Svenska-akademien-master-blaster-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Svenska-akademien-master-blaster-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "M\u00e4ster Bl\u00e4ster",
+   "title_with_featured": "M\u00e4ster Bl\u00e4ster",
+   "url": "https://genius.com/Svenska-akademien-master-blaster-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/373242",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "id": 373242,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Svenska Akademien",
+    "url": "https://genius.com/artists/Svenska-akademien"
+   },
+   "apple_music_id": "419122221",
+   "apple_music_player_url": "https://genius.com/songs/1090578/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1090578' class='rg_embed_link' data-song-id='1090578'>Read <a href='https://genius.com/Svenska-akademien-master-blaster-lyrics'>\u201cM\u00e4ster Bl\u00e4ster\u201d by Svenska\u00a0Akademien</a> on Genius</div> <script crossorigin src='//genius.com/songs/1090578/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5588982",
+    "classification": "needs_exegesis",
+    "fragment": "M\u00e4ster Bl\u00e4ster",
+    "id": 5588982,
+    "is_description": true,
+    "path": "/5588982/Svenska-akademien-master-blaster/Master-blaster",
+    "range": {
+     "content": "M\u00e4ster Bl\u00e4ster"
+    },
+    "song_id": 1090578,
+    "url": "https://genius.com/5588982/Svenska-akademien-master-blaster/Master-blaster",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1090578",
+     "client_timestamps": {
+      "updated_by_human_at": 1436290996,
+      "lyrics_updated_at": 1429628504
+     },
+     "context": "Svenska Akademien",
+     "id": 1090578,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+     "link_title": "M\u00e4ster Bl\u00e4ster by\u00a0Svenska\u00a0Akademien",
+     "title": "M\u00e4ster Bl\u00e4ster",
+     "type": "Song",
+     "url": "https://genius.com/Svenska-akademien-master-blaster-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5588982",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5588982,
+      "pinned": false,
+      "share_url": "https://genius.com/5588982",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5588982/Svenska-akademien-master-blaster/Master-blaster",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Svenska Akademien",
+   "lyrics": "M\u00e4ster Bl\u00e4ster LyricsRefr\u00e4ng\nLeml\u00e4star\nMC:s p\u00e5 h\u00f6ga h\u00e4star\nBem\u00e4strar, bl\u00e4strar och ber\u00e4ttar som Bukowski\nMindre snofsig; rebell alltid trotsig\nMed hiphopprops s\u00e5 \u00e4r jag pjoskig. (x2)\n\nVers\nExplosiva fusioner, skoningsl\u00f6sa kompanjoner\nTar lyriken till h\u00f6gre dimensioner, mannen\nH\u00f6gre divisioner n\u00e4r v\u00e5rt rike expanderar\nSom ett blitzkrieg, n\u00e4r snapphanar invaderar\nHuen tvingas retirera n\u00e4r Sk\u00e5ne levererar\nKn\u00e4cker hela scenen; sk\u00e5nska huen attackerar\nLivsnjutar-, rimsprutarallians\nMikrofondominans, verbal nolltolerans, utan kompromisser\nGreppar micken, kn\u00e4cker frissor\nRepresenterar Sk\u00e5neland, knutna med starka band\nSvart p\u00e5 vitt, man\nDin lyrik \u00e4r ingen hit, man\nL\u00e5ter skitt, man\nHela din stil suger pitt, man\nMC:s f\u00e5r knull i rumpa\nTillbaks till Bolibompa\nTajt som en kroppsstrumpa;\nDet \u00e4r giftiga rim jag dumpar\n\nVerbal akrobat, en psykopat\nSnapphanesoldat som planerar attentat\nOch genomf\u00f6r dem\nEn verbal sabot\u00f6r som droppar tunga rim\nN\u00e4r MC:s h\u00f6r dem, s\u00e5 d\u00f6r dem; jag f\u00f6rg\u00f6r dem. (Eller hur!)\nMed bred sk\u00e5nsk slang\nTungt verbalt bombardemang\nFett med talang i min falang\n\nRefr\u00e4ng\nLeml\u00e4star\nMC:s p\u00e5 h\u00f6ga h\u00e4star\nBem\u00e4strar, bl\u00e4strar och ber\u00e4ttar som Bukowski\nMindre snofsig; rebell alltid trotsig\nMed hiphopprops s\u00e5 \u00e4r jag pjoskig. (x2)\n\nVers\nMina vapendragare, professionella A-lagare\nHar aldrig vatt n\u00e5n periodare\nSk\u00e5nsk heltidslodare, representerar stenh\u00e5rt\nHelbr\u00e4nd legend ? ?\nAvundad, beundrad, \u00e4lskad av m\u00e5nga, avgudad\nN\u00e4r kn\u00e4hundar blundar, st\u00e5r vi stolt p\u00e5 barrikader\nB\u00e4st ni minns v\u00e5ra bravader, precis som gamla sm\u00f6rballader\nSom ni h\u00e5ngla\u2019 till\nEtsar mig fast i ditt minne\nLeml\u00e4star, slipper testa om mina rim grumlar sinnen\nSom psykofarmaka\nKommer aldrig backa f\u00f6r n\u00e5n bracka\nEller sluta snacka eller hacka\nF\u00f6r mitt snack finns p\u00e5 platta\nS\u00e5 fatta!\nOrdfloden kommer aldrig att sina\nF\u00f6rr\u00e4n jag s\u00e4ljer platina; kommer aldrig sluta svina\nAldrig slipsfitta, aldrig marknadsmarionett\nBetongjargong, representerar 261\nFylleflinstad, svinstad\nBrass-amfetaminstad\nOch varje rim jag droppar \u00e4r en hyllning till min stad\nYou might also likeSt\u00e4ndigt samma vals: Sk\u00e5ningar har gr\u00f6t i sin hals\nLika bra du h\u00e5ller truten, kommer aldrig spotta ut den\nDialekten \u00e4r lika gjuten, som loggan till Absoluten. (Det \u00e4r givet!)\nBeh\u00f6ver inget av attributen\nMindre prydliga, mera tydliga\nMina bundsf\u00f6rvanter odlar plantor\nOch krossar samtliga simulanter\nMikrofonleveranser\nSom sprider sig som cancer\nKopplar grepp, spr\u00e4cker l\u00e4pp\nOch br\u00e4nner dina skepp och chanser\nN\u00e4r orden kommer i floder\nSt\u00e4ndiga regnperioder\nAvr\u00e4ttar huen med verbala v\u00e5ldsmetoder\n\nRefr\u00e4ng\nLeml\u00e4star\nMC:s p\u00e5 h\u00f6ga h\u00e4star\nBem\u00e4strar, bl\u00e4strar och ber\u00e4ttar som Bukowski\nMindre snofsig; rebell alltid trotsig\nMed hiphopprops s\u00e5 \u00e4r jag pjoskig. (x4)Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2218289",
+   "artist_names": "Svenska Akademien (Ft. Promoe)",
+   "full_title": "En Varning by\u00a0Svenska\u00a0Akademien (Ft.\u00a0Promoe)",
+   "header_image_thumbnail_url": "https://images.genius.com/672915270a2baac11bc5a434fbf451d1.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/672915270a2baac11bc5a434fbf451d1.640x640x1.jpg",
+   "id": 2218289,
+   "language": "sv",
+   "lyrics_owner_id": 3986967,
+   "lyrics_state": "complete",
+   "path": "/Svenska-akademien-en-varning-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Svenska-akademien-en-varning-sample",
+   "release_date_components": {
+    "year": 2005,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "2005",
+   "release_date_with_abbreviated_month_for_display": "2005",
+   "song_art_image_thumbnail_url": "https://images.genius.com/672915270a2baac11bc5a434fbf451d1.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/672915270a2baac11bc5a434fbf451d1.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "En Varning",
+   "title_with_featured": "En Varning (Ft.\u00a0Promoe)",
+   "url": "https://genius.com/Svenska-akademien-en-varning-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/9506",
+     "header_image_url": "https://images.genius.com/540199d89a5c5e7f281e4549a44fd35d.300x141x1.jpg",
+     "id": 9506,
+     "image_url": "https://images.genius.com/65b9c16376572067ab35884008f8b732.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Promoe",
+     "url": "https://genius.com/artists/Promoe"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/373242",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "id": 373242,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Svenska Akademien",
+    "url": "https://genius.com/artists/Svenska-akademien"
+   },
+   "apple_music_id": "420523130",
+   "apple_music_player_url": "https://genius.com/songs/2218289/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2218289' class='rg_embed_link' data-song-id='2218289'>Read <a href='https://genius.com/Svenska-akademien-en-varning-lyrics'>\u201cEn Varning\u201d by Svenska\u00a0Akademien</a> on Genius</div> <script crossorigin src='//genius.com/songs/2218289/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/249492",
+    "cover_art_url": "https://images.genius.com/672915270a2baac11bc5a434fbf451d1.640x640x1.jpg",
+    "full_title": "Resa Sig Opp by Svenska Akademien",
+    "id": 249492,
+    "name": "Resa Sig Opp",
+    "url": "https://genius.com/albums/Svenska-akademien/Resa-sig-opp",
+    "artist": {
+     "api_path": "/artists/373242",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 373242,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Svenska Akademien",
+     "url": "https://genius.com/artists/Svenska-akademien"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7349552",
+    "classification": "needs_exegesis",
+    "fragment": "En Varning",
+    "id": 7349552,
+    "is_description": true,
+    "path": "/7349552/Svenska-akademien-en-varning/En-varning",
+    "range": {
+     "content": "En Varning"
+    },
+    "song_id": 2218289,
+    "url": "https://genius.com/7349552/Svenska-akademien-en-varning/En-varning",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2218289",
+     "client_timestamps": {
+      "updated_by_human_at": 1666529937,
+      "lyrics_updated_at": 1666529902
+     },
+     "context": "Svenska Akademien",
+     "id": 2218289,
+     "image_url": "https://images.genius.com/672915270a2baac11bc5a434fbf451d1.640x640x1.jpg",
+     "link_title": "En Varning by\u00a0Svenska\u00a0Akademien (Ft.\u00a0Promoe)",
+     "title": "En Varning",
+     "type": "Song",
+     "url": "https://genius.com/Svenska-akademien-en-varning-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7349552",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7349552,
+      "pinned": false,
+      "share_url": "https://genius.com/7349552",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7349552/Svenska-akademien-en-varning/En-varning",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Svenska Akademien",
+   "lyrics": "En Varning Lyrics[Intro] (General Knas)\nS\u00e4nder ut en varning till dom\nOh, oh, ey\n\n(Som suger) Som suger v\u00e5rt blod\nMaler liv i sina kvarnar\nSt\u00e4ll dig opp s\u00e4g \"Jag f\u00e5tt nog\"\nOch du ska se hur de klarnar\nF\u00e5tt nog av ofog\nJag sa, vi klarg\u00f6r och varnar\nKlarg\u00f6r och varnar\nF\u00e5tt nog\nJag sa vi klarg\u00f6r och varnar\nF\u00f6rklarar det f\u00f6r barnen\n[Verse 1] (Promoe)\nF\u00f6r jag h\u00f6r ekot av gl\u00e4ns \u00f6ver sj\u00f6 och strand\nMen h\u00e5ll med om det k\u00e4nns mer som d\u00f6d och stank\nF\u00f6r v\u00e4nsterhanden vet inte vad som h\u00e4nder med h\u00f6gerhand\nMen jag sp\u00e5r att vi ska d\u00f6 av vad vi f\u00f6der fram\nF\u00f6r allt som finns kvar av v\u00e5ran \u00e4nglamark\n\u00c4r n\u00e5gra inavlade djur i en inh\u00e4ngnad park\nS\u00e5 f\u00e4ll upp paraplyet alla vet att det regnar salt och svavelsyra\nR\u00e5d \u00e4r dyra, snart s\u00e5 r\u00e4mnar allt\n\n[Chorus]\nVi utf\u00e4rdar en varning!\nSe va vi gjort med v\u00e5r v\u00e4rld\nVi ska f\u00e5 v\u00e5r betalning!\nF\u00f6r v\u00e5ra sjuka beg\u00e4r\nVi utf\u00e4rdar en varning!\nSe va vi gjort med v\u00e5r v\u00e4rld\nVi ska f\u00e5 v\u00e5r betalning!\nAndas en kv\u00e4vd atmosf\u00e4r\n\n[Verse 2] (Sture All\u00e9n)\nNaturen har visst f\u00f6rlorat, vi har s\u00e5lt v\u00e5ran v\u00e4rld och vunnit\nExperterna h\u00e4vdar kunnit att alla orosmoln f\u00f6rsvunnit\nMen man sk\u00f6rdar vad man s\u00e5r\nUtan v\u00f6rdnad, utan m\u00e5l\nVi som sk\u00e4ndade m\u00f6drar f\u00e5r se v\u00e5r sista b\u00f6rdiga v\u00e5r\nVi ska k\u00f6pa de slita sl\u00e4nga\nUrgr\u00f6pa de smita kr\u00e4nga\nD\u00f6da de svika sk\u00e4nda\nVi f\u00f6rnekar de vida k\u00e4nda\nVi kan vrida och v\u00e4nda varenda k\u00e4nt argument\nMen vi m\u00e5ste v\u00e4l ha k\u00e4nnt att det luktade br\u00e4nt\nYou might also like[Verse 3] (General Knas)\nSe sicken underbar v\u00e4rld\nM\u00e4n'skan va besk\u00e4rd\nDen va allt hon va v\u00e4rd\nB\u00f6rjar bli t\u00e4rd!\nG\u00e5tt fram med sv\u00e4rd\nKallat sig l\u00e4rd\nBara f\u00f6r fl\u00e4rd\nSicken eldh\u00e4rd\nSanna mina ord och h\u00f6r denna varning\nSe p\u00e5 v\u00e5r jord, det beh\u00f6vs ingen f\u00f6rklaring\nRegelr\u00e4tt mord, ta det som en varning\nF\u00f6rhandlingsf\u00f6rlamning\nEn uppmaning fr\u00e5n en galning\n\n[Chorus]\nVi utf\u00e4rdar en varning!\nSe vad vi gjort med v\u00e5r v\u00e4rld\nVi ska f\u00e5 v\u00e5r betalning!\nF\u00f6r v\u00e5ra sjuka beg\u00e4r\nVi utf\u00e4rdar en varning!\nSe va vi gjort med v\u00e5r v\u00e4rld\nVi ska f\u00e5 v\u00e5r betalning!\nAndas en kv\u00e4vd atmosf\u00e4r\n\n[Verse 4] (Sture All\u00e9n)\nPolerna sm\u00e4lter, havsniv\u00e5n den stiger\nJorden g\u00e5r under men vi blundar \u00e5 tiger\nOm regelr\u00e4tt mord p\u00e5 varann och p\u00e5 oss sj\u00e4lva\nM\u00e5ste v\u00e5rda g\u00e5van, vi har ingen r\u00e4ttt \u00e5 s\u00e4lja\nAlldeles f\u00f6r l\u00e4nge s\u00e5 har rikedom vart \u00e4ra\nMen alla blir fattiga n\u00e4r domedan \u00e4r n\u00e4ra\nL\u00e4r f\u00e5 v\u00e5rt besk\u00e4rda, va v\u00e4l aldrig s\u00e4rskilt l\u00e4rda\nSk\u00e4ndade g\u00e5van och vi f\u00e5r va vi \u00e4r v\u00e4rda\n[Verse 5] (Promoe)\nDom skriver avtal om naturkatastrofer\nSom klingar tomt, dom vattnar ur allt man st\u00e5r f\u00f6r\nHyckel fr\u00e5n Bryssel-protokoll-vackra-strofer\nF\u00f6r styr g\u00f6r \u00e4nd\u00e5 marknadens filosofer\nOch de kan v\u00e4l inte vara l\u00f6nsamt\nAnsvar, har vi det gemensamt?\nPretenti\u00f6st och bara pinsamt\n\u00c4ven om det m\u00e5 vara fint sagt\nMen f\u00f6r naivt och hoppl\u00f6st ute\nOmsprunget av dom som tar besluten\nMen slutet \u00e4r n\u00e4ra\n\n[Chorus]\nS\u00e5 vi tjuter ut en varning!\nSe va vi gjort med v\u00e5r v\u00e4rld\nVi ska f\u00e5 v\u00e5r betalning!\nF\u00f6r v\u00e5ra sjuka beg\u00e4r\nVi utf\u00e4rdar en varning!\nSe va vi gjort med v\u00e5r v\u00e4rld\nVi ska f\u00e5 v\u00e5r betalning!\nAndas en kv\u00e4vd atmosf\u00e4r, ohEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1669640",
+   "artist_names": "Svenska Akademien",
+   "full_title": "Vetande by\u00a0Svenska\u00a0Akademien",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "id": 1669640,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Svenska-akademien-vetande-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Svenska-akademien-vetande-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Vetande",
+   "title_with_featured": "Vetande",
+   "url": "https://genius.com/Svenska-akademien-vetande-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/373242",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "id": 373242,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Svenska Akademien",
+    "url": "https://genius.com/artists/Svenska-akademien"
+   },
+   "apple_music_id": "420512631",
+   "apple_music_player_url": "https://genius.com/songs/1669640/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1669640' class='rg_embed_link' data-song-id='1669640'>Read <a href='https://genius.com/Svenska-akademien-vetande-lyrics'>\u201cVetande\u201d by Svenska\u00a0Akademien</a> on Genius</div> <script crossorigin src='//genius.com/songs/1669640/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/190097",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "T\u00e4ndstickor f\u00f6r m\u00f6rkr\u00e4dda by Svenska Akademien",
+    "id": 190097,
+    "name": "T\u00e4ndstickor f\u00f6r m\u00f6rkr\u00e4dda",
+    "url": "https://genius.com/albums/Svenska-akademien/Tandstickor-for-morkradda",
+    "artist": {
+     "api_path": "/artists/373242",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 373242,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Svenska Akademien",
+     "url": "https://genius.com/artists/Svenska-akademien"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6184630",
+    "classification": "needs_exegesis",
+    "fragment": "Vetande",
+    "id": 6184630,
+    "is_description": true,
+    "path": "/6184630/Svenska-akademien-vetande/Vetande",
+    "range": {
+     "content": "Vetande"
+    },
+    "song_id": 1669640,
+    "url": "https://genius.com/6184630/Svenska-akademien-vetande/Vetande",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1669640",
+     "client_timestamps": {
+      "updated_by_human_at": 1476795751,
+      "lyrics_updated_at": 1429902965
+     },
+     "context": "Svenska Akademien",
+     "id": 1669640,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+     "link_title": "Vetande by\u00a0Svenska\u00a0Akademien",
+     "title": "Vetande",
+     "type": "Song",
+     "url": "https://genius.com/Svenska-akademien-vetande-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6184630",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6184630,
+      "pinned": false,
+      "share_url": "https://genius.com/6184630",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6184630/Svenska-akademien-vetande/Vetande",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Svenska Akademien",
+   "lyrics": "Vetande Lyrics//: Allt som vi l\u00e4rt\nAlla dr\u00f6mmar all str\u00e4van all kunskap\nAllt vetande blir till en chans som f\u00f6rsvann\nAtt finna sig sj\u00e4lv\nV\u00e4rkar blir till ett meningsl\u00f6st letande\nOm vi inte kan ta hand om varann ://\nInget nytt inga nya alternativ till massmord\nSv\u00e4lt och galoperande hiv fattig fattigfolket\nF\u00e5r betala med liv n\u00e4r v\u00e4rldsbanken kommer\nNygamla giv fast dom s\u00e4jer det va l\u00e4ngesen\nSom m\u00e4nniskor trodde p\u00e5 dj\u00e4-vulen s\u00e5 \u00e4r det\nFan han som leder oss \u00e4n\nNu \u00e4r han backad av vetenskapsm\u00e4n\nSom h\u00e4vdar best\u00e4mmt att din mardr\u00f6m \u00e4r sann\nM\u00e4nniskan \u00e4r en halvgammal mede-lklassman\n\u00d6verallt \u00e4r han likadan och om n\u00e5gon vet v\u00e5rt b\u00e4sta\nS\u00e5 \u00e4r de nog han, f\u00f6r experter\nGer oss en helhetsbild\nAuktori-teter vet precis vad vi vill och ska man\nN\u00e5 dit f\u00e5r man r\u00e4kna med spill och t\u00e4mja\nVar tanke som \u00e4r vidsynt och vild\n//:Allt som vi l\u00e4rt\nAlla dr\u00f6mmar all str\u00e4van all kunskap\nAllt vetande blir till en chans som f\u00f6rsvann\nAtt finna sig sj\u00e4lv\nV\u00e4rkar blir till ett meningsl\u00f6st letande\nOm vi inte kan ta hand om varann ://\n\nKastar benet s\u00e4r sen apport duktig jycke g\u00f6r spontanabort\n\u00c4r det mycket ja ta det h\u00e5rt vi kommer inte\nSe de p\u00e5 rapport rapporter fr\u00e5n forskare som\nN\u00e5n best\u00e4llt att dom orkar n\u00e4r det finns s\u00e5\nGott om sv\u00e4lt dom flesta torskar s\u00e5 jag skriker g\u00e4llt\nMan du kommer inte se det p\u00e5 aktuellt\nN\u00e4 ser egendomsr\u00e4tt jagens sken\u00e4geri\nEgendomligtvis lagen idioti v\u00e4lkommen till magens\nMenageri men det kommer inte st\u00e5 i dagens industri\nAtt vi har kommit till ett kritiskt skede\nOch det v\u00e4grar dom nitiskt medge\nDessa fr\u00e5gor kommer hamna bedvid\nF\u00f6r dom kommer inte s\u00e4 n\u00e5tt p\u00e5 tv\nMen vi stoftar ner och minskar p\u00e5 stressen\nSer igenom dom falskaste essen\nK\u00e4rlek kommer bli en flaskhals f\u00f6r hetsen\nG\u00f6r processen kort med expressen\nInte en susning om vad tusan det heter\nMen jag tar sats och rusar en meter\nF\u00f6r jag har plats f\u00f6r ljusa nyheter\nMen det kommer inte brusa i etern vill inte ha\nSamma hus fast nya tapeter\nGer ingen frihet fr\u00e5n auktoriteter s\u00e5 vi\nG\u00e5r ur f\u00f6r vi vet vad vi heter\nMen det kommer inte st\u00e5 i dagens nyheter\nVill ha det s\u00e5 ta de\nKommer inte st\u00e5 i aftonbladet\nVill ha det s\u00e5 ta det\nEller i svenska dagbladet\nVill ha det s\u00e5 ta det\nVill ha det s\u00e5 va de ut\nYou might also like//: Allt som vi l\u00e4rt\nAlla dr\u00f6mmar all str\u00e4van all kunskap\nAllt vetande blir till en chans som f\u00f6rsvann\nAtt finna sig sj\u00e4lv\nV\u00e4rkar blir till ett meningsl\u00f6st letande\nOm vi inte kan ta hand om varann ://\n\nVisst k\u00e4nns det konstigt p\u00e5 n\u00e5t vis att vi\nHela tiden s\u00e4ger att allt har ett pris\nEn tanke blir god n\u00e4r den blir till en s\u00e4ljbar produkt\nOch visst k\u00e4nns det tr\u00e5kigt och fel\nAtt inte str\u00e4va mot n\u00e5nting d\u00e4r alla kan ta del\nTankar om m\u00e4nskliga framstag f\u00f6rbjuden frukt\nM\u00e4nniskor skrattar och spelar sina roller\nMaktm\u00e4n rattar och styr sina kontroller\nJorden gr\u00e5ter vet att det aldrig h\u00e5ller och kv\u00e4va liv\nBakom fredliga paroller\nSt\u00e4ll dig upp och skaka bort askan\nDu kommer inte finna anden i flaskan\nN\u00e4r sj\u00e4lviska vetenskapsbr\u00f6der\nSl\u00e5ss om patenten n\u00e4r v\u00e4rlden f\u00f6rbl\u00f6der\nAllting de s\u00e4nder g\u00f6r den fria till tr\u00e4l\n\u00c5ker till l\u00e4nder och skjuter ihj\u00e4l\nHj\u00e4lpande h\u00e4nder som ej vill n\u00e5gon v\u00e4l\nMen allting v\u00e4nder f\u00f6r det ger dig ett sk\u00e4l\nAtt sluta veta och k\u00e4nn efter k\u00e4nslan\nSlit inte ut dig p\u00e5 forskarnas \u00e4ngslan\nSluta leta och k\u00e4nn efter k\u00e4nslan slit inte ut dig\nP\u00e5 forskarnas r\u00e4dsla\n//: Allt som vi l\u00e4rt\nAlla dr\u00f6mmar all str\u00e4van all kunskap\nAllt vetande blir till en chans som f\u00f6rsvann\nAtt finna sig sj\u00e4lv\nV\u00e4rkar blir till ett meningsl\u00f6st letande\nOm vi inte kan ta hand om varann ://Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/1491482",
+   "artist_names": "Svenska Akademien",
+   "full_title": "Okunskap by\u00a0Svenska\u00a0Akademien",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "id": 1491482,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Svenska-akademien-okunskap-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Svenska-akademien-okunskap-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Okunskap",
+   "title_with_featured": "Okunskap",
+   "url": "https://genius.com/Svenska-akademien-okunskap-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/373242",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "id": 373242,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Svenska Akademien",
+    "url": "https://genius.com/artists/Svenska-akademien"
+   },
+   "apple_music_id": "420512611",
+   "apple_music_player_url": "https://genius.com/songs/1491482/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1491482' class='rg_embed_link' data-song-id='1491482'>Read <a href='https://genius.com/Svenska-akademien-okunskap-lyrics'>\u201cOkunskap\u201d by Svenska\u00a0Akademien</a> on Genius</div> <script crossorigin src='//genius.com/songs/1491482/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/190097",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "T\u00e4ndstickor f\u00f6r m\u00f6rkr\u00e4dda by Svenska Akademien",
+    "id": 190097,
+    "name": "T\u00e4ndstickor f\u00f6r m\u00f6rkr\u00e4dda",
+    "url": "https://genius.com/albums/Svenska-akademien/Tandstickor-for-morkradda",
+    "artist": {
+     "api_path": "/artists/373242",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 373242,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Svenska Akademien",
+     "url": "https://genius.com/artists/Svenska-akademien"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6005550",
+    "classification": "needs_exegesis",
+    "fragment": "Okunskap",
+    "id": 6005550,
+    "is_description": true,
+    "path": "/6005550/Svenska-akademien-okunskap/Okunskap",
+    "range": {
+     "content": "Okunskap"
+    },
+    "song_id": 1491482,
+    "url": "https://genius.com/6005550/Svenska-akademien-okunskap/Okunskap",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1491482",
+     "client_timestamps": {
+      "updated_by_human_at": 1508617011,
+      "lyrics_updated_at": 1508617011
+     },
+     "context": "Svenska Akademien",
+     "id": 1491482,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+     "link_title": "Okunskap by\u00a0Svenska\u00a0Akademien",
+     "title": "Okunskap",
+     "type": "Song",
+     "url": "https://genius.com/Svenska-akademien-okunskap-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6005550",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6005550,
+      "pinned": false,
+      "share_url": "https://genius.com/6005550",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6005550/Svenska-akademien-okunskap/Okunskap",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Svenska Akademien",
+   "lyrics": "Okunskap LyricsOkunskap, n\u00e4r man inte riktigt vet \u00e4r det s\u00e5 sk\u00f6nt att ta till lite\nOkunskap, kan f\u00f6rvandlas till fakta om man bara vill ja\nOkunskap, en iskall fasad n\u00e4r man \u00e4r ensam och r\u00e4dd\nOkunskap moj, vill n\u00e5n v\u00e4nda den till kunskap st\u00e5r jag klar och beredd\n\nOkunskapen styr i v\u00e5ra institutioner\nF\u00f6rsvaras med kraft, bef\u00e4ster positioner\nOkunskap har aldrig n\u00e5gra nya visioner\nOkunskap tar plats i alla texter och skrifter\nOch r\u00e4dsla och hat som v\u00e5ra starkaste drifter\nBland alla droger och gifter\nOkunskap, n\u00e4r man inte riktigt vet \u00e4r det s\u00e5 sk\u00f6nt att ta till lite\nOkunskap, kan f\u00f6rvandlas till fakta om man bara vill ja\n\nBeslutet ska tas, den som avg\u00f6r det \u00e4r du\nOm vi vill b\u00f6rja framtiden nu\nInget \u00e4r f\u00f6r sv\u00e5rt, ingenting \u00e4r tabu\nOm vi vill b\u00f6rja framtiden nu\n\nBeslutet ska tas, den som avg\u00f6r det \u00e4r du\nOm vi vill b\u00f6rja framtiden nu\nOch bygga upp n\u00e5t nytt kan vara att slita itu\nOm vi vill b\u00f6rja framtiden nu\n\nK\u00e4rleken borde vara okr\u00e4nkbar\nEn str\u00e4van mot n\u00e5t b\u00e4ttre \u00e4r det st\u00f6rsta av allt\nDen borde vara okr\u00e4nkbar\nGemensamt och varmt och inte ensamt och kallt\nDen borde vara okr\u00e4nkbar\n\nOm vi vill leva n\u00e5nting som verkligen kan kallas liv\nOkr\u00e4nkbar\nHatet bryter ner men k\u00e4rleken \u00e4r kreativ\n\nF\u00f6r b\u00e4ttre vetande, ett h\u00f6gre medvetande\nDu ser oss letande, k\u00e4mpande, stretande\nS\u00e5 bort med okunskap, in med broderskap, systerskap, syskonskap\nOch k\u00e4rleken \u00e4r okr\u00e4nkbar\nF\u00f6r b\u00e4ttre vetande, ett h\u00f6gre medvetande\nDu ser oss letande, k\u00e4mpande, stretande\nS\u00e5 bort med okunskap, in med broderskap, systerskap, syskonskap\nOch k\u00e4rleken \u00e4r okr\u00e4nkbar\nYou might also likeOkunskapen styr och sprider kvacksalvarkurer\nHar skeva perspektiv, bygger skeva strukturer\nOkunskap tar liv och hindrar k\u00e4rlekskulturer\nAtt forts\u00e4tta med s\u00e5nt vore dumt och f\u00f6rryckt\nIst\u00e4llet f\u00f6r att f\u00e4lla kan vi b\u00e4ra varann\nF\u00f6r vi har s\u00e5 mycket vi kan l\u00e4ra varann\nIst\u00e4llet f\u00f6r distans kan vi vara n\u00e4ra varann\nN\u00e4r vi river alla murar vi byggt\n\nK\u00e4rleken borde vara okr\u00e4nkbar\nEn str\u00e4van mot n\u00e5t b\u00e4ttre \u00e4r det st\u00f6rsta av allt\nDen borde vara okr\u00e4nkbar\nGemensamt och varmt och inte ensamt och kallt\nOkr\u00e4nkbar\nOm vi vill leva n\u00e5nting som verkligen kan kallas liv\nOkr\u00e4nkbar\nHatet bryter ner men k\u00e4rleken \u00e4r kreativEmbed"
+  }
+ ]
+}

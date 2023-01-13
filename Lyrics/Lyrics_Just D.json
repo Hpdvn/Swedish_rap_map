@@ -1,0 +1,3718 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/365071",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 1,
+ "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+ "id": 365071,
+ "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Just D",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Just-d",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7082633",
+  "classification": "needs_exegesis",
+  "fragment": "Just D",
+  "id": 7082633,
+  "is_description": true,
+  "path": "/7082633/Just-d/Just-d",
+  "range": {
+   "content": "Just D"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7082633/Just-d/Just-d",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/365071",
+   "context": null,
+   "id": 365071,
+   "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+   "link_title": "Just D",
+   "title": "Just D",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Just-d"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7082633",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7082633,
+    "pinned": false,
+    "share_url": "https://genius.com/7082633",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7082633/Just-d/Just-d",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/1204844",
+   "artist_names": "Just D",
+   "full_title": "Juligen by\u00a0Just\u00a0D",
+   "header_image_thumbnail_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.300x300x1.png",
+   "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+   "id": 1204844,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Just-d-juligen-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Just-d-juligen-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 8766
+   },
+   "title": "Juligen",
+   "title_with_featured": "Juligen",
+   "url": "https://genius.com/Just-d-juligen-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/365071",
+    "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+    "id": 365071,
+    "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Just D",
+    "url": "https://genius.com/artists/Just-d"
+   },
+   "apple_music_id": "1179378595",
+   "apple_music_player_url": "https://genius.com/songs/1204844/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1204844' class='rg_embed_link' data-song-id='1204844'>Read <a href='https://genius.com/Just-d-juligen-lyrics'>\u201cJuligen\u201d by Just\u00a0D</a> on Genius</div> <script crossorigin src='//genius.com/songs/1204844/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/269286",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "Guldkorn by Just D",
+    "id": 269286,
+    "name": "Guldkorn",
+    "url": "https://genius.com/albums/Just-d/Guldkorn",
+    "artist": {
+     "api_path": "/artists/365071",
+     "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "id": 365071,
+     "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Just D",
+     "url": "https://genius.com/artists/Just-d"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6612308,
+    "annotator_login": "emikael",
+    "api_path": "/referents/18667242",
+    "classification": "needs_exegesis",
+    "fragment": "Juligen",
+    "id": 18667242,
+    "is_description": true,
+    "path": "/18667242/Just-d-juligen/Juligen",
+    "range": {
+     "content": "Juligen"
+    },
+    "song_id": 1204844,
+    "url": "https://genius.com/18667242/Just-d-juligen/Juligen",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1204844",
+     "client_timestamps": {
+      "updated_by_human_at": 1576601904,
+      "lyrics_updated_at": 1429694226
+     },
+     "context": "Just D",
+     "id": 1204844,
+     "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "link_title": "Juligen by\u00a0Just\u00a0D",
+     "title": "Juligen",
+     "type": "Song",
+     "url": "https://genius.com/Just-d-juligen-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18667242",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18667242,
+      "pinned": false,
+      "share_url": "https://genius.com/18667242",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18667242/Just-d-juligen/Juligen",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6612308",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/143423ca521346fd78ca6dbd68c588f8",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/143423ca521346fd78ca6dbd68c588f8",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/143423ca521346fd78ca6dbd68c588f8",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/143423ca521346fd78ca6dbd68c588f8",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/0ae47f1bf7eeed48d7ce7d2eff1b3bd9.497x280x10.gif",
+         "human_readable_role_for_display": "Editor",
+         "id": 6612308,
+         "iq": 506999,
+         "login": "emikael",
+         "name": "\u200bemikael",
+         "role_for_display": "editor",
+         "url": "https://genius.com/emikael",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Just D",
+   "lyrics": "Juligen LyricsNu \u00e4r det jul igen, i b\u00e5de slott och koja\n\u00d6ver hela landet drar en kollektiv noja\nDet pyntas, sjungs och skickas f\u00e5niga kort\n\u00c5, Jesus, se nu vad du har gjort\nF\u00f6r om du inte blivit f\u00f6dd hade vi sluppit en h\u00f6gtid\nMed tomtar, lutfisk \u00e5 kvalmig gl\u00f6gg\nVid n\u00e5n risig gran\nOch som ackompanjemang\nF\u00e5r man \u00f6verdoser utav bj\u00e4llerklang\nOch n\u00e4r dom \u00e5terigen rullar Kalle Ankas spratt\nTill mer gr\u00e5t \u00e4n skratt\nJa d\u00e5 vet man att:\nChorus x2:\nNu \u00e4r det juligen\nJu-bu-di juligen\n\nMan menar ju att julen den \u00e4r till f\u00f6r dom sm\u00e5\nMen jag minns n\u00e4r jag var liten, det var en mardr\u00f6m redan d\u00e5\nVid fem hade dom v\u00e4ckt en\nOch vid tolv kom hela sl\u00e4kten\nMin morfar och min faster och hennes man med andedr\u00e4kten\nDom tvinga en till dans\nOch massa annat trams\nSen gr\u00e4la dom om vikten av att:\nH\u00e5lla sams\nJag hade \u00f6nskat mig deg \u00e5\nKanske lite lego\nMen trots allts smussel\nFick jag bara n\u00e5gra pussel\n\nVisst e julen hell\nMen jag st\u00e5r \u00e4nd\u00e5 leende\nOch skrattar \u00e5t riter\nOch sinnesjukt beteende\nF\u00f6r h\u00e4r finns inte plats f\u00f6r n\u00e5n variation\nTrots att tomten och hans anhang borde g\u00e5 i pension\n\nAlltid samma terror \u00e5r efter \u00e5r\nOch ens enda tr\u00f6st \u00e4r att ta sig en t\u00e5r\nS\u00e5 man tar snaps efter snaps\nOch man rumlar hem\nN\u00e4r man e packad som NK\nDen 23 december\nS\u00e5 n\u00e4r man griper om dasset som en chaffis sin ratt\n\u00c5 suckar matt\nJa d\u00e5 vet man att\nYou might also likeChorus:\nNu \u00e4r det juligen\nJu-bu-di juligen\nNu \u00e4r det juligen\nJu-ju ju-bu-di juligen\n\nTa r\u00e9 gurra\n\nR\u00e4ven raskar \u00f6ver isen\nJu-bu-di nu \u00e4r det jul igen\n\u00c5 nu \u00e4r det jul igen\nHopp-falle-ralla\nHopp-falle-ralla\nHopp-falle-ralla\nLa-la-la-la-la-la-la-la-la-la-la\n\n\u00c5\u00e5\u00e5h, n\u00e4r grannen st\u00e5r och ylar som en sk\u00e5llad katt\nN\u00e5t om Stilla natt\nJa d\u00e5 vet man att:\n\nRefr. 4x\nNu \u00e4r det juligen\nJu-ju ju-bu-di juligen\n\nNu \u00e4r det jul igen\nNuuuu eee deet juuuuuuuuuuul!Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1004392",
+   "artist_names": "Just D",
+   "full_title": "Vart Tog Den S\u00f6ta Lilla Flickan V\u00e4gen by\u00a0Just\u00a0D",
+   "header_image_thumbnail_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.300x300x1.png",
+   "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+   "id": 1004392,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Just-d-vart-tog-den-sota-lilla-flickan-vagen-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Just-d-vart-tog-den-sota-lilla-flickan-vagen-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Vart Tog Den S\u00f6ta Lilla Flickan V\u00e4gen",
+   "title_with_featured": "Vart Tog Den S\u00f6ta Lilla Flickan V\u00e4gen",
+   "url": "https://genius.com/Just-d-vart-tog-den-sota-lilla-flickan-vagen-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/365071",
+    "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+    "id": 365071,
+    "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Just D",
+    "url": "https://genius.com/artists/Just-d"
+   },
+   "apple_music_id": "1365365423",
+   "apple_music_player_url": "https://genius.com/songs/1004392/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1004392' class='rg_embed_link' data-song-id='1004392'>Read <a href='https://genius.com/Just-d-vart-tog-den-sota-lilla-flickan-vagen-lyrics'>\u201cVart Tog Den S\u00f6ta Lilla Flickan V\u00e4gen\u201d by Just\u00a0D</a> on Genius</div> <script crossorigin src='//genius.com/songs/1004392/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/269286",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "Guldkorn by Just D",
+    "id": 269286,
+    "name": "Guldkorn",
+    "url": "https://genius.com/albums/Just-d/Guldkorn",
+    "artist": {
+     "api_path": "/artists/365071",
+     "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "id": 365071,
+     "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Just D",
+     "url": "https://genius.com/artists/Just-d"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5500887",
+    "classification": "needs_exegesis",
+    "fragment": "Vart Tog Den S\u00f6ta Lilla Flickan V\u00e4gen",
+    "id": 5500887,
+    "is_description": true,
+    "path": "/5500887/Just-d-vart-tog-den-sota-lilla-flickan-vagen/Vart-tog-den-sota-lilla-flickan-vagen",
+    "range": {
+     "content": "Vart Tog Den S\u00f6ta Lilla Flickan V\u00e4gen"
+    },
+    "song_id": 1004392,
+    "url": "https://genius.com/5500887/Just-d-vart-tog-den-sota-lilla-flickan-vagen/Vart-tog-den-sota-lilla-flickan-vagen",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1004392",
+     "client_timestamps": {
+      "updated_by_human_at": 1481916455,
+      "lyrics_updated_at": 1429584208
+     },
+     "context": "Just D",
+     "id": 1004392,
+     "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "link_title": "Vart Tog Den S\u00f6ta Lilla Flickan V\u00e4gen by\u00a0Just\u00a0D",
+     "title": "Vart Tog Den S\u00f6ta Lilla Flickan V\u00e4gen",
+     "type": "Song",
+     "url": "https://genius.com/Just-d-vart-tog-den-sota-lilla-flickan-vagen-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5500887",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5500887,
+      "pinned": false,
+      "share_url": "https://genius.com/5500887",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5500887/Just-d-vart-tog-den-sota-lilla-flickan-vagen/Vart-tog-den-sota-lilla-flickan-vagen",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Just D",
+   "lyrics": "Vart Tog Den S\u00f6ta Lilla Flickan V\u00e4gen LyricsRef\nVart tog den s\u00f6ta lilla flickan v\u00e4gen? X 3\nIngen som vet, ingen som vet\nVart tog den s\u00f6ta lilla flickan v\u00e4gen? X 3\nIngen som vet, ingen som vet\n\nKolla hennes farsa, han verkar inte fatta\nLilla s\u00f6ta dottern har pl\u00f6tsligt j\u00e4ttelika rattar\nHon \u00e4r ju bara barnet har just b\u00f6rjat 7:e klass\nMen \u00e4nd\u00e5 \u00e4r hon redan hela pluggets madrass\nHan tror hon g\u00e5r p\u00e5 bio men hon drar en fint och\nLigger sen i parken med en hela vino tinto\n\"jag-sover-\u00f6ver-hos-en-kompis\" sludder i en lur\nIst\u00e4llet blir det party hos n\u00e5n underlig figur\nFarv\u00e4l f\u00f6r hur ni \u00e4n f\u00f6rs\u00f6ker sitter hon\nMed polarna i k\u00e4llarn och r\u00f6ker\nHon som inte ens f\u00e5r lite skumpa till ny\u00e5r\nHar redan somnat flera g\u00e5nger badandes i spyor\nHa ha, kolla morsan hon tror hon har pli\nMen hennes tid \u00e4r sedan l\u00e4nge f\u00f6rbi\nDet hela gick s\u00e5 pl\u00f6tsligt och snabbt\nOch nu undrar hon vart\nRef\n\nOch vad har hon f\u00f6r idoler kolla hennes v\u00e4gg!\nF\u00f6rut var det bambi, vad \u00e4r det nu f\u00f6r dr\u00e4gg\nMed sk\u00e4gg och flottiga frisyrer\nDet blir bara v\u00e4rre ju mer ni bryr er!\nHon blir aldrig samma gulleplutt igen\nDet var l\u00e4nge sen hon dissade Barbie & Ken\nNu \u00e4r det andra f\u00f6red\u00f6men som g\u00e4ller, ludna rebeller och porrnoveller\nOch nya skumma hobbies. Va ska ni ta er till?\nHon spliffar och snattar som den v\u00e4rsta Inga-Gill\nOch l\u00e4mna aldrig huset p\u00e5 semestern\nArma harmageddon 1:a ff-festen\nDet b\u00f6rjar med att n\u00e5gon kollar in p\u00e5 eran bar\nSen har ni bara skorstenen kvar\n\nVart tog hon v\u00e4gen, vart tog hon v\u00e4gen\nVart tog hon v\u00e4gen, vart tog hon v\u00e4gen\n\nHon som f\u00f6rra \u00e5ret var p\u00e5 ponnyl\u00e4ger\n\u00c5ker nu till alperna och halsar j\u00e4ger\nF\u00e5r munkar att tvivla p\u00e5 l\u00f6ften dom gett\nVisar l\u00e5r n\u00e4r hon g\u00e5r ler som hon aldrig lett\nN\u00e4r farsan st\u00e5r bredvid blir han kallad f\u00f6r hummer\nTill och med hans egna kompanjoner ber om nummer\nVad annat kan man s\u00e4ga \u00e4n \"usch\" d\u00e5 man t\u00e4nker\n\"oh god...\" n\u00e4r ens dotter tar en dusch\nHa ha, man ser att n\u00e5gons farsa b\u00f6rjar le\nMen vet han var hans egen dotter e\nI logen hos gissa vilken grupp\nOch d\u00e5 t\u00e4nker han hupp\nYou might also likeRefEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2056926",
+   "artist_names": "Just D",
+   "full_title": "87-87 by\u00a0Just\u00a0D",
+   "header_image_thumbnail_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.300x300x1.png",
+   "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+   "id": 2056926,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Just-d-87-87-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Just-d-87-87-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "87-87",
+   "title_with_featured": "87-87",
+   "url": "https://genius.com/Just-d-87-87-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/365071",
+    "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+    "id": 365071,
+    "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Just D",
+    "url": "https://genius.com/artists/Just-d"
+   },
+   "apple_music_id": "1435997134",
+   "apple_music_player_url": "https://genius.com/songs/2056926/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2056926' class='rg_embed_link' data-song-id='2056926'>Read <a href='https://genius.com/Just-d-87-87-lyrics'>\u201c87-87\u201d by Just\u00a0D</a> on Genius</div> <script crossorigin src='//genius.com/songs/2056926/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/269286",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "Guldkorn by Just D",
+    "id": 269286,
+    "name": "Guldkorn",
+    "url": "https://genius.com/albums/Just-d/Guldkorn",
+    "artist": {
+     "api_path": "/artists/365071",
+     "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "id": 365071,
+     "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Just D",
+     "url": "https://genius.com/artists/Just-d"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6796597",
+    "classification": "needs_exegesis",
+    "fragment": "87-87",
+    "id": 6796597,
+    "is_description": true,
+    "path": "/6796597/Just-d-87-87/87-87",
+    "range": {
+     "content": "87-87"
+    },
+    "song_id": 2056926,
+    "url": "https://genius.com/6796597/Just-d-87-87/87-87",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2056926",
+     "client_timestamps": {
+      "updated_by_human_at": 1479168436,
+      "lyrics_updated_at": 1433951687
+     },
+     "context": "Just D",
+     "id": 2056926,
+     "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "link_title": "87-87 by\u00a0Just\u00a0D",
+     "title": "87-87",
+     "type": "Song",
+     "url": "https://genius.com/Just-d-87-87-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6796597",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6796597,
+      "pinned": false,
+      "share_url": "https://genius.com/6796597",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6796597/Just-d-87-87/87-87",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Just D",
+   "lyrics": "87-87 LyricsMinns du, minns du hur vi satt?\nOch laddade inf\u00f6r \u00e4nnu en l\u00f6rdagsnatt\nI min ruskigt sunkiga f\u00f6rsta lya\nOch lyssnade p\u00e5 Imperiets nya\nVi sa vi skulle bli s\u00e5 mycket b\u00e4ttre \u00e4n dom\nOch tryckte i oss \u00e4nnu mera cola och rom\nSen k\u00f6rde vi dom alla p\u00e5 raken\nDom blodigaste scenerna i \"Motors\u00e5gsmassakern\"\nOch n\u00e4r vi gick ut var det alltid sn\u00f6\nI alla fall dom g\u00e5nger som vi stod i k\u00f6\nMed falska leg som ingen godtog\nDet funkade bara om man gick p\u00e5 Kinakrog\nOch d\u00e4r kollade man menyn efter billigaste shit\nFriterade bananer, och sen fyra helor vitt\nVa gjorde man inte f\u00f6r att spara\nS\u00e5 vi kutade d\u00e4r ifr\u00e5n utan att betala\n80-talet, 80-talet\nVad kunde g\u00e5 snett, vad kunde g\u00e5 galet?\nN\u00e4r Reagan l\u00f6ste tvisterna\nOch \"Europe\" l\u00e5g p\u00e5 listorna\n\n87, 87 var har du tagit v\u00e4gen nu?\n87, 87 var har du tagit v\u00e4gen nu?\n87, 87 var har du tagit v\u00e4gen nu?\n87, 87 var har du tagit v\u00e4gen nu?\n\nVi gick p\u00e5 en klubb som l\u00e5g p\u00e5 en pr\u00e5m\nMed v\u00e4ggar i svart och baren i krom\nD\u00e4r tr\u00e4ffade vi Tom och Jerka\nSom rullade upp dom stora starka\nOch efter ett tag s\u00e5 snurra det bra\nDu spydde p\u00e5 snubben i Ratata\nJag hittade en brud, en sv\u00e5r tjej\nHon m\u00e5ste ha br\u00e4nt tre tuber h\u00e5rspray\nOch jag gick p\u00e5 en Samantha Fox\nOch sa jag var medlem i Ultravox\nMen det sista jag minns det var att jag stog i\nR\u00f6ken och f\u00f6rs\u00f6kte en electric boogie\nBruden gick och h\u00e4mta sin l\u00e5nga rock\nN\u00e4r Dileva b\u00f6rja sjunga med sin tejpade lock\nSen pucka man som en lax i\nI baks\u00e4tet p\u00e5 en djugeltaxi\nYou might also like80-talet, 80-talet\nN\u00e4r filmen \"G\" var idealet\nKungsan fylldes av kickers\nOch det kurra i magen p\u00e5 snubben i snickers\n\n87, 87 var har du tagit v\u00e4gen nu?\n87, 87 var har du tagit v\u00e4gen nu?\n87, 87 var har du tagit v\u00e4gen nu?\n87, 87 var har du tagit v\u00e4gen nu?\n\nN\u00e4r man \u00e4ntligen vinglade hem\nEfter att ha vart borta till 5\nMed en 40-taggare som sov p\u00e5 armen\nI en dubbels\u00e4ng p\u00e5 hotell Malmen\n80-talet det ljuva\nSom ett majackord p\u00e5 en DX 7: a\nOch allt var som en \u00e4nda l\u00e5ng\nOmg\u00e5ng Pacman \u00e5 Donkey Kong\n\n87, 87 var har du tagit v\u00e4gen nu?\n87, 87 var har du tagit v\u00e4gen nu?\n87, 87 var har du tagit v\u00e4gen nu?\n87, 87 var har du tagit v\u00e4gen nu?Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/926677",
+   "artist_names": "Just D",
+   "full_title": "Hubbabubba by\u00a0Just\u00a0D",
+   "header_image_thumbnail_url": "https://images.genius.com/e8836a71cd15e157c8f3e5dbdc223e80.300x304x1.jpg",
+   "header_image_url": "https://images.genius.com/e8836a71cd15e157c8f3e5dbdc223e80.573x581x1.jpg",
+   "id": 926677,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Just-d-hubbabubba-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Just-d-hubbabubba-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/e8836a71cd15e157c8f3e5dbdc223e80.300x304x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e8836a71cd15e157c8f3e5dbdc223e80.573x581x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Hubbabubba",
+   "title_with_featured": "Hubbabubba",
+   "url": "https://genius.com/Just-d-hubbabubba-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/365071",
+    "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+    "id": 365071,
+    "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Just D",
+    "url": "https://genius.com/artists/Just-d"
+   },
+   "apple_music_id": "338502332",
+   "apple_music_player_url": "https://genius.com/songs/926677/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_926677' class='rg_embed_link' data-song-id='926677'>Read <a href='https://genius.com/Just-d-hubbabubba-lyrics'>\u201cHubbabubba\u201d by Just\u00a0D</a> on Genius</div> <script crossorigin src='//genius.com/songs/926677/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/172042",
+    "cover_art_url": "https://images.genius.com/e8836a71cd15e157c8f3e5dbdc223e80.573x581x1.jpg",
+    "full_title": "Plast by Just D",
+    "id": 172042,
+    "name": "Plast",
+    "url": "https://genius.com/albums/Just-d/Plast",
+    "artist": {
+     "api_path": "/artists/365071",
+     "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "id": 365071,
+     "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Just D",
+     "url": "https://genius.com/artists/Just-d"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5419894",
+    "classification": "needs_exegesis",
+    "fragment": "Hubbabubba",
+    "id": 5419894,
+    "is_description": true,
+    "path": "/5419894/Just-d-hubbabubba/Hubbabubba",
+    "range": {
+     "content": "Hubbabubba"
+    },
+    "song_id": 926677,
+    "url": "https://genius.com/5419894/Just-d-hubbabubba/Hubbabubba",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/926677",
+     "client_timestamps": {
+      "updated_by_human_at": 1473271692,
+      "lyrics_updated_at": 1429538781
+     },
+     "context": "Just D",
+     "id": 926677,
+     "image_url": "https://images.genius.com/e8836a71cd15e157c8f3e5dbdc223e80.573x581x1.jpg",
+     "link_title": "Hubbabubba by\u00a0Just\u00a0D",
+     "title": "Hubbabubba",
+     "type": "Song",
+     "url": "https://genius.com/Just-d-hubbabubba-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5419894",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5419894,
+      "pinned": false,
+      "share_url": "https://genius.com/5419894",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5419894/Just-d-hubbabubba/Hubbabubba",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Just D",
+   "lyrics": "Hubbabubba LyricsRef\nSubba (subba)\u00ad hon e som ett Hubbabubba\nSubba (subba\u00ad) hon e som ett Hubbabubba\n\nDin polare har skaffat sig en rutten brud\nOch ingenting \u00e4r l\u00e4ngre lika roligt som f\u00f6rut\nF\u00f6r varje g\u00e5ng man g\u00f6r n\u00e5t' ska hon med\nOch det vore v\u00e4l okej om hon inte var s\u00e5 sne\nHur man \u00e4n f\u00f6rs\u00f6ker vara bussig & sjysst\nS\u00e5 st\u00e5r hon \u00e4nd\u00e5 alltid lika bitter, butter bara tyst\nF\u00f6rutom lite senare p\u00e5 fyllan\nD\u00e5 smyger hon iv\u00e4g och l\u00e5ter n\u00e5gon \"ratta hyllan\"\nOch hur s\u00e4jer man n\u00e5got s\u00e5nt till en polare\nMan har ingen lust att vara deras golare\nS\u00e5 man kollar in i v\u00e4ggen fyller skallen med hat\nVi talar om en subba 24 karat\nVarenda g\u00e5ng man ringer \u00e4r det hon som svarar\nEn obehaglig r\u00f6st i andra \u00e4nden som f\u00f6rklarar\n\"Nej han kan inte komma han ska klippa mina t\u00e5r\"\nDet h\u00e4r \u00e4r vad jag f\u00f6resl\u00e5r\nHon har ett s\u00e4tt som f\u00e5r alla m\u00e4n att tro dom \u00e4r i helvetet\nRef. x 2\n\nDin polare har skaffat sig en rutten brud\nSom \u00e4r ett levande argument f\u00f6r att g\u00f6ra slut\nVad \u00e4r det med han? Beh\u00f6ver han v\u00e5rd?\nKan det vara n\u00e5got slags f\u00f6rs\u00f6k till Guinnessrekord?\nF\u00f6r hon best\u00e4mmer allt n\u00e4r han ska ut eller in\nHan kunde lika g\u00e4rna b\u00f6rja dejta Idi Amin\nEtt d\u00e5ligt val av partner man bara fr\u00e5gar sig\nEller har han blivit masochist och vill pl\u00e5ga sig\nF\u00f6r numer kan han aldrig ta det cool\nHon bevakar varje steg som n\u00e5gon slags j\u00e4vla Interpol\nOch det som f\u00f6rut var okej \u00e4r nu belagt med f\u00f6rbud\nDin polare har skaffat sig en rutten brud...\n\nRef. x 2\n\n- Hon \u00e4r tr\u00f6g som en pr\u00e5m och har en stinkande arom\nOch det \u00e4r subbor som hon som g\u00f6r snubbar till homos -\n\nDin polare har skaffat sig en rutten brud\nOch nu sitter han i f\u00e4llan och f\u00e5r inte g\u00e5 ut\nHon har honom helt i sitt grepp\nHan lyder varje vink & varje fingerkn\u00e4pp\nMan undrar om han n\u00e5nsin kommer komma ur transen\nSer han inte hornen? Ser han inte svansen?\nOm hon \u00e4nd\u00e5 vore lite snygg\nMen nu dillar han om saker som \"att k\u00e4nna sej trygg\"\nLika trygg som en borre i sumpen\nOch s\u00e5 fort han opponerar sig s\u00e5 blir hon trumpen\nDristar han sig till ett litet sk\u00e4llsord\nJa d\u00e5 b\u00f6rjar hon att svamla om sj\u00e4lvmord\nDet \u00e4r en beige bitch g\u00f6r ingenting r\u00e4tt\nDet m\u00e5ste f\u00e5 ett slut innan ringen \u00e4r p\u00e5 fingret\nOch Mendelssohns orgel har tonat ut\nD\u00e5 har din polare skaffat sig en rutten fru...\nYou might also likeRef. x 3Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/904865",
+   "artist_names": "Just D",
+   "full_title": "Tre Gringos by\u00a0Just\u00a0D",
+   "header_image_thumbnail_url": "https://images.genius.com/e8836a71cd15e157c8f3e5dbdc223e80.300x304x1.jpg",
+   "header_image_url": "https://images.genius.com/e8836a71cd15e157c8f3e5dbdc223e80.573x581x1.jpg",
+   "id": 904865,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Just-d-tre-gringos-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Just-d-tre-gringos-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/e8836a71cd15e157c8f3e5dbdc223e80.300x304x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e8836a71cd15e157c8f3e5dbdc223e80.573x581x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tre Gringos",
+   "title_with_featured": "Tre Gringos",
+   "url": "https://genius.com/Just-d-tre-gringos-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/365071",
+    "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+    "id": 365071,
+    "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Just D",
+    "url": "https://genius.com/artists/Just-d"
+   },
+   "apple_music_id": "1450154673",
+   "apple_music_player_url": "https://genius.com/songs/904865/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_904865' class='rg_embed_link' data-song-id='904865'>Read <a href='https://genius.com/Just-d-tre-gringos-lyrics'>\u201cTre Gringos\u201d by Just\u00a0D</a> on Genius</div> <script crossorigin src='//genius.com/songs/904865/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/269286",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "Guldkorn by Just D",
+    "id": 269286,
+    "name": "Guldkorn",
+    "url": "https://genius.com/albums/Just-d/Guldkorn",
+    "artist": {
+     "api_path": "/artists/365071",
+     "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "id": 365071,
+     "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Just D",
+     "url": "https://genius.com/artists/Just-d"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5387690",
+    "classification": "needs_exegesis",
+    "fragment": "Tre Gringos",
+    "id": 5387690,
+    "is_description": true,
+    "path": "/5387690/Just-d-tre-gringos/Tre-gringos",
+    "range": {
+     "content": "Tre Gringos"
+    },
+    "song_id": 904865,
+    "url": "https://genius.com/5387690/Just-d-tre-gringos/Tre-gringos",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/904865",
+     "client_timestamps": {
+      "updated_by_human_at": 1481226584,
+      "lyrics_updated_at": 1429309439
+     },
+     "context": "Just D",
+     "id": 904865,
+     "image_url": "https://images.genius.com/e8836a71cd15e157c8f3e5dbdc223e80.573x581x1.jpg",
+     "link_title": "Tre Gringos by\u00a0Just\u00a0D",
+     "title": "Tre Gringos",
+     "type": "Song",
+     "url": "https://genius.com/Just-d-tre-gringos-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5387690",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5387690,
+      "pinned": false,
+      "share_url": "https://genius.com/5387690",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5387690/Just-d-tre-gringos/Tre-gringos",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Just D",
+   "lyrics": "Tre Gringos LyricsDet var en helt vanlig dag, ungef\u00e4r som den h\u00e4r\nOch det b\u00f6rjade redan p\u00e5 morgonen n\u00e4r\nVi s\u00e5g en annons om en schysst saxofon\nSen blev det en tripp till s\u00e5 l\u00e5ngt hemifr\u00e5n\nVi tog bl\u00e5 linjen nere fr\u00e5n Fridhemsplan\nDet k\u00e4ndes som om det tog minst halva dan\nOch n\u00e4r vi v\u00e4l kom fram och klev av vi perrongen\nS\u00e5 klingade s\u00e5ngen:\n\n\u00c5hh, \u00e5hh\nTre gringos\nTre gringos\nAhh ha ha\nI f\u00f6rortsdjungeln\nTre gringos\nAhh ha ha\nI f\u00f6rortsdjungeln\nVi hade hamnat n\u00e5gonstans d\u00e4r vi k\u00e4nde oss \"lost\"\nFast det fanns b\u00e5de Konsum, MacDonalds och post\nDet fanns konstiga m\u00e4nniskor i lustiga kl\u00e4der\nOch n\u00e4stan som om det vart varmare v\u00e4der\nSom fr\u00e4mlingar var vi i fr\u00e4mmande land\nSkeppsbrutna, vilse p\u00e5 fr\u00e4mmande strand\nAlla stirrade p\u00e5 oss och f\u00f6r andra g\u00e5ngen\nS\u00e5 h\u00f6rde vi s\u00e5ngen:\n\n\u00c5hh, \u00e5hh\nTre gringos\nTre gringos\nAhh ha ha\nI f\u00f6rortsdjungeln\nTre gringos\nAhh ha ha\nI f\u00f6rortsdjungeln\n\nVi s\u00e5g p\u00e5 varandra och sa:\n\"Har vi \u00e5kt fel?\" men adressen var r\u00e4tt\nS\u00e5 vi gick fram till det hus d\u00e4r det var\nAllt var s\u00e5 nytt, men \u00e4nd\u00e5 bekant p\u00e5 n\u00e5tt s\u00e4tt...\n\nVi gick upp, ringde p\u00e5 och n\u00e5gon \u00f6ppnade strax\n\"Excuse me, is this where we can buy a sax?\"\nHan plockade fram den och d\u00e4r p\u00e5 balkongen\nS\u00e5 lirade han s\u00e5ngen:\nYou might also like(saxofonsolo)\n\n\u00c5hh, \u00e5hh\nTre gringos\nTre gringos\nAhh ha ha\nI f\u00f6rortsdjungeln\nTre gringos\nAhh ha ha\nI f\u00f6rortsdjungeln\n\nTre gringos\nAhh ha ha\nI f\u00f6rortsdjungelnEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1931594",
+   "artist_names": "Just D",
+   "full_title": "Relalalaxa by\u00a0Just\u00a0D",
+   "header_image_thumbnail_url": "https://images.genius.com/d60d03e6c2e711b0397c6fcc0c6d73e8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/d60d03e6c2e711b0397c6fcc0c6d73e8.600x600x1.jpg",
+   "id": 1931594,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Just-d-relalalaxa-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Just-d-relalalaxa-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/d60d03e6c2e711b0397c6fcc0c6d73e8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/d60d03e6c2e711b0397c6fcc0c6d73e8.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Relalalaxa",
+   "title_with_featured": "Relalalaxa",
+   "url": "https://genius.com/Just-d-relalalaxa-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/365071",
+    "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+    "id": 365071,
+    "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Just D",
+    "url": "https://genius.com/artists/Just-d"
+   },
+   "apple_music_id": "1445686658",
+   "apple_music_player_url": "https://genius.com/songs/1931594/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1931594' class='rg_embed_link' data-song-id='1931594'>Read <a href='https://genius.com/Just-d-relalalaxa-lyrics'>\u201cRelalalaxa\u201d by Just\u00a0D</a> on Genius</div> <script crossorigin src='//genius.com/songs/1931594/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/269286",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "Guldkorn by Just D",
+    "id": 269286,
+    "name": "Guldkorn",
+    "url": "https://genius.com/albums/Just-d/Guldkorn",
+    "artist": {
+     "api_path": "/artists/365071",
+     "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "id": 365071,
+     "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Just D",
+     "url": "https://genius.com/artists/Just-d"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6617065",
+    "classification": "needs_exegesis",
+    "fragment": "Relalalaxa",
+    "id": 6617065,
+    "is_description": true,
+    "path": "/6617065/Just-d-relalalaxa/Relalalaxa",
+    "range": {
+     "content": "Relalalaxa"
+    },
+    "song_id": 1931594,
+    "url": "https://genius.com/6617065/Just-d-relalalaxa/Relalalaxa",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1931594",
+     "client_timestamps": {
+      "updated_by_human_at": 1481214682,
+      "lyrics_updated_at": 1432914556
+     },
+     "context": "Just D",
+     "id": 1931594,
+     "image_url": "https://images.genius.com/d60d03e6c2e711b0397c6fcc0c6d73e8.600x600x1.jpg",
+     "link_title": "Relalalaxa by\u00a0Just\u00a0D",
+     "title": "Relalalaxa",
+     "type": "Song",
+     "url": "https://genius.com/Just-d-relalalaxa-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6617065",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6617065,
+      "pinned": false,
+      "share_url": "https://genius.com/6617065",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6617065/Just-d-relalalaxa/Relalalaxa",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Just D",
+   "lyrics": "Relalalaxa LyricsRelalalaxa\n\nRelalalaxa tryck p\u00e5 paus \u00e5 softa\nDet g\u00f6r man ju f\u00f6r s\u00e4llan alldeles f\u00f6r ofta\nSk\u00e4l om f\u00f6r br\u00e5ttom finns det f\u00f6r gott om\nS\u00e5 l\u00e5t mej nu ist\u00e4llet rabbelibabbla n\u00e5t om\nMotiv f\u00f6r att relalaxera\nA det k\u00e4nns bra b h\u00f6ver vi flera\nS\u00e5 sjunk ihop \u00e5 tona ner \u00e5 l\u00e5t en just d loop bed\u00f6va er\n\nVarf\u00f6r sl\u00f6sa sin tid i en trist fabrik\nN\u00e4r man f\u00e5r jordn\u00f6tter sj\u00e4lv \u00e5 n\u00e5n annan blir rik\nD\u00e5 f\u00e5r jag hellre sparken tar en kasse till parken\nSl\u00e5r mej ner p\u00e5 marken \u00e5 \u00f6ppnar en stark en\nF\u00f6r vem orkar bry sej om sitt kneg\nVad det g\u00e4ller deg finns det alltid en v\u00e4g\nIngen situation e f\u00f6r extrem\nS\u00e5 gl\u00f6m dina problem \u00e5\nRelalalaxa kom \u00e5 lugna ner dej\nRelalalaxa\nRelalalaxa broder varva ner p\u00e5 takten\nF\u00f6r stress e den taxa man f\u00e5r betala f\u00f6r jakten\nP\u00e5 pengar k\u00e4rlek eller vad det nu e\nS\u00e5 softa ner p\u00e5 tempot precis som just d\nVi ligger l\u00e5gt vi tar d lugnt\n\u00c5 lyssnar om n\u00e5n annan vill tala till punkt\nF\u00f6r vi vet s\u00e5 v\u00e4l att vi har tid att v\u00e4nta\n\u00c5 tids nog kasserar vi in allt med r\u00e4nta\n\nKnog \u00e5 kneg ska man reducera\nVegetera mera bli sunkifierad\nF\u00f6r allt du lovat ordna till imorgon\nKan du lika g\u00e4rna fixa till i \u00f6vermorgon\nS\u00e5 ta en lur sk\u00f6nt eller hur\nF\u00f6r att ta det sl\u00f6tt det ligger i v\u00e5r natur\nS\u00e5 l\u00e4gg dej nu ner i n\u00e4rmsta s\u00e4ng\n\u00c5 digga v\u00e5r refr\u00e4ng\nRelalalaxa kom \u00e5 lugna ner dej\nRelalalaxaYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1958421",
+   "artist_names": "Just D",
+   "full_title": "Grannar by\u00a0Just\u00a0D",
+   "header_image_thumbnail_url": "https://images.genius.com/3a6a58eca16f453adef3e407ce8d0703.300x248x1.png",
+   "header_image_url": "https://images.genius.com/3a6a58eca16f453adef3e407ce8d0703.1000x828x1.png",
+   "id": 1958421,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Just-d-grannar-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Just-d-grannar-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3a6a58eca16f453adef3e407ce8d0703.300x248x1.png",
+   "song_art_image_url": "https://images.genius.com/3a6a58eca16f453adef3e407ce8d0703.1000x828x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Grannar",
+   "title_with_featured": "Grannar",
+   "url": "https://genius.com/Just-d-grannar-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/365071",
+    "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+    "id": 365071,
+    "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Just D",
+    "url": "https://genius.com/artists/Just-d"
+   },
+   "apple_music_id": "770975401",
+   "apple_music_player_url": "https://genius.com/songs/1958421/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1958421' class='rg_embed_link' data-song-id='1958421'>Read <a href='https://genius.com/Just-d-grannar-lyrics'>\u201cGrannar\u201d by Just\u00a0D</a> on Genius</div> <script crossorigin src='//genius.com/songs/1958421/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/269286",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "Guldkorn by Just D",
+    "id": 269286,
+    "name": "Guldkorn",
+    "url": "https://genius.com/albums/Just-d/Guldkorn",
+    "artist": {
+     "api_path": "/artists/365071",
+     "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "id": 365071,
+     "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Just D",
+     "url": "https://genius.com/artists/Just-d"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6644577",
+    "classification": "needs_exegesis",
+    "fragment": "Grannar",
+    "id": 6644577,
+    "is_description": true,
+    "path": "/6644577/Just-d-grannar/Grannar",
+    "range": {
+     "content": "Grannar"
+    },
+    "song_id": 1958421,
+    "url": "https://genius.com/6644577/Just-d-grannar/Grannar",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1958421",
+     "client_timestamps": {
+      "updated_by_human_at": 1480535684,
+      "lyrics_updated_at": 1432924248
+     },
+     "context": "Just D",
+     "id": 1958421,
+     "image_url": "https://images.genius.com/3a6a58eca16f453adef3e407ce8d0703.1000x828x1.png",
+     "link_title": "Grannar by\u00a0Just\u00a0D",
+     "title": "Grannar",
+     "type": "Song",
+     "url": "https://genius.com/Just-d-grannar-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6644577",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6644577,
+      "pinned": false,
+      "share_url": "https://genius.com/6644577",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6644577/Just-d-grannar/Grannar",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Just D",
+   "lyrics": "Grannar Lyrics*tyst! jag ser p\u00e5 tv!*\n*h\u00e5ll tyst!*\nOoh ohoh\n\nGamle gubben g\u00f6ring tappar aldrig stilen\nHar alltid klagom\u00e5l p\u00e5 alla den f\u00f6rtorkade stofilen\nHan dunkar en hand eller e det huvet i taket\nS\u00e5 att \u00e4ven resten utav huset snart e vaket\n\u00c5 han ger sig inte f\u00f6rr\u00e4n\nMan har hela glada g\u00e4nget h\u00e4ngandes p\u00e5 d\u00f6rren\nMollberg kollberg \u00e5 allt vad dom nu heter\nD kallas f\u00f6r grannar oundvikligheter\nGrannar grannar tack f\u00f6r att ni stannar kvar\nMed er repertoar av barn som gn\u00e4ller n\u00e4r hundarna sk\u00e4ller, d\u00f6rrar som sm\u00e4ller\n\u00c5 man f\u00f6rest\u00e4ller sej\nHur d ser ut n\u00e4r man tar del av en scen med repliker som skrivna av lars nor\u00e9n\nSom grannar p\u00e5 er blir man aldrig less en ny show varje dag s\u00e5 man slipper tristessen\n\nRef\nGrannar - oh oh oh oh (x4)\n\nI mitt hus bor d udda personer som herr schizo\nMed sina m\u00e5nga l\u00e5nga konversationer med sej sj\u00e4lv som man h\u00f6r varje natt\nHan tycks vara besatt av sin enmansdebatt\nEller som fr\u00f6ken villig som e nymfoman \u00e5 dit snubbarna f\u00e4rdas i karavan\nPlus m\u00e5nga fler med n\u00e5n rolig b\u00f6jelse som alla bidrar till min f\u00f6rn\u00f6jelse\nSom norrland det e alkisen p\u00e5 4:e blev n\u00e4stan m\u00e4stare i tungvikt han lovar \u00e5 sv\u00e4r det\n\u00c5 l\u00e4gger alltid n\u00e5ra kartor i trappan\n\u00c5 sen g\u00e5r ryktena det var den d\u00e4r rapparn\nS\u00e4rskilt fr\u00e5n hon med hunden som ylar hela natten f\u00f6r att den tvingas st\u00e5 bunden\n\nD\u00e5 & d\u00e5 vill v\u00e4l alla ha ett nytt arr\nSen blir det v\u00e4rre dit man flyttar\n\nRef\nGrannar - oh oh oh oh (x4)\n\n*j-j-jag kan inte sova*\n*tyst! jag ser p\u00e5 tv!\nGrannar\n*h\u00e5ll tyst*\nGrannar\n*?*\nYou might also likeD\u00e5 & d\u00e5 vill v\u00e4l alla ha ett nytt arr\nSen blir det v\u00e4rre dit man flyttar\n\n*j-j-jag kan inte sova*\nGrannar - oh oh oh oh (till slutet)\n*ska vi g\u00e5 och l\u00e4gga oss*Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1971598",
+   "artist_names": "Just D",
+   "full_title": "Mammas tema by\u00a0Just\u00a0D",
+   "header_image_thumbnail_url": "https://images.genius.com/3a6a58eca16f453adef3e407ce8d0703.300x248x1.png",
+   "header_image_url": "https://images.genius.com/3a6a58eca16f453adef3e407ce8d0703.1000x828x1.png",
+   "id": 1971598,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Just-d-mammas-tema-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Just-d-mammas-tema-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3a6a58eca16f453adef3e407ce8d0703.300x248x1.png",
+   "song_art_image_url": "https://images.genius.com/3a6a58eca16f453adef3e407ce8d0703.1000x828x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Mammas tema",
+   "title_with_featured": "Mammas tema",
+   "url": "https://genius.com/Just-d-mammas-tema-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/365071",
+    "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+    "id": 365071,
+    "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Just D",
+    "url": "https://genius.com/artists/Just-d"
+   },
+   "apple_music_id": "770975403",
+   "apple_music_player_url": "https://genius.com/songs/1971598/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1971598' class='rg_embed_link' data-song-id='1971598'>Read <a href='https://genius.com/Just-d-mammas-tema-lyrics'>\u201cMammas tema\u201d by Just\u00a0D</a> on Genius</div> <script crossorigin src='//genius.com/songs/1971598/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/269286",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1669064443",
+    "full_title": "Guldkorn by Just D",
+    "id": 269286,
+    "name": "Guldkorn",
+    "url": "https://genius.com/albums/Just-d/Guldkorn",
+    "artist": {
+     "api_path": "/artists/365071",
+     "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "id": 365071,
+     "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Just D",
+     "url": "https://genius.com/artists/Just-d"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6658131",
+    "classification": "needs_exegesis",
+    "fragment": "Mammas tema",
+    "id": 6658131,
+    "is_description": true,
+    "path": "/6658131/Just-d-mammas-tema/Mammas-tema",
+    "range": {
+     "content": "Mammas tema"
+    },
+    "song_id": 1971598,
+    "url": "https://genius.com/6658131/Just-d-mammas-tema/Mammas-tema",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1971598",
+     "client_timestamps": {
+      "updated_by_human_at": 1480531515,
+      "lyrics_updated_at": 1432929593
+     },
+     "context": "Just D",
+     "id": 1971598,
+     "image_url": "https://images.genius.com/3a6a58eca16f453adef3e407ce8d0703.1000x828x1.png",
+     "link_title": "Mammas tema by\u00a0Just\u00a0D",
+     "title": "Mammas tema",
+     "type": "Song",
+     "url": "https://genius.com/Just-d-mammas-tema-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6658131",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6658131,
+      "pinned": false,
+      "share_url": "https://genius.com/6658131",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6658131/Just-d-mammas-tema/Mammas-tema",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Just D",
+   "lyrics": "Mammas tema LyricsDududu dududududu ...\nDu kan kalla dig ruff r\u00e5 en desperado\nOm det g\u00f6r dig glad \u00e5\nS\u00e5 vad d\u00e5 s\u00e5 vad d\u00e5\nS\u00e5 vad d\u00e5 det g\u00f6r det samma\nN\u00e4r du kommer till mamma\nHos henne \u00e4r du alltid den samma\nS\u00e5 l\u00e4gg undan revolvern\nF\u00f6r henne har du \u00e4nnu inte hunnit fylla 12 \u00e4n\nBorgarr\u00e5det blir lilla plutt\nOch m\u00f6rdar Bob mammas gulle glass klutt\nMan ger upp alla helliga grejer\nVad man \u00e4n k\u00f6r med s\u00e5 h\u00f6r man hur hon s\u00e4ger\nDududududududududududu...\nDet hela b\u00f6rja p\u00e5 bb f\u00f6r i samma sekund\nSom du l\u00e4mna magen s\u00e5 sl\u00f6ts ett f\u00f6rbund\nMellan dig och din moder, hon \u00e4r ditt roder\nSom styr dina steg och ger dig foder\nKollar med ett vakande \u00f6ga n\u00e4r du v\u00e4xer\nCheckar om du sk\u00f6ter dig, l\u00e4ser dina l\u00e4xor\nRensar ditt rum fr\u00e5n alla blaskor\nMed nakna flickor\nHybblar rader f\u00f6r ett ciggpaket\nSom l\u00e5g i dina fickor\nSen flyttar man hemifr\u00e5n\nBortifr\u00e5n hennes koll tror man\nMen det \u00e4r l\u00e5ngt ifr\u00e5n s\u00e5\nF\u00f6r hon \u00e4r d\u00e4r och synar din vr\u00e5\nMen inte g\u00f6r det n\u00e5t\nHon \u00e4r ju \u00e4nd\u00e5\nDin mamma\nDin mamma\nDin mamma\nDi din mamma\nVad vore man utan sin mamma\nHon \u00e4r premissen\nFarsan \u00e4r n\u00e5n doldis\nSom st\u00e5r i kulissen\nOch n\u00e4r och var och hur som helst\nS\u00e5 har hon svaren\nVad man \u00e4n h\u00f6ljer och d\u00f6ljer\nVet hon alltid var hon har en\nDet tar en blick en nick\nP\u00e5 mammors s\u00e4tt\nEtt mamma trick\nVid mamma bordet och mammas fat\nF\u00f6r att inte tala om mammas mat\nOch din morsa kr\u00e4ver din lojalitet\nF\u00f6r hon har upphovsr\u00e4tten\nTill din egen befintlighet\nOch predikar sitt moders manifest\nF\u00f6r hur gammal du \u00e4n blir\nS\u00e5 vet mamma b\u00e4st\nOch d\u00e4r sitter man i navelstr\u00e4ngen\nOch kommer inte loss\nMen alla har vi n\u00e5got av en oidipus inom oss\nOch trots att hon astlar och h\u00e4var som f\u00e5\nG\u00f6r det ingenting alls hon \u00e4r ju \u00e4nd\u00e5\nDin mamma\nDin mamma\nDu kan kalla mig fikus fadd fet och unken\nJ\u00e4mf\u00f6ra min syster med heffaklumpen\nKalla mig saker det g\u00f6r detsamma\nMen inte ett ord om min mamma\nDin mamma\nDin mamma\nDudududududududud...\nSLUTYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1944871",
+   "artist_names": "Just D",
+   "full_title": "Plast by\u00a0Just\u00a0D",
+   "header_image_thumbnail_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.300x300x1.png",
+   "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+   "id": 1944871,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Just-d-plast-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Just-d-plast-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Plast",
+   "title_with_featured": "Plast",
+   "url": "https://genius.com/Just-d-plast-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/365071",
+    "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+    "id": 365071,
+    "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Just D",
+    "url": "https://genius.com/artists/Just-d"
+   },
+   "apple_music_id": "338502442",
+   "apple_music_player_url": "https://genius.com/songs/1944871/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1944871' class='rg_embed_link' data-song-id='1944871'>Read <a href='https://genius.com/Just-d-plast-lyrics'>\u201cPlast\u201d by Just\u00a0D</a> on Genius</div> <script crossorigin src='//genius.com/songs/1944871/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6630689",
+    "classification": "needs_exegesis",
+    "fragment": "Plast",
+    "id": 6630689,
+    "is_description": true,
+    "path": "/6630689/Just-d-plast/Plast",
+    "range": {
+     "content": "Plast"
+    },
+    "song_id": 1944871,
+    "url": "https://genius.com/6630689/Just-d-plast/Plast",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1944871",
+     "client_timestamps": {
+      "updated_by_human_at": 1445958500,
+      "lyrics_updated_at": 1432919214
+     },
+     "context": "Just D",
+     "id": 1944871,
+     "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "link_title": "Plast by\u00a0Just\u00a0D",
+     "title": "Plast",
+     "type": "Song",
+     "url": "https://genius.com/Just-d-plast-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6630689",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6630689,
+      "pinned": false,
+      "share_url": "https://genius.com/6630689",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6630689/Just-d-plast/Plast",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Just D",
+   "lyrics": "Plast LyricsVi hade byggt s\u00e5 bra, gediget och r\u00e4tt\nDet var gjuten betong och vattent\u00e4tt\nMellan dig och mig, och det k\u00e4ndes faktiskt riktigt\nAtt vi h\u00f6ll ihop var det enda som var viktigt\nI n\u00f6d och lust, fr\u00e5n berg till kust\nFr\u00e5n toppen till botten och sen hela v\u00e4gen upp\nMen hur v\u00e4l man b\u00e4ddar s\u00e5 ligger d\u00e4r en \u00e4rta\nOch en utav oss stog en dag med brustet hj\u00e4rta\nF\u00f6r allt faller samman, det vi bygger upp tillsammans\nDet kan st\u00e5 i n\u00e5gra \u00e5r\nMen f\u00f6rr eller senare, fast ingen av oss menar det\nS\u00e5 g\u00e5r det \u00e4nd\u00e5 som det g\u00e5r\nVi var s\u00e5 noga med fogar och jag vet inte vilket\nMen ingen av oss hade ens det r\u00e4tta virket\nDet blev in i en bergv\u00e4gg, vi kunde inte v\u00e4ja\nMen \u00e4ven om det sprack s\u00e5 kan jag bara s\u00e4ga\nDet var v\u00e4rt det\nDet var oumb\u00e4rligt, ov\u00e4rderligt, \u00e4ven fast\nDet var bara plast\nDet var v\u00e4rt v\u00e4rt det\nDet var obetalbart, oj\u00e4mf\u00f6rbart, \u00e4ven fast\nDet var bara plast\nMen det \u00e4r inget nytt, man vet ju vad som h\u00e4nder\nAv plast \u00e4r det kommet s\u00e5 till plast det \u00e5terv\u00e4nder\nDet bryter ner, bygger upp, bygger upp, bryter ner\nVi fick en stund, det kunde blivit mer\nDet var v\u00e4l fejk, men jag k\u00e4nner ingen skuld\nF\u00f6r ett litet tag gjorde vi \u00e4nd\u00e5 plast till guld\nVi ville va tillsammans, tillsammans blev vi\nMen hade det varit mera v\u00e4rt om det var f\u00f6r evigt\nVi lurar oss st\u00e4ndigt, men att inget \u00e4r best\u00e4ndigt \u00e4r det enda som best\u00e5r\nOch visst \u00e4r det klantigt, men man \u00e4r ju s\u00e5 romantisk att man tror att det \u00e4nd\u00e5 g\u00e5r\nOch hur m\u00e5nga g\u00e5nger har man inte st\u00e5tt d\u00e4r vid spegeln\nOch trott att man \u00e4r undantaget som bekr\u00e4ftar regeln\nOch det \u00e4r man, f\u00f6r det tror p\u00e5 kan man greja\nOch g\u00e5r det sen \u00e5t helvete d\u00e5 kan man bara s\u00e4ga\nDet var v\u00e4rt det\nDet var oumb\u00e4rligt, ov\u00e4rderligt, \u00e4ven fast\nDet var bara plast\nDet var v\u00e4rt det\nDet var obetalbart, oj\u00e4mf\u00f6rbart, \u00e4ven fast\nDet var bara plastYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2230197",
+   "artist_names": "Just D",
+   "full_title": "Vi vinner ni stinker by\u00a0Just\u00a0D",
+   "header_image_thumbnail_url": "https://images.genius.com/e8836a71cd15e157c8f3e5dbdc223e80.300x304x1.jpg",
+   "header_image_url": "https://images.genius.com/e8836a71cd15e157c8f3e5dbdc223e80.573x581x1.jpg",
+   "id": 2230197,
+   "language": null,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Just-d-vi-vinner-ni-stinker-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Just-d-vi-vinner-ni-stinker-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/e8836a71cd15e157c8f3e5dbdc223e80.300x304x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e8836a71cd15e157c8f3e5dbdc223e80.573x581x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Vi vinner ni stinker",
+   "title_with_featured": "Vi vinner ni stinker",
+   "url": "https://genius.com/Just-d-vi-vinner-ni-stinker-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/365071",
+    "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+    "id": 365071,
+    "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Just D",
+    "url": "https://genius.com/artists/Just-d"
+   },
+   "apple_music_id": "338502334",
+   "apple_music_player_url": "https://genius.com/songs/2230197/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2230197' class='rg_embed_link' data-song-id='2230197'>Read <a href='https://genius.com/Just-d-vi-vinner-ni-stinker-lyrics'>\u201cVi vinner ni stinker\u201d by Just\u00a0D</a> on Genius</div> <script crossorigin src='//genius.com/songs/2230197/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/172042",
+    "cover_art_url": "https://images.genius.com/e8836a71cd15e157c8f3e5dbdc223e80.573x581x1.jpg",
+    "full_title": "Plast by Just D",
+    "id": 172042,
+    "name": "Plast",
+    "url": "https://genius.com/albums/Just-d/Plast",
+    "artist": {
+     "api_path": "/artists/365071",
+     "header_image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "id": 365071,
+     "image_url": "https://images.genius.com/506d5e7a8e1be5db4fb8ff7819e0429a.314x314x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Just D",
+     "url": "https://genius.com/artists/Just-d"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7363684",
+    "classification": "needs_exegesis",
+    "fragment": "Vi vinner ni stinker",
+    "id": 7363684,
+    "is_description": true,
+    "path": "/7363684/Just-d-vi-vinner-ni-stinker/Vi-vinner-ni-stinker",
+    "range": {
+     "content": "Vi vinner ni stinker"
+    },
+    "song_id": 2230197,
+    "url": "https://genius.com/7363684/Just-d-vi-vinner-ni-stinker/Vi-vinner-ni-stinker",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2230197",
+     "client_timestamps": {
+      "updated_by_human_at": 1479243091,
+      "lyrics_updated_at": 1437082854
+     },
+     "context": "Just D",
+     "id": 2230197,
+     "image_url": "https://images.genius.com/e8836a71cd15e157c8f3e5dbdc223e80.573x581x1.jpg",
+     "link_title": "Vi vinner ni stinker by\u00a0Just\u00a0D",
+     "title": "Vi vinner ni stinker",
+     "type": "Song",
+     "url": "https://genius.com/Just-d-vi-vinner-ni-stinker-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7363684",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7363684,
+      "pinned": false,
+      "share_url": "https://genius.com/7363684",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7363684/Just-d-vi-vinner-ni-stinker/Vi-vinner-ni-stinker",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Just D",
+   "lyrics": "Vi vinner ni stinker LyricsNanananananana\nVi vinner - ni stinker\nVi vinner - ni stinker\nVi vinner - ni stinker\nVi vinner - ni stinker - vi vinner\nHar ni hajat hur kassa ni ee?\nVarf\u00f6r \u00e4r s\u00e5 stinkande bb?\nNi har inte ens s\u00e4tt p\u00e5 v\u00e5ran pakt\nKalla det match vi talar om slakt\nDem stinker\nVarf\u00f6r l\u00e4gger dem inte ner?\nVi ger dem sp\u00f6\nDe ber om mer\nDem dribblar runt och?\nVi krossar lungt och flabbar loss\nEn torsk\nKommer alltid vara en torsk\nDem har lika stor chans som ett \u00e4gg vid p\u00e5sk\nDem g\u00e5r dit jag g\u00e5r hit och ropr \"h\u00e4r ee jag\"\nKolla nu p\u00e5 mig n\u00e4r jag s\u00e4nker en trea\nVarf\u00f6r ee dem s\u00e5 fula?\nKan dem inte \u00e5ka hem\nMin syrra lirar b\u00e4ttre och hon \u00e4r \u00e4nd\u00e5 bara fem\nMin farmor som \u00e4r blind hon har b\u00e4ttre kontroll\nHar dem hajat om det handlar om en puck eller boll?\nH\u00e4r ee den s\u00e5 kom och ta den\nDet verkar som de inte ens vill ha den\nHar dem sv\u00e5rt att g\u00e5?\nM\u00e5r dem inte riktigt bra?\nDem f\u00f6rs\u00f6ker \u00e4nd\u00e5\nMen vi s\u00e4ger hejdaa\nVi vinner - ni stinker\nVi vinner - ni stinker\nVi vinner - ni stinker\nVi vinner - ni stinker - vi vinner\nVi renasr ren vi soppar banan det b\u00f6rjar bli trist man har f\u00e5tt in vanan\nHur pallar dem att var s\u00e5 kassa?\nKolla hur dem puttar, hur dem faller om kull\n\u00c4r det jag som \u00e4r full?\nEller lajar om kull?You might also likeEmbed"
+  }
+ ]
+}

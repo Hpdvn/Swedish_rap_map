@@ -1,0 +1,890 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/149087",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+ "id": 149087,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Kumba",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Kumba",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 625103,
+  "annotator_login": "lgh",
+  "api_path": "/referents/7009549",
+  "classification": "needs_exegesis",
+  "fragment": "Kumba",
+  "id": 7009549,
+  "is_description": true,
+  "path": "/7009549/Kumba/Kumba",
+  "range": {
+   "content": "Kumba"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7009549/Kumba/Kumba",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/149087",
+   "context": null,
+   "id": 149087,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1669064443",
+   "link_title": "Kumba",
+   "title": "Kumba",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Kumba"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7009549",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7009549,
+    "pinned": false,
+    "share_url": "https://genius.com/7009549",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7009549/Kumba/Kumba",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/625103",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1669064443",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1669064443",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1669064443",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "human_readable_role_for_display": null,
+       "id": 625103,
+       "iq": 182,
+       "login": "lgh",
+       "name": "lgh",
+       "role_for_display": null,
+       "url": "https://genius.com/lgh",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/658863",
+   "artist_names": "Kumba (Ft. Amanda Serra)",
+   "full_title": "I staden by\u00a0Kumba (Ft.\u00a0Amanda\u00a0Serra)",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/f0cba4f9db2ef3aa507c1332bb3f588e.300x169x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/f0cba4f9db2ef3aa507c1332bb3f588e.1000x563x1.jpg",
+   "id": 658863,
+   "language": "sv",
+   "lyrics_owner_id": 1243771,
+   "lyrics_state": "complete",
+   "path": "/Kumba-i-staden-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Kumba-i-staden-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 1,
+    "day": 1
+   },
+   "release_date_for_display": "January 1, 2014",
+   "release_date_with_abbreviated_month_for_display": "Jan. 1, 2014",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/f0cba4f9db2ef3aa507c1332bb3f588e.300x169x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/f0cba4f9db2ef3aa507c1332bb3f588e.1000x563x1.jpg",
+   "stats": {
+    "accepted_annotations": 2,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "I staden",
+   "title_with_featured": "I staden (Ft.\u00a0Amanda\u00a0Serra)",
+   "url": "https://genius.com/Kumba-i-staden-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/301201",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 301201,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Amanda Serra",
+     "url": "https://genius.com/artists/Amanda-serra"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/149087",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "id": 149087,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Kumba",
+    "url": "https://genius.com/artists/Kumba"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/658863/apple_music_player",
+   "description": {
+    "plain": "N\u00e4r man lyssnar p\u00e5 din singel s\u00e5 k\u00e4nns det som du spr\u00e4ngt in hela ditt liv d\u00e4r.\n\n\u2013 Det har du r\u00e4tt i (skratt). Jag funderade \u00f6ver hur mycket jag ville utel\u00e4mna av mig sj\u00e4lv. Det var v\u00e4ldigt sv\u00e5rt. Men det k\u00e4ndes som att jag fick ur allting jag ville s\u00e4ga och att den h\u00e4r l\u00e5ten blev lite som en dagbok f\u00f6r mig. Eftersom jag varit med om v\u00e4ldigt m\u00f6rka \u00e5r i mitt liv s\u00e5 k\u00e4nde jag \u00bbnu ska jag f\u00e5 ut det h\u00e4r och sedan sl\u00e4pper jag det\u00ab. Men jag gjorde ocks\u00e5 l\u00e5ten f\u00f6r att andra ska kunna lyssna, ta till sig och k\u00e4nna igen sig i den.\n\nKumba i en intervju med Throw Me Away."
+   },
+   "embed_content": "<div id='rg_embed_link_658863' class='rg_embed_link' data-song-id='658863'>Read <a href='https://genius.com/Kumba-i-staden-lyrics'>\u201cI staden\u201d by Kumba</a> on Genius</div> <script crossorigin src='//genius.com/songs/658863/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-01-01",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1243771,
+    "annotator_login": "dzg",
+    "api_path": "/referents/4653337",
+    "classification": "accepted",
+    "fragment": "I staden",
+    "id": 4653337,
+    "is_description": true,
+    "path": "/4653337/Kumba-i-staden/I-staden",
+    "range": {
+     "content": "I staden"
+    },
+    "song_id": 658863,
+    "url": "https://genius.com/4653337/Kumba-i-staden/I-staden",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/658863",
+     "client_timestamps": {
+      "updated_by_human_at": 1626450367,
+      "lyrics_updated_at": 1423411931
+     },
+     "context": "Kumba",
+     "id": 658863,
+     "image_url": "https://images.rapgenius.com/f0cba4f9db2ef3aa507c1332bb3f588e.1000x563x1.jpg",
+     "link_title": "I staden by\u00a0Kumba (Ft.\u00a0Amanda\u00a0Serra)",
+     "title": "I staden",
+     "type": "Song",
+     "url": "https://genius.com/Kumba-i-staden-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4653337",
+      "body": {
+       "plain": "N\u00e4r man lyssnar p\u00e5 din singel s\u00e5 k\u00e4nns det som du spr\u00e4ngt in hela ditt liv d\u00e4r.\n\n\u2013 Det har du r\u00e4tt i (skratt). Jag funderade \u00f6ver hur mycket jag ville utel\u00e4mna av mig sj\u00e4lv. Det var v\u00e4ldigt sv\u00e5rt. Men det k\u00e4ndes som att jag fick ur allting jag ville s\u00e4ga och att den h\u00e4r l\u00e5ten blev lite som en dagbok f\u00f6r mig. Eftersom jag varit med om v\u00e4ldigt m\u00f6rka \u00e5r i mitt liv s\u00e5 k\u00e4nde jag \u00bbnu ska jag f\u00e5 ut det h\u00e4r och sedan sl\u00e4pper jag det\u00ab. Men jag gjorde ocks\u00e5 l\u00e5ten f\u00f6r att andra ska kunna lyssna, ta till sig och k\u00e4nna igen sig i den.\n\nKumba i en intervju med Throw Me Away."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 4653337,
+      "pinned": false,
+      "share_url": "https://genius.com/4653337",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/4653337/Kumba-i-staden/I-staden",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1243771",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/85b497be986f3273e1ee50676717b207",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/85b497be986f3273e1ee50676717b207",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/85b497be986f3273e1ee50676717b207",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/85b497be986f3273e1ee50676717b207",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/85b497be986f3273e1ee50676717b207",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1243771,
+         "iq": 1723,
+         "login": "dzg",
+         "name": "dzg",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/dzg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=xfYiERlZR6w"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Kumba",
+   "lyrics": "I staden LyricsJag m\u00f6tte ondskan n\u00e4r jag bara var sexton \u00e5r\nM\u00e5nga \u00e4rr p\u00e5 min kropp och sj\u00e4l, jag f\u00e4ller ingen t\u00e5r\nV\u00e4gen var sv\u00e5r, som ni f\u00f6rst\u00e5r, jag minns det som ig\u00e5r\nKvinnojouren var den f\u00f6rsta som fr\u00e5ga hur jag m\u00e5r\nEnda tr\u00f6st jag hade var att tiden l\u00e4ker alla s\u00e5r\nOch se p\u00e5 mig idag och vart jag st\u00e5r\nS\u00e5 t\u00e4nk om v\u00e4rlden kunde bli b\u00e4ttre och ljusare som mitt liv\nTrots allt som har h\u00e4nt f\u00f6rs\u00f6ker jag g\u00e5 vidare, vara positiv\nEn snubbe sk\u00f6t en annan man p\u00e5 min g\u00e5rd ig\u00e5r\nN\u00e5n blev knivad i min port, hur ska barnen f\u00f6rst\u00e5?\nVad ska man s\u00e4ga? Synd, bara helt haram\nLeka Gud, skapa sm\u00e4rta, ta livet av varann\nOch f\u00f6r vad? F\u00f6r gram, svarta pengar i hand\nAtt bl\u00e5sa p\u00e5 en snabb d\u00f6d tills du bara f\u00f6rsvann\nHar k\u00e4nt sorg, sm\u00e4rta\nBegravt flera v\u00e4nner men jag lever f\u00f6r er alla d\u00e5 ni aldrig \u00e5terv\u00e4nder\nSe alla dom kilon som pumpas in i staden\nUngdomsg\u00e4ngen en procentare, polisen bryter lagen\nMamma, pappa, barn vill bara klara av dagen\nFamilj och h\u00f6ghus i v\u00e4ntan p\u00e5 barnbidragen\nSom vanlig dag i staden\nVad som helst f\u00f6r att m\u00e4tta magen\nK\u00e4nde aldrig slagen\nSituationen g\u00f6r dig galen\nBarns\u00e5ng fr\u00e5n huvudstaden\nS\u00e5 s\u00e4ger man f\u00e5nga dagen, blicka fram\u00e5t n\u00e4r jag l\u00e4gger sista raden\nS\u00f6rjer fallna \u00e4nglar\nI staden d\u00e4r jag bor\nAllt p\u00e5 grund av pengar\nI staden d\u00e4r jag bor\nGator, betong och parabolkl\u00e4dda fasader\nLigger som en backdrop till v\u00e5ra dagliga vanor\nS\u00f6rjer fallna \u00e4nglar\nI staden d\u00e4r jag bor\nAllt p\u00e5 grund av pengar\nI staden d\u00e4r jag bor\nAllting samma, allting \u00e4ndras\nI staden d\u00e4r jag bor\nI staden d\u00e4r jag bor\n\nKrigat fr\u00e5n f\u00f6rsta stund jag kom till den h\u00e4r jorden\nRoseng\u00e5rdsbetong som ekar dom h\u00e4r orden\nSlipat min rap, n\u00e4r chansen kom, jag tog den\nF\u00e4ste \u00f6gonen p\u00e5 tronen i den kalla Norden\nKumba \u00e4r mitt namn, h\u00e4rstammar fr\u00e5n Afrika\nMajest\u00e4tiskt flow l\u00e5ngt \u00f6ver det vanliga\nFr\u00e5n mitt kvarter till tredje v\u00e4rldens-ghetto\nKumba h\u00f6rs \u00f6verallt, fr\u00e5n Grimsta till Soweto\nStockholmsbetong blev blessed av denna s\u00e5ng\nP\u00e5 samma s\u00e4tt som aina h\u00e4lsa br\u00f6der med batong\nH\u00e5rd verklighet som asfalt under mina f\u00f6tter\nM\u00f6rk eller kritvit, bestraffad av sina r\u00f6tter\nMycket skit och slit i staden d\u00e4r jag bor\nUngdomar f\u00e5r v\u00e4xa upp utan framtidstro\nVad \u00e4r det h\u00e4r egentligen f\u00f6r en plats att bo?\nF\u00f6r m\u00e5nga som slutar som en rest in peace-tattoo\nYou might also likeS\u00f6rjer fallna \u00e4nglar\nAllt p\u00e5 grund av pengar\nI staden d\u00e4r jag bor\nGator, betong och parabolkl\u00e4dda fasader\nLigger som en backdrop till v\u00e5ra dagliga vanor\nS\u00f6rjer fallna \u00e4nglar\nI staden d\u00e4r jag bor\nAllt p\u00e5 grund av pengar\nI staden d\u00e4r jag bor\nAllting samma, allting \u00e4ndras\nI staden d\u00e4r jag bor\nI staden d\u00e4r jag bor\n\nI staden d\u00e4r jag bor2Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/694629",
+   "artist_names": "Kumba (Ft. Amanda Serra)",
+   "full_title": "Bra vibrationer by\u00a0Kumba (Ft.\u00a0Amanda\u00a0Serra)",
+   "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "id": 694629,
+   "language": "sv",
+   "lyrics_owner_id": 1243771,
+   "lyrics_state": "complete",
+   "path": "/Kumba-bra-vibrationer-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Kumba-bra-vibrationer-sample",
+   "release_date_components": {
+    "year": 2015,
+    "month": 1,
+    "day": 1
+   },
+   "release_date_for_display": "January 1, 2015",
+   "release_date_with_abbreviated_month_for_display": "Jan. 1, 2015",
+   "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Bra vibrationer",
+   "title_with_featured": "Bra vibrationer (Ft.\u00a0Amanda\u00a0Serra)",
+   "url": "https://genius.com/Kumba-bra-vibrationer-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/301201",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 301201,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Amanda Serra",
+     "url": "https://genius.com/artists/Amanda-serra"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/149087",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "id": 149087,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Kumba",
+    "url": "https://genius.com/artists/Kumba"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/694629/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_694629' class='rg_embed_link' data-song-id='694629'>Read <a href='https://genius.com/Kumba-bra-vibrationer-lyrics'>\u201cBra vibrationer\u201d by Kumba</a> on Genius</div> <script crossorigin src='//genius.com/songs/694629/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2015-01-01",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1243771,
+    "annotator_login": "dzg",
+    "api_path": "/referents/4816664",
+    "classification": "needs_exegesis",
+    "fragment": "Bra vibrationer",
+    "id": 4816664,
+    "is_description": true,
+    "path": "/4816664/Kumba-bra-vibrationer/Bra-vibrationer",
+    "range": {
+     "content": "Bra vibrationer"
+    },
+    "song_id": 694629,
+    "url": "https://genius.com/4816664/Kumba-bra-vibrationer/Bra-vibrationer",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/694629",
+     "client_timestamps": {
+      "updated_by_human_at": 1626450327,
+      "lyrics_updated_at": 1422666924
+     },
+     "context": "Kumba",
+     "id": 694629,
+     "image_url": "https://assets.genius.com/images/default_cover_image.png?1669064443",
+     "link_title": "Bra vibrationer by\u00a0Kumba (Ft.\u00a0Amanda\u00a0Serra)",
+     "title": "Bra vibrationer",
+     "type": "Song",
+     "url": "https://genius.com/Kumba-bra-vibrationer-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4816664",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 4816664,
+      "pinned": false,
+      "share_url": "https://genius.com/4816664",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/4816664/Kumba-bra-vibrationer/Bra-vibrationer",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1243771",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/85b497be986f3273e1ee50676717b207",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/85b497be986f3273e1ee50676717b207",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/85b497be986f3273e1ee50676717b207",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/85b497be986f3273e1ee50676717b207",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/85b497be986f3273e1ee50676717b207",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1243771,
+         "iq": 1723,
+         "login": "dzg",
+         "name": "dzg",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/dzg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Kumba",
+   "lyrics": "Bra vibrationer Lyrics[Hook: Amanda Serra och Kumba]\nDu ger en nice vibe \u00f6ver mig\nVarje g\u00e5ng jag ser dig h\u00e4r\nDu ger mig bra vibrationer\n\nJag k\u00e4nner din mode mode\nJag k\u00e4nner att det \u00e4r nice\nS\u00e5 baby let\u2019s go go\n\nDu ger en nice vibe \u00f6ver mig\nVarje g\u00e5ng, s\u00e4g bara n\u00e4r\nDu ger mig bra vibrationer\nJag k\u00e4nner din mode mode\nJag k\u00e4nner att det \u00e4r nice\nS\u00e5 baby let\u2019s go go\n\n[Vers 1: Kumba]\nTrycker pedalen p\u00e5 min gas\nVi \u00e5ker ba vroom vroom\nF\u00f6r baby du \u00e4r min bas\nOch trumman g\u00e5r boom boom\nSignaler g\u00f6r mig knas\nDu vet jag \u00e4r dum dum\nS\u00e5 chilla, det \u00e4r lugnt lugnt\nF\u00f6r natten \u00e4r ung ung\nVart ska du g\u00e5?\nDu ger mig feta vibes, vibrationer, en p\u00e5 miljonen\nPassionen bara s\u00e4tter tonen\nSekunder blir till minuter, timmar blir till dar\nN\u00e4r du g\u00f6r det du g\u00f6r blir mitt svar ey, ey, ey\nGoddamn du \u00e4r sexig\nDet \u00e4r transen jag s\u00e4tts i\nJag finns i din r\u00e4ckvidd\nG\u00e5r all in, direkt in\nHar allt som du s\u00f6ker\nHela paketet\nJa du vet det\nEy, ey, ey, ey\nYou might also like[Hook: Amanda Serra och Kumba]\nDu ger en nice vibe \u00f6ver mig\nVarje g\u00e5ng jag ser dig h\u00e4r\nDu ger mig bra vibrationer\n\nJag k\u00e4nner din mode mode\nJag k\u00e4nner att det \u00e4r nice\nS\u00e5 baby let\u2019s go go\n\nDu ger en nice vibe \u00f6ver mig\nVarje g\u00e5ng, s\u00e4g bara n\u00e4r\nDu ger mig bra vibrationer\n\nJag k\u00e4nner din mode mode\nJag k\u00e4nner att det \u00e4r nice\nS\u00e5 baby let\u2019s go go\n\n[Vers 2: Kumba]\nJag \u00e4r din kv\u00e4ll\nSl\u00e4pper alla krav\nKroppsspr\u00e5ket ger mig alla svar\nMamma sa akta dig f\u00f6r k\u00e4rleken f\u00f6r det kan kosta hj\u00e4rtat\nMen k\u00e4rleken \u00e4r h\u00e4r vid mig s\u00e5 det f\u00e5r krossa sm\u00e4rtan\nH\u00e5ll upp\nDu f\u00e5r mig att tappa andan\nDom andra h\u00e5ller inte samma standard\nNej, nej, nej\nH\u00e5ll upp\n\u00c4r inte som n\u00e5n annan\nUng katt baby mada skills fr\u00e5n Gambia\nGoddamn jag \u00e4r sexig\nMin k\u00e4rlek tillr\u00e4cklig\nHelt \u00e4rligt, du \u00e4r fett fin\nJag \u00e4r v\u00e4rdig, s\u00e5 sl\u00e4pp in\nAllt som du s\u00f6ker\nHela paketet\nJa du vet det\nEy, ey, ey, ey\n[Bridge: Amanda Serra]\nJag s\u00e4ger hey, vad g\u00f6r du med mig? (Vad g\u00f6r du med mig?)\nJag k\u00e4nner din energi\nS\u00e4tt dig h\u00e4r hos mig, lite v\u00e4rme (Lite v\u00e4rme)\nIkv\u00e4ll \u00e4r det bara vi, hey ey ey ey\n\nVad g\u00f6r du med mig? (Vad g\u00f6r du med mig?)\nJag k\u00e4nner din energi\nF\u00f6lj med hem till mig, kom lite n\u00e4rmre\nIkv\u00e4ll \u00e4r det bara vi\n\nDu ger en nice vibe \u00f6ver mig (Ikv\u00e4ll \u00e4r det bara vi)\nVarje g\u00e5ng jag ser dig h\u00e4r\nDu ger mig bra vibrationer (Ikv\u00e4ll \u00e4r det bara vi)\n\nDu ger en nice vibe \u00f6ver mig\nVarje g\u00e5ng, s\u00e4g bara n\u00e4r\nDu ger mig bra vibrationer (Ikv\u00e4ll \u00e4r det bara vi)\n\n[Hook: Kumba]\nJag k\u00e4nner din vibe\nJag k\u00e4nner att det \u00e4r nice\nJag k\u00e4nner din vibe\nJag k\u00e4nner att det \u00e4r nice\n\nJag k\u00e4nner din vibe\nJag k\u00e4nner din mode mode\nJag k\u00e4nner att det \u00e4r nice\nS\u00e5 baby let\u2019s go go\nJag k\u00e4nner din vibe\nJag k\u00e4nner din mode mode\nJag k\u00e4nner att det \u00e4r nice\nS\u00e5 baby let\u2019s go go1Embed"
+  }
+ ]
+}

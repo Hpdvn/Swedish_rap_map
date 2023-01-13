@@ -1,0 +1,531 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/458434",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+ "id": 458434,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Highwon",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Highwon",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7120695",
+  "classification": "needs_exegesis",
+  "fragment": "Highwon",
+  "id": 7120695,
+  "is_description": true,
+  "path": "/7120695/Highwon/Highwon",
+  "range": {
+   "content": "Highwon"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7120695/Highwon/Highwon",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/458434",
+   "context": null,
+   "id": 458434,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1669064443",
+   "link_title": "Highwon",
+   "title": "Highwon",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Highwon"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7120695",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7120695,
+    "pinned": false,
+    "share_url": "https://genius.com/7120695",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7120695/Highwon/Highwon",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1987780",
+   "artist_names": "Highwon",
+   "full_title": "Fr\u00e5n Hj\u00e4rtat by\u00a0Highwon",
+   "header_image_thumbnail_url": "https://images.genius.com/daa815c2a7712ea2310e91db9deec2ca.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/daa815c2a7712ea2310e91db9deec2ca.640x640x1.jpg",
+   "id": 1987780,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Highwon-fran-hjartat-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Highwon-fran-hjartat-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/daa815c2a7712ea2310e91db9deec2ca.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/daa815c2a7712ea2310e91db9deec2ca.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 9795
+   },
+   "title": "Fr\u00e5n Hj\u00e4rtat",
+   "title_with_featured": "Fr\u00e5n Hj\u00e4rtat",
+   "url": "https://genius.com/Highwon-fran-hjartat-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/458434",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "id": 458434,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Highwon",
+    "url": "https://genius.com/artists/Highwon"
+   },
+   "apple_music_id": "390518430",
+   "apple_music_player_url": "https://genius.com/songs/1987780/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1987780' class='rg_embed_link' data-song-id='1987780'>Read <a href='https://genius.com/Highwon-fran-hjartat-lyrics'>\u201cFr\u00e5n Hj\u00e4rtat\u201d by Highwon</a> on Genius</div> <script crossorigin src='//genius.com/songs/1987780/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/323462",
+    "cover_art_url": "https://images.genius.com/daa815c2a7712ea2310e91db9deec2ca.640x640x1.jpg",
+    "full_title": "This Is Swedish Hip Hop Evolution by Various Artists",
+    "id": 323462,
+    "name": "This Is Swedish Hip Hop Evolution",
+    "url": "https://genius.com/albums/Various-artists/This-is-swedish-hip-hop-evolution",
+    "artist": {
+     "api_path": "/artists/768",
+     "header_image_url": "https://images.genius.com/10da268551e38fd18cf057ac25bb1ac6.563x177x1.png",
+     "id": 768,
+     "image_url": "https://images.genius.com/058d7a1c280c0465ba0c108be8951ba2.594x594x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Various Artists",
+     "url": "https://genius.com/artists/Various-artists"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6674857",
+    "classification": "needs_exegesis",
+    "fragment": "Fr\u00e5n Hj\u00e4rtat",
+    "id": 6674857,
+    "is_description": true,
+    "path": "/6674857/Highwon-fran-hjartat/Fran-hjartat",
+    "range": {
+     "content": "Fr\u00e5n Hj\u00e4rtat"
+    },
+    "song_id": 1987780,
+    "url": "https://genius.com/6674857/Highwon-fran-hjartat/Fran-hjartat",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1987780",
+     "client_timestamps": {
+      "updated_by_human_at": 1483316616,
+      "lyrics_updated_at": 1432936304
+     },
+     "context": "Highwon",
+     "id": 1987780,
+     "image_url": "https://images.genius.com/daa815c2a7712ea2310e91db9deec2ca.640x640x1.jpg",
+     "link_title": "Fr\u00e5n Hj\u00e4rtat by\u00a0Highwon",
+     "title": "Fr\u00e5n Hj\u00e4rtat",
+     "type": "Song",
+     "url": "https://genius.com/Highwon-fran-hjartat-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6674857",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6674857,
+      "pinned": false,
+      "share_url": "https://genius.com/6674857",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6674857/Highwon-fran-hjartat/Fran-hjartat",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Highwon",
+   "lyrics": "Fr\u00e5n Hj\u00e4rtat LyricsSabo\nF\u00f6rs\u00f6kt ha huvet h\u00f6gt n\u00e4r det vart tufft f\u00f6r att inte g\u00e5 under\nMamma fick en son som e en krigare i grunden\nF\u00f6renade i slummen faller vi med flaggan p\u00e5 topp\nS\u00e5 n\u00e4r det e dags har vi gett v\u00e5rt allt, k\u00e4nner ingen \u00e5ngest f\u00f6r n\u00e5t\nDan d\u00e5 vi lyckas kommer n\u00e4r vi lyckas\nKommer v\u00e5ran lycka om vi bara lyckas\nMen tiden e knapp man o vi sitter fast h\u00e4r\nH\u00e4r tills dess min tragedi i en melodi\nTugg p\u00e5 heltid gendish o en femma weed\nMina grabbar g\u00f6r n\u00e5t st\u00f6rre \u00e4n bara glider\nOm inte dom s\u00e5 \u00e4r det jag med dom bredvid mig\nJag har din rygg oavsett broder du vet\nLojal linje r\u00f6d 127 bitch!\nTillsammans sl\u00e5r vi alla ihop oss, stark med en r\u00f6st\nDet \u00e4r inte sv\u00e5rt att se l\u00e4s p\u00e5 mitt br\u00f6st\nDet \u00e4r Highwon brorsan!\nAleks (refr\u00e4ng)\nLjusen \u00e4r t\u00e4nda f\u00f6r dom som har l\u00e4mnat\nV\u00e5r plats s\u00e5 snabbt gud vad jag l\u00e4ngtar\nJag lovar att b\u00e4ttras (trots allt!)\nJag k\u00e4nner mig inte ensam\nJag hoppas att vi tr\u00e4ffas\n\nJag beh\u00f6ver endast de som har br\u00e4nts fast\nG\u00e5tt in i hj\u00e4rtat ni k\u00e4nns i varje hj\u00e4rtklapp (klapp klapp)\nVill dit de inget skitsnack (snack)\nF\u00f6r jag vet att\n\nFille\nInget e sig likt, f\u00f6r allt \u00e4r i f\u00f6r\u00e4ndring\nJag hoppas p\u00e5 ett b\u00e4ttre \u00e5r men jag har ingen f\u00f6rv\u00e4ntning\nF\u00f6r n\u00e4r saker g\u00e5r snett och tyngdlagen f\u00e5r r\u00e4tt\n\u00c4r vi tillbaks d\u00e4r p\u00e5 botten och undrar fan som g\u00e5tt snett\nIbland vill jag bara packa o dra\nGe mig av, l\u00e4mna knaset som vi tacklar var dag\nGe mig svar varf\u00f6r \u00e4r det s\u00e5\nVarf\u00f6r ska vi och de alltid s\u00e4ras \u00e5t\nDe f\u00e5r skattel\u00e4ttnad vi f\u00e5r mer b\u00f6rdor att b\u00e4ra p\u00e5\nVi b\u00e4r oss \u00e5t som vi b\u00e4r oss \u00e5t f\u00f6r att f\u00e5 v\u00e4rde p\u00e5\nTiden vi lever i och f\u00e5 n\u00e5nting att gl\u00e4djas \u00e5t\nS\u00e5 jag haffar n\u00e5t korkar upp och sveper\nL\u00e4mnar verkligheten och gittar fr\u00e5n planeten\nYou might also likeAleks (refr\u00e4ng)\nLjusen \u00e4r t\u00e4nda f\u00f6r dom som har l\u00e4mnat\nV\u00e5r plats s\u00e5 snabbt gud vad jag l\u00e4ngtar\nJag lovar att b\u00e4ttras (trots allt!)\nJag k\u00e4nner mig inte ensam\nJag hoppas att vi tr\u00e4ffas\n\nJag beh\u00f6ver endast de som har br\u00e4nts fast\nG\u00e5tt in i hj\u00e4rtat ni k\u00e4nns i varje hj\u00e4rtklapp (klapp klapp)\nVill dit de inget skitsnack (snack)\nF\u00f6r jag vet att\n\nHoo-Sam\nTiden och v\u00e4rlden hinner ikapp en hinner ifatt en\nEn blatte i kamp med vissa p\u00e5 rampen ovanf\u00f6r sin avgrund\nBakgrund i orten, min r\u00f6st e fr\u00e5n gatan\nMitt hj\u00e4rta till folket, min Gud bara skapar\nTiden den glider iv\u00e4g och \u00e4ndras till n\u00e5got hastigt\nBilarna brinner i orten, tiden den blir n\u00e5t drastiskt\nHighwon! Alltid fr\u00e5n hj\u00e4rtat fr\u00e5n bl\u00e4ck till pappret\nBetong i en rondell vi cirkulerar p\u00e5 med ratten\nL\u00e5t mig k\u00f6ra ut ist\u00e4llet f\u00f6r att g\u00f6ra n\u00e5t sjukt\nH\u00f6ra till slut att de inte kan r\u00f6ra vid det vi g\u00f6r nu\nDu b\u00f6r nu veta av, fr\u00e5n s\u00f6der, r\u00f6da sidan av stan\nR\u00f6da ligan av stan, vad?!\nAleks (refr\u00e4ng)\nLjusen \u00e4r t\u00e4nda f\u00f6r dom som har l\u00e4mnat\nV\u00e5r plats s\u00e5 snabbt gud vad jag l\u00e4ngtar\nJag lovar att b\u00e4ttras (trots allt!)\nJag k\u00e4nner mig inte ensam\nJag hoppas att vi tr\u00e4ffas\n\nJag beh\u00f6ver endast de som har br\u00e4nts fast\nG\u00e5tt in i hj\u00e4rtat ni k\u00e4nns i varje hj\u00e4rtklapp (klapp klapp)\nVill dit de inget skitsnack (snack)\nF\u00f6r jag vet att\n\nAleks (rappar)\nTiden tick-tick-tickar p\u00e5, t\u00e4nker fort dagarna g\u00e5r\nSommar h\u00f6st vinter och v\u00e5r, shit d\u00e4r gick ju ett till \u00e5r\nAllting g\u00e5r s\u00e5 j\u00e4vla fort k\u00e4nns som om det var ig\u00e5r\nD\u00e5 jag spela mina kort, fan vad dumt jag t\u00e4nkte d\u00e5\nJag \u00e4r mitt eget resultat utav egna keffa val\nNu tackar jag f\u00f6r varje dag uppskattar allt det som man har\n\nAleks (sjunger)\nGud r\u00e4knar mina andetag\nBara du vet hur mycket tid vi har, kvar\nP\u00e5 denna plats (plats) d\u00e4r vill ja ax (ax)\nDags att ta sats mot m\u00e5let jag satsar\nFinns ingen rast p\u00e5 linjen d\u00e4rf\u00f6r folk puff puff hela tiden\nDe e wake'n'bake hela dan till gonattish\nInge para inge jobb men \u00e4nd\u00e5 brorsan haffish till munchie\n\nIson\nHighwon fucka, br\u00f6derna Dalton\nGudalik flow, keff flow -- aldrig haft n\u00e5n\nTack till min mamma, Gud och pastorn\nVad e det f\u00f6r snack om\nVi inte k\u00f6r \u00f6ver er\nNi e roadkill, vi traktorn\nVi flyger s\u00e5 ofta som vi kan\nTrotsa gravitation om sanningen ska fram\nS\u00e5 hur ska ni dra ner oss om inte den kan?\nCtrl-alt-deleta skitsnacket fr\u00e5n min bredband\nDet e fr\u00e5n hj\u00e4rtat s\u00e5 det e sant\nGick till att fem man blev en man\nVi satsade och h\u00f6jde\nEfter att fr\u00e5ga dem som vi s\u00e5lde Obama-tr\u00f6jor\nN\u00e4, Highwon-tr\u00f6jor resten av trakten s\u00e4ger\n\nAleks (refr\u00e4ng)\nLjusen \u00e4r t\u00e4nda f\u00f6r dom som har l\u00e4mnat\nV\u00e5r plats s\u00e5 snabbt gud vad jag l\u00e4ngtar\nJag lovar att b\u00e4ttras (trots allt!)\nJag k\u00e4nner mig inte ensam\nJag hoppas att vi tr\u00e4ffas\n\nJag beh\u00f6ver endast de som har br\u00e4nts fast\nG\u00e5tt in i hj\u00e4rtat ni k\u00e4nns i varje hj\u00e4rtklapp (klapp klapp)\nVill dit de inget skitsnack\nF\u00f6r jag vet att...Embed"
+  }
+ ]
+}

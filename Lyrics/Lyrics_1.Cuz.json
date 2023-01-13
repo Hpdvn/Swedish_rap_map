@@ -1,0 +1,4839 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1658385",
+ "description": {
+  "plain": "1.Cuz \u00e4r en anonym svensk rappare med somalisk och saudiarabisk bakgrund. Han \u00e4r uppv\u00e4xt i Stockholmsf\u00f6rorten H\u00e4sselby. 1.Cuz har inte g\u00e5tt ut med sitt namn offentligt och han t\u00e4cker sitt ansikte med en r\u00e5narluva. I TV-programmet Benjamin\u2019s s\u00e5 ber\u00e4ttar han bakgrunden till varf\u00f6r han valde att b\u00e4ra mask.\n\nJag tror typ den f\u00f6rsta id\u00e9n kom av att jag tycker att det \u00e4r obehagligt n\u00e4r m\u00e4nniskor ska komma fram till en. T\u00e4nk dig 10-20 pers, den tanken. P\u00e5 den tiden var det \u201cJag vill inte, jag vill verkligen inte\u201d. Jag hade ett annat liv och n\u00e4r jag b\u00f6rjade med musiken visste jag inte hur det skulle sl\u00e5.\n\n1.Cuz karri\u00e4r b\u00f6rjade i slutet av 2018 n\u00e4r han sl\u00e4ppte sin debutsingel \u201cAkta mannen\u201d. \u201cAkta mannen\u201d sl\u00e4pptes kort efter att han avtj\u00e4nat ett tv\u00e5\u00e5rigt f\u00e4ngelsestraff. L\u00e5ten v\u00e4ckte stor uppm\u00e4rksamhet runt 1.Cuz namn och blev en hitl\u00e5t. Remixen till \u201cAkta mannen\u201d (som g\u00e4stades av Ein\u00e1r och Dree Low) sl\u00e4pptes ett halv\u00e5r senare.\n\nDe b\u00e5da l\u00e5tarna blev en tredjedel av 1.Cuz f\u00f6rsta projekt, EPn Tre Hj\u00e4rnor, som sl\u00e4pptes i juni 2019.\n\nI oktober 2019 sl\u00e4ppte 1.Cuz l\u00e5ten \u201cF\u00d6RSENT\u201d tillsammans med Greekazo. L\u00e5ten blev en svensk hiphopklassiker och blev ocks\u00e5 introl\u00e5t till Netflix-serien Snabba cash, som sl\u00e4pptes i april 2021. Efter Snabba cash-serien s\u00e5 kl\u00e4ttrade l\u00e5ten h\u00f6gt upp p\u00e5 Spotifys Topp 50 Sverige-lista, \u00f6ver ett och ett halvt \u00e5r efter att l\u00e5ten sl\u00e4pptes.\n\nEn m\u00e5nad senare, i november 2019 sl\u00e4ppte 1.Cuz sitt debutalbum 1 \u00c5R. F\u00f6rutom Greekazo s\u00e5 g\u00e4stade Ein\u00e1r, Dree Low och v\u00e4nnen Luk G det \u00e5ttasp\u00e5riga albumet.\n\nI augusti 2020 sl\u00e4ppte 1.Cuz sitt andra album, FFF. Albumets namn \u00e4r en \u00f6vers\u00e4ttning av Lil Babys uttryck 4PF, som betyder \u201cfyra fickor fulla\u201d. Albumet g\u00e4stades av 1.Cuzs kusin Yasin p\u00e5 l\u00e5ten \u201cI JAKT P\u00c5 KANINER\u201d och Ein\u00e1r p\u00e5 l\u00e5ten \u201cFIENDES FIENDE\u201d.\n\n1.Cuz n\u00e4stkommande projekt, MILJONRUSHEN, f\u00f6rv\u00e4ntas sl\u00e4ppas i mitten av 2021."
+ },
+ "facebook_name": null,
+ "followers_count": 9,
+ "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+ "id": 1658385,
+ "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+ "instagram_name": "1.cuz",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "1.Cuz",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/1cuz",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 10161592,
+  "annotator_login": "Zordito",
+  "api_path": "/referents/17448079",
+  "classification": "accepted",
+  "fragment": "1.Cuz",
+  "id": 17448079,
+  "is_description": true,
+  "path": "/17448079/1cuz/1cuz",
+  "range": {
+   "content": "1.Cuz"
+  },
+  "song_id": null,
+  "url": "https://genius.com/17448079/1cuz/1cuz",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1658385",
+   "context": null,
+   "id": 1658385,
+   "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+   "link_title": "1.Cuz",
+   "title": "1.Cuz",
+   "type": "Artist",
+   "url": "https://genius.com/artists/1cuz"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/17448079",
+    "body": {
+     "plain": "1.Cuz \u00e4r en anonym svensk rappare med somalisk och saudiarabisk bakgrund. Han \u00e4r uppv\u00e4xt i Stockholmsf\u00f6rorten H\u00e4sselby. 1.Cuz har inte g\u00e5tt ut med sitt namn offentligt och han t\u00e4cker sitt ansikte med en r\u00e5narluva. I TV-programmet Benjamin\u2019s s\u00e5 ber\u00e4ttar han bakgrunden till varf\u00f6r han valde att b\u00e4ra mask.\n\nJag tror typ den f\u00f6rsta id\u00e9n kom av att jag tycker att det \u00e4r obehagligt n\u00e4r m\u00e4nniskor ska komma fram till en. T\u00e4nk dig 10-20 pers, den tanken. P\u00e5 den tiden var det \u201cJag vill inte, jag vill verkligen inte\u201d. Jag hade ett annat liv och n\u00e4r jag b\u00f6rjade med musiken visste jag inte hur det skulle sl\u00e5.\n\n1.Cuz karri\u00e4r b\u00f6rjade i slutet av 2018 n\u00e4r han sl\u00e4ppte sin debutsingel \u201cAkta mannen\u201d. \u201cAkta mannen\u201d sl\u00e4pptes kort efter att han avtj\u00e4nat ett tv\u00e5\u00e5rigt f\u00e4ngelsestraff. L\u00e5ten v\u00e4ckte stor uppm\u00e4rksamhet runt 1.Cuz namn och blev en hitl\u00e5t. Remixen till \u201cAkta mannen\u201d (som g\u00e4stades av Ein\u00e1r och Dree Low) sl\u00e4pptes ett halv\u00e5r senare.\n\nDe b\u00e5da l\u00e5tarna blev en tredjedel av 1.Cuz f\u00f6rsta projekt, EPn Tre Hj\u00e4rnor, som sl\u00e4pptes i juni 2019.\n\nI oktober 2019 sl\u00e4ppte 1.Cuz l\u00e5ten \u201cF\u00d6RSENT\u201d tillsammans med Greekazo. L\u00e5ten blev en svensk hiphopklassiker och blev ocks\u00e5 introl\u00e5t till Netflix-serien Snabba cash, som sl\u00e4pptes i april 2021. Efter Snabba cash-serien s\u00e5 kl\u00e4ttrade l\u00e5ten h\u00f6gt upp p\u00e5 Spotifys Topp 50 Sverige-lista, \u00f6ver ett och ett halvt \u00e5r efter att l\u00e5ten sl\u00e4pptes.\n\nEn m\u00e5nad senare, i november 2019 sl\u00e4ppte 1.Cuz sitt debutalbum 1 \u00c5R. F\u00f6rutom Greekazo s\u00e5 g\u00e4stade Ein\u00e1r, Dree Low och v\u00e4nnen Luk G det \u00e5ttasp\u00e5riga albumet.\n\nI augusti 2020 sl\u00e4ppte 1.Cuz sitt andra album, FFF. Albumets namn \u00e4r en \u00f6vers\u00e4ttning av Lil Babys uttryck 4PF, som betyder \u201cfyra fickor fulla\u201d. Albumet g\u00e4stades av 1.Cuzs kusin Yasin p\u00e5 l\u00e5ten \u201cI JAKT P\u00c5 KANINER\u201d och Ein\u00e1r p\u00e5 l\u00e5ten \u201cFIENDES FIENDE\u201d.\n\n1.Cuz n\u00e4stkommande projekt, MILJONRUSHEN, f\u00f6rv\u00e4ntas sl\u00e4ppas i mitten av 2021."
+    },
+    "comment_count": 2,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 17448079,
+    "pinned": false,
+    "share_url": "https://genius.com/17448079",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/17448079/1cuz/1cuz",
+    "verified": false,
+    "votes_total": 8,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.9235668789808917,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/10391665",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/45ee9e5251068bdc11b5cfc7284a86b6",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/45ee9e5251068bdc11b5cfc7284a86b6",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/45ee9e5251068bdc11b5cfc7284a86b6",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/45ee9e5251068bdc11b5cfc7284a86b6",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/daia6httw6u",
+       "human_readable_role_for_display": "Transcriber",
+       "id": 10391665,
+       "iq": 51943,
+       "login": "CWV",
+       "name": "CWV",
+       "role_for_display": "transcriber",
+       "url": "https://genius.com/CWV",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.07643312101910828,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/10161592",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/7b9c6790b255d3cf4d2d38a780af0afd",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/7b9c6790b255d3cf4d2d38a780af0afd",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/7b9c6790b255d3cf4d2d38a780af0afd",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/7b9c6790b255d3cf4d2d38a780af0afd",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/7b9c6790b255d3cf4d2d38a780af0afd",
+       "human_readable_role_for_display": "Contributor",
+       "id": 10161592,
+       "iq": 4388,
+       "login": "Zordito",
+       "name": "Zordito",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Zordito",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 5,
+   "api_path": "/songs/4137436",
+   "artist_names": "1.Cuz",
+   "full_title": "Akta mannen by\u00a01.Cuz",
+   "header_image_thumbnail_url": "https://images.genius.com/0cffcfa9790068b538723be740b0398b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/0cffcfa9790068b538723be740b0398b.1000x1000x1.jpg",
+   "id": 4137436,
+   "language": "sv",
+   "lyrics_owner_id": 7478405,
+   "lyrics_state": "complete",
+   "path": "/1cuz-akta-mannen-lyrics",
+   "pyongs_count": 6,
+   "relationships_index_url": "https://genius.com/1cuz-akta-mannen-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 11,
+    "day": 30
+   },
+   "release_date_for_display": "November 30, 2018",
+   "release_date_with_abbreviated_month_for_display": "Nov. 30, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/0cffcfa9790068b538723be740b0398b.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/0cffcfa9790068b538723be740b0398b.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 14,
+    "iq_earners": 14,
+    "transcribers": 2,
+    "unreviewed_annotations": 5,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 55717
+   },
+   "title": "Akta mannen",
+   "title_with_featured": "Akta mannen",
+   "url": "https://genius.com/1cuz-akta-mannen-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1658385",
+    "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+    "id": 1658385,
+    "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "1.Cuz",
+    "url": "https://genius.com/artists/1cuz"
+   },
+   "apple_music_id": "1466975556",
+   "apple_music_player_url": "https://genius.com/songs/4137436/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4137436' class='rg_embed_link' data-song-id='4137436'>Read <a href='https://genius.com/1cuz-akta-mannen-lyrics'>\u201cAkta mannen\u201d by 1.Cuz</a> on Genius</div> <script crossorigin src='//genius.com/songs/4137436/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-11-30",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/539920",
+    "cover_art_url": "https://images.genius.com/6366a003e979d669584742f73964a19c.999x999x1.jpg",
+    "full_title": "Tre Hj\u00e4rnor by 1.Cuz",
+    "id": 539920,
+    "name": "Tre Hj\u00e4rnor",
+    "url": "https://genius.com/albums/1cuz/Tre-hjarnor",
+    "artist": {
+     "api_path": "/artists/1658385",
+     "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "id": 1658385,
+     "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "1.Cuz",
+     "url": "https://genius.com/artists/1cuz"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/649312",
+       "header_image_url": "https://images.genius.com/7e3080bde568e30109fa076e0788e1da.347x145x1.jpg",
+       "id": 649312,
+       "image_url": "https://images.genius.com/994d552f385f2b0d7ae7982d3720566a.150x150x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Copyright Control",
+       "url": "https://genius.com/artists/Copyright-control"
+      }
+     ]
+    },
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/1580602",
+       "header_image_url": "https://images.genius.com/f617acf88326bc9c760ee288de828223.1000x563x1.jpg",
+       "id": 1580602,
+       "image_url": "https://images.genius.com/c59fd7d2e85cb260959392aa4c057f15.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Amuse",
+       "url": "https://genius.com/artists/Amuse"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8238432,
+    "annotator_login": "Shokatt",
+    "api_path": "/referents/18059936",
+    "classification": "needs_exegesis",
+    "fragment": "Akta mannen",
+    "id": 18059936,
+    "is_description": true,
+    "path": "/18059936/1cuz-akta-mannen/Akta-mannen",
+    "range": {
+     "content": "Akta mannen"
+    },
+    "song_id": 4137436,
+    "url": "https://genius.com/18059936/1cuz-akta-mannen/Akta-mannen",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4137436",
+     "client_timestamps": {
+      "updated_by_human_at": 1635433267,
+      "lyrics_updated_at": 1635433267
+     },
+     "context": "1.Cuz",
+     "id": 4137436,
+     "image_url": "https://images.genius.com/0cffcfa9790068b538723be740b0398b.1000x1000x1.jpg",
+     "link_title": "Akta mannen by\u00a01.Cuz",
+     "title": "Akta mannen",
+     "type": "Song",
+     "url": "https://genius.com/1cuz-akta-mannen-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18059936",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18059936,
+      "pinned": false,
+      "share_url": "https://genius.com/18059936",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18059936/1cuz-akta-mannen/Akta-mannen",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8238432",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/17b2f8c23a09147b4a00a5f54891ef98",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/17b2f8c23a09147b4a00a5f54891ef98",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/17b2f8c23a09147b4a00a5f54891ef98",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/17b2f8c23a09147b4a00a5f54891ef98",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/f66a8add582f846adc1fd1fa9094a6b6.1000x558x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 8238432,
+         "iq": 76140,
+         "login": "Shokatt",
+         "name": "Shokatt",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Shokatt",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=RZeId0o4isE"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/6818569",
+       "artist_names": "1.Cuz",
+       "full_title": "Caravaggio by\u00a01.Cuz",
+       "header_image_thumbnail_url": "https://images.genius.com/9edd93809d26f35348bbdf7ace9e17a1.300x300x1.png",
+       "header_image_url": "https://images.genius.com/9edd93809d26f35348bbdf7ace9e17a1.1000x1000x1.png",
+       "id": 6818569,
+       "language": "sv",
+       "lyrics_owner_id": 6454494,
+       "lyrics_state": "complete",
+       "path": "/1cuz-caravaggio-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/1cuz-caravaggio-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 9,
+        "day": 22
+       },
+       "release_date_for_display": "September 22, 2021",
+       "release_date_with_abbreviated_month_for_display": "Sep. 22, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9edd93809d26f35348bbdf7ace9e17a1.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/9edd93809d26f35348bbdf7ace9e17a1.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 11196
+       },
+       "title": "Caravaggio",
+       "title_with_featured": "Caravaggio",
+       "url": "https://genius.com/1cuz-caravaggio-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1658385",
+        "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+        "id": 1658385,
+        "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "1.Cuz",
+        "url": "https://genius.com/artists/1cuz"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/4603585",
+       "artist_names": "1.Cuz (Ft. Dree Low & Ein\u00e1r)",
+       "full_title": "AKTA MANNEN (Remix) by\u00a01.Cuz (Ft.\u00a0Dree\u00a0Low & Ein\u00e1r)",
+       "header_image_thumbnail_url": "https://images.genius.com/e8c16192d970c9d337bb2228f8e23780.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e8c16192d970c9d337bb2228f8e23780.1000x1000x1.jpg",
+       "id": 4603585,
+       "language": "sv",
+       "lyrics_owner_id": 5788985,
+       "lyrics_state": "complete",
+       "path": "/1cuz-akta-mannen-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/1cuz-akta-mannen-remix-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 6,
+        "day": 4
+       },
+       "release_date_for_display": "June 4, 2019",
+       "release_date_with_abbreviated_month_for_display": "Jun. 4, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/e8c16192d970c9d337bb2228f8e23780.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e8c16192d970c9d337bb2228f8e23780.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 43713
+       },
+       "title": "AKTA MANNEN (Remix)",
+       "title_with_featured": "AKTA MANNEN (Remix) (Ft.\u00a0Dree\u00a0Low & Ein\u00e1r)",
+       "url": "https://genius.com/1cuz-akta-mannen-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/1098579",
+         "header_image_url": "https://images.genius.com/bdb28c0bcb85f9d995cde8f283f83b21.1000x666x1.jpg",
+         "id": 1098579,
+         "image_url": "https://images.genius.com/4444bea873e15609274c697f0a511fd7.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Dree Low",
+         "url": "https://genius.com/artists/Dree-low"
+        },
+        {
+         "api_path": "/artists/1704096",
+         "header_image_url": "https://images.genius.com/6b4e40dcc00024af197c6c5abcfb6662.1000x429x1.jpg",
+         "id": 1704096,
+         "image_url": "https://images.genius.com/ebcb4eb0c558941a37fbd412550606c1.949x949x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Ein\u00e1r",
+         "url": "https://genius.com/artists/Einar"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1658385",
+        "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+        "id": 1658385,
+        "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "1.Cuz",
+        "url": "https://genius.com/artists/1cuz"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1658385",
+     "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "id": 1658385,
+     "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "1.Cuz",
+     "url": "https://genius.com/artists/1cuz"
+    }
+   ],
+   "artist": "1.Cuz",
+   "lyrics": "Akta mannen Lyrics[Refr\u00e4ng]\nHar DJ med mig, akta mannen\nAkta mannen, akta mannen\nKommer fram och t\u00f6mmer maggen\nAkta mannen, akta mannen\nHar RT med mig, akta mannen\nAkta mannen, akta mannen\nKommer fram och t\u00f6mmer maggen\nAkta mannen, akta mannen\n\n[Vers 1]\nKasta \u00e4pplen in mot huset\nShunon testar och jag skjuter\nOops, han tappa synen\nRest in peace min bror, shh\nJag knullar alla, fucking alla\nSnart \u00e4r vi med varandra\nVill du testa, kom och testa\nCZ:an den har mest kraft\nTT:n den har h\u00e4star\nJag och Isse, vi \u00e4r \u00e4kta\nAlla guzzar, de vill festa\nKnulla orrar, m\u00e5ste beckna\nStasha pengar f\u00f6r att l\u00e4mna\nOrtenlivet, jag vill drifta\nGatubarnen \u00e4r nu rika\nDe ser mig \u00e4ta, de vill \u00e4ta\nKranen \u00e4r fr\u00e5n Costa Rica\nDunderkasse coca\u00edna\nHalva kassen ska till Oslo\nAndra halvan ner till DK\nMitt namn det \u00e4r f\u00f6r stort\nDe k\u00e4nner mig runt hela v\u00e4rlden\nJag tj\u00e4nar hela v\u00e4rldens v\u00e4rde\nSt\u00e5r och becknar alla v\u00e4der\nFemtiotusen p\u00e5 kl\u00e4der\nN\u00e4r jag \u00e4ter, broshan \u00e4ter\nVi \u00e4r m\u00e4tta men vi \u00e4ter\nFinns aldrig f\u00f6r mycket\nFickan full men magen sv\u00e4lter\nTabben skjuter och den br\u00e4nner\nGjorde fytrio f\u00f6rra helgen\nHon spelar sv\u00e5r men hon sv\u00e4ljer\n[Refr\u00e4ng]\nHar DJ med mig, akta mannen\nAkta mannen, akta mannen\nKommer fram och t\u00f6mmer maggen\nAkta mannen, akta mannen\nHar RT med mig, akta mannen\nAkta mannen, akta mannen\nKommer fram och t\u00f6mmer maggen\nAkta mannen, akta mannen\n\n[Vers 2]\nHar inte tid f\u00f6r n\u00e5ns skitsnack\nHon spelar fin men hon har prislapp\nDe kallar mig f\u00f6r deras broder\nMen de gl\u00f6mde mig i anstalten\nS\u00e5 jag visar de bara bakhanden\nS\u00e4ger, \"Akta mannen, akta mannen\"\nV\u00e4nner rinner ut i sanden\nN\u00e4r vi kramas, handen h\u00e5ller gunnen\nJag litar inte p\u00e5 n\u00e5gon som inte tryckt med mig\nJag litar inte p\u00e5 n\u00e5gon som inte k\u00f6r med mig\nJag \u00e4r Hans och du kan va Greta\nFickorna de \u00e4r s\u00e5 tv\u00e4rfeta\nDet finns saker du inte kan veta\nHemligheter som g\u00f6r dig snea\nYou might also like[Stick]\nAkta mannen, akta mannen, akta mannen\nAkta mannen, akta mannen, akta mannen\nAkta mannen, akta mannen, akta mannen\nAkta mannen, akta mannen, akta mannen\n\n[Refr\u00e4ng]\nHar DJ med mig, akta mannen\nAkta mannen, akta mannen\nKommer fram och t\u00f6mmer maggen\nAkta mannen, akta mannen\nHar RT med mig, akta mannen\nAkta mannen, akta mannen\nKommer fram och t\u00f6mmer maggen\nAkta mannen, akta mannen\n\n[Outro]\nAkta mannen, akta mannen\nAkta mannen, akta mannen\nAkta mannen, akta mannen, akta mannen\nAkta mannen\nAkta mannen\nAkta mannen, akta mannen, akta mannen6Embed"
+  },
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/4603585",
+   "artist_names": "1.Cuz (Ft. Dree Low & Ein\u00e1r)",
+   "full_title": "AKTA MANNEN (Remix) by\u00a01.Cuz (Ft.\u00a0Dree\u00a0Low & Ein\u00e1r)",
+   "header_image_thumbnail_url": "https://images.genius.com/e8c16192d970c9d337bb2228f8e23780.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e8c16192d970c9d337bb2228f8e23780.1000x1000x1.jpg",
+   "id": 4603585,
+   "language": "sv",
+   "lyrics_owner_id": 5788985,
+   "lyrics_state": "complete",
+   "path": "/1cuz-akta-mannen-remix-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/1cuz-akta-mannen-remix-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 6,
+    "day": 4
+   },
+   "release_date_for_display": "June 4, 2019",
+   "release_date_with_abbreviated_month_for_display": "Jun. 4, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/e8c16192d970c9d337bb2228f8e23780.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e8c16192d970c9d337bb2228f8e23780.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 3,
+    "contributors": 10,
+    "iq_earners": 10,
+    "transcribers": 4,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 43713
+   },
+   "title": "AKTA MANNEN (Remix)",
+   "title_with_featured": "AKTA MANNEN (Remix) (Ft.\u00a0Dree\u00a0Low & Ein\u00e1r)",
+   "url": "https://genius.com/1cuz-akta-mannen-remix-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1098579",
+     "header_image_url": "https://images.genius.com/bdb28c0bcb85f9d995cde8f283f83b21.1000x666x1.jpg",
+     "id": 1098579,
+     "image_url": "https://images.genius.com/4444bea873e15609274c697f0a511fd7.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dree Low",
+     "url": "https://genius.com/artists/Dree-low"
+    },
+    {
+     "api_path": "/artists/1704096",
+     "header_image_url": "https://images.genius.com/6b4e40dcc00024af197c6c5abcfb6662.1000x429x1.jpg",
+     "id": 1704096,
+     "image_url": "https://images.genius.com/ebcb4eb0c558941a37fbd412550606c1.949x949x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ein\u00e1r",
+     "url": "https://genius.com/artists/Einar"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1658385",
+    "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+    "id": 1658385,
+    "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "1.Cuz",
+    "url": "https://genius.com/artists/1cuz"
+   },
+   "apple_music_id": "1470055694",
+   "apple_music_player_url": "https://genius.com/songs/4603585/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4603585' class='rg_embed_link' data-song-id='4603585'>Read <a href='https://genius.com/1cuz-akta-mannen-remix-lyrics'>\u201cAKTA MANNEN (Remix)\u201d by 1.Cuz</a> on Genius</div> <script crossorigin src='//genius.com/songs/4603585/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-06-04",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/539920",
+    "cover_art_url": "https://images.genius.com/6366a003e979d669584742f73964a19c.999x999x1.jpg",
+    "full_title": "Tre Hj\u00e4rnor by 1.Cuz",
+    "id": 539920,
+    "name": "Tre Hj\u00e4rnor",
+    "url": "https://genius.com/albums/1cuz/Tre-hjarnor",
+    "artist": {
+     "api_path": "/artists/1658385",
+     "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "id": 1658385,
+     "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "1.Cuz",
+     "url": "https://genius.com/artists/1cuz"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/649312",
+       "header_image_url": "https://images.genius.com/7e3080bde568e30109fa076e0788e1da.347x145x1.jpg",
+       "id": 649312,
+       "image_url": "https://images.genius.com/994d552f385f2b0d7ae7982d3720566a.150x150x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Copyright Control",
+       "url": "https://genius.com/artists/Copyright-control"
+      }
+     ]
+    },
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/1580602",
+       "header_image_url": "https://images.genius.com/f617acf88326bc9c760ee288de828223.1000x563x1.jpg",
+       "id": 1580602,
+       "image_url": "https://images.genius.com/c59fd7d2e85cb260959392aa4c057f15.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Amuse",
+       "url": "https://genius.com/artists/Amuse"
+      }
+     ]
+    },
+    {
+     "label": "Artwork",
+     "artists": [
+      {
+       "api_path": "/artists/1889799",
+       "header_image_url": "https://images.genius.com/3d0f0916c4cbc6dade1b443eed6e880d.800x800x1.jpg",
+       "id": 1889799,
+       "image_url": "https://images.genius.com/48c041f3efc8e4d76fde155bfc7b0730.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "GeeKAY",
+       "url": "https://genius.com/artists/Geekay",
+       "iq": 123
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6612308,
+    "annotator_login": "emikael",
+    "api_path": "/referents/17484446",
+    "classification": "needs_exegesis",
+    "fragment": "AKTA MANNEN (Remix)",
+    "id": 17484446,
+    "is_description": true,
+    "path": "/17484446/1cuz-akta-mannen-remix/Akta-mannen-remix",
+    "range": {
+     "content": "AKTA MANNEN (Remix)"
+    },
+    "song_id": 4603585,
+    "url": "https://genius.com/17484446/1cuz-akta-mannen-remix/Akta-mannen-remix",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4603585",
+     "client_timestamps": {
+      "updated_by_human_at": 1655118797,
+      "lyrics_updated_at": 1655118797
+     },
+     "context": "1.Cuz",
+     "id": 4603585,
+     "image_url": "https://images.genius.com/e8c16192d970c9d337bb2228f8e23780.1000x1000x1.jpg",
+     "link_title": "AKTA MANNEN (Remix) by\u00a01.Cuz (Ft.\u00a0Dree\u00a0Low & Ein\u00e1r)",
+     "title": "AKTA MANNEN (Remix)",
+     "type": "Song",
+     "url": "https://genius.com/1cuz-akta-mannen-remix-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17484446",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17484446,
+      "pinned": false,
+      "share_url": "https://genius.com/17484446",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/17484446/1cuz-akta-mannen-remix/Akta-mannen-remix",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6612308",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/143423ca521346fd78ca6dbd68c588f8",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/143423ca521346fd78ca6dbd68c588f8",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/143423ca521346fd78ca6dbd68c588f8",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/143423ca521346fd78ca6dbd68c588f8",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/0ae47f1bf7eeed48d7ce7d2eff1b3bd9.497x280x10.gif",
+         "human_readable_role_for_display": "Editor",
+         "id": 6612308,
+         "iq": 506999,
+         "login": "emikael",
+         "name": "\u200bemikael",
+         "role_for_display": "editor",
+         "url": "https://genius.com/emikael",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=n1vL0Jvxk8w"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1184954",
+     "header_image_url": "https://images.genius.com/03bb96241862dbaaf2315ea340bf5ce2.800x1000x1.jpg",
+     "id": 1184954,
+     "image_url": "https://images.genius.com/9ad5d3ce14f9e8746d6f3b20abe169e0.874x874x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Yei Gonzalez",
+     "url": "https://genius.com/artists/Yei-gonzalez"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": [
+      {
+       "annotation_count": 5,
+       "api_path": "/songs/4137436",
+       "artist_names": "1.Cuz",
+       "full_title": "Akta mannen by\u00a01.Cuz",
+       "header_image_thumbnail_url": "https://images.genius.com/0cffcfa9790068b538723be740b0398b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/0cffcfa9790068b538723be740b0398b.1000x1000x1.jpg",
+       "id": 4137436,
+       "language": "sv",
+       "lyrics_owner_id": 7478405,
+       "lyrics_state": "complete",
+       "path": "/1cuz-akta-mannen-lyrics",
+       "pyongs_count": 6,
+       "relationships_index_url": "https://genius.com/1cuz-akta-mannen-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 11,
+        "day": 30
+       },
+       "release_date_for_display": "November 30, 2018",
+       "release_date_with_abbreviated_month_for_display": "Nov. 30, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0cffcfa9790068b538723be740b0398b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0cffcfa9790068b538723be740b0398b.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 5,
+        "hot": false,
+        "pageviews": 55717
+       },
+       "title": "Akta mannen",
+       "title_with_featured": "Akta mannen",
+       "url": "https://genius.com/1cuz-akta-mannen-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1658385",
+        "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+        "id": 1658385,
+        "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "1.Cuz",
+        "url": "https://genius.com/artists/1cuz"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1704096",
+     "header_image_url": "https://images.genius.com/6b4e40dcc00024af197c6c5abcfb6662.1000x429x1.jpg",
+     "id": 1704096,
+     "image_url": "https://images.genius.com/ebcb4eb0c558941a37fbd412550606c1.949x949x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ein\u00e1r",
+     "url": "https://genius.com/artists/Einar"
+    },
+    {
+     "api_path": "/artists/1098579",
+     "header_image_url": "https://images.genius.com/bdb28c0bcb85f9d995cde8f283f83b21.1000x666x1.jpg",
+     "id": 1098579,
+     "image_url": "https://images.genius.com/4444bea873e15609274c697f0a511fd7.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dree Low",
+     "url": "https://genius.com/artists/Dree-low"
+    },
+    {
+     "api_path": "/artists/1658385",
+     "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "id": 1658385,
+     "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "1.Cuz",
+     "url": "https://genius.com/artists/1cuz"
+    }
+   ],
+   "artist": "1.Cuz",
+   "lyrics": "AKTA MANNEN (Remix) Lyrics[Intro]\nWahzaa\nYei Gonzalez\n\n[Refr\u00e4ng: 1.Cuz & Ein\u00e1r]\nHar DJ med mig, akta mannen (Remix)\nAkta mannen, akta, mannen\nKommer fram och t\u00f6mmer maggen (Brr)\nAkta mannen, akta, mannen\nHar RT med mig, akta mannen (Pew, pew, pew)\nAkta mannen, akta, mannen\nKommer fram och t\u00f6mmer maggen (Du blir jappt)\nAkta mannen, akta, mannen (Ey)\n[Vers 1: Ein\u00e1r]\nJag har en tabbe i pungen, l\u00e4n, akta, mannen, gitt, gitt\nOm du testar p\u00e5 ungen d\u00e5 jag tar fram den, prickskytt\nJag vill lysa upp djungeln med diamanter, drip, drip\nDu \u00e4r en musht h\u00e4r i slummen, om du inte mandem, stick, stick, ey\nMina grabbar fucking skjuter i skallen\nVi l\u00e4gger krut i metallen, jag har en Luger i ballen\nMin bror \u00e4r ute med kallen och snurrar runt vardagligen\nMin bror \u00e4r nymuckad och han har grov span, min v\u00e4n\nOm Gud vill d\u00e5 han kommer aldrig tas igen\nDrip too hard med kl\u00e4der fr\u00e5n Italien\nEy, du f\u00e5r kulan i huden, fuck att strula med bruden\nHon f\u00e5r suga p\u00e5 kuken, jag gillar ljuga till snuten\nMusiken den h\u00e4mta miljoner och liken vi l\u00e4mnar i skogen\nVi glider i centan, min broder, i sviten vi h\u00e4mtar upp horor\n\n[Refr\u00e4ng: 1.Cuz]\nHar DJ med mig, akta mannen\nAkta mannen, akta, mannen\nKommer fram och t\u00f6mmer maggen\nAkta mannen, akta, mannen\nHar RT med mig, akta mannen\nAkta mannen, akta, mannen\nKommer fram och t\u00f6mmer maggen\nAkta mannen, akta, mannen\nYou might also like[Vers 2: 1.Cuz]\nAP, Rolex, Patek Philippe (Cash)\nDr\u00f6mmarna \u00e4r h\u00f6ga n\u00e4r jag sitter i min Jeep\nI want stars in the roof like me\nBedr\u00e4geri, DJ \u00f6verf\u00f6r en mill (Cash)\nOm den inte fryser d\u00e5 jag h\u00e4mtar en till\nGr\u00e4v din egen grop f\u00f6r n\u00e4r jag ser dig du \u00e4r d\u00f6d (Du \u00e4r d\u00f6d)\nOm jag knackar p\u00e5 din d\u00f6rr, mannen, du \u00e4r s\u00e5 k\u00f6rd (K\u00f6rd)\n(Och om jag ser dig i gatan d\u00e5 jag m\u00e5lar dig r\u00f6d)\nJag \u00e4r konstn\u00e4r som Picasso\nJag m\u00e5lar, m\u00e5lar Mona Lisa (Davinci)\nMin pensel \u00e4r metall och den \u00e4r s\u00e5 iskall (Ice)\nJagar tio mill med en nio mill, baby\nJag och Nisse samma Carl och Lenny\nStilen den \u00e4r b\u00e4ttre Dree, visa dina enemies\nAkta mannen (Pew)\nAkta mannen, akta mannen\n\n[Refr\u00e4ng: 1.Cuz & Dree Low]\nHar DJ med mig, akta mannen (Akta)\nAkta mannen, akta mannen\nKommer fram och t\u00f6mmer maggen\nAkta mannen, akta, mannen\nHar RT med mig, akta, mannen\nAkta mannen, akta, mannen\nKommer fram och t\u00f6mmer maggen (Nacas, gitt)\nAkta mannen, akta, mannen\n[Vers 3: Dree Low]\nEn 745a, den \u00e4r tonad, mannen (Tonad)\nVarf\u00f6r spela G om du ska gola, mannen? (Snitch)\nOm du hamnar i mitten du \u00e4r skonad, mannen (Yes)\nOch dh\u00e4bin bl\u00e4ndar som att du solar, mannen (Aj)\nEy, akta det \u00e4r krigszon h\u00e4r som man rattar (Rah)\nSteppa fel och jag sv\u00e4r, det blir stackars (Stackars)\nEy, jag l\u00e4r dig som att jag \u00e4r din farsa (Baba)\nMannen, g\u00f6r du fel, ey, jag sv\u00e4r att du straffas (Straffas)\nDet g\u00e5r bra f\u00f6r det h\u00e4r \u00e4rligt (\u00c4rligt)\nN\u00e4r, mannen, f\u00e5r betalt f\u00f6r det h\u00e4r cash in (Cash in)\nEy, mannen, du \u00e4r f\u00f6r svag f\u00f6r den h\u00e4r \u00e4bin (\u00c4bin)\nBeter dig som en dr\u00e4ng var det h\u00e4r r\u00e4ligt (R\u00e4ligt)\nEyo, knip, l\u00e4n, ni ba snackar (Yeah)\nSkit, l\u00e4n, och ba hackar (Hackar)\nLinor och sen rappar (Rappar)\nEyo, kritar och sen taggar\n\n[Refr\u00e4ng: 1.Cuz]\nHar DJ med mig, akta mannen\nAkta mannen, akta, mannen\nKommer fram och t\u00f6mmer maggen\nAkta mannen, akta, mannen\nHar RT med mig, akta mannen\nAkta mannen, akta, mannen\nKommer fram och t\u00f6mmer maggen\nAkta mannen, akta, mannenEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5055682",
+   "artist_names": "1.Cuz (Ft. Ein\u00e1r)",
+   "full_title": "R\u00c4KNA MINA DAGAR by\u00a01.Cuz (Ft.\u00a0Ein\u00e1r)",
+   "header_image_thumbnail_url": "https://images.genius.com/8acbe46df305e654b45550d3799ea5b8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8acbe46df305e654b45550d3799ea5b8.960x960x1.jpg",
+   "id": 5055682,
+   "language": "sv",
+   "lyrics_owner_id": 5788985,
+   "lyrics_state": "complete",
+   "path": "/1cuz-rakna-mina-dagar-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/1cuz-rakna-mina-dagar-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 11,
+    "day": 29
+   },
+   "release_date_for_display": "November 29, 2019",
+   "release_date_with_abbreviated_month_for_display": "Nov. 29, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8acbe46df305e654b45550d3799ea5b8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8acbe46df305e654b45550d3799ea5b8.960x960x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 9,
+    "iq_earners": 9,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 29378
+   },
+   "title": "R\u00c4KNA MINA DAGAR",
+   "title_with_featured": "R\u00c4KNA MINA DAGAR (Ft.\u00a0Ein\u00e1r)",
+   "url": "https://genius.com/1cuz-rakna-mina-dagar-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1704096",
+     "header_image_url": "https://images.genius.com/6b4e40dcc00024af197c6c5abcfb6662.1000x429x1.jpg",
+     "id": 1704096,
+     "image_url": "https://images.genius.com/ebcb4eb0c558941a37fbd412550606c1.949x949x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ein\u00e1r",
+     "url": "https://genius.com/artists/Einar"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1658385",
+    "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+    "id": 1658385,
+    "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "1.Cuz",
+    "url": "https://genius.com/artists/1cuz"
+   },
+   "apple_music_id": "1489153715",
+   "apple_music_player_url": "https://genius.com/songs/5055682/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5055682' class='rg_embed_link' data-song-id='5055682'>Read <a href='https://genius.com/1cuz-rakna-mina-dagar-lyrics'>\u201cR\u00c4KNA MINA DAGAR\u201d by 1.Cuz</a> on Genius</div> <script crossorigin src='//genius.com/songs/5055682/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-11-29",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/569450",
+    "cover_art_url": "https://images.genius.com/8acbe46df305e654b45550d3799ea5b8.960x960x1.jpg",
+    "full_title": "1 \u00c5R by 1.Cuz",
+    "id": 569450,
+    "name": "1 \u00c5R",
+    "url": "https://genius.com/albums/1cuz/1-ar",
+    "artist": {
+     "api_path": "/artists/1658385",
+     "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "id": 1658385,
+     "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "1.Cuz",
+     "url": "https://genius.com/artists/1cuz"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Video Director",
+     "artists": [
+      {
+       "api_path": "/artists/2378359",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 2378359,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Mikic",
+       "url": "https://genius.com/artists/David-mikic"
+      }
+     ]
+    },
+    {
+     "label": "Video Editor",
+     "artists": [
+      {
+       "api_path": "/artists/2378359",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 2378359,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Mikic",
+       "url": "https://genius.com/artists/David-mikic"
+      }
+     ]
+    },
+    {
+     "label": "Video Production Company",
+     "artists": [
+      {
+       "api_path": "/artists/1895938",
+       "header_image_url": "https://images.genius.com/40e0af10ce9fc1e68e2e5c6d08a65a89.288x288x1.jpg",
+       "id": 1895938,
+       "image_url": "https://images.genius.com/40e0af10ce9fc1e68e2e5c6d08a65a89.288x288x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Block Juice",
+       "url": "https://genius.com/artists/Block-juice"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8238432,
+    "annotator_login": "Shokatt",
+    "api_path": "/referents/18532580",
+    "classification": "needs_exegesis",
+    "fragment": "R\u00c4KNA MINA DAGAR",
+    "id": 18532580,
+    "is_description": true,
+    "path": "/18532580/1cuz-rakna-mina-dagar/Rakna-mina-dagar",
+    "range": {
+     "content": "R\u00c4KNA MINA DAGAR"
+    },
+    "song_id": 5055682,
+    "url": "https://genius.com/18532580/1cuz-rakna-mina-dagar/Rakna-mina-dagar",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5055682",
+     "client_timestamps": {
+      "updated_by_human_at": 1626971614,
+      "lyrics_updated_at": 1619814795
+     },
+     "context": "1.Cuz",
+     "id": 5055682,
+     "image_url": "https://images.genius.com/8acbe46df305e654b45550d3799ea5b8.960x960x1.jpg",
+     "link_title": "R\u00c4KNA MINA DAGAR by\u00a01.Cuz (Ft.\u00a0Ein\u00e1r)",
+     "title": "R\u00c4KNA MINA DAGAR",
+     "type": "Song",
+     "url": "https://genius.com/1cuz-rakna-mina-dagar-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18532580",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18532580,
+      "pinned": false,
+      "share_url": "https://genius.com/18532580",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18532580/1cuz-rakna-mina-dagar/Rakna-mina-dagar",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8238432",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/17b2f8c23a09147b4a00a5f54891ef98",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/17b2f8c23a09147b4a00a5f54891ef98",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/17b2f8c23a09147b4a00a5f54891ef98",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/17b2f8c23a09147b4a00a5f54891ef98",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/f66a8add582f846adc1fd1fa9094a6b6.1000x558x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 8238432,
+         "iq": 76140,
+         "login": "Shokatt",
+         "name": "Shokatt",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Shokatt",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=M8veHaAUWiU"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1184954",
+     "header_image_url": "https://images.genius.com/03bb96241862dbaaf2315ea340bf5ce2.800x1000x1.jpg",
+     "id": 1184954,
+     "image_url": "https://images.genius.com/9ad5d3ce14f9e8746d6f3b20abe169e0.874x874x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Yei Gonzalez",
+     "url": "https://genius.com/artists/Yei-gonzalez"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5284689",
+       "artist_names": "Ein\u00e1r (Ft. Sebastian Stakset)",
+       "full_title": "Be f\u00f6r mig* by\u00a0Ein\u00e1r (Ft.\u00a0Sebastian\u00a0Stakset)",
+       "header_image_thumbnail_url": "https://images.genius.com/ebcb4eb0c558941a37fbd412550606c1.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ebcb4eb0c558941a37fbd412550606c1.949x949x1.jpg",
+       "id": 5284689,
+       "language": "sv",
+       "lyrics_owner_id": 11517976,
+       "lyrics_state": "complete",
+       "path": "/Einar-be-for-mig-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Einar-be-for-mig-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/ebcb4eb0c558941a37fbd412550606c1.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ebcb4eb0c558941a37fbd412550606c1.949x949x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Be f\u00f6r mig*",
+       "title_with_featured": "Be f\u00f6r mig* (Ft.\u00a0Sebastian\u00a0Stakset)",
+       "url": "https://genius.com/Einar-be-for-mig-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/879678",
+         "header_image_url": "https://images.genius.com/7307206c508938648e2cac08e4b0f3c8.960x960x1.jpg",
+         "id": 879678,
+         "image_url": "https://images.genius.com/7307206c508938648e2cac08e4b0f3c8.960x960x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Sebastian Stakset",
+         "url": "https://genius.com/artists/Sebastian-stakset"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1704096",
+        "header_image_url": "https://images.genius.com/6b4e40dcc00024af197c6c5abcfb6662.1000x429x1.jpg",
+        "id": 1704096,
+        "image_url": "https://images.genius.com/ebcb4eb0c558941a37fbd412550606c1.949x949x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Ein\u00e1r",
+        "url": "https://genius.com/artists/Einar"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1704096",
+     "header_image_url": "https://images.genius.com/6b4e40dcc00024af197c6c5abcfb6662.1000x429x1.jpg",
+     "id": 1704096,
+     "image_url": "https://images.genius.com/ebcb4eb0c558941a37fbd412550606c1.949x949x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ein\u00e1r",
+     "url": "https://genius.com/artists/Einar"
+    },
+    {
+     "api_path": "/artists/1658385",
+     "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "id": 1658385,
+     "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "1.Cuz",
+     "url": "https://genius.com/artists/1cuz"
+    }
+   ],
+   "artist": "1.Cuz",
+   "lyrics": "R\u00c4KNA MINA DAGAR Lyrics[Intro: 1.Cuz]\nK\u00e4nns som de ba hatar, de vill se mig kvar i gatan\nHataren han hatar, han\u2005f\u00e5r\u2005massa hat tillbaka\nDe\u2005som inte \u00e4r b\u00e4ttre \u00e4r de\u2005som g\u00e5r och pratar\nMinns n\u00e4r jag satt i cellen, r\u00e4kna mina dagar\nYei Gonzalez\n\n[Vers 1: 1.Cuz]\nNu f\u00f6r tiden \u00e4r inte som f\u00f6rr, nej\nNu jag skiner, musiken har \u00f6ppnat upp en d\u00f6rr, ey\nLever livet, st\u00e5r p\u00e5 scen och mitt namn de skriker\nInte l\u00e4nge sen jag h\u00f6ll i automatkarbiner\nJag m\u00e5 va ung men jag tar \u00e4nd\u00e5 vara p\u00e5 tiden\nJag m\u00e5 va lugn men jag har \u00e4nd\u00e5 en dj\u00e4vul i mig\nBotten \u00e4r en plats som jag inte vill vistas p\u00e5\nJag vaknar upp, redan tio l\u00f6gner hittats p\u00e5\nOm mig, min fame, \u00e5h nej, he-hej\nJag r\u00e5ka baxa din tjej, hon ville komma hem, leka med mig\nHon sa hon bara ville vara v\u00e4n, en v\u00e4n, en friend\nKan du f\u00f6rklara vad som har v\u00e4nt?\nDu tacka nej f\u00f6r l\u00e4nge, l\u00e4nge sen\n[Refr\u00e4ng: 1.Cuz & Ein\u00e1r]\nK\u00e4nns som de ba hatar, de vill se mig kvar i gatan\nHataren han hatar, han f\u00e5r massa hat tillbaka\nDe som inte \u00e4r b\u00e4ttre \u00e4r de som g\u00e5r och pratar\nMinns n\u00e4r jag satt i cellen, r\u00e4kna mina dagar\nK\u00e4nns som de ba hatar, de vill se mig kvar i gatan\nHataren han hatar, han f\u00e5r massa hat tillbaka\nDe som inte \u00e4r b\u00e4ttre \u00e4r de som g\u00e5r och pratar\nMinns n\u00e4r jag satt i cellen, r\u00e4kna mina dagar (Ey, ey)\n\n[Vers 2: Ein\u00e1r]\nNi alla snackar skit, jag vet inte vad ni pratar om\nBroder, jag \u00e4r rik, \u00e4nd\u00e5 millarna jag jagar dem\nGlocken den \u00e4r fin, den blir het om vi hatar n\u00e5n\nBroder, vi \u00e4r G's och vi g\u00f6r det vi pratar om, uh\nBror, jag turbar i en bil, ey, \u00e5ker p\u00e5 en v\u00e4nsterfil, ey\nMannen, benim \u00e4r unik, du kan h\u00f6ra min lyrik\nJag g\u00f6r \u00e4kta musik, mannen, jalla, vem \u00e4r ni?\nEy, bror, den gick av igen, uh, vi \u00e4r inte fr\u00e5n stan, min v\u00e4n, ey\nVi \u00e4r fr\u00e5n den orten d\u00e4r tabben g\u00e5r av och d\u00e4r aina de drar i en, ey\nMannen, det \u00e4r knas h\u00e4r ute, jag \u00e4r \u00e4rlig\nJag vill inte ens va h\u00e4r ute, jag \u00e4r f\u00e4rdig\nBror, hon tar betalt f\u00f6r kuken, vilken g\u00e4ri\nMen, bror, det \u00e4r normalt h\u00e4r ute s\u00e5 det \u00e4di\nB\u00e4r Gucci fr\u00e5n botten till toppen, ey\nDe skicka ut helikoptern, ey\nFuck ainas mamma och dotter, ey\nBror, jag st\u00e5r kvar h\u00e4r med Glocken, ey, ey, ey\nYou might also like[Refr\u00e4ng: 1.Cuz]\nK\u00e4nns som de ba hatar, de vill se mig kvar i gatan\nHataren han hatar, han f\u00e5r massa hat tillbaka\nDe som inte \u00e4r b\u00e4ttre \u00e4r de som g\u00e5r och pratar\nMinns n\u00e4r jag satt i cellen, r\u00e4kna mina dagar\n\n[Vers 3: 1.Cuz]\nMitt lag kan ba vinna, ditt lag kan g\u00e5 brinna\nJag stannar p\u00e5 toppen bara f\u00f6r att det \u00e4r s\u00e5\nFastnade med toppen f\u00f6r att hon \u00e4r s\u00e5 k\u00e5t\nJag har en blue check och det har inte g\u00e5tt ett \u00e5r\nVerifierad, trapstar, skickar stenar\nBusinessman, mina varor inte sena\nIn the trap, testa gang, vi tap-clap-clap (Tap)\nIn the trap, testa MR, bam-bam-bam (Damn)\nIn the trap, testa Isse, clap-back-clap\nTr\u00e4nger bl\u00e5a bilen, muschten sitter i den\nJag var sjutton n\u00e4r jag b\u00f6rja jaga millen\nTjugo-n\u00e5t och det inte samma mission\n\n[Refr\u00e4ng: 1.Cuz]\nK\u00e4nns som de ba hatar, de vill se mig kvar i gatan\nHataren han hatar, han f\u00e5r massa hat tillbaka\nDe som inte \u00e4r b\u00e4ttre \u00e4r de som g\u00e5r och pratar\nMinns n\u00e4r jag satt i cellen, r\u00e4kna mina dagar\nK\u00e4nns som de ba hatar, de vill se mig kvar i gatan\nHataren han hatar, han f\u00e5r massa hat tillbaka\nDe som inte \u00e4r b\u00e4ttre \u00e4r de som g\u00e5r och pratar\nMinns n\u00e4r jag satt i cellen, r\u00e4kna mina dagarEmbed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/5653067",
+   "artist_names": "1.Cuz (Ft. Ein\u00e1r)",
+   "full_title": "FIENDES FIENDE by\u00a01.Cuz (Ft.\u00a0Ein\u00e1r)",
+   "header_image_thumbnail_url": "https://images.genius.com/24afc60d3492149ea3cf97c0187d31fc.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/24afc60d3492149ea3cf97c0187d31fc.1000x1000x1.jpg",
+   "id": 5653067,
+   "language": "sv",
+   "lyrics_owner_id": 7551604,
+   "lyrics_state": "complete",
+   "path": "/1cuz-fiendes-fiende-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/1cuz-fiendes-fiende-sample",
+   "release_date_components": {
+    "year": 2020,
+    "month": 6,
+    "day": 12
+   },
+   "release_date_for_display": "June 12, 2020",
+   "release_date_with_abbreviated_month_for_display": "Jun. 12, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/24afc60d3492149ea3cf97c0187d31fc.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/24afc60d3492149ea3cf97c0187d31fc.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 8,
+    "iq_earners": 7,
+    "transcribers": 4,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 16873
+   },
+   "title": "FIENDES FIENDE",
+   "title_with_featured": "FIENDES FIENDE (Ft.\u00a0Ein\u00e1r)",
+   "url": "https://genius.com/1cuz-fiendes-fiende-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1704096",
+     "header_image_url": "https://images.genius.com/6b4e40dcc00024af197c6c5abcfb6662.1000x429x1.jpg",
+     "id": 1704096,
+     "image_url": "https://images.genius.com/ebcb4eb0c558941a37fbd412550606c1.949x949x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ein\u00e1r",
+     "url": "https://genius.com/artists/Einar"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1658385",
+    "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+    "id": 1658385,
+    "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "1.Cuz",
+    "url": "https://genius.com/artists/1cuz"
+   },
+   "apple_music_id": "1517619622",
+   "apple_music_player_url": "https://genius.com/songs/5653067/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5653067' class='rg_embed_link' data-song-id='5653067'>Read <a href='https://genius.com/1cuz-fiendes-fiende-lyrics'>\u201cFIENDES FIENDE\u201d by 1.Cuz</a> on Genius</div> <script crossorigin src='//genius.com/songs/5653067/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2020-06-12",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/636486",
+    "cover_art_url": "https://images.genius.com/5fe109278282b35bc3e1a93239793419.1000x1000x1.jpg",
+    "full_title": "FFF by 1.Cuz",
+    "id": 636486,
+    "name": "FFF",
+    "url": "https://genius.com/albums/1cuz/Fff",
+    "artist": {
+     "api_path": "/artists/1658385",
+     "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "id": 1658385,
+     "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "1.Cuz",
+     "url": "https://genius.com/artists/1cuz"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/649312",
+       "header_image_url": "https://images.genius.com/7e3080bde568e30109fa076e0788e1da.347x145x1.jpg",
+       "id": 649312,
+       "image_url": "https://images.genius.com/994d552f385f2b0d7ae7982d3720566a.150x150x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Copyright Control",
+       "url": "https://genius.com/artists/Copyright-control"
+      }
+     ]
+    },
+    {
+     "label": "Video Production Company",
+     "artists": [
+      {
+       "api_path": "/artists/1949664",
+       "header_image_url": "https://images.genius.com/c4c5658e266d052c0fd3d0f88f3c95ad.999x999x1.jpg",
+       "id": 1949664,
+       "image_url": "https://images.genius.com/c4c5658e266d052c0fd3d0f88f3c95ad.999x999x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "ZiETZ",
+       "url": "https://genius.com/artists/Zietz"
+      }
+     ]
+    },
+    {
+     "label": "Artwork",
+     "artists": [
+      {
+       "api_path": "/artists/1889799",
+       "header_image_url": "https://images.genius.com/3d0f0916c4cbc6dade1b443eed6e880d.800x800x1.jpg",
+       "id": 1889799,
+       "image_url": "https://images.genius.com/48c041f3efc8e4d76fde155bfc7b0730.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "GeeKAY",
+       "url": "https://genius.com/artists/Geekay",
+       "iq": 123
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/2279262",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 2279262,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "FFF MUSIC",
+       "url": "https://genius.com/artists/Fff-music"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/2279262",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 2279262,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "FFF MUSIC",
+       "url": "https://genius.com/artists/Fff-music"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 7551604,
+    "annotator_login": "Giraffgangster",
+    "api_path": "/referents/20060774",
+    "classification": "needs_exegesis",
+    "fragment": "FIENDES FIENDE",
+    "id": 20060774,
+    "is_description": true,
+    "path": "/20060774/1cuz-fiendes-fiende/Fiendes-fiende",
+    "range": {
+     "content": "FIENDES FIENDE"
+    },
+    "song_id": 5653067,
+    "url": "https://genius.com/20060774/1cuz-fiendes-fiende/Fiendes-fiende",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5653067",
+     "client_timestamps": {
+      "updated_by_human_at": 1649612765,
+      "lyrics_updated_at": 1644685647
+     },
+     "context": "1.Cuz",
+     "id": 5653067,
+     "image_url": "https://images.genius.com/24afc60d3492149ea3cf97c0187d31fc.1000x1000x1.jpg",
+     "link_title": "FIENDES FIENDE by\u00a01.Cuz (Ft.\u00a0Ein\u00e1r)",
+     "title": "FIENDES FIENDE",
+     "type": "Song",
+     "url": "https://genius.com/1cuz-fiendes-fiende-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20060774",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20060774,
+      "pinned": false,
+      "share_url": "https://genius.com/20060774",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20060774/1cuz-fiendes-fiende/Fiendes-fiende",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7551604",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/88845746a4d97e2923cdb14ea0a4bf90",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/88845746a4d97e2923cdb14ea0a4bf90",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/88845746a4d97e2923cdb14ea0a4bf90",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/88845746a4d97e2923cdb14ea0a4bf90",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/88845746a4d97e2923cdb14ea0a4bf90",
+         "human_readable_role_for_display": "Contributor",
+         "id": 7551604,
+         "iq": 18465,
+         "login": "Giraffgangster",
+         "name": "Giraffgangster",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Giraffgangster",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=tmuP8kejlBI"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/165038",
+     "header_image_url": "https://images.genius.com/90b8a5783f903a0b030daaa83e347eca.351x351x1.jpg",
+     "id": 165038,
+     "image_url": "https://images.genius.com/90b8a5783f903a0b030daaa83e347eca.351x351x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Matte Caliste",
+     "url": "https://genius.com/artists/Matte-caliste"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6741340",
+       "artist_names": "1.Cuz (Ft. Ein\u00e1r & Luk G)",
+       "full_title": "FIENDES FIENDE (OG)* by\u00a01.Cuz (Ft.\u00a0Ein\u00e1r & Luk\u00a0G)",
+       "header_image_thumbnail_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+       "id": 6741340,
+       "language": "sv",
+       "lyrics_owner_id": 10391665,
+       "lyrics_state": "complete",
+       "path": "/1cuz-fiendes-fiende-og-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/1cuz-fiendes-fiende-og-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "FIENDES FIENDE (OG)*",
+       "title_with_featured": "FIENDES FIENDE (OG)* (Ft.\u00a0Ein\u00e1r & Luk\u00a0G)",
+       "url": "https://genius.com/1cuz-fiendes-fiende-og-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/1705208",
+         "header_image_url": "https://images.genius.com/99b195a11cc8d24a8e97d340d6093ebb.525x525x1.jpg",
+         "id": 1705208,
+         "image_url": "https://images.genius.com/99b195a11cc8d24a8e97d340d6093ebb.525x525x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Luk G",
+         "url": "https://genius.com/artists/Luk-g"
+        },
+        {
+         "api_path": "/artists/1704096",
+         "header_image_url": "https://images.genius.com/6b4e40dcc00024af197c6c5abcfb6662.1000x429x1.jpg",
+         "id": 1704096,
+         "image_url": "https://images.genius.com/ebcb4eb0c558941a37fbd412550606c1.949x949x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Ein\u00e1r",
+         "url": "https://genius.com/artists/Einar"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1658385",
+        "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+        "id": 1658385,
+        "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "1.Cuz",
+        "url": "https://genius.com/artists/1cuz"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1704096",
+     "header_image_url": "https://images.genius.com/6b4e40dcc00024af197c6c5abcfb6662.1000x429x1.jpg",
+     "id": 1704096,
+     "image_url": "https://images.genius.com/ebcb4eb0c558941a37fbd412550606c1.949x949x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ein\u00e1r",
+     "url": "https://genius.com/artists/Einar"
+    },
+    {
+     "api_path": "/artists/1658385",
+     "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "id": 1658385,
+     "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "1.Cuz",
+     "url": "https://genius.com/artists/1cuz"
+    }
+   ],
+   "artist": "1.Cuz",
+   "lyrics": "FIENDES FIENDE Lyrics[Intro: 1.Cuz]\nDet kan va tufft just nu, men det blir bra\nMagen k\u00e4nner av n\u00e5nting lurt s\u00e5\u2005jag\u2005drar\nMin fiendes fiende\u2005kommer va min v\u00e4n\nBara tills att\u2005fienden \u00e4r borta, sen det klart att han blir br\u00e4nd, ey\nRrr, ey\nDet kan va tufft just nu, men det blir bra\nMagen k\u00e4nner av n\u00e5nting lurt s\u00e5 jag drar\nMin fiendes fiende kommer va min v\u00e4n\nBara tills att fienden \u00e4r borta, sen det klart att han blir br\u00e4nd, ey\nBara beats fr\u00e5n MCaliste\n[Vers 1: 1.Cuz]\nEy, pickan \u00e4r som Messi, den f\u00e5r er alla falla\nKommer du f\u00f6r n\u00e4ra kallen, kommer spotta som en lama, ey\nHandling utan \u00e5nger, jag \u00e4r alster av betongen, yeah\nVi \u00e4r de som inte g\u00f6r om samma misstag tv\u00e5 g\u00e5nger, nej\nSkjuter upp dig till skyn, tredje \u00f6ga vid ditt \u00f6gonbryn\nLuktar knas, tankarna g\u00e5r \u00e5t\nHon blev v\u00e5t av en osl\u00e4ppt l\u00e5t, bara siffror g\u00f6r mig k\u00e5t\nS\u00e5na som oss, det finns f\u00e5, de vill krypa d\u00e4r jag g\u00e5r, ey\nDet \u00e4r s\u00e5 att jag f\u00e5tt f\u00f6r keffa vanor\nTesta p\u00e5 mig, och jag lovar du f\u00e5r skador (Pow)\nFalska rappare, de pratar bakom datorn\nMen jag och Nisse, vi \u00e4r kvar p\u00e5 v\u00e5ra gator\n\n[Refr\u00e4ng: 1.Cuz]\nDet kan va tufft just nu, men det blir bra\nMagen k\u00e4nner av n\u00e5nting lurt s\u00e5 jag drar\nMin fiendes fiende kommer va min v\u00e4n\nBara tills att fienden \u00e4r borta, sen det klart att han blir br\u00e4nd, ey\nDet kan va tufft just nu, men det blir bra\nMagen k\u00e4nner av n\u00e5nting lurt s\u00e5 jag drar\nMin fiendes fiende kommer va min v\u00e4n\nBara tills att fienden \u00e4r borta, sen det klart att han blir br\u00e4nd, ey\n\n[Vers 2: Ein\u00e1r & 1.Cuz]\nEy, min enemy's enemy kommer alltid va min v\u00e4n\nEy, jag h\u00e4ller ut Hennessy f\u00f6r allt sjukt som har h\u00e4nt\nEyo, mannen, lakk, vem \u00e4r ni? Bror, jag sv\u00e4r, ni \u00e4r ett sk\u00e4mt\nDet min trakt som det h\u00e4nder i, allt ni ser p\u00e5 eran sk\u00e4rm\nTar tv\u00e5 steg bak eller tv\u00e5 steg fram\nJag har tv\u00e5 G's bak, med en s\u00e5 fet gun\nBror, jag st\u00e5r med Scar, bror, det l\u00e5ter bam\nOm ni sl\u00e5r tillbaks, vi tar \u00e5terfall, ey\nGick in och r\u00e5na branschen, det \u00e4r klart att Cuz har masken p\u00e5\nDet \u00e4r torka i hela landet, s\u00e5 sextiofem ligger kassen p\u00e5\nGuzzen ger mig dansen, hon gjorde min fucking dachri h\u00e5rd\nDet h\u00e4r \u00e4r fr\u00e5n min brate, s\u00e5 jointen det \u00e4r min Alvedon\nBror, jag sket i bollen, s\u00e5 jag skicka fyr' nollor\nNu jag har en ny Rolle, plus jag h\u00e5ller i Colten\nKom och testa mig, ey\nYou might also like[Refr\u00e4ng: 1.Cuz]\nDet kan va tufft just nu, men det blir bra\nMagen k\u00e4nner av n\u00e5nting lurt s\u00e5 jag drar\nMin fiendes fiende kommer va min v\u00e4n\nBara tills att fienden \u00e4r borta, sen det klart att han blir br\u00e4nd, ey\nDet kan va tufft just nu, men det blir bra\nMagen k\u00e4nner av n\u00e5nting lurt s\u00e5 jag drar\nMin fiendes fiende kommer va min v\u00e4n\nBara tills att fienden \u00e4r borta, sen det klart att han blir br\u00e4nd, eyEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/4245201",
+   "artist_names": "1.Cuz",
+   "full_title": "Swedens Most Wanted by\u00a01.Cuz",
+   "header_image_thumbnail_url": "https://images.genius.com/93159afc3652fcc92786135613106ac0.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/93159afc3652fcc92786135613106ac0.640x640x1.jpg",
+   "id": 4245201,
+   "language": "sv",
+   "lyrics_owner_id": 5788985,
+   "lyrics_state": "complete",
+   "path": "/1cuz-swedens-most-wanted-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/1cuz-swedens-most-wanted-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 1,
+    "day": 25
+   },
+   "release_date_for_display": "January 25, 2019",
+   "release_date_with_abbreviated_month_for_display": "Jan. 25, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/93159afc3652fcc92786135613106ac0.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/93159afc3652fcc92786135613106ac0.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 17,
+    "iq_earners": 17,
+    "transcribers": 4,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 13553
+   },
+   "title": "Swedens Most Wanted",
+   "title_with_featured": "Swedens Most Wanted",
+   "url": "https://genius.com/1cuz-swedens-most-wanted-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1658385",
+    "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+    "id": 1658385,
+    "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "1.Cuz",
+    "url": "https://genius.com/artists/1cuz"
+   },
+   "apple_music_id": "1454382900",
+   "apple_music_player_url": "https://genius.com/songs/4245201/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4245201' class='rg_embed_link' data-song-id='4245201'>Read <a href='https://genius.com/1cuz-swedens-most-wanted-lyrics'>\u201cSwedens Most Wanted\u201d by 1.Cuz</a> on Genius</div> <script crossorigin src='//genius.com/songs/4245201/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-01-25",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/539920",
+    "cover_art_url": "https://images.genius.com/6366a003e979d669584742f73964a19c.999x999x1.jpg",
+    "full_title": "Tre Hj\u00e4rnor by 1.Cuz",
+    "id": 539920,
+    "name": "Tre Hj\u00e4rnor",
+    "url": "https://genius.com/albums/1cuz/Tre-hjarnor",
+    "artist": {
+     "api_path": "/artists/1658385",
+     "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "id": 1658385,
+     "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "1.Cuz",
+     "url": "https://genius.com/artists/1cuz"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3920262,
+    "annotator_login": "Tossing_Dice",
+    "api_path": "/referents/17014266",
+    "classification": "needs_exegesis",
+    "fragment": "Swedens Most Wanted",
+    "id": 17014266,
+    "is_description": true,
+    "path": "/17014266/1cuz-swedens-most-wanted/Swedens-most-wanted",
+    "range": {
+     "content": "Swedens Most Wanted"
+    },
+    "song_id": 4245201,
+    "url": "https://genius.com/17014266/1cuz-swedens-most-wanted/Swedens-most-wanted",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4245201",
+     "client_timestamps": {
+      "updated_by_human_at": 1644111605,
+      "lyrics_updated_at": 1644111605
+     },
+     "context": "1.Cuz",
+     "id": 4245201,
+     "image_url": "https://images.genius.com/93159afc3652fcc92786135613106ac0.640x640x1.jpg",
+     "link_title": "Swedens Most Wanted by\u00a01.Cuz",
+     "title": "Swedens Most Wanted",
+     "type": "Song",
+     "url": "https://genius.com/1cuz-swedens-most-wanted-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17014266",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17014266,
+      "pinned": false,
+      "share_url": "https://genius.com/17014266",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/17014266/1cuz-swedens-most-wanted/Swedens-most-wanted",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3920262",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/2628d655fa0c4ec454734d1ee344ebf6",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/2628d655fa0c4ec454734d1ee344ebf6",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/2628d655fa0c4ec454734d1ee344ebf6",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/2628d655fa0c4ec454734d1ee344ebf6",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/ed06a9dae25c963413e632697b22b25b.1000x563x1.jpg",
+         "human_readable_role_for_display": "Moderator",
+         "id": 3920262,
+         "iq": 526344,
+         "login": "Tossing_Dice",
+         "name": "Tossing Dice",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Tossing_Dice",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1766790",
+     "header_image_url": "https://images.genius.com/ff79b0cbc542d5630438e86e84809315.900x900x1.jpg",
+     "id": 1766790,
+     "image_url": "https://images.genius.com/ff79b0cbc542d5630438e86e84809315.900x900x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DnoteOnDaBeat",
+     "url": "https://genius.com/artists/Dnoteondabeat"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1658385",
+     "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "id": 1658385,
+     "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "1.Cuz",
+     "url": "https://genius.com/artists/1cuz"
+    }
+   ],
+   "artist": "1.Cuz",
+   "lyrics": "Swedens Most Wanted Lyrics[Intro]\nHehe (Grrr)\nShhh, 1.Cuz (Grrr)\nNu va, nu va (Nu va, nu va)\nNu va, nu va\n1.Cuz\nIt's DnoteOnDaBeat, yeah\n\n[Refr\u00e4ng]\nJag \u00e4r all in n\u00e4r det kommer till paper\nJag \u00e4r kr\u00e4sen n\u00e4r det kommer till flavours\nJag mixar upp det, jag pushar dunder och\nJag har ingen aning om vad dem f\u00e5tt f\u00f6r sig, ey\n[Vers 1]\nSkitsnacket, funkar inte h\u00e4r i trakten\nOch jag l\u00e4gger ba tv\u00e5 i nacken\nS\u00e4tter aldrig n\u00e5gonsin in backen\nOch maskera grabben fyrtakten\nKommer dagsljus och blir natten, nej\nSom Medusa, n\u00e4r ni ser oss d\u00e5 ni stenar till\nSom jultomten, n\u00e4r jag kommer du f\u00e5r vad du vill\nJag delar klappar, ey, det stora tabbar, ey\nMasken den e p\u00e5, \u00e4nda hon har valt att fastna ej\nOch eran broder, han \u00e4r Swedens most wanted, yeah\nNu de vill va med mig, f\u00f6r mina rader, ey\nDe har blivit galna och p\u00e5 s\u00e4ngen blivit tagna, yeah\nDu kan hata, men jag vet att du saknar mig\nDu kan hata, men jag vet att du saknar mig\n\n[Refr\u00e4ng]\nJag \u00e4r all in n\u00e4r de kommer till paper\nJag \u00e4r kr\u00e4sen n\u00e4r de kommer till flavours\nJag mixar upp det, jag pushar dunder och\nJag har ingen aning om vad dem f\u00e5tt f\u00f6r sig, ey\n\n[Vers 2]\nEna helgen har h\u00e4gget i handen\nAndra dagar jag h\u00e5ller i gunnen\nH\u00f6ger, v\u00e4nster bara v\u00e4nd, mannen\nJag h\u00e4r, vi g\u00f6r dunder funnen\nHar dr\u00f6mmar om b\u00e5tar p\u00e5 hamnen\nVissa dagar \u00e4r i Askar City\nSt\u00e5r parkerad 30 WS 50\nTj\u00e4na pengar sen jag l\u00e4mnar\nChip chip, som jag regnar\nSl\u00e4ppte sn\u00f6 den \u00e4r is\nPara g\u00e5r, fr\u00e5ga broder i\nJag sitter minst p\u00e5 en key\nInga bilder vill va lowkey\nInga bilder vill va lowkey\nInga, Inga, Inga\nBilder jag vill h\u00e5lla de lowkey\nYou might also like[Refr\u00e4ng]\nJag \u00e4r all in n\u00e4r de kommer till paper\nJag \u00e4r kr\u00e4sen n\u00e4r de kommer till flavours\nJag mixar upp det, jag pushar dunder och\nJag har ingen aning om vad dem fatt f\u00f6r sig ejEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4420376",
+   "artist_names": "1.Cuz (Ft. Asme)",
+   "full_title": "Livet vi lever by\u00a01.Cuz (Ft.\u00a0Asme)",
+   "header_image_thumbnail_url": "https://images.genius.com/1575bdc4a6e19a3cf7e7862a20a602fa.300x299x1.png",
+   "header_image_url": "https://images.genius.com/1575bdc4a6e19a3cf7e7862a20a602fa.593x591x1.png",
+   "id": 4420376,
+   "language": "en",
+   "lyrics_owner_id": 6647664,
+   "lyrics_state": "complete",
+   "path": "/1cuz-livet-vi-lever-lyrics",
+   "pyongs_count": 11,
+   "relationships_index_url": "https://genius.com/1cuz-livet-vi-lever-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 3,
+    "day": 25
+   },
+   "release_date_for_display": "March 25, 2019",
+   "release_date_with_abbreviated_month_for_display": "Mar. 25, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1575bdc4a6e19a3cf7e7862a20a602fa.300x299x1.png",
+   "song_art_image_url": "https://images.genius.com/1575bdc4a6e19a3cf7e7862a20a602fa.593x591x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 11,
+    "iq_earners": 11,
+    "transcribers": 4,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 11998
+   },
+   "title": "Livet vi lever",
+   "title_with_featured": "Livet vi lever (Ft.\u00a0Asme)",
+   "url": "https://genius.com/1cuz-livet-vi-lever-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1015703",
+     "header_image_url": "https://images.genius.com/f74c2039dd46467f8b9a1dcf0c09db15.1000x1000x1.jpg",
+     "id": 1015703,
+     "image_url": "https://images.genius.com/f74c2039dd46467f8b9a1dcf0c09db15.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Asme",
+     "url": "https://genius.com/artists/Asme"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1658385",
+    "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+    "id": 1658385,
+    "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "1.Cuz",
+    "url": "https://genius.com/artists/1cuz"
+   },
+   "apple_music_id": "1457442263",
+   "apple_music_player_url": "https://genius.com/songs/4420376/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4420376' class='rg_embed_link' data-song-id='4420376'>Read <a href='https://genius.com/1cuz-livet-vi-lever-lyrics'>\u201cLivet vi lever\u201d by 1.Cuz</a> on Genius</div> <script crossorigin src='//genius.com/songs/4420376/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-03-25",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Artwork",
+     "artists": [
+      {
+       "api_path": "/artists/1889799",
+       "header_image_url": "https://images.genius.com/3d0f0916c4cbc6dade1b443eed6e880d.800x800x1.jpg",
+       "id": 1889799,
+       "image_url": "https://images.genius.com/48c041f3efc8e4d76fde155bfc7b0730.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "GeeKAY",
+       "url": "https://genius.com/artists/Geekay",
+       "iq": 123
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6647664,
+    "annotator_login": "Julmustii",
+    "api_path": "/referents/16792698",
+    "classification": "needs_exegesis",
+    "fragment": "Livet vi lever",
+    "id": 16792698,
+    "is_description": true,
+    "path": "/16792698/1cuz-livet-vi-lever/Livet-vi-lever",
+    "range": {
+     "content": "Livet vi lever"
+    },
+    "song_id": 4420376,
+    "url": "https://genius.com/16792698/1cuz-livet-vi-lever/Livet-vi-lever",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4420376",
+     "client_timestamps": {
+      "updated_by_human_at": 1623585477,
+      "lyrics_updated_at": 1623585477
+     },
+     "context": "1.Cuz",
+     "id": 4420376,
+     "image_url": "https://images.genius.com/1575bdc4a6e19a3cf7e7862a20a602fa.593x591x1.png",
+     "link_title": "Livet vi lever by\u00a01.Cuz (Ft.\u00a0Asme)",
+     "title": "Livet vi lever",
+     "type": "Song",
+     "url": "https://genius.com/1cuz-livet-vi-lever-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/16792698",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 16792698,
+      "pinned": false,
+      "share_url": "https://genius.com/16792698",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/16792698/1cuz-livet-vi-lever/Livet-vi-lever",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6647664",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/a103705ba4f058eab46114c18ac94c9d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/a103705ba4f058eab46114c18ac94c9d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/a103705ba4f058eab46114c18ac94c9d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/a103705ba4f058eab46114c18ac94c9d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/a103705ba4f058eab46114c18ac94c9d",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6647664,
+         "iq": 312,
+         "login": "Julmustii",
+         "name": "Julmustii",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Julmustii",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1766790",
+     "header_image_url": "https://images.genius.com/ff79b0cbc542d5630438e86e84809315.900x900x1.jpg",
+     "id": 1766790,
+     "image_url": "https://images.genius.com/ff79b0cbc542d5630438e86e84809315.900x900x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DnoteOnDaBeat",
+     "url": "https://genius.com/artists/Dnoteondabeat"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1658385",
+     "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "id": 1658385,
+     "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "1.Cuz",
+     "url": "https://genius.com/artists/1cuz"
+    },
+    {
+     "api_path": "/artists/1015703",
+     "header_image_url": "https://images.genius.com/f74c2039dd46467f8b9a1dcf0c09db15.1000x1000x1.jpg",
+     "id": 1015703,
+     "image_url": "https://images.genius.com/f74c2039dd46467f8b9a1dcf0c09db15.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Asme",
+     "url": "https://genius.com/artists/Asme"
+    }
+   ],
+   "artist": "1.Cuz",
+   "lyrics": "Livet vi lever Lyrics[Intro: 1.Cuz & Asme]\nIt's DnoteOnDaBeat, yeah\nCuz, Cuz\nAsme\nDet Cuz och det Asme\nYeh-yeah-yeh-ye\n\n[Refr\u00e4ng: Asme]\nVad vet du om livet vi lever? (Lever)\nVad vet du om livet vi lever? (Lever)\nHuggen i ryggen av br\u00f6der (Br\u00f6der)\nFolk tar para f\u00f6re heder (Heder)\nJag s\u00e4ger till vi delar p\u00e5 br\u00f6det (Br\u00f6det)\nJag s\u00e4ger till vi delar p\u00e5 br\u00f6det (Br\u00f6det)\nVad vet du om livet vi lever? (Lever)\nVad vet du om livet vi lever?\n[Vers 1: 1.Cuz]\nJag vill skina hela livet, generera hela tiden\nSt\u00e5 i v\u00e4gen och den ba svider\nJag har mina inre demoner som har sina egna konflikter\nEna s\u00e4ger \"Broder, ta \u00f6ver\", andra s\u00e4ger \"Sm\u00e4rtan g\u00e5r \u00f6ver\"\nNu jag paffar p\u00e5 n\u00e5gra kl\u00f6ver, hey\nOch jag tackar Gud f\u00f6r \u00e4nnu mer\nEn kanin och jag n\u00f6jer inte vid tio mill\nEn kanin och jag siktar minst p\u00e5 typ trettio till\nOm Cuz och Asme jobbar, garanterat det \u00e4r en hit\n\n[Brygga: 1.Cuz]\nNu det gatubarnen som f\u00e5r miljoner streams\nHon kan inte ens se mitt ansikt'\n\u00c4nd\u00e5 hon s\u00e4ger \"Cuz, du \u00e4r s\u00e5 sexig\"\nBitch please, mannen, you all fucking crazy\n\n[Refr\u00e4ng: Asme]\nVad vet du om livet vi lever? (Lever)\nVad vet du om livet vi lever? (Lever)\nHuggen i ryggen av br\u00f6der (Br\u00f6der)\nFolk tar para f\u00f6re heder (Heder)\nJag s\u00e4ger till vi delar p\u00e5 br\u00f6det (Br\u00f6det)\nJag s\u00e4ger till vi delar p\u00e5 br\u00f6det (Br\u00f6det)\nVad vet du om livet vi lever? (Lever)\nVad vet du om livet vi lever?\nYou might also like[Vers 2: Asme]\nFolk de ville mig ont, h\u00f6r mig \u00f6verallt nu s\u00e5 de f\u00e5r ont\nTrampa p\u00e5 mina Loubs, sv\u00e4r p\u00e5 allting du kommer fucking lose\nDet jag och Cuz, make these bitches fall in love\nDnote on the beat (DnoteOnDaBeat, yeah), f\u00e5r dig fastna p\u00e5 repeat\nJag \u00e4r real nigga som Riley i Boondocks\nSt\u00e4ller oss i rad, massaker med mina dawgs\nOm ni trycker av (Brr), vi skjuter tillbaks\nUtan tvek, mellan liv och d\u00f6d det ingen lek\n\n[Brygga: 1.Cuz]\nNu det gatubarnen som f\u00e5r miljoner streams\nHon kan inte ens se mitt ansikt'\n\u00c4nd\u00e5 hon s\u00e4ger \"Cuz, du \u00e4r s\u00e5 sexig\"\nBitch please, mannen, you all fucking crazy\n\n[Refr\u00e4ng: Asme]\nVad vet du om livet vi lever? (Lever)\nVad vet du om livet vi lever? (Lever)\nHuggen i ryggen av br\u00f6der (Br\u00f6der)\nFolk tar para f\u00f6re heder (Heder)\nJag s\u00e4ger till vi delar p\u00e5 br\u00f6det (Br\u00f6det)\nJag s\u00e4ger till vi delar p\u00e5 br\u00f6det (Br\u00f6det)\nVad vet du om livet vi lever? (Lever)\nVad vet du om livet vi lever?11Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/6818569",
+   "artist_names": "1.Cuz",
+   "full_title": "Caravaggio by\u00a01.Cuz",
+   "header_image_thumbnail_url": "https://images.genius.com/9edd93809d26f35348bbdf7ace9e17a1.300x300x1.png",
+   "header_image_url": "https://images.genius.com/9edd93809d26f35348bbdf7ace9e17a1.1000x1000x1.png",
+   "id": 6818569,
+   "language": "sv",
+   "lyrics_owner_id": 6454494,
+   "lyrics_state": "complete",
+   "path": "/1cuz-caravaggio-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/1cuz-caravaggio-sample",
+   "release_date_components": {
+    "year": 2021,
+    "month": 9,
+    "day": 22
+   },
+   "release_date_for_display": "September 22, 2021",
+   "release_date_with_abbreviated_month_for_display": "Sep. 22, 2021",
+   "song_art_image_thumbnail_url": "https://images.genius.com/9edd93809d26f35348bbdf7ace9e17a1.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/9edd93809d26f35348bbdf7ace9e17a1.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 10,
+    "iq_earners": 8,
+    "transcribers": 5,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 11196
+   },
+   "title": "Caravaggio",
+   "title_with_featured": "Caravaggio",
+   "url": "https://genius.com/1cuz-caravaggio-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1658385",
+    "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+    "id": 1658385,
+    "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "1.Cuz",
+    "url": "https://genius.com/artists/1cuz"
+   },
+   "apple_music_id": "1585674343",
+   "apple_music_player_url": "https://genius.com/songs/6818569/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6818569' class='rg_embed_link' data-song-id='6818569'>Read <a href='https://genius.com/1cuz-caravaggio-lyrics'>\u201cCaravaggio\u201d by 1.Cuz</a> on Genius</div> <script crossorigin src='//genius.com/songs/6818569/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2021-09-22",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/698233",
+    "cover_art_url": "https://images.genius.com/a927187e9569fb76d4d2267c8f8791a4.720x720x1.jpg",
+    "full_title": "C2* by 1.Cuz",
+    "id": 698233,
+    "name": "C2*",
+    "url": "https://genius.com/albums/1cuz/C2",
+    "artist": {
+     "api_path": "/artists/1658385",
+     "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "id": 1658385,
+     "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "1.Cuz",
+     "url": "https://genius.com/artists/1cuz"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Video Director",
+     "artists": [
+      {
+       "api_path": "/artists/2619640",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 2619640,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "DOPEST",
+       "url": "https://genius.com/artists/Dopest"
+      },
+      {
+       "api_path": "/artists/2008818",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 2008818,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Viktor Skarb\u00e4ck",
+       "url": "https://genius.com/artists/Viktor-skarback"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/1100584",
+       "header_image_url": "https://images.genius.com/cb2297a5eade3b4074f04c56085e0407.499x499x1.png",
+       "id": 1100584,
+       "image_url": "https://images.genius.com/cb2297a5eade3b4074f04c56085e0407.499x499x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Asylum Records",
+       "url": "https://genius.com/artists/Asylum-records"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/1100584",
+       "header_image_url": "https://images.genius.com/cb2297a5eade3b4074f04c56085e0407.499x499x1.png",
+       "id": 1100584,
+       "image_url": "https://images.genius.com/cb2297a5eade3b4074f04c56085e0407.499x499x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Asylum Records",
+       "url": "https://genius.com/artists/Asylum-records"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1100584",
+       "header_image_url": "https://images.genius.com/cb2297a5eade3b4074f04c56085e0407.499x499x1.png",
+       "id": 1100584,
+       "image_url": "https://images.genius.com/cb2297a5eade3b4074f04c56085e0407.499x499x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Asylum Records",
+       "url": "https://genius.com/artists/Asylum-records"
+      }
+     ]
+    },
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/1112276",
+       "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+       "id": 1112276,
+       "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner Music Group",
+       "url": "https://genius.com/artists/Warner-music-group"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 7551604,
+    "annotator_login": "Giraffgangster",
+    "api_path": "/referents/23031674",
+    "classification": "needs_exegesis",
+    "fragment": "Caravaggio",
+    "id": 23031674,
+    "is_description": true,
+    "path": "/23031674/1cuz-caravaggio/Caravaggio",
+    "range": {
+     "content": "Caravaggio"
+    },
+    "song_id": 6818569,
+    "url": "https://genius.com/23031674/1cuz-caravaggio/Caravaggio",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6818569",
+     "client_timestamps": {
+      "updated_by_human_at": 1644111635,
+      "lyrics_updated_at": 1644111635
+     },
+     "context": "1.Cuz",
+     "id": 6818569,
+     "image_url": "https://images.genius.com/9edd93809d26f35348bbdf7ace9e17a1.1000x1000x1.png",
+     "link_title": "Caravaggio by\u00a01.Cuz",
+     "title": "Caravaggio",
+     "type": "Song",
+     "url": "https://genius.com/1cuz-caravaggio-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/23031674",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 23031674,
+      "pinned": false,
+      "share_url": "https://genius.com/23031674",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/23031674/1cuz-caravaggio/Caravaggio",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7551604",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/88845746a4d97e2923cdb14ea0a4bf90",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/88845746a4d97e2923cdb14ea0a4bf90",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/88845746a4d97e2923cdb14ea0a4bf90",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/88845746a4d97e2923cdb14ea0a4bf90",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/88845746a4d97e2923cdb14ea0a4bf90",
+         "human_readable_role_for_display": "Contributor",
+         "id": 7551604,
+         "iq": 18465,
+         "login": "Giraffgangster",
+         "name": "Giraffgangster",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Giraffgangster",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=7dKRgYSQXgs"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1184954",
+     "header_image_url": "https://images.genius.com/03bb96241862dbaaf2315ea340bf5ce2.800x1000x1.jpg",
+     "id": 1184954,
+     "image_url": "https://images.genius.com/9ad5d3ce14f9e8746d6f3b20abe169e0.874x874x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Yei Gonzalez",
+     "url": "https://genius.com/artists/Yei-gonzalez"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": [
+      {
+       "annotation_count": 5,
+       "api_path": "/songs/4137436",
+       "artist_names": "1.Cuz",
+       "full_title": "Akta mannen by\u00a01.Cuz",
+       "header_image_thumbnail_url": "https://images.genius.com/0cffcfa9790068b538723be740b0398b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/0cffcfa9790068b538723be740b0398b.1000x1000x1.jpg",
+       "id": 4137436,
+       "language": "sv",
+       "lyrics_owner_id": 7478405,
+       "lyrics_state": "complete",
+       "path": "/1cuz-akta-mannen-lyrics",
+       "pyongs_count": 6,
+       "relationships_index_url": "https://genius.com/1cuz-akta-mannen-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 11,
+        "day": 30
+       },
+       "release_date_for_display": "November 30, 2018",
+       "release_date_with_abbreviated_month_for_display": "Nov. 30, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0cffcfa9790068b538723be740b0398b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0cffcfa9790068b538723be740b0398b.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 5,
+        "hot": false,
+        "pageviews": 55717
+       },
+       "title": "Akta mannen",
+       "title_with_featured": "Akta mannen",
+       "url": "https://genius.com/1cuz-akta-mannen-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1658385",
+        "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+        "id": 1658385,
+        "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "1.Cuz",
+        "url": "https://genius.com/artists/1cuz"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1658385",
+     "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "id": 1658385,
+     "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "1.Cuz",
+     "url": "https://genius.com/artists/1cuz"
+    }
+   ],
+   "artist": "1.Cuz",
+   "lyrics": "Caravaggio Lyrics[Intro]\nArgh\nCuz, cuz, cuz\n\n[Brygga]\nJag har en gatubarnsattityd\nJag har ett gatubarns telefon\nJag har ett gatubarns kokain\nJag \u00e4r ba ett gatubarn fr\u00e5n n\u00e5n g\u00e5rd, ey\n\n[Refr\u00e4ng]\nFyrtakten aktiv p\u00e5 natten, vi baggar snacket, ey\nBecknar i tullarna, men i trakten du hittar mig\nBandana, svarta handskar, ska knulla n\u00e5gons mamma\nDu f\u00e5r urs\u00e4kta franskan, men horungar har trampat p\u00e5 mina t\u00e5r\nKolla hur oppsens mamma m\u00e5r och hur min m\u00e5r\nNi ligger under, mannen, g\u00e5 och fixa upp eran score\nM\u00e5lar bilder som Caravaggio, handen p\u00e5 g\u00e4hten, adios\nDu kan inte s\u00e4tta pris p\u00e5 konst\n[Vers]\nHalva laget \u00e5kte in och jag kan knappt tro att det \u00e4r sant\nJag h\u00e5ller fienden n\u00e4ra, men en hal v\u00e4n p\u00e5 distans\nAkta mannen, akta mannen, f\u00e5tt den in i skallen\nEller f\u00e5 den p\u00e5 skallen, det ljudd\u00e4mpat p\u00e5 kallen\nL\u00e5t han ligga d\u00e4r \u00f6ver natten, gatan ger massa chanser\nMen jag har l\u00e4rt mig, gatan den \u00e4r v\u00e4rre \u00e4n cancer\nBest\u00e4llningsvara, jag vill k\u00f6pa oppsens body bag\nDet gick snett, misstaget var de borde ta mig d\u00e4r\nGe han en i magen, han d\u00e4r han \u00e4r mager\nJag skiter i om det \u00e4r min mosters son, om det kr\u00e4vs g\u00e5r f\u00f6r saken\nDrip down till mina t\u00e5r, jag ser pengar nu vart jag \u00e4n g\u00e5r\nEn skorpion med en Scorpio, i buskarna redo att ta n\u00e5ns soul\nDet \u00e4r vilsna sj\u00e4lar med psykos, jag vet ni poppar sm\u00e5 bl\u00e5\nJag vet du ramlar p\u00e5 tramadol, ska g\u00e5 platina p\u00e5 en diss-l\u00e5t, ey\nHan som vill bli k\u00e4nd p\u00e5 mitt namn, ska smaka p\u00e5 min gun\nSex av oppsen \u00e4r som en man, vi h\u00e4xa oppsen tills de \u00e4r down\n\n[Brygga]\nJag har en gatubarnsattityd\nJag har ett gatubarns telefon\nJag har ett gatubarns kokain\nJag \u00e4r ba ett gatubarn fr\u00e5n n\u00e5n g\u00e5rd, ey\n\n[Refr\u00e4ng]\nFyrtakten aktiv p\u00e5 natten, vi baggar snacket, ey\nBecknar i tullarna, men i trakten du hittar mig\nBandana, svarta handskar, ska knulla n\u00e5gons mamma\nDu f\u00e5r urs\u00e4kta franskan, men horungar har trampat\u2014\nYou might also like[Outro]\nJag \u00e4r landets st\u00f6rsta stj\u00e4rna, jag har f\u00f6rtj\u00e4nat\nJag \u00e4r 1.94, s\u00e5 vad \u00e4r det som ska m\u00e4tas?1Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/5055683",
+   "artist_names": "1.Cuz (Ft. Dree Low)",
+   "full_title": "BILEN by\u00a01.Cuz (Ft.\u00a0Dree\u00a0Low)",
+   "header_image_thumbnail_url": "https://images.genius.com/8acbe46df305e654b45550d3799ea5b8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8acbe46df305e654b45550d3799ea5b8.960x960x1.jpg",
+   "id": 5055683,
+   "language": "sv",
+   "lyrics_owner_id": 6612308,
+   "lyrics_state": "complete",
+   "path": "/1cuz-bilen-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/1cuz-bilen-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 11,
+    "day": 29
+   },
+   "release_date_for_display": "November 29, 2019",
+   "release_date_with_abbreviated_month_for_display": "Nov. 29, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8acbe46df305e654b45550d3799ea5b8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8acbe46df305e654b45550d3799ea5b8.960x960x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 8,
+    "iq_earners": 7,
+    "transcribers": 4,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 9748
+   },
+   "title": "BILEN",
+   "title_with_featured": "BILEN (Ft.\u00a0Dree\u00a0Low)",
+   "url": "https://genius.com/1cuz-bilen-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1098579",
+     "header_image_url": "https://images.genius.com/bdb28c0bcb85f9d995cde8f283f83b21.1000x666x1.jpg",
+     "id": 1098579,
+     "image_url": "https://images.genius.com/4444bea873e15609274c697f0a511fd7.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dree Low",
+     "url": "https://genius.com/artists/Dree-low"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1658385",
+    "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+    "id": 1658385,
+    "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "1.Cuz",
+    "url": "https://genius.com/artists/1cuz"
+   },
+   "apple_music_id": "1489154226",
+   "apple_music_player_url": "https://genius.com/songs/5055683/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5055683' class='rg_embed_link' data-song-id='5055683'>Read <a href='https://genius.com/1cuz-bilen-lyrics'>\u201cBILEN\u201d by 1.Cuz</a> on Genius</div> <script crossorigin src='//genius.com/songs/5055683/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-11-29",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/569450",
+    "cover_art_url": "https://images.genius.com/8acbe46df305e654b45550d3799ea5b8.960x960x1.jpg",
+    "full_title": "1 \u00c5R by 1.Cuz",
+    "id": 569450,
+    "name": "1 \u00c5R",
+    "url": "https://genius.com/albums/1cuz/1-ar",
+    "artist": {
+     "api_path": "/artists/1658385",
+     "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "id": 1658385,
+     "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "1.Cuz",
+     "url": "https://genius.com/artists/1cuz"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8238432,
+    "annotator_login": "Shokatt",
+    "api_path": "/referents/18532581",
+    "classification": "needs_exegesis",
+    "fragment": "BILEN",
+    "id": 18532581,
+    "is_description": true,
+    "path": "/18532581/1cuz-bilen/Bilen",
+    "range": {
+     "content": "BILEN"
+    },
+    "song_id": 5055683,
+    "url": "https://genius.com/18532581/1cuz-bilen/Bilen",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5055683",
+     "client_timestamps": {
+      "updated_by_human_at": 1644034784,
+      "lyrics_updated_at": 1644034784
+     },
+     "context": "1.Cuz",
+     "id": 5055683,
+     "image_url": "https://images.genius.com/8acbe46df305e654b45550d3799ea5b8.960x960x1.jpg",
+     "link_title": "BILEN by\u00a01.Cuz (Ft.\u00a0Dree\u00a0Low)",
+     "title": "BILEN",
+     "type": "Song",
+     "url": "https://genius.com/1cuz-bilen-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18532581",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18532581,
+      "pinned": false,
+      "share_url": "https://genius.com/18532581",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18532581/1cuz-bilen/Bilen",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8238432",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/17b2f8c23a09147b4a00a5f54891ef98",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/17b2f8c23a09147b4a00a5f54891ef98",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/17b2f8c23a09147b4a00a5f54891ef98",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/17b2f8c23a09147b4a00a5f54891ef98",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/f66a8add582f846adc1fd1fa9094a6b6.1000x558x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 8238432,
+         "iq": 76140,
+         "login": "Shokatt",
+         "name": "Shokatt",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Shokatt",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=WseiEEot-Pc"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1184954",
+     "header_image_url": "https://images.genius.com/03bb96241862dbaaf2315ea340bf5ce2.800x1000x1.jpg",
+     "id": 1184954,
+     "image_url": "https://images.genius.com/9ad5d3ce14f9e8746d6f3b20abe169e0.874x874x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Yei Gonzalez",
+     "url": "https://genius.com/artists/Yei-gonzalez"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1098579",
+     "header_image_url": "https://images.genius.com/bdb28c0bcb85f9d995cde8f283f83b21.1000x666x1.jpg",
+     "id": 1098579,
+     "image_url": "https://images.genius.com/4444bea873e15609274c697f0a511fd7.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dree Low",
+     "url": "https://genius.com/artists/Dree-low"
+    },
+    {
+     "api_path": "/artists/1658385",
+     "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "id": 1658385,
+     "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "1.Cuz",
+     "url": "https://genius.com/artists/1cuz"
+    }
+   ],
+   "artist": "1.Cuz",
+   "lyrics": "BILEN Lyrics[Intro]\nWahzaa\nYei Gonzalez\n\n[Refr\u00e4ng: 1.Cuz]\nJag \u00e4r en av dem i bilen, det finns flera \u00e5r i den\nVi \u00e4r\u2005inte\u2005dem som driver,\u2005vi har fullt med automatkarbiner\nJag \u00e4r\u2005en av dem i bilen, det finns flera \u00e5r i den\nVi \u00e4r inte dem som driver, vi har fullt med automatkarbiner\n\n[Vers 1: 1.Cuz]\nI centan jag glider, inte jag som h\u00e5ller i den\nMin bror k\u00f6r f\u00f6r mig som Schumacher\n\u00c4r s\u00e5 girig, tar tillbaks pengarna fr\u00e5n machen\nDe ger pengar till han som \u00e4r under fucking masken\nDen tidigaste f\u00e5geln f\u00e5r f\u00f6rsta daggmasken\nPengar till n\u00e5gon som de aldrig n\u00e5nsin har sett\nOch vi \u00e5ker fem stycken\nN\u00e4r vi ute och trycker, MRD hela truppen\nUppe med tuppen och sen stadig med produkter\nOm jag ska bokas, sign det med lukten\n1.Star om jag lever i psyket\nVissa ljuger, andra skjuter\nN\u00e5gra ser allt och ber\u00e4ttar det till snuten\nJag och min bror \u00e4r korrekta hela tiden\n[Refr\u00e4ng: 1.Cuz]\nJag \u00e4r en av dem i bilen, det finns flera \u00e5r i den\nVi \u00e4r inte dem som driver, vi har fullt med automatkarbiner\nJag \u00e4r en av dem i bilen, det finns flera \u00e5r i den\nVi \u00e4r inte dem som driver, vi har fullt med automatkarbiner\n\n[Vers 2: Dree Low]\nH\u00e4r en horunge f\u00f6rlorade, tog ocker (Ocker)\nParkerade p\u00e5 samma plats som stolpe (Stolpe)\nBror, jag var barn n\u00e4r jag gick och snodde moppen (Tjuv)\nEy, vad tror ni? Ingen scooter kom fr\u00e5n tomten (Vad tror du?)\nEy, ey, det \u00e4r ghetto (Ghetto)\nMin bror tog hak, han ba \"Let's go\" (Yey)\nEn annan skicka kassar ifr\u00e5n Encro\nKalkylera varje gram och varje hekto (Yeah, yeah)\nOch vi \u00e5ker fem stycken (Fem)\nInte ens min f\u00f6rare \u00e4r nykter (Yeah)\nDet codeine, lite Sprite i min dryck, l\u00e4n\nEy, min bror, han fick olovlig p\u00e5 en cykel (Okej)\nOch vi skiter i dig, ey, r\u00e4h (Yeah)\nEy, mannen, vi \u00e4r liten f\u00f6r dig, baby (Huh?)\nJag glider med banditer med mig, Dree day (Yeah)\nOch klockan, den ba lyser p\u00e5 mig, Day-Date (D\u00e4h\u00e4b)\n\n[Refr\u00e4ng: 1.Cuz]\nJag \u00e4r en av dem i bilen, det finns flera \u00e5r i den\nVi \u00e4r inte dem som driver, vi har fullt med automatkarbiner\nJag \u00e4r en av dem i bilen, det finns flera \u00e5r i den\nVi \u00e4r inte dem som driver, vi har fullt med automatkarbiner\nYou might also like[Vers 3: 1.Cuz]\nMannen, hela livet har varit en shutdown\nFuck a bustdown, nigga, I'm strapped now\nOh, I got a bitch down, suckin' on my dick now\nKommer k\u00f6ra tills den dagen jag slocknar\nDen h\u00e4r rappskiten betalar det jag shoppar\nTop Class-tyg som jag Maradona\nJag sv\u00e4r p\u00e5 Allah allt det h\u00e4r \u00e4r fr\u00e5n mitt hj\u00e4rta\nOm du testar RT, du f\u00e5r mycket sm\u00e4rta\nJag har DJ med mig, akta, mannen, akta\nKom hit om ni alla vill \u00e4ta\nMomo, Micke, Isse, Henke, [?], Murre\nMina br\u00f6der kommer f\u00e5 era att k\u00e4ka\nOm de smutsar, vi som st\u00e4dar\nEtt av fem varje g\u00e5ng de g\u00e5r och pussas\nStashen s\u00e5 stor Dag och Birgit b\u00f6rjar strula\n\n[Refr\u00e4ng: 1.Cuz]\nJag \u00e4r en av dem i bilen, det finns flera \u00e5r i den\nVi \u00e4r inte dem som driver, vi har fullt med automatkarbiner\nJag \u00e4r en av dem i bilen, det finns flera \u00e5r i den\nVi \u00e4r inte dem som driver, vi har fullt med automatkarbiner\n\n[Outro]\nYei GonzalezEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4658140",
+   "artist_names": "1.Cuz",
+   "full_title": "Tre Hj\u00e4rnor by\u00a01.Cuz",
+   "header_image_thumbnail_url": "https://images.genius.com/6366a003e979d669584742f73964a19c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/6366a003e979d669584742f73964a19c.999x999x1.jpg",
+   "id": 4658140,
+   "language": "sv",
+   "lyrics_owner_id": 8238432,
+   "lyrics_state": "complete",
+   "path": "/1cuz-tre-hjarnor-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/1cuz-tre-hjarnor-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 6,
+    "day": 28
+   },
+   "release_date_for_display": "June 28, 2019",
+   "release_date_with_abbreviated_month_for_display": "Jun. 28, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/6366a003e979d669584742f73964a19c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/6366a003e979d669584742f73964a19c.999x999x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 10,
+    "iq_earners": 9,
+    "transcribers": 4,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 8176
+   },
+   "title": "Tre Hj\u00e4rnor",
+   "title_with_featured": "Tre Hj\u00e4rnor",
+   "url": "https://genius.com/1cuz-tre-hjarnor-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1658385",
+    "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+    "id": 1658385,
+    "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "1.Cuz",
+    "url": "https://genius.com/artists/1cuz"
+   },
+   "apple_music_id": "1470055684",
+   "apple_music_player_url": "https://genius.com/songs/4658140/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4658140' class='rg_embed_link' data-song-id='4658140'>Read <a href='https://genius.com/1cuz-tre-hjarnor-lyrics'>\u201cTre Hj\u00e4rnor\u201d by 1.Cuz</a> on Genius</div> <script crossorigin src='//genius.com/songs/4658140/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-06-28",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/539920",
+    "cover_art_url": "https://images.genius.com/6366a003e979d669584742f73964a19c.999x999x1.jpg",
+    "full_title": "Tre Hj\u00e4rnor by 1.Cuz",
+    "id": 539920,
+    "name": "Tre Hj\u00e4rnor",
+    "url": "https://genius.com/albums/1cuz/Tre-hjarnor",
+    "artist": {
+     "api_path": "/artists/1658385",
+     "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "id": 1658385,
+     "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "1.Cuz",
+     "url": "https://genius.com/artists/1cuz"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8238432,
+    "annotator_login": "Shokatt",
+    "api_path": "/referents/17469915",
+    "classification": "needs_exegesis",
+    "fragment": "Tre Hj\u00e4rnor",
+    "id": 17469915,
+    "is_description": true,
+    "path": "/17469915/1cuz-tre-hjarnor/Tre-hjarnor",
+    "range": {
+     "content": "Tre Hj\u00e4rnor"
+    },
+    "song_id": 4658140,
+    "url": "https://genius.com/17469915/1cuz-tre-hjarnor/Tre-hjarnor",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4658140",
+     "client_timestamps": {
+      "updated_by_human_at": 1644111697,
+      "lyrics_updated_at": 1644111697
+     },
+     "context": "1.Cuz",
+     "id": 4658140,
+     "image_url": "https://images.genius.com/6366a003e979d669584742f73964a19c.999x999x1.jpg",
+     "link_title": "Tre Hj\u00e4rnor by\u00a01.Cuz",
+     "title": "Tre Hj\u00e4rnor",
+     "type": "Song",
+     "url": "https://genius.com/1cuz-tre-hjarnor-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17469915",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17469915,
+      "pinned": false,
+      "share_url": "https://genius.com/17469915",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/17469915/1cuz-tre-hjarnor/Tre-hjarnor",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8238432",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/17b2f8c23a09147b4a00a5f54891ef98",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/17b2f8c23a09147b4a00a5f54891ef98",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/17b2f8c23a09147b4a00a5f54891ef98",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/17b2f8c23a09147b4a00a5f54891ef98",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/f66a8add582f846adc1fd1fa9094a6b6.1000x558x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 8238432,
+         "iq": 76140,
+         "login": "Shokatt",
+         "name": "Shokatt",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Shokatt",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=p-ja7LKnrW4"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1766790",
+     "header_image_url": "https://images.genius.com/ff79b0cbc542d5630438e86e84809315.900x900x1.jpg",
+     "id": 1766790,
+     "image_url": "https://images.genius.com/ff79b0cbc542d5630438e86e84809315.900x900x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DnoteOnDaBeat",
+     "url": "https://genius.com/artists/Dnoteondabeat"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1658385",
+     "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "id": 1658385,
+     "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "1.Cuz",
+     "url": "https://genius.com/artists/1cuz"
+    }
+   ],
+   "artist": "1.Cuz",
+   "lyrics": "Tre Hj\u00e4rnor Lyrics[Intro]\nIt's DnoteOnDaBeat, yeah\nCuz, cuz, cuz, cuz\nN\u00e4r jag t\u00e4nker det som tre hj\u00e4rnor, 45:an sm\u00e4ller tre hj\u00e4rnor\n\n[Vers 1]\nJag \u00e4r som Gordon Ramsay i k\u00f6ket n\u00e4r jag st\u00e5r och hackar p\u00e5 k\u00f6ttet\nJag \u00e4r master chef p\u00e5 gatuk\u00f6ket, har medicinen som l\u00e4karbes\u00f6ken\nOch jag delar br\u00f6det med br\u00f6der\nOch f\u00f6r min broder jag g\u00e5r och bl\u00f6der\nF\u00f6r min syster jag h\u00e4mtar gl\u00f6den\nMina varor f\u00f6rtj\u00e4nar Michelin stj\u00e4rnor\nN\u00e4r jag t\u00e4nker det \u00e4r som tre hj\u00e4rnor, 45:an sm\u00e4ller tre hj\u00e4rnor\nMina n\u00e4ra misstag blev min l\u00e4rdom\nNu det kommer pengar f\u00f6r min vinst\nOch mitt flow \u00e4r som en sjukdom\nCopyrightar min egendom\nOch d\u00e4r jag kommer ifr\u00e5n mannen\nInga v\u00e4gar b\u00e4r av till rom\nD\u00e4mpar sm\u00e4rtan med Cola Rom\nTomma dagar jag var ensam, bror\nD\u00e4mpar sm\u00e4rtan med Cola Rom\nLala f\u00e5r mig att flyga runt\nMina tillg\u00e5ngar de luktar skunk\nD\u00e4mpar sm\u00e4rtan med Cola Rom\nBlandar inte Sprite med Cola\nBankar den med en superkraft\n[Refr\u00e4ng]\nN\u00e4r jag t\u00e4nker det som tre hj\u00e4rnor, 45:an sm\u00e4ller tre hj\u00e4rnor\nN\u00e4r elefanten \u00e4r i rummet, alla h\u00e5ller tyst\nS\u00e5 fort jag l\u00e4mnar rummet, du g\u00e5r och \u00f6ppnar mun\nInga trasiga v\u00e4ggar jag \u00e4r full av k\u00e4nsla\nDom sa till mig jag har inget h\u00e4r att h\u00e4mta\n\n[Vers 2]\nInga trasiga v\u00e4ggar, kolla stilen, den har bara k\u00e4nsla\nNu ni vill alla komma och hj\u00e4lpa mig\nNi tror ni ska f\u00e5 \u00e4ta, nej\nLyssnar inte men ser er hata\nNi kan forts\u00e4tta prata\nV\u00e4rlden den \u00e4r under mina lakan\nJag \u00e4r som trollkarlen i Oz\nF\u00f6rvandlar ljusen intill flozz\nJag g\u00f6r svart till vit\nKalla mig svart Houdini\nGe mig sex m\u00e5nader, believe me\nCome try me, come and test me\nSwear to God imma blast you\n\n[Refr\u00e4ng]\nN\u00e4r jag t\u00e4nker det som tre hj\u00e4rnor, 45:an sm\u00e4ller tre hj\u00e4rnor\nN\u00e4r elefanten \u00e4r i rummet, alla h\u00e5ller tyst\nS\u00e5 fort jag l\u00e4mnar rummet, du g\u00e5r och \u00f6ppnar mun\nInga trasiga v\u00e4ggar jag \u00e4r full av k\u00e4nsla\nDom sa till mig jag har inget h\u00e4r att h\u00e4mta\nN\u00e4r elefanten \u00e4r i rummet, alla h\u00e5ller tyst\nS\u00e5 fort jag l\u00e4mnar rummet, du g\u00e5r och \u00f6ppnar mun\nInga trasiga v\u00e4ggar jag \u00e4r full av k\u00e4nsla\nDom sa till mig jag har inget h\u00e4r att h\u00e4mta\nYou might also like[Outro]\nN\u00e4r jag t\u00e4nker det som tre hj\u00e4rnor, 45:an sm\u00e4ller tre hj\u00e4rnorEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4658142",
+   "artist_names": "1.Cuz",
+   "full_title": "Sirener by\u00a01.Cuz",
+   "header_image_thumbnail_url": "https://images.genius.com/6366a003e979d669584742f73964a19c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/6366a003e979d669584742f73964a19c.999x999x1.jpg",
+   "id": 4658142,
+   "language": "en",
+   "lyrics_owner_id": 8238432,
+   "lyrics_state": "complete",
+   "path": "/1cuz-sirener-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/1cuz-sirener-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 6,
+    "day": 28
+   },
+   "release_date_for_display": "June 28, 2019",
+   "release_date_with_abbreviated_month_for_display": "Jun. 28, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/6366a003e979d669584742f73964a19c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/6366a003e979d669584742f73964a19c.999x999x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 6,
+    "iq_earners": 5,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 7146
+   },
+   "title": "Sirener",
+   "title_with_featured": "Sirener",
+   "url": "https://genius.com/1cuz-sirener-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1658385",
+    "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+    "id": 1658385,
+    "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "1.Cuz",
+    "url": "https://genius.com/artists/1cuz"
+   },
+   "apple_music_id": "1470055686",
+   "apple_music_player_url": "https://genius.com/songs/4658142/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4658142' class='rg_embed_link' data-song-id='4658142'>Read <a href='https://genius.com/1cuz-sirener-lyrics'>\u201cSirener\u201d by 1.Cuz</a> on Genius</div> <script crossorigin src='//genius.com/songs/4658142/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-06-28",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/539920",
+    "cover_art_url": "https://images.genius.com/6366a003e979d669584742f73964a19c.999x999x1.jpg",
+    "full_title": "Tre Hj\u00e4rnor by 1.Cuz",
+    "id": 539920,
+    "name": "Tre Hj\u00e4rnor",
+    "url": "https://genius.com/albums/1cuz/Tre-hjarnor",
+    "artist": {
+     "api_path": "/artists/1658385",
+     "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "id": 1658385,
+     "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "1.Cuz",
+     "url": "https://genius.com/artists/1cuz"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Executive Producer",
+     "artists": [
+      {
+       "api_path": "/artists/1766790",
+       "header_image_url": "https://images.genius.com/ff79b0cbc542d5630438e86e84809315.900x900x1.jpg",
+       "id": 1766790,
+       "image_url": "https://images.genius.com/ff79b0cbc542d5630438e86e84809315.900x900x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "DnoteOnDaBeat",
+       "url": "https://genius.com/artists/Dnoteondabeat"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8238432,
+    "annotator_login": "Shokatt",
+    "api_path": "/referents/17469918",
+    "classification": "needs_exegesis",
+    "fragment": "Sirener",
+    "id": 17469918,
+    "is_description": true,
+    "path": "/17469918/1cuz-sirener/Sirener",
+    "range": {
+     "content": "Sirener"
+    },
+    "song_id": 4658142,
+    "url": "https://genius.com/17469918/1cuz-sirener/Sirener",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4658142",
+     "client_timestamps": {
+      "updated_by_human_at": 1632590233,
+      "lyrics_updated_at": 1632590233
+     },
+     "context": "1.Cuz",
+     "id": 4658142,
+     "image_url": "https://images.genius.com/6366a003e979d669584742f73964a19c.999x999x1.jpg",
+     "link_title": "Sirener by\u00a01.Cuz",
+     "title": "Sirener",
+     "type": "Song",
+     "url": "https://genius.com/1cuz-sirener-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17469918",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17469918,
+      "pinned": false,
+      "share_url": "https://genius.com/17469918",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/17469918/1cuz-sirener/Sirener",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8238432",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/17b2f8c23a09147b4a00a5f54891ef98",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/17b2f8c23a09147b4a00a5f54891ef98",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/17b2f8c23a09147b4a00a5f54891ef98",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/17b2f8c23a09147b4a00a5f54891ef98",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/f66a8add582f846adc1fd1fa9094a6b6.1000x558x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 8238432,
+         "iq": 76140,
+         "login": "Shokatt",
+         "name": "Shokatt",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Shokatt",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=v1l718rhugY"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1184954",
+     "header_image_url": "https://images.genius.com/03bb96241862dbaaf2315ea340bf5ce2.800x1000x1.jpg",
+     "id": 1184954,
+     "image_url": "https://images.genius.com/9ad5d3ce14f9e8746d6f3b20abe169e0.874x874x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Yei Gonzalez",
+     "url": "https://genius.com/artists/Yei-gonzalez"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1658385",
+     "header_image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "id": 1658385,
+     "image_url": "https://images.genius.com/54a7795cb89f7c66cc8876e41b6399d3.923x923x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "1.Cuz",
+     "url": "https://genius.com/artists/1cuz"
+    }
+   ],
+   "artist": "1.Cuz",
+   "lyrics": "Sirener Lyrics[Intro]\nWahzaa\nHey, haha\nLa-la-la-la-la-la\nYei Gonzalez\n\n[Vers 1]\nVad \u00e4r det fr\u00e5gan om? Kl\u00e4r mig som dem i stan (VA?)\nG\u00e5ngstilen som ett gatubarn, blicken tyder p\u00e5 Proud African\nJah, jah, bless, yes, i'm smoking like Jamaicans\nYour brain is my destination\nHow you call us wasteman? when we waste, man?\nPull up on your block and we waste man\nPull up on your block and we burn out the trace\n[Refr\u00e4ng]\nHow you call us wasteman when we waste, man?\nPull up on your block and we waste man\nPu-pull up pull up on your block and we burn out the trace, yeah\nSt\u00e5 p\u00e5 scen eller glider ut p\u00e5 p\u00e5 scener\nSt\u00e5 p\u00e5 scen eller l\u00e4mna scenen\nSt\u00e5 p\u00e5 scen eller kom h\u00e4mta sirener\nSt\u00e5 p\u00e5 scen eller dom h\u00e4mta sirener\nSt\u00e5r i gatan nu dom h\u00e4mtar sirener\nSt\u00e5r i gatan nu dom h\u00e4mtar bara sirener\nSt\u00e5r i gatan nu dom h\u00e4mtar sirener\nLa-la-la nu dom h\u00e4mtar sirener\n\n[Vers 2]\nFattig, kom och k\u00f6p dig en tia\nSpara till en ny stuga\nSkydda stashet med en fulladdad luga\nHatarna som citroner sura\nF\u00f6rsvarar mig med en full maxad luga\nVakna upp, du snoozar\nAttityden 2Pac\nIndustrin den luras, ingen tid f\u00f6r putas\n[?], den botar, rattar bara two times\n\n[Refr\u00e4ng]\nHow you call us wasteman when we waste, man?\nPull up on your block and we waste man\nPu-pull up pull up on your block and we burn out the trace, yeah\nSt\u00e5 p\u00e5 scen eller glider ut p\u00e5 p\u00e5 scener\nSt\u00e5 p\u00e5 scen eller l\u00e4mna scenen\nSt\u00e5 p\u00e5 scen eller kom h\u00e4mta sirener\nSt\u00e5 p\u00e5 scen eller dom h\u00e4mta sirener\nSt\u00e5r i gatan nu dom h\u00e4mtar sirener\nSt\u00e5r i gatan nu dom h\u00e4mtar bara sirener\nSt\u00e5r i gatan nu dom h\u00e4mtar sirener\nLa-la-la nu dom h\u00e4mtar sirener\nLa-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la\nDe 1.Cuz, de 1.Cuz. yeah\nYou might also like[Brygga]\nJag har varit mycket men aldrig en fegis\nEtt samtal och din brud hon tar ledigt\nDu \u00e4r k\u00e4r men hon kallar mig f\u00f6r baby\nJag \u00e4r h\u00e4r om du vill spela crazy\n\n[Hook]\nSt\u00e5 p\u00e5 scen eller glider ut p\u00e5 p\u00e5 scener\nSt\u00e5 p\u00e5 scen eller l\u00e4mna scenen\nSt\u00e5 p\u00e5 scen eller kom h\u00e4mta sirener\nSt\u00e5 p\u00e5 scen eller dom h\u00e4mta sirener\nSt\u00e5r i gatan nu dom h\u00e4mtar sirener\nSt\u00e5r i gatan nu dom h\u00e4mtar bara sirener\nSt\u00e5r i gatan nu dom h\u00e4mtar sirener\nLa la la nu dom h\u00e4mtar sirener\n\n[Outro]\nLa-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la\nDet 1.Cuz, det 1.Cuz, yeah\nLa-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la\nDet 1.Cuz, det 1.Cuz yeahEmbed"
+  }
+ ]
+}

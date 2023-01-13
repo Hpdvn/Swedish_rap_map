@@ -1,0 +1,4771 @@
+{
+ "alternate_names": [
+  "Jhun Alexander Ferrer",
+  "Alexander Ferrer"
+ ],
+ "api_path": "/artists/25015",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": "newkidofficial",
+ "followers_count": 6,
+ "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+ "id": 25015,
+ "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+ "instagram_name": "newkid.jpg",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Newkid",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Newkid",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 100,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 136564,
+  "annotator_login": "newkid",
+  "api_path": "/referents/6946107",
+  "classification": "needs_exegesis",
+  "fragment": "Newkid",
+  "id": 6946107,
+  "is_description": true,
+  "path": "/6946107/Newkid/Newkid",
+  "range": {
+   "content": "Newkid"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6946107/Newkid/Newkid",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/25015",
+   "context": null,
+   "id": 25015,
+   "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+   "link_title": "Newkid",
+   "title": "Newkid",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Newkid"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6946107",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 6946107,
+    "pinned": false,
+    "share_url": "https://genius.com/6946107",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/6946107/Newkid/Newkid",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/136564",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1669064443",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1669064443",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1669064443",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "human_readable_role_for_display": null,
+       "id": 136564,
+       "iq": 0,
+       "login": "newkid",
+       "name": "newkid",
+       "role_for_display": null,
+       "url": "https://genius.com/newkid",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/4780134",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/5e4f49733e6c07af1f7c7355877b4bb7",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/5e4f49733e6c07af1f7c7355877b4bb7",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/5e4f49733e6c07af1f7c7355877b4bb7",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/5e4f49733e6c07af1f7c7355877b4bb7",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 4780134,
+  "iq": 100,
+  "login": "AlexanderJrFerrer",
+  "name": "Newkid",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/AlexanderJrFerrer",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3646866",
+   "artist_names": "Newkid",
+   "full_title": "Lakan by\u00a0Newkid",
+   "header_image_thumbnail_url": "https://images.genius.com/a0eda496faf8436c3e5769b268fc2241.300x300x1.png",
+   "header_image_url": "https://images.genius.com/a0eda496faf8436c3e5769b268fc2241.1000x1000x1.png",
+   "id": 3646866,
+   "language": "sv",
+   "lyrics_owner_id": 2383145,
+   "lyrics_state": "complete",
+   "path": "/Newkid-lakan-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Newkid-lakan-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 4,
+    "day": 13
+   },
+   "release_date_for_display": "April 13, 2018",
+   "release_date_with_abbreviated_month_for_display": "Apr. 13, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a0eda496faf8436c3e5769b268fc2241.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/a0eda496faf8436c3e5769b268fc2241.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 6,
+    "iq_earners": 6,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 46105
+   },
+   "title": "Lakan",
+   "title_with_featured": "Lakan",
+   "url": "https://genius.com/Newkid-lakan-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/25015",
+    "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+    "id": 25015,
+    "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Newkid",
+    "url": "https://genius.com/artists/Newkid",
+    "iq": 100
+   },
+   "apple_music_id": "1387579027",
+   "apple_music_player_url": "https://genius.com/songs/3646866/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3646866' class='rg_embed_link' data-song-id='3646866'>Read <a href='https://genius.com/Newkid-lakan-lyrics'>\u201cLakan\u201d by Newkid</a> on Genius</div> <script crossorigin src='//genius.com/songs/3646866/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-04-13",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/607853",
+    "cover_art_url": "https://images.genius.com/bdfb2d3ab9fa84c1fa6b44666f1cbdd6.1000x1000x1.png",
+    "full_title": "SS/AW18 by Newkid",
+    "id": 607853,
+    "name": "SS/AW18",
+    "url": "https://genius.com/albums/Newkid/Ss-aw18",
+    "artist": {
+     "api_path": "/artists/25015",
+     "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+     "id": 25015,
+     "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Newkid",
+     "url": "https://genius.com/artists/Newkid",
+     "iq": 100
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/978900",
+       "header_image_url": "https://images.genius.com/3dc7ae956255fdf14db9dcf6da37f73e.1000x667x1.jpg",
+       "id": 978900,
+       "image_url": "https://images.genius.com/e22dccb65576174d0504f6fd5ddb74ee.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "S\u00f6ren von Malmborg",
+       "url": "https://genius.com/artists/Soren-von-malmborg"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/978900",
+       "header_image_url": "https://images.genius.com/3dc7ae956255fdf14db9dcf6da37f73e.1000x667x1.jpg",
+       "id": 978900,
+       "image_url": "https://images.genius.com/e22dccb65576174d0504f6fd5ddb74ee.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "S\u00f6ren von Malmborg",
+       "url": "https://genius.com/artists/Soren-von-malmborg"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1146669",
+       "header_image_url": "https://images.genius.com/288ecdd620553fb393f2c06c8d158dad.1000x1000x1.png",
+       "id": 1146669,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment Sweden",
+       "url": "https://genius.com/artists/Sony-music-entertainment-sweden"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2383145,
+    "annotator_login": "itischris",
+    "api_path": "/referents/14308428",
+    "classification": "needs_exegesis",
+    "fragment": "Lakan",
+    "id": 14308428,
+    "is_description": true,
+    "path": "/14308428/Newkid-lakan/Lakan",
+    "range": {
+     "content": "Lakan"
+    },
+    "song_id": 3646866,
+    "url": "https://genius.com/14308428/Newkid-lakan/Lakan",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3646866",
+     "client_timestamps": {
+      "updated_by_human_at": 1579984708,
+      "lyrics_updated_at": 1544911661
+     },
+     "context": "Newkid",
+     "id": 3646866,
+     "image_url": "https://images.genius.com/a0eda496faf8436c3e5769b268fc2241.1000x1000x1.png",
+     "link_title": "Lakan by\u00a0Newkid",
+     "title": "Lakan",
+     "type": "Song",
+     "url": "https://genius.com/Newkid-lakan-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14308428",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14308428,
+      "pinned": false,
+      "share_url": "https://genius.com/14308428",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14308428/Newkid-lakan/Lakan",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2383145",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/c53fb890c7bd0de99e021a3a0c825b9a.757x287x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 2383145,
+         "iq": 599097,
+         "login": "itischris",
+         "name": "\u200bitischris",
+         "role_for_display": "editor",
+         "url": "https://genius.com/itischris",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=F4hQOzAk8ac"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1020900",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1020900,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Christian Nilsson",
+     "url": "https://genius.com/artists/Christian-nilsson"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/25015",
+     "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+     "id": 25015,
+     "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Newkid",
+     "url": "https://genius.com/artists/Newkid",
+     "iq": 100
+    }
+   ],
+   "artist": "Newkid",
+   "lyrics": "Lakan Lyrics[Vers 1]\nVad \u00e4r ironin av att jag fann ett brustet hj\u00e4rta\nI botten av en l\u00e5da med saker du aldrig kom och h\u00e4mta?\nOch varje vit skjorta innanf\u00f6r mina garderobsd\u00f6rrar\nHar samma r\u00f6d fl\u00e4ck \u00f6ver br\u00f6stet som inte g\u00e5r att tv\u00e4tta av\nDu ler igen redan och faller f\u00f6r dudes med repliker jag redan sagt\nHur kan du gl\u00f6mma s\u00e5 snabbt?\n\n[Refr\u00e4ng]\nF\u00f6r det d\u00f6dar mig att du redan startat om\nInnan doften ens hunnit l\u00e4mna mina lakan\nWoah-ooh-ooh-oh, woah-ooh-ooh-oh\nF\u00f6r det d\u00f6dar mig att du redan startat om\nInnan doften ens hunnit l\u00e4mna mina lakan\nWoah-ooh-ooh-oh, woah-ooh-ooh-oh\n[Vers 2]\nVill kasta l\u00e5dan ut ur f\u00f6nstret\nMen \u00e5ngrar mig f\u00f6r det \u00e4r allt jag har kvar av dig, oh no\nOch du verkar imponeras\nAv alla smeknamn han ger dig som du redan haft\nInnan du gl\u00f6mde s\u00e5 snabbt\n\n[Refr\u00e4ng]\nF\u00f6r det d\u00f6dar mig att du redan startat om\nInnan doften ens hunnit l\u00e4mna mina lakan\nWoah-ooh-ooh-oh, woah-ooh-ooh-oh\nF\u00f6r det d\u00f6dar mig att du redan startat om\nInnan doften ens hunnit l\u00e4mna mina lakan\nWoah-ooh-ooh-oh, woah-ooh-ooh-oh\n\n[Stick]\nJag har smulor kvar i s\u00e4ngen efter frukostar vi delat\nEtt middagsbord f\u00f6r tv\u00e5 och ett badrumssk\u00e5p som ekar\nHar v\u00e4ggar som jag lyft dig emot och sagt att du \u00e4r allt f\u00f6r mig\nJa, ja, ja\nOm jag n\u00e5nsin vill p\u00e5minnas av dig\nOch hur jag brukar t\u00e4nka att jag hade allt\nInnan du gl\u00f6mde s\u00e5 snabbt\n\n[Refr\u00e4ng 2]\nF\u00f6r det d\u00f6dar mig att du redan startat om\nInnan doften ens hunnit l\u00e4mna mina lakan\nWoah-ooh-ooh-oh\nHur kan du gl\u00f6mma s\u00e5 snabbt?\nInnan doften ens hunnit l\u00e4mna mina lakan\nWoah-ooh-ooh-oh, woah-ooh-ooh-oh\nF\u00f6r det d\u00f6dar mig att du redan startat om\nInnan doften ens hunnit l\u00e4mna mina lakan\nWoah-ooh-ooh-oh, woah-ooh-ooh-ohYou might also like2Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6245500",
+   "artist_names": "Newkid",
+   "full_title": "Du m\u00e5ste finnas by\u00a0Newkid",
+   "header_image_thumbnail_url": "https://images.genius.com/72e98344cbca052f08c8ab1b16f180aa.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/72e98344cbca052f08c8ab1b16f180aa.720x720x1.jpg",
+   "id": 6245500,
+   "language": "sv",
+   "lyrics_owner_id": 10145508,
+   "lyrics_state": "complete",
+   "path": "/Newkid-du-maste-finnas-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Newkid-du-maste-finnas-sample",
+   "release_date_components": {
+    "year": 2020,
+    "month": 12,
+    "day": 5
+   },
+   "release_date_for_display": "December 5, 2020",
+   "release_date_with_abbreviated_month_for_display": "Dec. 5, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/72e98344cbca052f08c8ab1b16f180aa.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/72e98344cbca052f08c8ab1b16f180aa.720x720x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 40126
+   },
+   "title": "Du m\u00e5ste finnas",
+   "title_with_featured": "Du m\u00e5ste finnas",
+   "url": "https://genius.com/Newkid-du-maste-finnas-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/25015",
+    "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+    "id": 25015,
+    "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Newkid",
+    "url": "https://genius.com/artists/Newkid",
+    "iq": 100
+   },
+   "apple_music_id": "1540804589",
+   "apple_music_player_url": "https://genius.com/songs/6245500/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6245500' class='rg_embed_link' data-song-id='6245500'>Read <a href='https://genius.com/Newkid-du-maste-finnas-lyrics'>\u201cDu m\u00e5ste finnas\u201d by Newkid</a> on Genius</div> <script crossorigin src='//genius.com/songs/6245500/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2020-12-05",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/713810",
+    "cover_art_url": "https://images.genius.com/38ff4d9394ac4f7c366ef43557c12d72.223x223x1.png",
+    "full_title": "S\u00e5 mycket b\u00e4ttre 2020 - Tolkningarna (artist: Newkid) by Newkid",
+    "id": 713810,
+    "name": "S\u00e5 mycket b\u00e4ttre 2020 - Tolkningarna (artist: Newkid)",
+    "url": "https://genius.com/albums/Newkid/Sa-mycket-battre-2020-tolkningarna-artist-newkid",
+    "artist": {
+     "api_path": "/artists/25015",
+     "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+     "id": 25015,
+     "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Newkid",
+     "url": "https://genius.com/artists/Newkid",
+     "iq": 100
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10145508,
+    "annotator_login": "LilianTikkanen",
+    "api_path": "/referents/21530900",
+    "classification": "needs_exegesis",
+    "fragment": "Du m\u00e5ste finnas",
+    "id": 21530900,
+    "is_description": true,
+    "path": "/21530900/Newkid-du-maste-finnas/Du-maste-finnas",
+    "range": {
+     "content": "Du m\u00e5ste finnas"
+    },
+    "song_id": 6245500,
+    "url": "https://genius.com/21530900/Newkid-du-maste-finnas/Du-maste-finnas",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6245500",
+     "client_timestamps": {
+      "updated_by_human_at": 1609856767,
+      "lyrics_updated_at": 1607204103
+     },
+     "context": "Newkid",
+     "id": 6245500,
+     "image_url": "https://images.genius.com/72e98344cbca052f08c8ab1b16f180aa.720x720x1.jpg",
+     "link_title": "Du m\u00e5ste finnas by\u00a0Newkid",
+     "title": "Du m\u00e5ste finnas",
+     "type": "Song",
+     "url": "https://genius.com/Newkid-du-maste-finnas-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21530900",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21530900,
+      "pinned": false,
+      "share_url": "https://genius.com/21530900",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/21530900/Newkid-du-maste-finnas/Du-maste-finnas",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10145508",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/72c7a7084257ab41bddf5217083c1b05",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/72c7a7084257ab41bddf5217083c1b05",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/72c7a7084257ab41bddf5217083c1b05",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/72c7a7084257ab41bddf5217083c1b05",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/c0ygd1smcmm",
+         "human_readable_role_for_display": "Contributor",
+         "id": 10145508,
+         "iq": 10913,
+         "login": "LilianTikkanen",
+         "name": "LilianTikkanen",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/LilianTikkanen",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=3ssGRdZpKqg"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1218954",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1218954,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "William Forsling",
+     "url": "https://genius.com/artists/William-forsling"
+    },
+    {
+     "api_path": "/artists/1218955",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1218955,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Petter Alfredsson",
+     "url": "https://genius.com/artists/Petter-alfredsson"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2043981",
+       "artist_names": "Bj\u00f6rn Ulvaeus & Benny Andersson (Ft. Helen Sj\u00f6holm)",
+       "full_title": "Du m\u00e5ste finnas by\u00a0Bj\u00f6rn\u00a0Ulvaeus & Benny Andersson (Ft.\u00a0Helen\u00a0Sj\u00f6holm)",
+       "header_image_thumbnail_url": "https://images.genius.com/84be9419cf03f3cfe223a62403906e72.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/84be9419cf03f3cfe223a62403906e72.467x467x1.jpg",
+       "id": 2043981,
+       "language": "sv",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Bjorn-ulvaeus-and-benny-andersson-du-maste-finnas-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Bjorn-ulvaeus-and-benny-andersson-du-maste-finnas-sample",
+       "release_date_components": {
+        "year": 1996,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1996",
+       "release_date_with_abbreviated_month_for_display": "1996",
+       "song_art_image_thumbnail_url": "https://images.genius.com/84be9419cf03f3cfe223a62403906e72.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/84be9419cf03f3cfe223a62403906e72.467x467x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 64236
+       },
+       "title": "Du m\u00e5ste finnas",
+       "title_with_featured": "Du m\u00e5ste finnas (Ft.\u00a0Helen\u00a0Sj\u00f6holm)",
+       "url": "https://genius.com/Bjorn-ulvaeus-and-benny-andersson-du-maste-finnas-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/380980",
+         "header_image_url": "https://images.genius.com/2fcce8e8ca3afc010413e3f0da847afe.392x392x1.jpg",
+         "id": 380980,
+         "image_url": "https://images.genius.com/2fcce8e8ca3afc010413e3f0da847afe.392x392x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Helen Sj\u00f6holm",
+         "url": "https://genius.com/artists/Helen-sjoholm"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/350431",
+        "header_image_url": "https://images.genius.com/c4ad49c524f0e22d38af6d317c32cb52.480x480x1.jpg",
+        "id": 350431,
+        "image_url": "https://images.genius.com/c4ad49c524f0e22d38af6d317c32cb52.480x480x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Bj\u00f6rn Ulvaeus & Benny Andersson",
+        "url": "https://genius.com/artists/Bjorn-ulvaeus-and-benny-andersson"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/350431",
+     "header_image_url": "https://images.genius.com/c4ad49c524f0e22d38af6d317c32cb52.480x480x1.jpg",
+     "id": 350431,
+     "image_url": "https://images.genius.com/c4ad49c524f0e22d38af6d317c32cb52.480x480x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bj\u00f6rn Ulvaeus & Benny Andersson",
+     "url": "https://genius.com/artists/Bjorn-ulvaeus-and-benny-andersson"
+    }
+   ],
+   "artist": "Newkid",
+   "lyrics": "Du m\u00e5ste finnas Lyrics[Vers 1]\nVem skulle hj\u00e4lpa mig uth\u00e4rda livet h\u00e4r ute?\nVem skulle ge mig den kraften som jag m\u00e5ste f\u00e5?\nVem skulle tr\u00f6sta mig? Jag \u00e4r s\u00e5 liten p\u00e5 jorden\nOm du inte fanns till. Vad skulle jag g\u00f6ra d\u00e5?\n\n[Refr\u00e4ng]\nDu m\u00e5ste finnas, du m\u00e5ste. Jag lever mitt liv genom dig\nUtan dig \u00e4r jag en spillra p\u00e5 ett m\u00f6rkt och stormigt hav\nDu m\u00e5ste finnas, du m\u00e5ste.  Hur kan du d\u00e5 \u00f6verge mig?\nJag vore ingenstans\nJag vore ingenting om du inte fanns\n[Vers 2]\nVem skulle k\u00e4nna min \u00e5nger och sedan f\u00f6rl\u00e5ta?\nFriden i sj\u00e4len. Ja, vem skulle sk\u00e4nka mig den\nVem skull\u0435 s\u00e5 ta emot mig till slut efter d\u00f6d\u0435n?\nOm du inte fanns till. Vem tog hand om mig sen?\n\n[Refr\u00e4ng]\nDu m\u00e5ste finnas, du m\u00e5ste. Jag lever mitt liv genom dig\nUtan dig \u00e4r jag en spillra p\u00e5 ett m\u00f6rkt och stormigt hav\nDu m\u00e5ste finnas, du m\u00e5ste.  Hur kan du d\u00e5 \u00f6verge mig?\nJag vore ingenstans\nJag vore ingenting om du inte fanns\n\n[Stick]\nJag kan inte l\u00e4ngre se en mening\nUtan dig, vad g\u00f6r jag d\u00e5?\n\n[Refr\u00e4ng]\nJag lever mitt liv genom dig\nUtan dig \u00e4r jag en spillra p\u00e5 ett m\u00f6rkt och stormigt hav\nDu m\u00e5ste finnas, du m\u00e5ste.  Hur kan du d\u00e5 \u00f6verge mig?\nJag vore ingenstans\nJag vore ingenting om du inte fanns\n\nOm du inte fanns\nJag vore ingenting om du inte fanns\nJag vore ingenstans\nJag vore ingenting om du inte fannsYou might also like1Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3769951",
+   "artist_names": "Newkid (Ft. NOR (SE))",
+   "full_title": "Samma g\u00e4ri by\u00a0Newkid (Ft.\u00a0NOR\u00a0(SE))",
+   "header_image_thumbnail_url": "https://images.genius.com/04a5a6a628c4346df6e3b48a64465bc2.300x300x1.png",
+   "header_image_url": "https://images.genius.com/04a5a6a628c4346df6e3b48a64465bc2.1000x1000x1.png",
+   "id": 3769951,
+   "language": "sv",
+   "lyrics_owner_id": 2383145,
+   "lyrics_state": "complete",
+   "path": "/Newkid-samma-gari-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Newkid-samma-gari-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 6,
+    "day": 8
+   },
+   "release_date_for_display": "June 8, 2018",
+   "release_date_with_abbreviated_month_for_display": "Jun. 8, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/04a5a6a628c4346df6e3b48a64465bc2.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/04a5a6a628c4346df6e3b48a64465bc2.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 5,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 23595
+   },
+   "title": "Samma g\u00e4ri",
+   "title_with_featured": "Samma g\u00e4ri (Ft.\u00a0NOR\u00a0(SE))",
+   "url": "https://genius.com/Newkid-samma-gari-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1297693",
+     "header_image_url": "https://images.genius.com/7dd6eeacfaa4f8f158f85291790a616a.960x960x1.jpg",
+     "id": 1297693,
+     "image_url": "https://images.genius.com/7dd6eeacfaa4f8f158f85291790a616a.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "NOR (SE)",
+     "url": "https://genius.com/artists/Nor-se"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/25015",
+    "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+    "id": 25015,
+    "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Newkid",
+    "url": "https://genius.com/artists/Newkid",
+    "iq": 100
+   },
+   "apple_music_id": "1387579022",
+   "apple_music_player_url": "https://genius.com/songs/3769951/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3769951' class='rg_embed_link' data-song-id='3769951'>Read <a href='https://genius.com/Newkid-samma-gari-lyrics'>\u201cSamma g\u00e4ri\u201d by Newkid</a> on Genius</div> <script crossorigin src='//genius.com/songs/3769951/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-06-08",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/607853",
+    "cover_art_url": "https://images.genius.com/bdfb2d3ab9fa84c1fa6b44666f1cbdd6.1000x1000x1.png",
+    "full_title": "SS/AW18 by Newkid",
+    "id": 607853,
+    "name": "SS/AW18",
+    "url": "https://genius.com/albums/Newkid/Ss-aw18",
+    "artist": {
+     "api_path": "/artists/25015",
+     "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+     "id": 25015,
+     "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Newkid",
+     "url": "https://genius.com/artists/Newkid",
+     "iq": 100
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1238086",
+       "header_image_url": "https://images.genius.com/272b1d1aa210df62873b1709464365a5.720x720x1.jpg",
+       "id": 1238086,
+       "image_url": "https://images.genius.com/272b1d1aa210df62873b1709464365a5.720x720x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kjetil Bjelvin",
+       "url": "https://genius.com/artists/Kjetil-bjelvin"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/978900",
+       "header_image_url": "https://images.genius.com/3dc7ae956255fdf14db9dcf6da37f73e.1000x667x1.jpg",
+       "id": 978900,
+       "image_url": "https://images.genius.com/e22dccb65576174d0504f6fd5ddb74ee.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "S\u00f6ren von Malmborg",
+       "url": "https://genius.com/artists/Soren-von-malmborg"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6612308,
+    "annotator_login": "emikael",
+    "api_path": "/referents/19178075",
+    "classification": "needs_exegesis",
+    "fragment": "Samma g\u00e4ri",
+    "id": 19178075,
+    "is_description": true,
+    "path": "/19178075/Newkid-samma-gari/Samma-gari",
+    "range": {
+     "content": "Samma g\u00e4ri"
+    },
+    "song_id": 3769951,
+    "url": "https://genius.com/19178075/Newkid-samma-gari/Samma-gari",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3769951",
+     "client_timestamps": {
+      "updated_by_human_at": 1620462723,
+      "lyrics_updated_at": 1620462723
+     },
+     "context": "Newkid",
+     "id": 3769951,
+     "image_url": "https://images.genius.com/04a5a6a628c4346df6e3b48a64465bc2.1000x1000x1.png",
+     "link_title": "Samma g\u00e4ri by\u00a0Newkid (Ft.\u00a0NOR\u00a0(SE))",
+     "title": "Samma g\u00e4ri",
+     "type": "Song",
+     "url": "https://genius.com/Newkid-samma-gari-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19178075",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19178075,
+      "pinned": false,
+      "share_url": "https://genius.com/19178075",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19178075/Newkid-samma-gari/Samma-gari",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6612308",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/143423ca521346fd78ca6dbd68c588f8",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/143423ca521346fd78ca6dbd68c588f8",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/143423ca521346fd78ca6dbd68c588f8",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/143423ca521346fd78ca6dbd68c588f8",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/0ae47f1bf7eeed48d7ce7d2eff1b3bd9.497x280x10.gif",
+         "human_readable_role_for_display": "Editor",
+         "id": 6612308,
+         "iq": 506999,
+         "login": "emikael",
+         "name": "\u200bemikael",
+         "role_for_display": "editor",
+         "url": "https://genius.com/emikael",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1027759",
+     "header_image_url": "https://images.genius.com/7ba7ccca663664d8b799a6b78158af57.667x667x1.jpg",
+     "id": 1027759,
+     "image_url": "https://images.genius.com/7ba7ccca663664d8b799a6b78158af57.667x667x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Filip Kollsete",
+     "url": "https://genius.com/artists/Filip-kollsete"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": [
+      {
+       "annotation_count": 5,
+       "api_path": "/songs/54672",
+       "artist_names": "R. Kelly (Ft. Usher)",
+       "full_title": "Same Girl by\u00a0R.\u00a0Kelly (Ft.\u00a0Usher)",
+       "header_image_thumbnail_url": "https://images.genius.com/d006d387bc28299b559e6b9848a770d1.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d006d387bc28299b559e6b9848a770d1.1000x1000x1.jpg",
+       "id": 54672,
+       "language": "en",
+       "lyrics_owner_id": 19559,
+       "lyrics_state": "complete",
+       "path": "/R-kelly-same-girl-lyrics",
+       "pyongs_count": 13,
+       "relationships_index_url": "https://genius.com/R-kelly-same-girl-sample",
+       "release_date_components": {
+        "year": 2009,
+        "month": 5,
+        "day": 29
+       },
+       "release_date_for_display": "May 29, 2009",
+       "release_date_with_abbreviated_month_for_display": "May. 29, 2009",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d006d387bc28299b559e6b9848a770d1.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d006d387bc28299b559e6b9848a770d1.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 263568
+       },
+       "title": "Same Girl",
+       "title_with_featured": "Same Girl (Ft.\u00a0Usher)",
+       "url": "https://genius.com/R-kelly-same-girl-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/132",
+         "header_image_url": "https://images.genius.com/8ed85df19d988d6a85c7697956ff0646.1000x333x1.jpg",
+         "id": 132,
+         "image_url": "https://images.genius.com/fe4e51c2e64e0c589f1ab5d4e27df9fb.400x400x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Usher",
+         "url": "https://genius.com/artists/Usher",
+         "iq": 561
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/535",
+        "header_image_url": "https://images.genius.com/e382b814b00c7da090057bd23e499075.400x400x1.jpg",
+        "id": 535,
+        "image_url": "https://images.genius.com/e54b7a47c059f99afc5429a8709acf02.400x400x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "R. Kelly",
+        "url": "https://genius.com/artists/R-kelly",
+        "iq": 1943
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1027759",
+     "header_image_url": "https://images.genius.com/7ba7ccca663664d8b799a6b78158af57.667x667x1.jpg",
+     "id": 1027759,
+     "image_url": "https://images.genius.com/7ba7ccca663664d8b799a6b78158af57.667x667x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Filip Kollsete",
+     "url": "https://genius.com/artists/Filip-kollsete"
+    },
+    {
+     "api_path": "/artists/25015",
+     "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+     "id": 25015,
+     "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Newkid",
+     "url": "https://genius.com/artists/Newkid",
+     "iq": 100
+    }
+   ],
+   "artist": "Newkid",
+   "lyrics": "Samma g\u00e4ri Lyrics[Intro: Newkid]\nG\u00e4ri, g\u00e4ri, g\u00e4ri, jaha\nG\u00e4ri, g\u00e4ri, g\u00e4ri, jaha\n\n[Vers 1: Newkid / Nor]\nNor, jag tror vi har problem\nDu vet Natalia med l\u00e5nga ben?\nKan inte hj\u00e4lpa det men jag tror jag gillar henne med\nMen mannen det g\u00f6r inte n\u00e5gonting\nHar inte satt p\u00e5 henne n\u00e5gon ring\nVi f\u00e5r bara l\u00f6sa det oss emellan\nNu n\u00e4r vi\n[Refr\u00e4ng: Newkid / Nor]\nFuckar med samma g\u00e4ri, g\u00e4ri, g\u00e4ri, jaha\nFuckar med samma g\u00e4ri, g\u00e4ri, g\u00e4ri, jaha\nDet \u00e4r som om du var Usher\nDet \u00e4r som du var R. Kelly\nFuckar med samma g\u00e4ri, g\u00e4ri, g\u00e4ri, g\u00e4ri, g\u00e4ri\n\nFuckar med samma g\u00e4ri, g\u00e4ri, g\u00e4ri, jaha\nFuckar med samma g\u00e4ri, g\u00e4ri, g\u00e4ri, jaha (ooh)\nDet \u00e4r som om du var Usher\nDet \u00e4r som du var R. Kelly (Kelly)\nFuckar med samma g\u00e4ri, g\u00e4ri, g\u00e4ri, g\u00e4ri, g\u00e4ri\n\n[Vers 2: Newkid / Nor, B\u00e5da]\nV\u00e4nta, har du sagt n\u00e5tt till henne om mig?\nInget mer \u00e4n att jag k\u00e4nner dig\nMen vad menar du med det d\u00e4ra?\nG\u00f6r inte n\u00e5nting, aah\nMen varf\u00f6r \u00e4r du v\u00e4rd henne mer \u00e4n mig?\nDet \u00e4r s\u00e5 det \u00e4r\nHar b\u00e5de swag o har ett pretty face\nMen du vet hon vill har curly tops, ingen fl\u00e4ta\nInget babyface, ooh\nFuck det d\u00e4ra, hon \u00e4r min\nNah, nah mannen, hon \u00e4r min\nHon \u00e4r min, min, min, min, min\nVi f\u00e5r v\u00e4l se hur det blir\nTror din min kommer \u00e4ndras n\u00e4r vi l\u00e5ter hon v\u00e4lja\nYou might also like[Refr\u00e4ng: Newkid / Nor, B\u00e5da]\nVi fuckar med samma g\u00e4ri, g\u00e4ri, g\u00e4ri, jaha\nFuckar med samma g\u00e4ri, g\u00e4ri, g\u00e4ri, jaha (ooh)\nDet \u00e4r som om du var Usher (aah)\nDet \u00e4r som du var R. Kelly\nFuckar med samma g\u00e4ri, g\u00e4ri, g\u00e4ri, g\u00e4ri, g\u00e4ri\n\nFuckar med samma g\u00e4ri, g\u00e4ri, g\u00e4ri, jaha\nFuckar med samma g\u00e4ri, g\u00e4ri, g\u00e4ri, jaha\nDet \u00e4r som om du var Usher\nDet \u00e4r som du var R. Kelly\nFuckar med samma g\u00e4ri, g\u00e4ri, g\u00e4ri, g\u00e4ri, g\u00e4ri\n\n[Stick: Newkid / Nor, B\u00e5da]\nFuck det d\u00e4ra, hon \u00e4r min\nNah, nah mannen, hon \u00e4r min\nVi f\u00e5r v\u00e4l se hur det blir\nTror din min kommer \u00e4ndras n\u00e4r vi l\u00e5ter hon v\u00e4lja?\n\n[Refr\u00e4ng: Newkid / Nor, B\u00e5da]\nVi fuckar med samma g\u00e4ri, g\u00e4ri, g\u00e4ri, jaha\nFuckar med samma g\u00e4ri, g\u00e4ri, g\u00e4ri, jaha\nDet \u00e4r som om du var Usher\nDet \u00e4r som du var R. Kelly (Kelly)\nFuckar med samma g\u00e4ri, g\u00e4ri, g\u00e4ri, g\u00e4ri, g\u00e4ri\nFuckar med samma g\u00e4ri, g\u00e4ri, g\u00e4ri, jaha\nFuckar med samma g\u00e4ri, g\u00e4ri, g\u00e4ri, jaha\nDet \u00e4r som om du var Usher\nDet \u00e4r som du var R. Kelly\nFuckar med samma g\u00e4ri, g\u00e4ri, g\u00e4ri, g\u00e4ri, g\u00e4riEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5492395",
+   "artist_names": "Newkid",
+   "full_title": "Kanske var vi r\u00e4tt bra \u00e4nd\u00e5 by\u00a0Newkid",
+   "header_image_thumbnail_url": "https://images.genius.com/4822903dd63e91731f828c0f95116693.300x300x1.png",
+   "header_image_url": "https://images.genius.com/4822903dd63e91731f828c0f95116693.1000x1000x1.png",
+   "id": 5492395,
+   "language": "sv",
+   "lyrics_owner_id": 2383145,
+   "lyrics_state": "complete",
+   "path": "/Newkid-kanske-var-vi-ratt-bra-anda-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Newkid-kanske-var-vi-ratt-bra-anda-sample",
+   "release_date_components": {
+    "year": 2020,
+    "month": 4,
+    "day": 24
+   },
+   "release_date_for_display": "April 24, 2020",
+   "release_date_with_abbreviated_month_for_display": "Apr. 24, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/4822903dd63e91731f828c0f95116693.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/4822903dd63e91731f828c0f95116693.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 16887
+   },
+   "title": "Kanske var vi r\u00e4tt bra \u00e4nd\u00e5",
+   "title_with_featured": "Kanske var vi r\u00e4tt bra \u00e4nd\u00e5",
+   "url": "https://genius.com/Newkid-kanske-var-vi-ratt-bra-anda-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/25015",
+    "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+    "id": 25015,
+    "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Newkid",
+    "url": "https://genius.com/artists/Newkid",
+    "iq": 100
+   },
+   "apple_music_id": "1507970667",
+   "apple_music_player_url": "https://genius.com/songs/5492395/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5492395' class='rg_embed_link' data-song-id='5492395'>Read <a href='https://genius.com/Newkid-kanske-var-vi-ratt-bra-anda-lyrics'>\u201cKanske var vi r\u00e4tt bra \u00e4nd\u00e5\u201d by Newkid</a> on Genius</div> <script crossorigin src='//genius.com/songs/5492395/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2020-04-24",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/607855",
+    "cover_art_url": "https://images.genius.com/4dc778e2c29bddb50ae95b0a84dfeb82.999x999x1.jpg",
+    "full_title": "MOUNT JHUN by Newkid",
+    "id": 607855,
+    "name": "MOUNT JHUN",
+    "url": "https://genius.com/albums/Newkid/Mount-jhun",
+    "artist": {
+     "api_path": "/artists/25015",
+     "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+     "id": 25015,
+     "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Newkid",
+     "url": "https://genius.com/artists/Newkid",
+     "iq": 100
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Video A&R",
+     "artists": [
+      {
+       "api_path": "/artists/2224372",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 2224372,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Martin Norman",
+       "url": "https://genius.com/artists/Martin-norman"
+      }
+     ]
+    },
+    {
+     "label": "Video Hair Stylist",
+     "artists": [
+      {
+       "api_path": "/artists/2224371",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 2224371,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Regina T\u00f6rnwall",
+       "url": "https://genius.com/artists/Regina-tornwall"
+      }
+     ]
+    },
+    {
+     "label": "Video Make Up",
+     "artists": [
+      {
+       "api_path": "/artists/2224371",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 2224371,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Regina T\u00f6rnwall",
+       "url": "https://genius.com/artists/Regina-tornwall"
+      }
+     ]
+    },
+    {
+     "label": "Video Focus Puller",
+     "artists": [
+      {
+       "api_path": "/artists/2224370",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 2224370,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Akira Andersson",
+       "url": "https://genius.com/artists/Akira-andersson"
+      }
+     ]
+    },
+    {
+     "label": "Video Director Of Photography",
+     "artists": [
+      {
+       "api_path": "/artists/2224369",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 2224369,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mika Aberra",
+       "url": "https://genius.com/artists/Mika-aberra"
+      }
+     ]
+    },
+    {
+     "label": "Video Director",
+     "artists": [
+      {
+       "api_path": "/artists/1897264",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1897264,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Fredrik Egerstrand",
+       "url": "https://genius.com/artists/Fredrik-egerstrand"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1438807",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1438807,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Johan \u00c5kerstr\u00f6m",
+       "url": "https://genius.com/artists/Johan-akerstrom"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/745769",
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/71pR2fZpS76riOLevVQt_2655067_1200_673.jpg",
+       "id": 745769,
+       "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/71pR2fZpS76riOLevVQt_2655067_1200_673.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Niklas Bergl\u00f6f",
+       "url": "https://genius.com/artists/Niklas-berglof"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1146669",
+       "header_image_url": "https://images.genius.com/288ecdd620553fb393f2c06c8d158dad.1000x1000x1.png",
+       "id": 1146669,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment Sweden",
+       "url": "https://genius.com/artists/Sony-music-entertainment-sweden"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2383145,
+    "annotator_login": "itischris",
+    "api_path": "/referents/19644121",
+    "classification": "needs_exegesis",
+    "fragment": "Kanske var vi r\u00e4tt bra \u00e4nd\u00e5",
+    "id": 19644121,
+    "is_description": true,
+    "path": "/19644121/Newkid-kanske-var-vi-ratt-bra-anda/Kanske-var-vi-ratt-bra-anda",
+    "range": {
+     "content": "Kanske var vi r\u00e4tt bra \u00e4nd\u00e5"
+    },
+    "song_id": 5492395,
+    "url": "https://genius.com/19644121/Newkid-kanske-var-vi-ratt-bra-anda/Kanske-var-vi-ratt-bra-anda",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5492395",
+     "client_timestamps": {
+      "updated_by_human_at": 1588717588,
+      "lyrics_updated_at": 1587645883
+     },
+     "context": "Newkid",
+     "id": 5492395,
+     "image_url": "https://images.genius.com/4822903dd63e91731f828c0f95116693.1000x1000x1.png",
+     "link_title": "Kanske var vi r\u00e4tt bra \u00e4nd\u00e5 by\u00a0Newkid",
+     "title": "Kanske var vi r\u00e4tt bra \u00e4nd\u00e5",
+     "type": "Song",
+     "url": "https://genius.com/Newkid-kanske-var-vi-ratt-bra-anda-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19644121",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19644121,
+      "pinned": false,
+      "share_url": "https://genius.com/19644121",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19644121/Newkid-kanske-var-vi-ratt-bra-anda/Kanske-var-vi-ratt-bra-anda",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2383145",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/c53fb890c7bd0de99e021a3a0c825b9a.757x287x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 2383145,
+         "iq": 599097,
+         "login": "itischris",
+         "name": "\u200bitischris",
+         "role_for_display": "editor",
+         "url": "https://genius.com/itischris",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=OzKGuKPzdHA"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1218954",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1218954,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "William Forsling",
+     "url": "https://genius.com/artists/William-forsling"
+    },
+    {
+     "api_path": "/artists/1218955",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1218955,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Petter Alfredsson",
+     "url": "https://genius.com/artists/Petter-alfredsson"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5992302",
+       "artist_names": "Newkid",
+       "full_title": "Kanske var vi r\u00e4tt bra \u00e4nd\u00e5 (Piano Version) by\u00a0Newkid",
+       "header_image_thumbnail_url": "https://images.genius.com/6b9136c664efb76705ebf0719bdb8dfe.300x300x1.png",
+       "header_image_url": "https://images.genius.com/6b9136c664efb76705ebf0719bdb8dfe.1000x1000x1.png",
+       "id": 5992302,
+       "language": "sv",
+       "lyrics_owner_id": 2383145,
+       "lyrics_state": "complete",
+       "path": "/Newkid-kanske-var-vi-ratt-bra-anda-piano-version-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Newkid-kanske-var-vi-ratt-bra-anda-piano-version-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 9,
+        "day": 18
+       },
+       "release_date_for_display": "September 18, 2020",
+       "release_date_with_abbreviated_month_for_display": "Sep. 18, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/6b9136c664efb76705ebf0719bdb8dfe.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/6b9136c664efb76705ebf0719bdb8dfe.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Kanske var vi r\u00e4tt bra \u00e4nd\u00e5 (Piano Version)",
+       "title_with_featured": "Kanske var vi r\u00e4tt bra \u00e4nd\u00e5 (Piano Version)",
+       "url": "https://genius.com/Newkid-kanske-var-vi-ratt-bra-anda-piano-version-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/25015",
+        "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+        "id": 25015,
+        "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Newkid",
+        "url": "https://genius.com/artists/Newkid",
+        "iq": 100
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/25015",
+     "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+     "id": 25015,
+     "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Newkid",
+     "url": "https://genius.com/artists/Newkid",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/1218954",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1218954,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "William Forsling",
+     "url": "https://genius.com/artists/William-forsling"
+    }
+   ],
+   "artist": "Newkid",
+   "lyrics": "Kanske var vi r\u00e4tt bra \u00e4nd\u00e5 Lyrics[Vers 1]\nMin familj brukar fr\u00e5ga om dig\nJag vet inte vad jag ska svara\nDet var s\u00e5 l\u00e4nge\u2005sen\u2005vi prata\nL\u00e5tarna som\u2005jag skrivit om dig\nBlunda och peka\u2005p\u00e5 Sveriges karta\nDe kan nog den fram och tillbaka\n\n[Brygga]\nJag \u00e4lskade hur du bruka st\u00e5 p\u00e5 t\u00e5\nN\u00e4r vi kysstes f\u00f6r att n\u00e5\nOch jag sv\u00e4vade p\u00e5 moln\nMen det som g\u00f6r mest ont nu n\u00e4r jag t\u00e4nker p\u00e5\nHur det skulle kunnat g\u00e5\nOm jag aldrig l\u00e4t dig g\u00e5\nOh-oh, aldrig l\u00e4t dig g\u00e5\n[Refr\u00e4ng]\nNu n\u00e4r vi l\u00e4kt alla v\u00e5ra s\u00e5r\nKanske var vi r\u00e4tt bra \u00e4nd\u00e5\n\n[Vers 2]\nHar du slutat att fr\u00e5ga om mig\nSlutat sakna mig n\u00e4r du vaknar\nSlutat n\u00e4mna mig n\u00e4r du pratar?\nF\u00f6r jag har slutat att fr\u00e5ga om dig\nJag \u00e4r r\u00e4dd f\u00f6r vad de ska svara\nVill inte veta vem som \u00e4r gladast\n\n[Brygga]\nJag \u00e4lskade hur du bruka st\u00e5 p\u00e5 t\u00e5\nN\u00e4r vi kysstes f\u00f6r att n\u00e5\nOch jag sv\u00e4vade p\u00e5 moln\nMen det som g\u00f6r mest ont nu n\u00e4r jag t\u00e4nker p\u00e5\nHur det skulle kunnat g\u00e5\nOm jag aldrig l\u00e4t dig g\u00e5\nOh-oh, aldrig l\u00e4t dig g\u00e5\n\n[Refr\u00e4ng]\nNu n\u00e4r vi l\u00e4kt alla v\u00e5ra s\u00e5r\nKanske var vi r\u00e4tt bra \u00e4nd\u00e5\nNu n\u00e4r vi l\u00e4kt alla v\u00e5ra s\u00e5r\nKanske var vi r\u00e4tt bra \u00e4nd\u00e5\nYou might also like[Stick]\nF\u00f6r det fanns inte en enda del av mig\nSom inte ville vara hel med dig\nS\u00e5 vad var det som var s\u00e5 sv\u00e5rt?\nF\u00f6r det h\u00e4nder mig d\u00e5 och d\u00e5\nAtt jag t\u00e4nker kanske, kanske\n\n[Refr\u00e4ng]\nKanske var vi r\u00e4tt bra \u00e4nd\u00e5\nNu n\u00e4r vi l\u00e4kt alla v\u00e5ra s\u00e5r\nKanske var vi r\u00e4tt bra \u00e4nd\u00e5\nNu n\u00e4r vi l\u00e4kt alla v\u00e5ra s\u00e5r\nKanske var vi r\u00e4tt bra \u00e4nd\u00e5Embed"
+  },
+  {
+   "annotation_count": 13,
+   "api_path": "/songs/3117215",
+   "artist_names": "Newkid",
+   "full_title": "Kate Moss by\u00a0Newkid",
+   "header_image_thumbnail_url": "https://images.genius.com/82c0b54d02f6a8784d835b517cb18cd6.300x111x1.png",
+   "header_image_url": "https://images.genius.com/82c0b54d02f6a8784d835b517cb18cd6.702x260x1.png",
+   "id": 3117215,
+   "language": "sv",
+   "lyrics_owner_id": 958626,
+   "lyrics_state": "complete",
+   "path": "/Newkid-kate-moss-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Newkid-kate-moss-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 6,
+    "day": 9
+   },
+   "release_date_for_display": "June 9, 2017",
+   "release_date_with_abbreviated_month_for_display": "Jun. 9, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/7c35ade005224341eecdc3878410e3a3.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7c35ade005224341eecdc3878410e3a3.580x580x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 2,
+    "unreviewed_annotations": 13,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 14647
+   },
+   "title": "Kate Moss",
+   "title_with_featured": "Kate Moss",
+   "url": "https://genius.com/Newkid-kate-moss-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/25015",
+    "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+    "id": 25015,
+    "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Newkid",
+    "url": "https://genius.com/artists/Newkid",
+    "iq": 100
+   },
+   "apple_music_id": "1238678289",
+   "apple_music_player_url": "https://genius.com/songs/3117215/apple_music_player",
+   "description": {
+    "plain": "N\u00f6jesguiden 2017-06-09 08:18\n\nFram till idag hade Newkid, som framf\u00f6rallt \u00e4r k\u00e4nd f\u00f6r l\u00e5tarna Jag gr\u00e5ter bara i regnet och Baby? inte sl\u00e4ppt musik sedan 2011. Men nu \u00e4r han tillbaka med singeln Kate Moss som \u00e4r skriven av honom sj\u00e4lv och producerad av Vinter i B\u00e5stad.\n\n\u2013 I augusti f\u00f6rra \u00e5ret \u00e5kte jag och Vinter till B\u00e5stad f\u00f6r att g\u00f6ra musik en vecka. I b\u00f6rjan gick det snabbt men jag minns att Vinter satt fett l\u00e4nge med att f\u00e5 l\u00e5ten att sl\u00e5 ordentligt, s\u00e5 l\u00e4nge att jag la mig i soffan f\u00f6r en quick nap. Jag vaknade sedan till att refr\u00e4ngen bullrar i huset och att jag lite s\u00e5d\u00e4r halvvaken lyfte fingret mot taket som typ \u201cjapp, d\u00e4r har vi den!\u201d och skrattade.\ns\u00e4ger Newkid i ett pressmeddelande."
+   },
+   "embed_content": "<div id='rg_embed_link_3117215' class='rg_embed_link' data-song-id='3117215'>Read <a href='https://genius.com/Newkid-kate-moss-lyrics'>\u201cKate Moss\u201d by Newkid</a> on Genius</div> <script crossorigin src='//genius.com/songs/3117215/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "STUDIO 2007 (B\u00e5stad)",
+   "release_date": "2017-06-09",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 958626,
+    "annotator_login": "CarlXVIGustaf",
+    "api_path": "/referents/12130390",
+    "classification": "unreviewed",
+    "fragment": "Kate Moss",
+    "id": 12130390,
+    "is_description": true,
+    "path": "/12130390/Newkid-kate-moss/Kate-moss",
+    "range": {
+     "content": "Kate Moss"
+    },
+    "song_id": 3117215,
+    "url": "https://genius.com/12130390/Newkid-kate-moss/Kate-moss",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3117215",
+     "client_timestamps": {
+      "updated_by_human_at": 1620462494,
+      "lyrics_updated_at": 1497779890
+     },
+     "context": "Newkid",
+     "id": 3117215,
+     "image_url": "https://images.genius.com/7c35ade005224341eecdc3878410e3a3.580x580x1.jpg",
+     "link_title": "Kate Moss by\u00a0Newkid",
+     "title": "Kate Moss",
+     "type": "Song",
+     "url": "https://genius.com/Newkid-kate-moss-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/12130390",
+      "body": {
+       "plain": "N\u00f6jesguiden 2017-06-09 08:18\n\nFram till idag hade Newkid, som framf\u00f6rallt \u00e4r k\u00e4nd f\u00f6r l\u00e5tarna Jag gr\u00e5ter bara i regnet och Baby? inte sl\u00e4ppt musik sedan 2011. Men nu \u00e4r han tillbaka med singeln Kate Moss som \u00e4r skriven av honom sj\u00e4lv och producerad av Vinter i B\u00e5stad.\n\n\u2013 I augusti f\u00f6rra \u00e5ret \u00e5kte jag och Vinter till B\u00e5stad f\u00f6r att g\u00f6ra musik en vecka. I b\u00f6rjan gick det snabbt men jag minns att Vinter satt fett l\u00e4nge med att f\u00e5 l\u00e5ten att sl\u00e5 ordentligt, s\u00e5 l\u00e4nge att jag la mig i soffan f\u00f6r en quick nap. Jag vaknade sedan till att refr\u00e4ngen bullrar i huset och att jag lite s\u00e5d\u00e4r halvvaken lyfte fingret mot taket som typ \u201cjapp, d\u00e4r har vi den!\u201d och skrattade.\ns\u00e4ger Newkid i ett pressmeddelande."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 12130390,
+      "pinned": false,
+      "share_url": "https://genius.com/12130390",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/12130390/Newkid-kate-moss/Kate-moss",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/958626",
+         "avatar": {
+          "tiny": {
+           "url": "https://i.genius.com/b8e8dd11669bb98b046d46cb90b76aa36fa147fe?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FUrpMEkuxTu2IWVP6psTm%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://i.genius.com/b8e8dd11669bb98b046d46cb90b76aa36fa147fe?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FUrpMEkuxTu2IWVP6psTm%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://i.genius.com/b8e8dd11669bb98b046d46cb90b76aa36fa147fe?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FUrpMEkuxTu2IWVP6psTm%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://i.genius.com/b8e8dd11669bb98b046d46cb90b76aa36fa147fe?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FUrpMEkuxTu2IWVP6psTm%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/MyYiL1h3Qe6Mw1EDAS1R_Carl_XVI_Gustaf_24_700x448.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 958626,
+         "iq": 864,
+         "login": "CarlXVIGustaf",
+         "name": "CarlXVIGustaf",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/CarlXVIGustaf",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=4D0zQwUjmlk"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/561395",
+     "header_image_url": "https://images.genius.com/6eab69502fb529aaabfc8d887b197dba.465x314x1.png",
+     "id": 561395,
+     "image_url": "https://images.genius.com/765ea2589343b1dcb3970f4115cc0117.381x381x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vinter",
+     "url": "https://genius.com/artists/Vinter"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/25015",
+     "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+     "id": 25015,
+     "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Newkid",
+     "url": "https://genius.com/artists/Newkid",
+     "iq": 100
+    }
+   ],
+   "artist": "Newkid",
+   "lyrics": "Kate Moss Lyrics(Wow)\n\n[Hook x2]\nIngen hemlighet att jag fuckar med din mode\nJag vill g\u00f6ra XoXo med din kropp\nUpp i klubben som du fotades f\u00f6r Vogue\nKate Moss Kate Moss abow\n\n[Vers 1]\nJag flyger till Paris imorrn\nAnnars hade whippat upp en a\u00e7a\u00ed bowl\nMen p\u00e5 v\u00e4gen hem jag klipper macarons\nLadur\u00e9e ja du vet s\u00e5n mode (mode)\nKan inte slita mina \u00f6gon fr\u00e5n din kropp\nSv\u00e4r din mamma \u00e4r Picasso med sin konst\nKelly sa till oss I don't see nothing wrong\nWith a little bump and grind f\u00f6r\n[Hook x2]\nIngen hemlighet att jag fuckar med din mode\nJag vill g\u00f6ra XoXo med din kropp\nUpp i klubben som du fotades f\u00f6r Vogue\nKate Moss Kate Moss abow\n\n[Vers 2]\nVill ha dig h\u00e4r p\u00e5 min sch\u00e4slong\nGer dig g\u00e4rna hj\u00e4rna you already know\nF\u00f6r n\u00e4r dom tittar ut s\u00e5 d\u00e4r under till topp (Oh oh oh oh oh OH!)\nBrukar fucka h\u00e5rt med Comme Des Gar\u00e7ons\nDu har hj\u00e4rta det g\u00e5r aldrig ur s\u00e4song\nKelly sa till oss I don't see nothing wrong\nWith a little bump and grind fire\n\n[Hook x1]\nIngen hemlighet att jag fuckar med din mode\nJag vill g\u00f6ra XoXo med din kropp\nUpp i klubben som du fotades f\u00f6r Vogue\nKate Moss Kate Moss abow\n\n[Vers 3]\nSj\u00e4lvf\u00f6rtroende du g\u00e5r som Elsa Hosk\nMatter fact jag fuckar h\u00e5rt med Elsa Hosk\nMen vem hade inte om du s\u00e5g ut som\nKate Moss Kate Moss abow\nYou might also like[Hook x2]\nIngen hemlighet att jag fuckar med din mode\nJag vill g\u00f6ra XoXo med din kropp\nUpp i klubben som du fotades f\u00f6r Vogue\nKate Moss Kate Moss abow2Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/1767731",
+   "artist_names": "Newkid",
+   "full_title": "Jag gr\u00e5ter bara i regnet by\u00a0Newkid",
+   "header_image_thumbnail_url": "https://images.genius.com/6e7f05d75c24e352edeac62ae3c7ab71.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/6e7f05d75c24e352edeac62ae3c7ab71.640x640x1.jpg",
+   "id": 1767731,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Newkid-jag-grater-bara-i-regnet-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Newkid-jag-grater-bara-i-regnet-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/6e7f05d75c24e352edeac62ae3c7ab71.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/6e7f05d75c24e352edeac62ae3c7ab71.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 10785
+   },
+   "title": "Jag gr\u00e5ter bara i regnet",
+   "title_with_featured": "Jag gr\u00e5ter bara i regnet",
+   "url": "https://genius.com/Newkid-jag-grater-bara-i-regnet-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/25015",
+    "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+    "id": 25015,
+    "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Newkid",
+    "url": "https://genius.com/artists/Newkid",
+    "iq": 100
+   },
+   "apple_music_id": "428517856",
+   "apple_music_player_url": "https://genius.com/songs/1767731/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1767731' class='rg_embed_link' data-song-id='1767731'>Read <a href='https://genius.com/Newkid-jag-grater-bara-i-regnet-lyrics'>\u201cJag gr\u00e5ter bara i regnet\u201d by Newkid</a> on Genius</div> <script crossorigin src='//genius.com/songs/1767731/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/283769",
+    "cover_art_url": "https://images.genius.com/222d1f1b4f96a4cdaf16c8861447b216.640x640x1.jpg",
+    "full_title": "Alexander Jr Ferrer by Newkid",
+    "id": 283769,
+    "name": "Alexander Jr Ferrer",
+    "url": "https://genius.com/albums/Newkid/Alexander-jr-ferrer",
+    "artist": {
+     "api_path": "/artists/25015",
+     "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+     "id": 25015,
+     "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Newkid",
+     "url": "https://genius.com/artists/Newkid",
+     "iq": 100
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6298667",
+    "classification": "needs_exegesis",
+    "fragment": "Jag gr\u00e5ter bara i regnet",
+    "id": 6298667,
+    "is_description": true,
+    "path": "/6298667/Newkid-jag-grater-bara-i-regnet/Jag-grater-bara-i-regnet",
+    "range": {
+     "content": "Jag gr\u00e5ter bara i regnet"
+    },
+    "song_id": 1767731,
+    "url": "https://genius.com/6298667/Newkid-jag-grater-bara-i-regnet/Jag-grater-bara-i-regnet",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1767731",
+     "client_timestamps": {
+      "updated_by_human_at": 1620462460,
+      "lyrics_updated_at": 1528057885
+     },
+     "context": "Newkid",
+     "id": 1767731,
+     "image_url": "https://images.genius.com/6e7f05d75c24e352edeac62ae3c7ab71.640x640x1.jpg",
+     "link_title": "Jag gr\u00e5ter bara i regnet by\u00a0Newkid",
+     "title": "Jag gr\u00e5ter bara i regnet",
+     "type": "Song",
+     "url": "https://genius.com/Newkid-jag-grater-bara-i-regnet-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6298667",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6298667,
+      "pinned": false,
+      "share_url": "https://genius.com/6298667",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6298667/Newkid-jag-grater-bara-i-regnet/Jag-grater-bara-i-regnet",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=E48AtPkFJi8"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Newkid",
+   "lyrics": "Jag gr\u00e5ter bara i regnet LyricsL\u00e4t hon in\nL\u00e4t hon ta\nL\u00e4t mig tro\nVad hon \u00e4n sa\nJag l\u00e4t det g\u00e5\nSv\u00e4va p\u00e5 moln\nTills hon slet mig i stycken\nSpotta p\u00e5 mina s\u00e5r, \u00e5\u00e5\u00e5r\nMen ser det ut som om jag s\u00f6rjer dej?\nMer som om jag h\u00f6jer dej\nF\u00f6r jag\nKommer aldrig l\u00e5ta dig f\u00e5 se mig svag\nJag gr\u00e5ter bara i regnet\nSuperstolt\nHon vill veta vad jag t\u00e4nker\nMen baby om det \u00e4nd\u00e5 var s\u00e5 enkelt\nMen varf\u00f6r vill du st\u00e5 med mig regnet?\nI regnet, i regnet\nVarf\u00f6r vill du riva ner mitt st\u00e4ngsel?\nBaby jag vet \u00e4nd\u00e5 vad som h\u00e4nder\nS\u00e5 jag gr\u00e5ter bara i regnet\n\nGav hon allt\nAllt jag kan ge\nVille ha mer\nDet e s\u00e5 hon e\nEnsam e stark\nDet e s\u00e5 jag blev\nLitar inte p\u00e5 n\u00e5gon och allt \u00e4r hennes fel, eel\nMen ser det ut som om jag lackar? Nej\nMer som om jag tackar dej\nF\u00f6r jag kommer aldrig l\u00e5ta dig f\u00e5 se mig svag\n\nJag gr\u00e5ter bara i regnet\nSuperstolt\nHon vill veta vad jag t\u00e4nker\nMen baby om det \u00e4nd\u00e5 var s\u00e5 enkelt\nMen varf\u00f6r vill du st\u00e5 med mig i regnet?\nI regnet, i regnet\nVarf\u00f6r vill du riva ner mitt st\u00e4ngsel?\nBaby jag vet \u00e4nd\u00e5 vad som h\u00e4nder\nS\u00e5 jag gr\u00e5ter bara i regnet\nYou might also likeHon vill ha varmt\nHon vill ha kallt\nHon vill ha hav\nHon vill ha land\nHon vill ha vitt\nHon vill ha svart\nHon vill ha mig\nHon vill ha allt\nHon vill ha allt\nJag gav dig en chans\nMen det tog mig ingenstans\nS\u00e5 sluta tro du vet f\u00f6r mig det hj\u00e4lper mig inte alls\n\u00c5\u00e5\u00e5h superstolt\nHon vill veta vad jag t\u00e4nker\nMen baby om det \u00e4nd\u00e5 var s\u00e5 enkelt\n\nMen varf\u00f6r vill du st\u00e5 med mig i regnet?\nI regnet, i regnet\nVarf\u00f6r vill du riva ner mitt st\u00e4ngsel?\nBaby jag vet \u00e4nd\u00e5 vad som h\u00e4nder\nS\u00e5 jag gr\u00e5ter bara i regnet\nI regnet, i regnet\nJag gr\u00e5ter bara i regnet\nJag gr\u00e5ter bara i regnet\nS\u00e5 baby du kan ta av dig ditt regnst\u00e4ll\nS\u00e5 baby du kan ta av dig ditt regnst\u00e4ll\nS\u00e5 baby du kan ta av dig ditt regnst\u00e4llEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5616054",
+   "artist_names": "Newkid",
+   "full_title": "Stark by\u00a0Newkid",
+   "header_image_thumbnail_url": "https://images.genius.com/4dc778e2c29bddb50ae95b0a84dfeb82.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/4dc778e2c29bddb50ae95b0a84dfeb82.999x999x1.jpg",
+   "id": 5616054,
+   "language": "sv",
+   "lyrics_owner_id": 2383145,
+   "lyrics_state": "complete",
+   "path": "/Newkid-stark-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Newkid-stark-sample",
+   "release_date_components": {
+    "year": 2020,
+    "month": 5,
+    "day": 29
+   },
+   "release_date_for_display": "May 29, 2020",
+   "release_date_with_abbreviated_month_for_display": "May. 29, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/4dc778e2c29bddb50ae95b0a84dfeb82.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/4dc778e2c29bddb50ae95b0a84dfeb82.999x999x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 8275
+   },
+   "title": "Stark",
+   "title_with_featured": "Stark",
+   "url": "https://genius.com/Newkid-stark-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/25015",
+    "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+    "id": 25015,
+    "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Newkid",
+    "url": "https://genius.com/artists/Newkid",
+    "iq": 100
+   },
+   "apple_music_id": "1514145610",
+   "apple_music_player_url": "https://genius.com/songs/5616054/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5616054' class='rg_embed_link' data-song-id='5616054'>Read <a href='https://genius.com/Newkid-stark-lyrics'>\u201cStark\u201d by Newkid</a> on Genius</div> <script crossorigin src='//genius.com/songs/5616054/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2020-05-29",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/607855",
+    "cover_art_url": "https://images.genius.com/4dc778e2c29bddb50ae95b0a84dfeb82.999x999x1.jpg",
+    "full_title": "MOUNT JHUN by Newkid",
+    "id": 607855,
+    "name": "MOUNT JHUN",
+    "url": "https://genius.com/albums/Newkid/Mount-jhun",
+    "artist": {
+     "api_path": "/artists/25015",
+     "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+     "id": 25015,
+     "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Newkid",
+     "url": "https://genius.com/artists/Newkid",
+     "iq": 100
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6612308,
+    "annotator_login": "emikael",
+    "api_path": "/referents/19962875",
+    "classification": "needs_exegesis",
+    "fragment": "Stark",
+    "id": 19962875,
+    "is_description": true,
+    "path": "/19962875/Newkid-stark/Stark",
+    "range": {
+     "content": "Stark"
+    },
+    "song_id": 5616054,
+    "url": "https://genius.com/19962875/Newkid-stark/Stark",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5616054",
+     "client_timestamps": {
+      "updated_by_human_at": 1590753905,
+      "lyrics_updated_at": 1590753905
+     },
+     "context": "Newkid",
+     "id": 5616054,
+     "image_url": "https://images.genius.com/4dc778e2c29bddb50ae95b0a84dfeb82.999x999x1.jpg",
+     "link_title": "Stark by\u00a0Newkid",
+     "title": "Stark",
+     "type": "Song",
+     "url": "https://genius.com/Newkid-stark-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19962875",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19962875,
+      "pinned": false,
+      "share_url": "https://genius.com/19962875",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19962875/Newkid-stark/Stark",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6612308",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/143423ca521346fd78ca6dbd68c588f8",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/143423ca521346fd78ca6dbd68c588f8",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/143423ca521346fd78ca6dbd68c588f8",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/143423ca521346fd78ca6dbd68c588f8",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/0ae47f1bf7eeed48d7ce7d2eff1b3bd9.497x280x10.gif",
+         "human_readable_role_for_display": "Editor",
+         "id": 6612308,
+         "iq": 506999,
+         "login": "emikael",
+         "name": "\u200bemikael",
+         "role_for_display": "editor",
+         "url": "https://genius.com/emikael",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1112809",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1112809,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Robin Lindvall",
+     "url": "https://genius.com/artists/Robin-lindvall"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/25015",
+     "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+     "id": 25015,
+     "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Newkid",
+     "url": "https://genius.com/artists/Newkid",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/1112809",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1112809,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Robin Lindvall",
+     "url": "https://genius.com/artists/Robin-lindvall"
+    }
+   ],
+   "artist": "Newkid",
+   "lyrics": "Stark Lyrics[Vers 1]\nKan inte f\u00e5 mig att falla\nKan inte f\u00e5 mina steg att bli tyngre\nJag vet vart\u2005jag\u2005ska\nHar aldrig f\u00f6ljt\u2005vad dom sa\nKan inte h\u00e5lla mig\u2005nere\nTesta klipp av mina vingar\nJag flyger h\u00f6gt upp \u00f6ver stan\n\u00c4rligt, vem fan \u00e4r som jag?\n\n[Refr\u00e4ng]\nF\u00f6r mitt hj\u00e4rta har krossats och satts ihop\nL\u00e4rt mig att v\u00e5ga va svag\nF\u00f6r jag st\u00e4ller mig upp som jag alltid gjort\nGl\u00f6m aldrig av\nHur stark \u00e4r jag\nOh-whoa, oh-woah\nOh-whoa, oh-woah, na-na\nHur stark \u00e4r jag\n[Vers 2]\nVill inte vara n\u00e5n annan\n\u00c4r v\u00e4l n\u00e4r mina k\u00e4nslor\nF\u00f6rvandlar en droppe till ett hav\n\u00c4r det ju trots allt jag\nJag ser n\u00e5t fint i att chansa\nJag ser n\u00e5t fint i att krascha\nTrots att det g\u00f6r ont ett tag\nDet \u00e4r s\u00e5nt jag blir starkare av\n\n[Refr\u00e4ng]\nF\u00f6r mitt hj\u00e4rta har krossats och satts ihop (Ooh)\nL\u00e4rt mig att v\u00e5ga va svag (Svag)\nF\u00f6r jag st\u00e4ller mig upp som jag alltid gjort\nGl\u00f6m aldrig av\nHur stark \u00e4r jag\nOh-whoa, oh-woah\nOh-whoa, oh-woah, na-na\nHur stark \u00e4r jag\nHur stark \u00e4r jag\nHur stark \u00e4r jag\nOh-whoa, oh-woah\nOh-whoa, oh-woah, na-na\nHur stark \u00e4r jagYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5390545",
+   "artist_names": "Newkid",
+   "full_title": "F.A.M.E (LeyLey) by\u00a0Newkid",
+   "header_image_thumbnail_url": "https://images.genius.com/8e74d50997436681a308435535917890.300x300x1.png",
+   "header_image_url": "https://images.genius.com/8e74d50997436681a308435535917890.1000x1000x1.png",
+   "id": 5390545,
+   "language": "sv",
+   "lyrics_owner_id": 2383145,
+   "lyrics_state": "complete",
+   "path": "/Newkid-fame-leyley-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Newkid-fame-leyley-sample",
+   "release_date_components": {
+    "year": 2020,
+    "month": 3,
+    "day": 26
+   },
+   "release_date_for_display": "March 26, 2020",
+   "release_date_with_abbreviated_month_for_display": "Mar. 26, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8e74d50997436681a308435535917890.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/8e74d50997436681a308435535917890.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 8116
+   },
+   "title": "F.A.M.E (LeyLey)",
+   "title_with_featured": "F.A.M.E (LeyLey)",
+   "url": "https://genius.com/Newkid-fame-leyley-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/25015",
+    "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+    "id": 25015,
+    "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Newkid",
+    "url": "https://genius.com/artists/Newkid",
+    "iq": 100
+   },
+   "apple_music_id": "1504243583",
+   "apple_music_player_url": "https://genius.com/songs/5390545/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5390545' class='rg_embed_link' data-song-id='5390545'>Read <a href='https://genius.com/Newkid-fame-leyley-lyrics'>\u201cF.A.M.E (LeyLey)\u201d by Newkid</a> on Genius</div> <script crossorigin src='//genius.com/songs/5390545/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2020-03-26",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/616781",
+    "cover_art_url": "https://images.genius.com/8e74d50997436681a308435535917890.1000x1000x1.png",
+    "full_title": "KARANT\u00c4N VIBBAR by Newkid",
+    "id": 616781,
+    "name": "KARANT\u00c4N VIBBAR",
+    "url": "https://genius.com/albums/Newkid/Karantan-vibbar",
+    "artist": {
+     "api_path": "/artists/25015",
+     "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+     "id": 25015,
+     "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Newkid",
+     "url": "https://genius.com/artists/Newkid",
+     "iq": 100
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2383145,
+    "annotator_login": "itischris",
+    "api_path": "/referents/19386211",
+    "classification": "needs_exegesis",
+    "fragment": "F.A.M.E (LeyLey)",
+    "id": 19386211,
+    "is_description": true,
+    "path": "/19386211/Newkid-fame-leyley/Fame-leyley",
+    "range": {
+     "content": "F.A.M.E (LeyLey)"
+    },
+    "song_id": 5390545,
+    "url": "https://genius.com/19386211/Newkid-fame-leyley/Fame-leyley",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5390545",
+     "client_timestamps": {
+      "updated_by_human_at": 1585489920,
+      "lyrics_updated_at": 1585489920
+     },
+     "context": "Newkid",
+     "id": 5390545,
+     "image_url": "https://images.genius.com/8e74d50997436681a308435535917890.1000x1000x1.png",
+     "link_title": "F.A.M.E (LeyLey) by\u00a0Newkid",
+     "title": "F.A.M.E (LeyLey)",
+     "type": "Song",
+     "url": "https://genius.com/Newkid-fame-leyley-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19386211",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19386211,
+      "pinned": false,
+      "share_url": "https://genius.com/19386211",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19386211/Newkid-fame-leyley/Fame-leyley",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2383145",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/c53fb890c7bd0de99e021a3a0c825b9a.757x287x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 2383145,
+         "iq": 599097,
+         "login": "itischris",
+         "name": "\u200bitischris",
+         "role_for_display": "editor",
+         "url": "https://genius.com/itischris",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=yxZb7MX7lEA"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/25015",
+     "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+     "id": 25015,
+     "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Newkid",
+     "url": "https://genius.com/artists/Newkid",
+     "iq": 100
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4629218",
+       "artist_names": "Dani M",
+       "full_title": "F.A.M.E (LeyLey) by\u00a0Dani\u00a0M",
+       "header_image_thumbnail_url": "https://images.genius.com/5850b80a9a788fa16920b52ed75c339f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/5850b80a9a788fa16920b52ed75c339f.1000x1000x1.jpg",
+       "id": 4629218,
+       "language": "sv",
+       "lyrics_owner_id": 228031,
+       "lyrics_state": "complete",
+       "path": "/Dani-m-fame-leyley-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Dani-m-fame-leyley-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 6,
+        "day": 11
+       },
+       "release_date_for_display": "June 11, 2019",
+       "release_date_with_abbreviated_month_for_display": "Jun. 11, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/5850b80a9a788fa16920b52ed75c339f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/5850b80a9a788fa16920b52ed75c339f.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 69958
+       },
+       "title": "F.A.M.E (LeyLey)",
+       "title_with_featured": "F.A.M.E (LeyLey)",
+       "url": "https://genius.com/Dani-m-fame-leyley-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/24303",
+        "header_image_url": "https://images.genius.com/78b0c8fda314a857ef17abd9933b03eb.1000x563x1.jpg",
+        "id": 24303,
+        "image_url": "https://images.genius.com/a6dc72d1a9973bcf6dc34adcd12a0eb4.580x580x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Dani M",
+        "url": "https://genius.com/artists/Dani-m"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/24303",
+     "header_image_url": "https://images.genius.com/78b0c8fda314a857ef17abd9933b03eb.1000x563x1.jpg",
+     "id": 24303,
+     "image_url": "https://images.genius.com/a6dc72d1a9973bcf6dc34adcd12a0eb4.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dani M",
+     "url": "https://genius.com/artists/Dani-m"
+    },
+    {
+     "api_path": "/artists/1159410",
+     "header_image_url": "https://images.genius.com/1f2eaa6e64cc1f5dabe5a7eb740d1ddd.999x999x1.jpg",
+     "id": 1159410,
+     "image_url": "https://images.genius.com/1f2eaa6e64cc1f5dabe5a7eb740d1ddd.999x999x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Simon Superti",
+     "url": "https://genius.com/artists/Simon-superti"
+    }
+   ],
+   "artist": "Newkid",
+   "lyrics": "F.A.M.E (LeyLey) Lyrics[Refr\u00e4ng]\nSe hur jag lever la vida, ley-ley-ley-ley-ley\nGrabbarna h\u00e4r vid min sida, ley-ley-ley-ley-ley\nBenim p\u00e5 topp i\u2005min\u2005liga, medans du\u2005faller som de \"La Haine\"\nDet g\u00e5r\u2005bra nu ett tag, har f\u00e5tt skina, d\u00e4rf\u00f6r jag f\u00e5r\u205fmycket\u205fhate\nDom\u205fdigga mig n\u00e4r\u205fjag stod i\u205fAdidas, inte n\u00e4r jag har Philipp Plein\nDigga mig n\u00e4r jag h\u00e4mta p\u00e5 krita, inte n\u00e4r jag har keys hos mig\nAntar jag kommer f\u00e5 fira, med mina f\u00e5, vi kickar en jay\nAntar att vi inte lika, jag vill ha para, du vill ha fame\n\n[Vers 1]\nJag vet ni g\u00f6r g\u00e4hda till mig\nDin g\u00e4ri g\u00f6r squats i gymmet, hon tr\u00e4nar till mig\nNi gav mina v\u00e4nner den tiden ni tj\u00e4na p\u00e5 mig\nOm ni vill tagga s\u00e5 g\u00e4rna f\u00f6r mig, f\u00f6r ingen kan t\u00e4vla med mig\nDom bara, \"Kolla p\u00e5 Newkid, han \u00e4r Illuminati\"\nBara f\u00f6r att, mitt golv \u00e4r Versace, och benim \u00e4r poppin'\nVad h\u00e4nde med han? Din brud \u00e4r kattig, hon kallar mig papi\nD\u00e4rf\u00f6r du lack, kan inte en blatte f\u00e5 leva f\u00f6r stunden?\nNi ler men vill se mig g\u00e5 under men\n[Refr\u00e4ng]\nSe hur jag lever la vida, ley-ley-ley-ley-ley\nGrabbarna h\u00e4r vid min sida, ley-ley-ley-ley-ley\nBenim p\u00e5 topp i min liga, medans du faller som de \"La Haine\"\nDet g\u00e5r bra nu ett tag, har f\u00e5tt skina, d\u00e4rf\u00f6r jag f\u00e5r mycket hate\nDom digga mig n\u00e4r jag stod i Adidas, inte n\u00e4r jag har Philipp Plein\nDigga mig n\u00e4r jag h\u00e4mta p\u00e5 krita, inte n\u00e4r jag har keys hos mig\nAntar jag kommer f\u00e5 fira, med mina f\u00e5, vi kickar en jay\nAntar att vi inte lika, jag vill ha para, du vill ha fame\n\n[Vers 2]\nNo, ley-ley-ley-ley-ley, yeah\nPrada p\u00e5 mitt face, shakes\nPratar inte ens med mig, nej\nDuckar g\u00e4ris som alltid \u00e4r p\u00e5 n\u00e5t drama\nHon vill prata till punkt, jag pratar bara commas\nHon sa, \"Du ser mer ignorant ut\"\nKanske det \u00e4r f\u00f6r att jag \u00e4r mer ignorant nu\nMen jag tar hand om mina, dom som ville se mig skina\nResten \u00e4r klart det kommer att svida\nNu n\u00e4r dom ser hur vi lever la\u2013\n\n[Refr\u00e4ng]\nLever la vida, oh-oh\nSe hur jag lever la vida, ley-ley-ley-ley-ley\nBenim p\u00e5 topp i min liga, medans du faller som de \"La Haine\"\nDet g\u00e5r bra nu ett tag, har f\u00e5tt skina, d\u00e4rf\u00f6r jag f\u00e5r mycket hate\nDom digga mig n\u00e4r jag stod i Adidas, inte n\u00e4r jag har Philipp Plein\nDigga mig n\u00e4r jag h\u00e4mta p\u00e5 krita, inte n\u00e4r jag har keys hos mig\nAntar jag kommer f\u00e5 fira, med mina f\u00e5, vi kickar en jay\nAntar att vi inte lika, jag vill ha para, du vill ha fameYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4902953",
+   "artist_names": "Newkid",
+   "full_title": "Mi Amor by\u00a0Newkid",
+   "header_image_thumbnail_url": "https://images.genius.com/368a8ed1a62b6e326e8d3f061855bc95.300x300x1.png",
+   "header_image_url": "https://images.genius.com/368a8ed1a62b6e326e8d3f061855bc95.1000x1000x1.png",
+   "id": 4902953,
+   "language": "sv",
+   "lyrics_owner_id": 2383145,
+   "lyrics_state": "complete",
+   "path": "/Newkid-mi-amor-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Newkid-mi-amor-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 9,
+    "day": 27
+   },
+   "release_date_for_display": "September 27, 2019",
+   "release_date_with_abbreviated_month_for_display": "Sep. 27, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/368a8ed1a62b6e326e8d3f061855bc95.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/368a8ed1a62b6e326e8d3f061855bc95.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 7520
+   },
+   "title": "Mi Amor",
+   "title_with_featured": "Mi Amor",
+   "url": "https://genius.com/Newkid-mi-amor-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/25015",
+    "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+    "id": 25015,
+    "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Newkid",
+    "url": "https://genius.com/artists/Newkid",
+    "iq": 100
+   },
+   "apple_music_id": "1479904219",
+   "apple_music_player_url": "https://genius.com/songs/4902953/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4902953' class='rg_embed_link' data-song-id='4902953'>Read <a href='https://genius.com/Newkid-mi-amor-lyrics'>\u201cMi Amor\u201d by Newkid</a> on Genius</div> <script crossorigin src='//genius.com/songs/4902953/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-09-27",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/607855",
+    "cover_art_url": "https://images.genius.com/4dc778e2c29bddb50ae95b0a84dfeb82.999x999x1.jpg",
+    "full_title": "MOUNT JHUN by Newkid",
+    "id": 607855,
+    "name": "MOUNT JHUN",
+    "url": "https://genius.com/albums/Newkid/Mount-jhun",
+    "artist": {
+     "api_path": "/artists/25015",
+     "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+     "id": 25015,
+     "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Newkid",
+     "url": "https://genius.com/artists/Newkid",
+     "iq": 100
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1146669",
+       "header_image_url": "https://images.genius.com/288ecdd620553fb393f2c06c8d158dad.1000x1000x1.png",
+       "id": 1146669,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment Sweden",
+       "url": "https://genius.com/artists/Sony-music-entertainment-sweden"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1438807",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1438807,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Johan \u00c5kerstr\u00f6m",
+       "url": "https://genius.com/artists/Johan-akerstrom"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1164097",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1164097,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Aryan \u201cMarz\u201d Marzban",
+       "url": "https://genius.com/artists/Aryan-marz-marzban"
+      }
+     ]
+    },
+    {
+     "label": "Co-Producer",
+     "artists": [
+      {
+       "api_path": "/artists/25015",
+       "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+       "id": 25015,
+       "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Newkid",
+       "url": "https://genius.com/artists/Newkid",
+       "iq": 100
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2383145,
+    "annotator_login": "itischris",
+    "api_path": "/referents/18125173",
+    "classification": "needs_exegesis",
+    "fragment": "Mi Amor",
+    "id": 18125173,
+    "is_description": true,
+    "path": "/18125173/Newkid-mi-amor/Mi-amor",
+    "range": {
+     "content": "Mi Amor"
+    },
+    "song_id": 4902953,
+    "url": "https://genius.com/18125173/Newkid-mi-amor/Mi-amor",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4902953",
+     "client_timestamps": {
+      "updated_by_human_at": 1600819778,
+      "lyrics_updated_at": 1569917657
+     },
+     "context": "Newkid",
+     "id": 4902953,
+     "image_url": "https://images.genius.com/368a8ed1a62b6e326e8d3f061855bc95.1000x1000x1.png",
+     "link_title": "Mi Amor by\u00a0Newkid",
+     "title": "Mi Amor",
+     "type": "Song",
+     "url": "https://genius.com/Newkid-mi-amor-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18125173",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18125173,
+      "pinned": false,
+      "share_url": "https://genius.com/18125173",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18125173/Newkid-mi-amor/Mi-amor",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2383145",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/c53fb890c7bd0de99e021a3a0c825b9a.757x287x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 2383145,
+         "iq": 599097,
+         "login": "itischris",
+         "name": "\u200bitischris",
+         "role_for_display": "editor",
+         "url": "https://genius.com/itischris",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=E92qUXn5D_E"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1571471",
+     "header_image_url": "https://images.genius.com/6ba8a88fd1d5123916b64ea8caa15bdb.417x417x1.jpg",
+     "id": 1571471,
+     "image_url": "https://images.genius.com/6ba8a88fd1d5123916b64ea8caa15bdb.417x417x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Picasso On The Beat",
+     "url": "https://genius.com/artists/Picasso-on-the-beat"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/25015",
+     "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+     "id": 25015,
+     "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Newkid",
+     "url": "https://genius.com/artists/Newkid",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/1067401",
+     "header_image_url": "https://images.genius.com/079204b62b1336ed58bfb3c518445c9e.960x960x1.jpg",
+     "id": 1067401,
+     "image_url": "https://images.genius.com/079204b62b1336ed58bfb3c518445c9e.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "\u200bboy pablo",
+     "url": "https://genius.com/artists/Boy-pablo",
+     "iq": 595
+    }
+   ],
+   "artist": "Newkid",
+   "lyrics": "Mi Amor Lyrics[Vers 1]\nSom en medicin\nDet \u00e4r vad du \u00e4r f\u00f6r mig\nIngen disciplin\nStannar upp sent f\u00f6r dig\nH\u00e5ller dig\u2005vaken,\u2005yeah\nGrannen blir galen,\u2005aay\nRiver ned hennes tavlor, yeah\n\n[Brygga]\nS\u00e5, baby,\u2005jag tror jag fastnat p\u00e5 dig\nDu g\u00f6r n\u00e5t konstigt med mig\nS\u00e4ger till shunon bredvid\n\"Akta, hon \u00e4r med mig\"\nM\u00e5ste ha fastnat p\u00e5 dig\nDu g\u00f6r n\u00e5t konstigt med mig\nVad \u00e4r det som h\u00e4nder med mig?\n[Refr\u00e4ng]\nSom en melodi\nHar jag fastnat p\u00e5 dig, aay, ba-baby\nDet var inte med flit\nMen nu vill jag aldrig att du g\u00e5r\nSom en melodi\nHar jag fastnat p\u00e5 dig, aay, ba-baby\nDet enda jag vill\n\u00c4r att f\u00e5 kalla dig Mi Amor\n\n[Post-Refr\u00e4ng]\nOch s\u00e4ga, \"Akta, hon \u00e4r med mig, med mig, med mig, med mig\nAkta, hon \u00e4r med mig, med mig, med mig, yeah\nAkta, hon \u00e4r med mig, med mig, med mig, med mig\nAkta, hon \u00e4r med mig, med mig, med mig, yeah\"\n\n[Verse 2]\nHennes l\u00e4ppar smakar som coco\nF\u00e5r mig vilja t\u00f6mma kontot\nDu kan f\u00f6lja med mig on tour\nVill visa alla det \u00e4r vi tv\u00e5 (Aay, aay)\nKl\u00e4der designer (Aay, aay)\nBaby, det \u00e4r standard (Aay, aay)\nKastar dom andra\nF\u00f6r bredvid dig \u00e4r dom inte intressanta\nYou might also like[Brygga]\nBaby, jag tror jag fastnat p\u00e5 dig (P\u00e5 dig)\nDu g\u00f6r n\u00e5t konstigt med mig (Med mig)\nS\u00e4ger till shunon bredvid (Baby)\n\"Akta, hon \u00e4r med mig\"\nM\u00e5ste ha fastnat p\u00e5 dig (M\u00e5ste ha fastnat p\u00e5 dig)\nDu g\u00f6r n\u00e5t konstigt med mig\nVad \u00e4r det som h\u00e4nder med mig?\n\n[Refr\u00e4ng]\nSom en melodi\nHar jag fastnat p\u00e5 dig, aay, ba-baby\nDet var inte med flit\nMen nu vill jag aldrig att du g\u00e5r\nSom en melodi\nHar jag fastnat p\u00e5 dig, aay, ba-baby\nDet enda jag vill\n\u00c4r att f\u00e5 kalla dig Mi Amor\n\n[Post-Refr\u00e4ng]\nOch s\u00e4ga, \"Akta, hon \u00e4r med mig, med mig, med mig, med mig\nAkta, hon \u00e4r med mig, med mig, med mig, yeah\nAkta, hon \u00e4r med mig, med mig, med mig, med mig\nAkta, hon \u00e4r med mig, med mig, med mig, yeah\"\n\n[Stick]\nDu \u00e4r inte som alla andra\nTar dig hem till min mamma\nUpp i klubben jag ber shunon backa\nSom, akta hon \u00e4r med mig\nDu \u00e4r inte som alla andra (Whoa)\nTar dig hem till min mamma (Till min mamma)\nUpp i klubben jag ber shunon backa\nSom\n[Refr\u00e4ng]\nSom en melodi\nHar jag fastnat p\u00e5 dig, aay, ba-baby\nDet var inte med flit\nMen nu vill jag aldrig att du g\u00e5r\nSom en melodi\nHar jag fastnat p\u00e5 dig, aay, ba-baby\nDet enda jag vill\n\u00c4r att f\u00e5 kalla dig Mi Amor\n\n[Outro]\nOch s\u00e4ga, \"Akta, hon \u00e4r med mig, med mig, med mig, med mig\nAkta, hon \u00e4r med mig, med mig, med mig, yeah\nAkta, hon \u00e4r med mig, med mig, med mig, med mig\nAkta, hon \u00e4r med mig, med mig, med mig, yeah\"Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5300418",
+   "artist_names": "Newkid",
+   "full_title": "\u00d6ver dig by\u00a0Newkid",
+   "header_image_thumbnail_url": "https://images.genius.com/8537f2794eb5aa0c4944913eead2a340.300x300x1.png",
+   "header_image_url": "https://images.genius.com/8537f2794eb5aa0c4944913eead2a340.1000x1000x1.png",
+   "id": 5300418,
+   "language": "sv",
+   "lyrics_owner_id": 2383145,
+   "lyrics_state": "complete",
+   "path": "/Newkid-over-dig-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Newkid-over-dig-sample",
+   "release_date_components": {
+    "year": 2020,
+    "month": 2,
+    "day": 28
+   },
+   "release_date_for_display": "February 28, 2020",
+   "release_date_with_abbreviated_month_for_display": "Feb. 28, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8537f2794eb5aa0c4944913eead2a340.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/8537f2794eb5aa0c4944913eead2a340.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 7116
+   },
+   "title": "\u00d6ver dig",
+   "title_with_featured": "\u00d6ver dig",
+   "url": "https://genius.com/Newkid-over-dig-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/25015",
+    "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+    "id": 25015,
+    "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Newkid",
+    "url": "https://genius.com/artists/Newkid",
+    "iq": 100
+   },
+   "apple_music_id": "1499799047",
+   "apple_music_player_url": "https://genius.com/songs/5300418/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5300418' class='rg_embed_link' data-song-id='5300418'>Read <a href='https://genius.com/Newkid-over-dig-lyrics'>\u201c\u00d6ver dig\u201d by Newkid</a> on Genius</div> <script crossorigin src='//genius.com/songs/5300418/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2020-02-28",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/607855",
+    "cover_art_url": "https://images.genius.com/4dc778e2c29bddb50ae95b0a84dfeb82.999x999x1.jpg",
+    "full_title": "MOUNT JHUN by Newkid",
+    "id": 607855,
+    "name": "MOUNT JHUN",
+    "url": "https://genius.com/albums/Newkid/Mount-jhun",
+    "artist": {
+     "api_path": "/artists/25015",
+     "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+     "id": 25015,
+     "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Newkid",
+     "url": "https://genius.com/artists/Newkid",
+     "iq": 100
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1438807",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1438807,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Johan \u00c5kerstr\u00f6m",
+       "url": "https://genius.com/artists/Johan-akerstrom"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1164097",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1164097,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Aryan \u201cMarz\u201d Marzban",
+       "url": "https://genius.com/artists/Aryan-marz-marzban"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1146669",
+       "header_image_url": "https://images.genius.com/288ecdd620553fb393f2c06c8d158dad.1000x1000x1.png",
+       "id": 1146669,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment Sweden",
+       "url": "https://genius.com/artists/Sony-music-entertainment-sweden"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2383145,
+    "annotator_login": "itischris",
+    "api_path": "/referents/19150255",
+    "classification": "needs_exegesis",
+    "fragment": "\u00d6ver dig",
+    "id": 19150255,
+    "is_description": true,
+    "path": "/19150255/Newkid-over-dig/Over-dig",
+    "range": {
+     "content": "\u00d6ver dig"
+    },
+    "song_id": 5300418,
+    "url": "https://genius.com/19150255/Newkid-over-dig/Over-dig",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5300418",
+     "client_timestamps": {
+      "updated_by_human_at": 1601379255,
+      "lyrics_updated_at": 1601379255
+     },
+     "context": "Newkid",
+     "id": 5300418,
+     "image_url": "https://images.genius.com/8537f2794eb5aa0c4944913eead2a340.1000x1000x1.png",
+     "link_title": "\u00d6ver dig by\u00a0Newkid",
+     "title": "\u00d6ver dig",
+     "type": "Song",
+     "url": "https://genius.com/Newkid-over-dig-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19150255",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19150255,
+      "pinned": false,
+      "share_url": "https://genius.com/19150255",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19150255/Newkid-over-dig/Over-dig",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2383145",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/c53fb890c7bd0de99e021a3a0c825b9a.757x287x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 2383145,
+         "iq": 599097,
+         "login": "itischris",
+         "name": "\u200bitischris",
+         "role_for_display": "editor",
+         "url": "https://genius.com/itischris",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=WaGOC_QTaQM"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/80616",
+     "header_image_url": "https://images.genius.com/e9dcc5c88c218bb67590a00f84aaca18.1000x667x1.jpg",
+     "id": 80616,
+     "image_url": "https://images.genius.com/512143a4103e06817fc5fa054887c1fd.522x522x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bausa",
+     "url": "https://genius.com/artists/Bausa"
+    },
+    {
+     "api_path": "/artists/35756",
+     "header_image_url": "https://images.genius.com/763ccb8fa780a557146a920ffe2ad466.1000x563x1.png",
+     "id": 35756,
+     "image_url": "https://images.genius.com/882f6b93bd9962defb692ae68b85bbcf.534x534x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Cratez",
+     "url": "https://genius.com/artists/The-cratez"
+    },
+    {
+     "api_path": "/artists/960281",
+     "header_image_url": "https://images.genius.com/9aac2a10d31d683d151c7f502263b6fa.1000x423x1.png",
+     "id": 960281,
+     "image_url": "https://images.genius.com/d30be4ad3c5f4d0902034962c7bb90fe.826x826x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jugglerz",
+     "url": "https://genius.com/artists/Jugglerz"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/25015",
+     "header_image_url": "https://images.genius.com/0267490f2732266fa22a985df33078e1.1000x500x1.png",
+     "id": 25015,
+     "image_url": "https://images.genius.com/66a85b8133946659e6867161876ebfa8.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Newkid",
+     "url": "https://genius.com/artists/Newkid",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/1718406",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1718406,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joachim Piehl",
+     "url": "https://genius.com/artists/Joachim-piehl"
+    },
+    {
+     "api_path": "/artists/1187669",
+     "header_image_url": "https://images.genius.com/15818f3bf5ff1f2513ba59c7a6a77693.1000x337x1.png",
+     "id": 1187669,
+     "image_url": "https://images.genius.com/cad7bf9198f43c367666b403c94dea2d.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jopez",
+     "url": "https://genius.com/artists/Jopez"
+    },
+    {
+     "api_path": "/artists/80616",
+     "header_image_url": "https://images.genius.com/e9dcc5c88c218bb67590a00f84aaca18.1000x667x1.jpg",
+     "id": 80616,
+     "image_url": "https://images.genius.com/512143a4103e06817fc5fa054887c1fd.522x522x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bausa",
+     "url": "https://genius.com/artists/Bausa"
+    },
+    {
+     "api_path": "/artists/1438241",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1438241,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Martin Willumeit",
+     "url": "https://genius.com/artists/Martin-willumeit"
+    },
+    {
+     "api_path": "/artists/1165426",
+     "header_image_url": "https://images.genius.com/42ad741aef21b2e7f023c60e30a44ce9.385x385x1.jpg",
+     "id": 1165426,
+     "image_url": "https://images.genius.com/42ad741aef21b2e7f023c60e30a44ce9.385x385x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tim Wilke",
+     "url": "https://genius.com/artists/Tim-wilke"
+    }
+   ],
+   "artist": "Newkid",
+   "lyrics": "\u00d6ver dig Lyrics[Refr\u00e4ng]\nHur kan det va s\u00e5 sv\u00e5rt att komma \u00f6ver dig?\nJag vill hellre va under eller\u2005\u00f6ver\u2005dig\nHur kunde det\u2005enkla bli s\u00e5 sv\u00e5rt?\nBaby, du m\u00e5ste\u2005hj\u00e4lpa mig f\u00f6rst\u00e5, ayy\nHur kan det va s\u00e5 sv\u00e5rt att komma \u00f6ver dig?\nJag vill hellre va under eller \u00f6ver dig\nHur kunde det enkla bli s\u00e5 sv\u00e5rt?\nBaby, du m\u00e5ste hj\u00e4lpa mig f\u00f6rst\u00e5\n\n[Vers 1]\nJag pull up s\u00e5 elegant (Elegant), fin i kant (Oh-oh)\nVi dricker salt om servitrisen leker ball (Jaha)\nSen du f\u00f6rsvann fr\u00e5n mig har jag haft\nMind on my money and my money on my mind\nHalf a part, oh mannen, ingen vill bli famous\nS\u00e5 n\u00e4r vi dyker upp, bitch, better have my paper\nJag har en g\u00e4ri i mitt liv som ger mig fake love\nNu \u00e4r det l\u00e4nge sen du ville break up\n[Refr\u00e4ng]\nS\u00e5 hur kan det va s\u00e5 sv\u00e5rt att komma \u00f6ver dig?\nJag vill hellre va under eller \u00f6ver dig\nHur kunde det enkla bli s\u00e5 sv\u00e5rt?\nBaby, du m\u00e5ste hj\u00e4lpa mig f\u00f6rst\u00e5, ayy\nHur kan det va s\u00e5 sv\u00e5rt att komma \u00f6ver dig?\nJag vill hellre va under eller \u00f6ver dig\nHur kunde det enkla bli s\u00e5 sv\u00e5rt?\nBaby, du m\u00e5ste hj\u00e4lpa mig f\u00f6rst\u00e5, yeah, ah\n\n[Vers 2]\nShuno hatar fast han inte ens har h\u00f6rt om mig (Aldrig h\u00f6rt)\nKanske f\u00f6r hans g\u00e4ri har min merch p\u00e5 sig (Bummer)\nKollar hur vi tog the mud life till the good life\nFlyger till Paris, throw racks on racks on racks (Throw)\nP\u00e5 v\u00e4ggen i min crib det plaques on plaques on plaques (Plaques)\nMin show \u00e4r romantik, jag h\u00e4mtar upp en bag (Bag)\nMen vad \u00e4r du v\u00e4rd nu n\u00e4r du inte \u00e4r h\u00e4r?\n\n[Refr\u00e4ng]\nHur kan det va s\u00e5 sv\u00e5rt att komma \u00f6ver dig? (Yeah)\nJag vill hellre va under eller \u00f6ver dig\nHur kunde det enkla bli s\u00e5 sv\u00e5rt?\nBaby, du m\u00e5ste hj\u00e4lpa mig f\u00f6rst\u00e5, ayy\nHur kan det va s\u00e5 sv\u00e5rt att komma \u00f6ver dig?\nJag vill hellre va under eller \u00f6ver dig\nHur kunde det enkla bli s\u00e5 sv\u00e5rt?\nBaby, du m\u00e5ste hj\u00e4lpa mig f\u00f6rst\u00e5 (F\u00f6rst\u00e5, f\u00f6rst\u00e5)\nYou might also like[Outro]\nHur kan det va s\u00e5 sv\u00e5rt att komma \u00f6ver dig?\nJag vill hellre va under eller \u00f6ver dig\nBaby, jag \u00e4r klar med hur du k\u00f6r med mig\nJag vill ha det enkla, inget sv\u00e5rt\nDet tog mig bara livet att f\u00f6rst\u00e5Embed"
+  }
+ ]
+}

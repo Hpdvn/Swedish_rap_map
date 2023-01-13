@@ -1,0 +1,4222 @@
+{
+ "alternate_names": [
+  "Zakarias Lekberg"
+ ],
+ "api_path": "/artists/179156",
+ "description": {
+  "plain": "Swedish rapper from Lule\u00e5 in the northern part of Sweden. Describes his music as Swedish hiphop \u2013 not hiphop in Swedish."
+ },
+ "facebook_name": null,
+ "followers_count": 6,
+ "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+ "id": 179156,
+ "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Zacke",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Zacke",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3265452,
+  "annotator_login": "loderberg",
+  "api_path": "/referents/7020186",
+  "classification": "accepted",
+  "fragment": "Zacke",
+  "id": 7020186,
+  "is_description": true,
+  "path": "/7020186/Zacke/Zacke",
+  "range": {
+   "content": "Zacke"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7020186/Zacke/Zacke",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/179156",
+   "context": null,
+   "id": 179156,
+   "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+   "link_title": "Zacke",
+   "title": "Zacke",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Zacke"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7020186",
+    "body": {
+     "plain": "Swedish rapper from Lule\u00e5 in the northern part of Sweden. Describes his music as Swedish hiphop \u2013 not hiphop in Swedish."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 7020186,
+    "pinned": false,
+    "share_url": "https://genius.com/7020186",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/7020186/Zacke/Zacke",
+    "verified": false,
+    "votes_total": 1,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3265452",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/8e9f26e95fdf909e1b372c05aec85539",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/8e9f26e95fdf909e1b372c05aec85539",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/8e9f26e95fdf909e1b372c05aec85539",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/8e9f26e95fdf909e1b372c05aec85539",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/B2JGSwLT5mqCPWuzjjoV_twitter%20blank.png",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3265452,
+       "iq": 3835,
+       "login": "loderberg",
+       "name": "loderberg",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/loderberg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2930648",
+   "artist_names": "Zacke (Ft. Constine)",
+   "full_title": "Polisen by\u00a0Zacke (Ft.\u00a0Constine)",
+   "header_image_thumbnail_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+   "id": 2930648,
+   "language": "sv",
+   "lyrics_owner_id": 4029109,
+   "lyrics_state": "complete",
+   "path": "/Zacke-polisen-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Zacke-polisen-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 11,
+    "day": 11
+   },
+   "release_date_for_display": "November 11, 2016",
+   "release_date_with_abbreviated_month_for_display": "Nov. 11, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 7771
+   },
+   "title": "Polisen",
+   "title_with_featured": "Polisen (Ft.\u00a0Constine)",
+   "url": "https://genius.com/Zacke-polisen-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1044662",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1044662,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Constine",
+     "url": "https://genius.com/artists/Constine"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/179156",
+    "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+    "id": 179156,
+    "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Zacke",
+    "url": "https://genius.com/artists/Zacke"
+   },
+   "apple_music_id": "1442387542",
+   "apple_music_player_url": "https://genius.com/songs/2930648/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2930648' class='rg_embed_link' data-song-id='2930648'>Read <a href='https://genius.com/Zacke-polisen-lyrics'>\u201cPolisen\u201d by Zacke</a> on Genius</div> <script crossorigin src='//genius.com/songs/2930648/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-11-11",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/288990",
+    "cover_art_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+    "full_title": "Fattigkussen by Zacke",
+    "id": 288990,
+    "name": "Fattigkussen",
+    "url": "https://genius.com/albums/Zacke/Fattigkussen",
+    "artist": {
+     "api_path": "/artists/179156",
+     "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+     "id": 179156,
+     "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zacke",
+     "url": "https://genius.com/artists/Zacke"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4029109,
+    "annotator_login": "Mersu",
+    "api_path": "/referents/11000514",
+    "classification": "needs_exegesis",
+    "fragment": "Polisen",
+    "id": 11000514,
+    "is_description": true,
+    "path": "/11000514/Zacke-polisen/Polisen",
+    "range": {
+     "content": "Polisen"
+    },
+    "song_id": 2930648,
+    "url": "https://genius.com/11000514/Zacke-polisen/Polisen",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2930648",
+     "client_timestamps": {
+      "updated_by_human_at": 1608153439,
+      "lyrics_updated_at": 1488817556
+     },
+     "context": "Zacke",
+     "id": 2930648,
+     "image_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+     "link_title": "Polisen by\u00a0Zacke (Ft.\u00a0Constine)",
+     "title": "Polisen",
+     "type": "Song",
+     "url": "https://genius.com/Zacke-polisen-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11000514",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11000514,
+      "pinned": false,
+      "share_url": "https://genius.com/11000514",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11000514/Zacke-polisen/Polisen",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4029109",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/82b3ef0a165054c50dbc72a2e4ef017e",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/82b3ef0a165054c50dbc72a2e4ef017e",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/82b3ef0a165054c50dbc72a2e4ef017e",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/82b3ef0a165054c50dbc72a2e4ef017e",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/1qqqKPtKTwW8YKTVn839_12.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4029109,
+         "iq": 4328,
+         "login": "Mersu",
+         "name": "Mersu",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Mersu",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/179155",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 179155,
+     "image_url": "https://images.genius.com/cd0b348bd3cfa6f7bdef0332b7ba205f.610x610x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00f6rdar-Anders",
+     "url": "https://genius.com/artists/Mordar-anders"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Zacke",
+   "lyrics": "Polisen Lyrics[Vers 1, Zacke]\nBarfota barn vill ha Buffalo skor\nOch dom springer fr\u00e5n polisen fast de \u00e4r inget dom gjort\nHela Nygatan \u00e4r trist sen dom byggde kontor\nIngen vill va med p\u00e5 bild n\u00e4r man inte tar kort\nOch du sa du ville gifta dig med Raimo n\u00e4r du blir stor\nFria p\u00e5 madrass som \u00e4r gjord av galon\nGl\u00f6den den blir sne n\u00e4r man g\u00f6r som du gjort\nR\u00f6ker mammas hand som r\u00f6ker f\u00f6r fort(?)\nH\u00e4r \u00e4r det ingen som man k\u00e4nner som bor\nDu sa du kunde koden till din port\nAllting som du sa det l\u00e4t coolt\nAllting som du sa det l\u00e4t coolt, du sa\n[Refr\u00e4ng, Constine]\nFuck polisen\nVill inte ge oss en skjuts\nMen vad g\u00f6r annars polisen utanf\u00f6r varje klubb?\nGe oss en skjuts\n\n[Vers 2, Zacke]\nDu sa dom k\u00e4nner dig, varenda en av dom \u00e4r v\u00e4n med dig\nVarje brunnslock, varje trottoarkant\nOch varenda tegel i varenda v\u00e4gg\nDom f\u00f6rs\u00f6kte tugga dig och sv\u00e4lja dig\nDom f\u00f6rs\u00f6kte k\u00f6pa dig och s\u00e4lja dig\nS\u00e5 du fick tvinga dom\nTvinga dom d\u00e4r gatorna att \u00e4lska dig\nRim och reson, sunt f\u00f6rnuft\nVett och etikett, lydnad och disciplin\nSkulle strunta i varenda en av dom sakerna f\u00e5r du ligga i\nTrodde fel n\u00e4r dom trodde det var n\u00e5got likadant som du ville bli\nH\u00f6rde skrika till som om ingenting\n\n[Refr\u00e4ng, Constine]\nFuck polisen\nVill inte ge oss en skjuts\nMen vad g\u00f6r annars polisen utanf\u00f6r varje klubb?\nGe oss en skjuts\nYou might also like[Vers 3, Zacke]\nS\u00e5 v\u00e4lsigna barnen p\u00e5 trappen till domkyrkan\nAlla som sitter d\u00e4r, sitter onyktra\nSer ut som B\u00f6rje Salming och Lennie Norman\nJanis Joplin, BB king och Benny Goodman\nVad\u00e5 sitta och hoppas? Vad\u00e5 sitta och ljuga?\nVad\u00e5 sitta och kosta? Vad\u00e5 sitta och supa?\nMen ska inte ni f\u00e5nga riktiga tjuvar? Dom sa\n\n[Refr\u00e4ng, Constine]\nFuck polisen\nVill inte ge oss en skjuts\nMen vad g\u00f6r annars polisen utanf\u00f6r varje klubb?\n\nVi sa fuck polisen\nVill inte ge oss en skjuts\nMen vad g\u00f6r annars polisen utanf\u00f6r varje klubb?\nGe oss en skjutsEmbed"
+  },
+  {
+   "annotation_count": 9,
+   "api_path": "/songs/2922030",
+   "artist_names": "Zacke",
+   "full_title": "Rondellen by\u00a0Zacke",
+   "header_image_thumbnail_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+   "id": 2922030,
+   "language": "sv",
+   "lyrics_owner_id": 3265452,
+   "lyrics_state": "complete",
+   "path": "/Zacke-rondellen-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Zacke-rondellen-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 11,
+    "day": 11
+   },
+   "release_date_for_display": "November 11, 2016",
+   "release_date_with_abbreviated_month_for_display": "Nov. 11, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 6,
+    "iq_earners": 6,
+    "transcribers": 1,
+    "unreviewed_annotations": 9,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 5474
+   },
+   "title": "Rondellen",
+   "title_with_featured": "Rondellen",
+   "url": "https://genius.com/Zacke-rondellen-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/179156",
+    "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+    "id": 179156,
+    "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Zacke",
+    "url": "https://genius.com/artists/Zacke"
+   },
+   "apple_music_id": "1442387300",
+   "apple_music_player_url": "https://genius.com/songs/2922030/apple_music_player",
+   "description": {
+    "plain": "\u00d6ppningsl\u00e5ten p\u00e5 Zackes album Fattigkussen som sl\u00e4pptes 2016.\n\n Budskapet i \u201dRondellen\u201d kan vara att g\u00f6ra samma resa som Zacke, genom att st\u00e5 upp emot m\u00e4nniskorna som st\u00e5r f\u00f6r saker som nationalism, patriotism, rasism och nationalsocialism. I slutet lyckas Zacke \u00f6vervinna raggarna som nu spelar hans l\u00e5tar vilket kan visa att vi ska \u00f6vervinna och lyckas f\u00e5 de grupperna att sjunga p\u00e5 mer tolererande och sn\u00e4lla melodier."
+   },
+   "embed_content": "<div id='rg_embed_link_2922030' class='rg_embed_link' data-song-id='2922030'>Read <a href='https://genius.com/Zacke-rondellen-lyrics'>\u201cRondellen\u201d by Zacke</a> on Genius</div> <script crossorigin src='//genius.com/songs/2922030/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-11-11",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/288990",
+    "cover_art_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+    "full_title": "Fattigkussen by Zacke",
+    "id": 288990,
+    "name": "Fattigkussen",
+    "url": "https://genius.com/albums/Zacke/Fattigkussen",
+    "artist": {
+     "api_path": "/artists/179156",
+     "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+     "id": 179156,
+     "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zacke",
+     "url": "https://genius.com/artists/Zacke"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3265452,
+    "annotator_login": "loderberg",
+    "api_path": "/referents/10935352",
+    "classification": "unreviewed",
+    "fragment": "Rondellen",
+    "id": 10935352,
+    "is_description": true,
+    "path": "/10935352/Zacke-rondellen/Rondellen",
+    "range": {
+     "content": "Rondellen"
+    },
+    "song_id": 2922030,
+    "url": "https://genius.com/10935352/Zacke-rondellen/Rondellen",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2922030",
+     "client_timestamps": {
+      "updated_by_human_at": 1608153409,
+      "lyrics_updated_at": 1529437388
+     },
+     "context": "Zacke",
+     "id": 2922030,
+     "image_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+     "link_title": "Rondellen by\u00a0Zacke",
+     "title": "Rondellen",
+     "type": "Song",
+     "url": "https://genius.com/Zacke-rondellen-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10935352",
+      "body": {
+       "plain": "\u00d6ppningsl\u00e5ten p\u00e5 Zackes album Fattigkussen som sl\u00e4pptes 2016.\n\n Budskapet i \u201dRondellen\u201d kan vara att g\u00f6ra samma resa som Zacke, genom att st\u00e5 upp emot m\u00e4nniskorna som st\u00e5r f\u00f6r saker som nationalism, patriotism, rasism och nationalsocialism. I slutet lyckas Zacke \u00f6vervinna raggarna som nu spelar hans l\u00e5tar vilket kan visa att vi ska \u00f6vervinna och lyckas f\u00e5 de grupperna att sjunga p\u00e5 mer tolererande och sn\u00e4lla melodier."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10935352,
+      "pinned": false,
+      "share_url": "https://genius.com/10935352",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/10935352/Zacke-rondellen/Rondellen",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.8787878787878788,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3245323",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/c497d34f770caa296f6a1c30d63ace7c",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/c497d34f770caa296f6a1c30d63ace7c",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/c497d34f770caa296f6a1c30d63ace7c",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/c497d34f770caa296f6a1c30d63ace7c",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/c497d34f770caa296f6a1c30d63ace7c",
+         "human_readable_role_for_display": null,
+         "id": 3245323,
+         "iq": 249,
+         "login": "mitmight",
+         "name": "mitmight",
+         "role_for_display": null,
+         "url": "https://genius.com/mitmight",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.12121212121212122,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3265452",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8e9f26e95fdf909e1b372c05aec85539",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8e9f26e95fdf909e1b372c05aec85539",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8e9f26e95fdf909e1b372c05aec85539",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8e9f26e95fdf909e1b372c05aec85539",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/B2JGSwLT5mqCPWuzjjoV_twitter%20blank.png",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3265452,
+         "iq": 3835,
+         "login": "loderberg",
+         "name": "loderberg",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/loderberg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=r0Nuwpx5THw"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/179155",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 179155,
+     "image_url": "https://images.genius.com/cd0b348bd3cfa6f7bdef0332b7ba205f.610x610x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00f6rdar-Anders",
+     "url": "https://genius.com/artists/Mordar-anders"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Zacke",
+   "lyrics": "Rondellen Lyrics[Verse 1]\nMenace to society, d\u00e4r vid statoil\nVid rondellen, tror vi ser det som n\u00e5got slags jobb\nRaggare med sydstatsflaggor, det blir slagsm\u00e5l\nTorshammare runt halsen, vi bara fuck dem\nDet luktar grillkol, luktar diesel\nR\u00f6ker ciggen vid tanken f\u00f6r vem fucking bryr sig\nIngen vill banga g\u00e5 hem\nAlla som h\u00e4nger h\u00e4r i kring de vill dansa ikv\u00e4ll, ikv\u00e4ll\nSer vi svarta rutor, svarta bombers\nKn\u00e4ckta kepssk\u00e4rmar p\u00e5 dem\nF\u00f6rsta g\u00e5ngen, andra g\u00e5ngen, basl\u00e5dan\nDen, det ljuden fr\u00e5n den\nUltima Thule fr\u00e5n den, Ultima Thule fr\u00e5n den, fr\u00e5n den, ja\nAldrig n\u00e5gon tid att andas ut\nVet knappt vem jag sj\u00e4lv \u00e4r, men vem fan \u00e4r du\nKanske basebolltr\u00e4n som dem packar ur\nK\u00e4nns som de d\u00e4r bilarna aldrig tar slut\n[Hook]\nBasebolltr\u00e4n, rostig pl\u00e5t, dyra f\u00e4lgar\nSnurrar runt i rondellen, runt i rondellen\nDe snurrar runt i rondellen, runt i rondellen\nAllting g\u00e5r p\u00e5 tomg\u00e5ng h\u00e4r, finns inga v\u00e4gar att v\u00e4lja\nSnurrar runt i rondellen, runt i rondellen\nDe snurrar runt i rondellen, runt i rondellen\nVi snurrar runt i rondellen\n(Rondellen, rondellen, i rondellen, rondellen, rondellen)\nVi snurrar runt i rondellen\n(Rondellen, rondellen)\nSnurrar runt i rondellen, runt i rondellen\n\n[Verse 2]\nFr\u00e5n en plats d\u00e4r det kostar dig att sticka ut\nS\u00e5 skaffa riktigt h\u00e5rd hud innan din debut\nDet \u00e4r s\u00e5 vi blir vi \u00e4r\nDet \u00e4r vad vi l\u00e4rt oss\nS\u00e5 sl\u00e5ss f\u00f6r den du tror du \u00e4r\nDu skall inte tro du \u00e4r n\u00e5got\nVem best\u00e4mmer vad du skall vara\nRondellen blir en symbol f\u00f6r alla som n\u00e5gonsin vill ta sig loss\nVi \u00e4lskar att se hur de hatar oss\nVi sv\u00e4ljer hat fr\u00e5n en halv stad och det smakar gott\nJa, det \u00e4r bara kasta ner\nT\u00e4rningen \u00e4r kastad, den som h\u00e4ngde ifr\u00e5n backspegeln\nS\u00e5 vill ni flytta p\u00e5 oss f\u00e5r ni tvinga oss\nD\u00e5 f\u00e5r ni fan svinga n\u00e5got\nYou might also like[Hook]\nVi snurrar runt i rondellen\n(Rondellen, rondellen, i rondellen, rondellen, rondellen)\nVi snurrar runt i rondellen\n(Rondellen, rondellen)\nSnurrar runt i rondellen, runt i rondellen\nVi snurrar runt i rondellen\n(Rondellen, rondellen, i rondellen, rondellen, rondellen)\nVi snurrar runt i rondellen\n(Rondellen, rondellen)\nSnurrar runt i rondellen, runt i rondellen\n\n[Verse 3]\nVroom vroom, allting g\u00e5r p\u00e5 tomg\u00e5ng n\u00e4r vi snurrar runt, runt\nN\u00e4r vi snurrar runt, runt\nVroom vroom, allting g\u00e5r p\u00e5 tomg\u00e5ng n\u00e4r vi snurrar runt, runt\nN\u00e4r vi snurrar runt, runt\nHar runnit vatten i \u00e4lven\nIngen som vaktar rondellen\nMen inget skit i systemet, de pumpar Zacke ist\u00e4llet\nKolla kussen\nVi vann tillslut, vi van tillslut, aha\nRaggarbilarna de pumpar min musik nu\nVi vann tillslut, vi van tillslut, aha\nRaggarbilarna de pumpar v\u00e5r musik nu\n[Hook]\nBasebolltr\u00e4n, rostig pl\u00e5t, dyra f\u00e4lgar\nSnurrar runt i rondellen, runt i rondellen\nDe snurrar runt i rondellen, runt i rondellen\nAllting g\u00e5r p\u00e5 tomg\u00e5ng h\u00e4r, finns inga v\u00e4gar att v\u00e4lja\nSnurrar runt i rondellen, runt i rondellen\nDe snurrar runt i rondellen, runt i rondellen\nVi snurrar runt i rondellen\n(Rondellen, rondellen, i rondellen, rondellen, rondellen)\nVi snurrar runt i rondellen\n(Rondellen, rondellen)\nSnurrar runt i rondellen, runt i rondellen\nVi snurrar runt i rondellen\n(Rondellen, rondellen, i rondellen, rondellen, rondellen)\nVi snurrar runt i rondellen\n(Rondellen, rondellen)\nSnurrar runt i rondellen, runt i rondellen2Embed"
+  },
+  {
+   "annotation_count": 17,
+   "api_path": "/songs/2855434",
+   "artist_names": "Zacke (Ft. Den svenska bj\u00f6rnstammen & Movits!)",
+   "full_title": "Tala fult by\u00a0Zacke (Ft.\u00a0Den\u00a0svenska bj\u00f6rnstammen & Movits!)",
+   "header_image_thumbnail_url": "https://images.genius.com/be3858fef1391801c7cdaa2833256d85.300x169x1.jpg",
+   "header_image_url": "https://images.genius.com/be3858fef1391801c7cdaa2833256d85.1000x563x1.jpg",
+   "id": 2855434,
+   "language": "sv",
+   "lyrics_owner_id": 3265452,
+   "lyrics_state": "complete",
+   "path": "/Zacke-tala-fult-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Zacke-tala-fult-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 9,
+    "day": 1
+   },
+   "release_date_for_display": "September 1, 2016",
+   "release_date_with_abbreviated_month_for_display": "Sep. 1, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/fa3c9e768b5518d6d41c847c9d463139.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/fa3c9e768b5518d6d41c847c9d463139.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 17,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tala fult",
+   "title_with_featured": "Tala fult (Ft.\u00a0Den\u00a0svenska bj\u00f6rnstammen & Movits!)",
+   "url": "https://genius.com/Zacke-tala-fult-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/375291",
+     "header_image_url": "https://images.genius.com/d3d4fea20985cc7aacf9ce10f5f72d25.1000x572x1.jpg",
+     "id": 375291,
+     "image_url": "https://images.genius.com/1a7e7f2a60843f313cf183dab3a87950.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Den svenska bj\u00f6rnstammen",
+     "url": "https://genius.com/artists/Den-svenska-bjornstammen"
+    },
+    {
+     "api_path": "/artists/17629",
+     "header_image_url": "https://images.genius.com/99f8802269203d21a37eb859bebefc5a.1000x525x1.jpg",
+     "id": 17629,
+     "image_url": "https://images.genius.com/99ee6f54cd0a5ba6670c7a8c5fb93cef.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Movits!",
+     "url": "https://genius.com/artists/Movits"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/179156",
+    "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+    "id": 179156,
+    "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Zacke",
+    "url": "https://genius.com/artists/Zacke"
+   },
+   "apple_music_id": "1442387320",
+   "apple_music_player_url": "https://genius.com/songs/2855434/apple_music_player",
+   "description": {
+    "plain": "Singel fr\u00e5n Zacke g\u00e4stad av Den Svenska Bj\u00f6rnstammen och Movits! som sl\u00e4pptes den f\u00f6rsta september 2016."
+   },
+   "embed_content": "<div id='rg_embed_link_2855434' class='rg_embed_link' data-song-id='2855434'>Read <a href='https://genius.com/Zacke-tala-fult-lyrics'>\u201cTala fult\u201d by Zacke</a> on Genius</div> <script crossorigin src='//genius.com/songs/2855434/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-09-01",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/288990",
+    "cover_art_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+    "full_title": "Fattigkussen by Zacke",
+    "id": 288990,
+    "name": "Fattigkussen",
+    "url": "https://genius.com/albums/Zacke/Fattigkussen",
+    "artist": {
+     "api_path": "/artists/179156",
+     "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+     "id": 179156,
+     "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zacke",
+     "url": "https://genius.com/artists/Zacke"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3265452,
+    "annotator_login": "loderberg",
+    "api_path": "/referents/10418776",
+    "classification": "unreviewed",
+    "fragment": "Tala fult",
+    "id": 10418776,
+    "is_description": true,
+    "path": "/10418776/Zacke-tala-fult/Tala-fult",
+    "range": {
+     "content": "Tala fult"
+    },
+    "song_id": 2855434,
+    "url": "https://genius.com/10418776/Zacke-tala-fult/Tala-fult",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2855434",
+     "client_timestamps": {
+      "updated_by_human_at": 1608153453,
+      "lyrics_updated_at": 1473591023
+     },
+     "context": "Zacke",
+     "id": 2855434,
+     "image_url": "https://images.genius.com/fa3c9e768b5518d6d41c847c9d463139.1000x1000x1.jpg",
+     "link_title": "Tala fult by\u00a0Zacke (Ft.\u00a0Den\u00a0svenska bj\u00f6rnstammen & Movits!)",
+     "title": "Tala fult",
+     "type": "Song",
+     "url": "https://genius.com/Zacke-tala-fult-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10418776",
+      "body": {
+       "plain": "Singel fr\u00e5n Zacke g\u00e4stad av Den Svenska Bj\u00f6rnstammen och Movits! som sl\u00e4pptes den f\u00f6rsta september 2016."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10418776,
+      "pinned": false,
+      "share_url": "https://genius.com/10418776",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/10418776/Zacke-tala-fult/Tala-fult",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3265452",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8e9f26e95fdf909e1b372c05aec85539",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8e9f26e95fdf909e1b372c05aec85539",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8e9f26e95fdf909e1b372c05aec85539",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8e9f26e95fdf909e1b372c05aec85539",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/B2JGSwLT5mqCPWuzjjoV_twitter%20blank.png",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3265452,
+         "iq": 3835,
+         "login": "loderberg",
+         "name": "loderberg",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/loderberg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "trainrec 161268525",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/trainrec-161268525/zacke-talar-fult-ft-movits-den-svenska-bjornstammen"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=NcVKSrJVfyg"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/179155",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 179155,
+     "image_url": "https://images.genius.com/cd0b348bd3cfa6f7bdef0332b7ba205f.610x610x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00f6rdar-Anders",
+     "url": "https://genius.com/artists/Mordar-anders"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Zacke",
+   "lyrics": "Tala fult Lyrics[Hook: Den Svenska Bj\u00f6rnstammen]\nDu vet v\u00e4l att vi talar fult\nDu lyssnar aldrig\nDu lyssnar aldrig\nDu lyssnar aldrig\nDu vet v\u00e4l att vi\n\n[Verse 1: Zacke]\nBr\u00e4nt alla pengar vi haft\nPlockar dem vita, vi plockar dem svart\nPlockar dem l\u00e5ngsamma, plockar dem snabbt\nGillar dig mer n\u00e4r du s\u00e5lde ditt knark\nF\u00f6r vad f\u00f6rs\u00f6ker du s\u00e4lja mig nu\nTalar i tungor och talar till Gud\nGud, inga pengar vad ska du med, Gud\nAlla vi talar brett, alla vi talar fult\nMen h\u00f6r du mig bae, Guantamo bay\nVem \u00e4r din pappa, \u00e4r han rik som dig?\nVill inte ha n\u00e5gon m\u00e5lsman\nVill inte ha n\u00e5got gott r\u00e5d\nVi flyger snabbast men hade jag haft r\u00e5d\nKolla d\u00e5 kommer vi som en Concorde\nOch han \u00e4r okej, han \u00e4r ok\nTyst och betala av ditt bol\u00e5n\nHan \u00e4r okej, han \u00e4r ok\nAlla talar fult, man kan inte tro n\u00e5gon\nLite avec, lite champagne\nMen du kan beh\u00e5lla dina ostron\nTuggar genom livet utan motst\u00e5nd\nTuggar genom livet utan motst\u00e5nd\nDu s\u00e4ger att man kan ha roligt utan sprit\nMen vi kan inte ha roligt hela tiden\nSade vi m\u00e5ste kunna snacka utan weed\nMen vi kan inte snacka hela tiden\n\n[Hook: Den Svenska Bj\u00f6rnstammen]\nDu vet v\u00e4l att vi talar fult\nDu lyssnar aldrig\nDu lyssnar aldrig\nDu lyssnar aldrig\nDu vet v\u00e4l att vi talar fult\nDu lyssnar aldrig (aldrig)\nDu lyssnar aldrig (aldrig)\nDu lyssnar aldrig (aldrig)\n\n[Verse 2: Movits!]\nSnackar du fult, splittade l\u00f6ften\nAllt vi hade vi delade p\u00e5 h\u00e4lften\nFuck it, vi splittar p\u00e5 resten\nStaplade svarta p\u00e5 vita l\u00f6gner\nH\u00f6jda r\u00f6ster fr\u00e5n \u00f6ppna f\u00f6nster\nGrannarna ringer och gn\u00e4ller\nSom hyrorna skjutit i h\u00f6jden med slangbellor vi gjorde i sl\u00f6jden\nL\u00e4rde mig skjuta p\u00e5 m\u00f6ten, ey\nSkjuter fr\u00e5n h\u00f6ften, bae\nMen dom kulorna som vi skjuter h\u00e4r \u00e4r fr\u00e5n samma h\u00f6lster\nBrukade vara skilda v\u00e4rldar men nu \u00e4r det skilda adresser\nOch boxarhandskarna vi knyter har ett gammalt m\u00f6nster\nLevde livet loco\nLennon innan Yoko\nIngen fighter, \u00e4r en lover men en fighter ocks\u00e5\nPolo utan logo\nPoolen ingen top up\nTitta baby, hmm v\u00e4xer som det var Pinnochio\nYou might also like[Bridge: Zacke]\nDu s\u00e4ger att man kan ha roligt utan sprit\nMen vi kan inte ha roligt hela tiden\nSade vi m\u00e5ste kunna snacka utan weed\nMen vi kan inte snacka hela tiden\n\n[Hook: Den Svenska Bj\u00f6rnstammen]\nDu vet v\u00e4l att vi talar fult\nDu lyssnar aldrig\nDu lyssnar aldrig\nDu lyssnar aldrig\nDu vet v\u00e4l att vi talar fult\nDu lyssnar aldrig (aldrig)\nDu lyssnar aldrig (aldrig)\nDu lyssnar aldrig (aldrig)\n\n[Outro: Zacke]\nPlockar dem vita, vi plockar dem svart\n\nPlockar dem l\u00e5ngsamma, plockar dem snabbt\n\nPlockar dem vita, vi plockar dem svart\n\nPlockar dem l\u00e5ngsamma, plockar dem snabbt\nPlockar dem vita, vi plockar dem svart\n\nPlockar dem l\u00e5ngsamma, plockar dem snabbt\n\nPlockar dem vita, vi plockar dem svart\n\nPlockar dem l\u00e5ngsamma, plockar dem snabbtEmbed"
+  },
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/2901042",
+   "artist_names": "Zacke (Ft. Kevin Mukuri)",
+   "full_title": "Ohojaja by\u00a0Zacke (Ft.\u00a0Kevin\u00a0Mukuri)",
+   "header_image_thumbnail_url": "https://images.genius.com/495a4f8f83745158b8f17468967545b0.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/495a4f8f83745158b8f17468967545b0.580x580x1.jpg",
+   "id": 2901042,
+   "language": "sv",
+   "lyrics_owner_id": 3265452,
+   "lyrics_state": "complete",
+   "path": "/Zacke-ohojaja-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Zacke-ohojaja-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 11,
+    "day": 4
+   },
+   "release_date_for_display": "November 4, 2016",
+   "release_date_with_abbreviated_month_for_display": "Nov. 4, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/495a4f8f83745158b8f17468967545b0.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/495a4f8f83745158b8f17468967545b0.580x580x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ohojaja",
+   "title_with_featured": "Ohojaja (Ft.\u00a0Kevin\u00a0Mukuri)",
+   "url": "https://genius.com/Zacke-ohojaja-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1027094",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1027094,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kevin Mukuri",
+     "url": "https://genius.com/artists/Kevin-mukuri"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/179156",
+    "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+    "id": 179156,
+    "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Zacke",
+    "url": "https://genius.com/artists/Zacke"
+   },
+   "apple_music_id": "1442387317",
+   "apple_music_player_url": "https://genius.com/songs/2901042/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2901042' class='rg_embed_link' data-song-id='2901042'>Read <a href='https://genius.com/Zacke-ohojaja-lyrics'>\u201cOhojaja\u201d by Zacke</a> on Genius</div> <script crossorigin src='//genius.com/songs/2901042/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-11-04",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/288990",
+    "cover_art_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+    "full_title": "Fattigkussen by Zacke",
+    "id": 288990,
+    "name": "Fattigkussen",
+    "url": "https://genius.com/albums/Zacke/Fattigkussen",
+    "artist": {
+     "api_path": "/artists/179156",
+     "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+     "id": 179156,
+     "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zacke",
+     "url": "https://genius.com/artists/Zacke"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3265452,
+    "annotator_login": "loderberg",
+    "api_path": "/referents/10785781",
+    "classification": "needs_exegesis",
+    "fragment": "Ohojaja",
+    "id": 10785781,
+    "is_description": true,
+    "path": "/10785781/Zacke-ohojaja/Ohojaja",
+    "range": {
+     "content": "Ohojaja"
+    },
+    "song_id": 2901042,
+    "url": "https://genius.com/10785781/Zacke-ohojaja/Ohojaja",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2901042",
+     "client_timestamps": {
+      "updated_by_human_at": 1608153431,
+      "lyrics_updated_at": 1478350137
+     },
+     "context": "Zacke",
+     "id": 2901042,
+     "image_url": "https://images.genius.com/495a4f8f83745158b8f17468967545b0.580x580x1.jpg",
+     "link_title": "Ohojaja by\u00a0Zacke (Ft.\u00a0Kevin\u00a0Mukuri)",
+     "title": "Ohojaja",
+     "type": "Song",
+     "url": "https://genius.com/Zacke-ohojaja-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10785781",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10785781,
+      "pinned": false,
+      "share_url": "https://genius.com/10785781",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10785781/Zacke-ohojaja/Ohojaja",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3265452",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8e9f26e95fdf909e1b372c05aec85539",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8e9f26e95fdf909e1b372c05aec85539",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8e9f26e95fdf909e1b372c05aec85539",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8e9f26e95fdf909e1b372c05aec85539",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/B2JGSwLT5mqCPWuzjjoV_twitter%20blank.png",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3265452,
+         "iq": 3835,
+         "login": "loderberg",
+         "name": "loderberg",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/loderberg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/179155",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 179155,
+     "image_url": "https://images.genius.com/cd0b348bd3cfa6f7bdef0332b7ba205f.610x610x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00f6rdar-Anders",
+     "url": "https://genius.com/artists/Mordar-anders"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Zacke",
+   "lyrics": "Ohojaja Lyrics[Verse 1]\nInge rikemansbarn h\u00e4r\nInte samma klass som oss\nFast n\u00e5gon kanske gick i samma klass som oss\nPolarn passa dig f\u00f6r att bli k\u00e4nd f\u00f6r dem\nDina cash, det \u00e4r bara g\u00f6m dem och sk\u00e4ms f\u00f6r dem\nD\u00e4r utsattes barnen f\u00f6r samma saker\nSatt rikemannaungen bli kompis med fattigmannabarnet\nSjukskriven, hennes man var sjukskriven\nN\u00e5gon snackade om att n\u00e5gons pappa ska bli utskriven (Ohojaja)\nInga jobb, det k\u00e4nner fattigkussen\nK\u00f6r alfa-kassen, det \u00e4r bara att st\u00e4mpla upp den\nInget p\u00e5l\u00e4gg, bara h\u00e5rt br\u00f6d med \u00f6rtsalt\nDet var soc-tantens alla barnet till ditt f\u00f6rnamn (?)\nS\u00e5 om pengar \u00e4r tid \u00e4r nog alla h\u00e4r i kring med sin tomma b\u00f6rs rik\nDe gr\u00e4ver upp hela r\u00f6tterna h\u00e4r\nMen vissa andra gr\u00e4ver ner sina f\u00f6tter tar spj\u00e4rn\n[Hook]\nOhojaja\nOhojaja\nOhojaja\nOhojajaja\nFattiga kusinen ifr\u00e5n landet, ja du vet\nDet \u00e4r fattiga kusinen ifr\u00e5n landet, ja du vet\nOhojaja\nOhojaja\nOhojaja\nOhojajaja\nFattiga kusinen ifr\u00e5n landet, ja du vet\nDet \u00e4r fattiga kusinen ifr\u00e5n landet, ja du vet\n(Ja du vet)\n\n[Dialogue]\nOm du kommer till stockholm\nD\u00e5 \u00e4r du v\u00e4lkommen hem till mig\n(Ja, du vet)\nNej, det \u00e4r jag nog inte\nJohod\u00e5\nTack ska du ha\n\n[Verse 2]\nKolla handl\u00e4ggarn jag \u00e4r hur driftig som helst\nF\u00f6r om systemet inte funkar f\u00e5r man fixa det sj\u00e4lv\nP\u00e5 kilon eller hekton eller gram f\u00e5 ett bra pris\nP\u00e5 kakor fr\u00e5n Marocko eller l\u00f6jrom fr\u00e5n kalix\nOhojaja\nV\u00e5r himmel den \u00e4r klar idag\nS\u00e5 du ser norrsken och NATO-plan\nN\u00e4r skall de fara tillbaks?\nOch n\u00e4r det blir f\u00e4rre gator kvar\nDet \u00e4r d\u00e5 du f\u00e5r bli gatusmart\nM\u00e5la sn\u00f6n gul som picassos\n240:n fylld med billig sprit ifr\u00e5n alko\nBr\u00e4nner svarta pengar \u00f6ver den finska gr\u00e4nsen\nInget Playa Ingles men det \u00e4r en utlandssemester\nS\u00e5 beh\u00e5ll era h\u00e4xjaktcash\nIngen av oss h\u00e4r vill ha dem f\u00f6r att bli m\u00e4tta och bekv\u00e4m\nDe gr\u00e4ver upp hela r\u00f6tterna h\u00e4r\nMen vissa andra gr\u00e4ver ner sina f\u00f6tter tar spj\u00e4rn\nYou might also like[Hook]\nOhojaja\nOhojaja\nOhojaja\nOhojajaja\nFattiga kusinen ifr\u00e5n landet, ja du vet\nDet \u00e4r fattiga kusinen ifr\u00e5n landet, ja du vet\nOhojaja\nOhojaja\nOhojaja\nOhojajaja\nFattiga kusinen ifr\u00e5n landet, ja du vet\nDet \u00e4r fattiga kusinen ifr\u00e5n landet, ja du vet\nOhojaja\nOhojaja\nOhojaja\nOhojajaja\nFattiga kusinen ifr\u00e5n landet, ja du vet\nDet \u00e4r fattiga kusinen ifr\u00e5n landet, ja du vet\nOhojaja\nOhojaja\nOhojaja\nOhojajaja\nFattiga kusinen ifr\u00e5n landet, ja du vet\nDet \u00e4r fattiga kusinen ifr\u00e5n landet, ja du vet\n(Ja du vet)\n[Outro]\nVissa beh\u00f6ver drog och v\u00e5ld\nSom laestadianer beh\u00f6ver gud\nBara f\u00f6r att klara av, vad beh\u00f6ver du?\nOch du l\u00e5t provinsen se den l\u00e5ngsamt bl\u00f6da ut\nG\u00f6r som cashen fr\u00e5n naturtillg\u00e5ngarna och flytta s\u00f6der utEmbed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/2487581",
+   "artist_names": "Zacke",
+   "full_title": "Spy p\u00e5 dom by\u00a0Zacke",
+   "header_image_thumbnail_url": "https://images.genius.com/7eb212dec4b79a84021a1777f482f20d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/7eb212dec4b79a84021a1777f482f20d.1000x1000x1.jpg",
+   "id": 2487581,
+   "language": "sv",
+   "lyrics_owner_id": 3265452,
+   "lyrics_state": "complete",
+   "path": "/Zacke-spy-pa-dom-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Zacke-spy-pa-dom-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 5,
+    "day": 18
+   },
+   "release_date_for_display": "May 18, 2016",
+   "release_date_with_abbreviated_month_for_display": "May. 18, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/7eb212dec4b79a84021a1777f482f20d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7eb212dec4b79a84021a1777f482f20d.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 2,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Spy p\u00e5 dom",
+   "title_with_featured": "Spy p\u00e5 dom",
+   "url": "https://genius.com/Zacke-spy-pa-dom-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/179156",
+    "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+    "id": 179156,
+    "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Zacke",
+    "url": "https://genius.com/artists/Zacke"
+   },
+   "apple_music_id": "1442387954",
+   "apple_music_player_url": "https://genius.com/songs/2487581/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2487581' class='rg_embed_link' data-song-id='2487581'>Read <a href='https://genius.com/Zacke-spy-pa-dom-lyrics'>\u201cSpy p\u00e5 dom\u201d by Zacke</a> on Genius</div> <script crossorigin src='//genius.com/songs/2487581/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-05-18",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/288990",
+    "cover_art_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+    "full_title": "Fattigkussen by Zacke",
+    "id": 288990,
+    "name": "Fattigkussen",
+    "url": "https://genius.com/albums/Zacke/Fattigkussen",
+    "artist": {
+     "api_path": "/artists/179156",
+     "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+     "id": 179156,
+     "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zacke",
+     "url": "https://genius.com/artists/Zacke"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3265452,
+    "annotator_login": "loderberg",
+    "api_path": "/referents/9266258",
+    "classification": "needs_exegesis",
+    "fragment": "Spy p\u00e5 dom",
+    "id": 9266258,
+    "is_description": true,
+    "path": "/9266258/Zacke-spy-pa-dom/Spy-pa-dom",
+    "range": {
+     "content": "Spy p\u00e5 dom"
+    },
+    "song_id": 2487581,
+    "url": "https://genius.com/9266258/Zacke-spy-pa-dom/Spy-pa-dom",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2487581",
+     "client_timestamps": {
+      "updated_by_human_at": 1608153538,
+      "lyrics_updated_at": 1483809704
+     },
+     "context": "Zacke",
+     "id": 2487581,
+     "image_url": "https://images.genius.com/7eb212dec4b79a84021a1777f482f20d.1000x1000x1.jpg",
+     "link_title": "Spy p\u00e5 dom by\u00a0Zacke",
+     "title": "Spy p\u00e5 dom",
+     "type": "Song",
+     "url": "https://genius.com/Zacke-spy-pa-dom-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/9266258",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 9266258,
+      "pinned": false,
+      "share_url": "https://genius.com/9266258",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/9266258/Zacke-spy-pa-dom/Spy-pa-dom",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3265452",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8e9f26e95fdf909e1b372c05aec85539",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8e9f26e95fdf909e1b372c05aec85539",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8e9f26e95fdf909e1b372c05aec85539",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8e9f26e95fdf909e1b372c05aec85539",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/B2JGSwLT5mqCPWuzjjoV_twitter%20blank.png",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3265452,
+         "iq": 3835,
+         "login": "loderberg",
+         "name": "loderberg",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/loderberg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=DT4VxisNlvw"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/179155",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 179155,
+     "image_url": "https://images.genius.com/cd0b348bd3cfa6f7bdef0332b7ba205f.610x610x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00f6rdar-Anders",
+     "url": "https://genius.com/artists/Mordar-anders"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Zacke",
+   "lyrics": "Spy p\u00e5 dom Lyrics[Intro]\n(H\u00e5r)\nJag kan h\u00e5lla upp ditt (h\u00e5r)\n\n[Verse 1]\nMorsor g\u00e5r i v\u00e4ggen d\u00e5 n\u00e4r farsor g\u00e5r p\u00e5 stan, yeah\nVissa m\u00e4nniskor de borde aldrig skaffa barn, nej\nBaby det var tur vi hade aldrig blivit av, nej\nVi leker b\u00e4st, vi lika barn\nHur ska du klara dig i denna stora stan?\nSm\u00e5stadsruff hur ska de h\u00e5lla dig tillbaks? Hah\nIngen vinst p\u00e5 de lotter som du skrapat\nMen du byggt din egen bunker och du \u00e4r stolt f\u00f6r varje spadtag\nOch alla de som skrattat \u00e5t din kamp\nKommer gratta dig vid m\u00e5lsn\u00f6ret n\u00e4r du tagit dig fram\nMittenfingrar upp i luften, ingen i din hals\nDen reflexen kommer gratis n\u00e4r du ser dem byta kant, yeah\nOch ditt f\u00f6rut har g\u00e5tt och gjort dig h\u00e5rd\nMen med mig vill du vara mjuk, inte alltid som det g\u00e5r\nMen baby om dom fuckar med oss kommer det bli dyrt f\u00f6r dem\nH\u00e5ller upp ditt h\u00e5r n\u00e4r du spyr p\u00e5 dom\nH\u00e5lla upp ditt (h\u00e5r)\n[Hook]\nJag kan h\u00e5lla upp ditt (h\u00e5r)\nJag kan h\u00e5lla upp ditt (h\u00e5r)\nN\u00e4r du spyr p\u00e5 dom\nDet \u00e4r bara och spy p\u00e5 dom\nH\u00e5lla upp ditt (h\u00e5r)\nJag kan h\u00e5lla upp ditt\nJag kan h\u00e5lla upp ditt\nN\u00e4r du spyr p\u00e5 dom\nDet \u00e4r bara och spy p\u00e5 dom\n\n[Verse 2]\nTa mascara framf\u00f6r dem som inte kan f\u00f6rst\u00e5, nej\nAldrig lutat huvudet \u00e5t den axel som \u00e4r v\u00e5t, nej\nKinden smakar salt, men har jag sett en riktig t\u00e5r? Nej\nSer bara dina \u00e4rr, men aldrig dina s\u00e5r\nInget \u00e4r gratis, aldrig fr\u00e5gat vad du f\u00e5r\nMen inget dukat bord s\u00e5 ingen dricks n\u00e4r vi g\u00e5r, nej\nBagage i backluckan, aldrig n\u00e5gon nackdel\nMen allt det d\u00e4r \u00e4r bakom dig, sluta kolla backspegeln\nF\u00f6r du ska se varje chans du ger dem\nTill de som sitter d\u00e4r uppe, de kommer sparka ner\u00e5t\nS\u00e5 det \u00e4r bara spy upp, baby bara spy upp\nKommer g\u00e5 fj\u00e4derl\u00e4tt, baby du \u00e4r blytung\nOch ditt f\u00f6rut har g\u00e5tt och gjort dig h\u00e5rd\nMen med mig vill du vara mjuk, inte alltid som det g\u00e5r\nMen baby om dom fuckar med oss kommer det bli dyrt f\u00f6r dem\nH\u00e5ller upp ditt h\u00e5r n\u00e4r du spyr p\u00e5 dem\nH\u00e5lla upp ditt (h\u00e5r)\nYou might also like[Hook]\nJag kan h\u00e5lla upp ditt (h\u00e5r)\nJag kan h\u00e5lla upp ditt (h\u00e5r)\nN\u00e4r du spyr p\u00e5 dom\nDet \u00e4r bara och spy p\u00e5 dom\nH\u00e5lla upp ditt (h\u00e5r)\nJag kan h\u00e5lla upp ditt (h\u00e5r)\nJag kan h\u00e5lla upp ditt (h\u00e5r)\nN\u00e4r du spyr p\u00e5 dom\nDet \u00e4r bara och spy p\u00e5 dom\n\n[Bridge]\nDitt f\u00f6rut har g\u00e5tt och gjort dig h\u00e5rd\nMen med mig vill du vara mjuk, inte alltid som det g\u00e5r\nMen baby om dom fuckar med oss kommer det bli dyrt f\u00f6r dem\nH\u00e5ller upp ditt h\u00e5r n\u00e4r du spyr p\u00e5 dem\nH\u00e5lla upp ditt (h\u00e5r)\nJag kan h\u00e5lla upp ditt (h\u00e5r)\nJag kan h\u00e5lla upp ditt (h\u00e5r)\nN\u00e4r du spyr p\u00e5 dom (h\u00e5r)\nDet \u00e4r bara och spy p\u00e5 dom\nH\u00e5lla upp ditt (h\u00e5r)\n\n[Hook]\nJag kan h\u00e5lla upp ditt (h\u00e5r)\nJag kan h\u00e5lla upp ditt (h\u00e5r)\nN\u00e4r du spyr p\u00e5 dom\nDet \u00e4r bara och spy p\u00e5 dom\nH\u00e5lla upp ditt (h\u00e5r)\nJag kan h\u00e5lla upp ditt (h\u00e5r)\nJag kan h\u00e5lla upp ditt (h\u00e5r)\nN\u00e4r du spyr p\u00e5 dom\nDet \u00e4r bara och spy p\u00e5 domEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1953411",
+   "artist_names": "Zacke (Ft. Peter Mor\u00e9n)",
+   "full_title": "Utomlands by\u00a0Zacke (Ft.\u00a0Peter\u00a0Mor\u00e9n)",
+   "header_image_thumbnail_url": "https://images.genius.com/e20a0e7539798dcba6ce7b97813c2b48.300x194x1.jpg",
+   "header_image_url": "https://images.genius.com/e20a0e7539798dcba6ce7b97813c2b48.600x387x1.jpg",
+   "id": 1953411,
+   "language": "sv",
+   "lyrics_owner_id": 7936819,
+   "lyrics_state": "complete",
+   "path": "/Zacke-utomlands-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Zacke-utomlands-sample",
+   "release_date_components": {
+    "year": 2012,
+    "month": 5,
+    "day": 11
+   },
+   "release_date_for_display": "May 11, 2012",
+   "release_date_with_abbreviated_month_for_display": "May. 11, 2012",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1314a06a512f6a4ea0be6073e62f753c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1314a06a512f6a4ea0be6073e62f753c.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Utomlands",
+   "title_with_featured": "Utomlands (Ft.\u00a0Peter\u00a0Mor\u00e9n)",
+   "url": "https://genius.com/Zacke-utomlands-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/402580",
+     "header_image_url": "https://images.genius.com/b3d691be3514b7e7453c0d1f15084ab4.750x562x1.jpg",
+     "id": 402580,
+     "image_url": "https://images.genius.com/b3d691be3514b7e7453c0d1f15084ab4.750x562x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Peter Mor\u00e9n",
+     "url": "https://genius.com/artists/Peter-moren"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/179156",
+    "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+    "id": 179156,
+    "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Zacke",
+    "url": "https://genius.com/artists/Zacke"
+   },
+   "apple_music_id": "1516232622",
+   "apple_music_player_url": "https://genius.com/songs/1953411/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1953411' class='rg_embed_link' data-song-id='1953411'>Read <a href='https://genius.com/Zacke-utomlands-lyrics'>\u201cUtomlands\u201d by Zacke</a> on Genius</div> <script crossorigin src='//genius.com/songs/1953411/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2012-05-11",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/114682",
+    "cover_art_url": "https://images.genius.com/7dcc14b604d81fcced43e103e0d78e92.640x640x1.jpg",
+    "full_title": "Renhj\u00e4rtat by Zacke",
+    "id": 114682,
+    "name": "Renhj\u00e4rtat",
+    "url": "https://genius.com/albums/Zacke/Renhjartat",
+    "artist": {
+     "api_path": "/artists/179156",
+     "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+     "id": 179156,
+     "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zacke",
+     "url": "https://genius.com/artists/Zacke"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6639464",
+    "classification": "needs_exegesis",
+    "fragment": "Utomlands",
+    "id": 6639464,
+    "is_description": true,
+    "path": "/6639464/Zacke-utomlands/Utomlands",
+    "range": {
+     "content": "Utomlands"
+    },
+    "song_id": 1953411,
+    "url": "https://genius.com/6639464/Zacke-utomlands/Utomlands",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1953411",
+     "client_timestamps": {
+      "updated_by_human_at": 1615042863,
+      "lyrics_updated_at": 1615042678
+     },
+     "context": "Zacke",
+     "id": 1953411,
+     "image_url": "https://images.genius.com/1314a06a512f6a4ea0be6073e62f753c.1000x1000x1.jpg",
+     "link_title": "Utomlands by\u00a0Zacke (Ft.\u00a0Peter\u00a0Mor\u00e9n)",
+     "title": "Utomlands",
+     "type": "Song",
+     "url": "https://genius.com/Zacke-utomlands-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6639464",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6639464,
+      "pinned": false,
+      "share_url": "https://genius.com/6639464",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6639464/Zacke-utomlands/Utomlands",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=blf2QZKEcqc"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/402580",
+     "header_image_url": "https://images.genius.com/b3d691be3514b7e7453c0d1f15084ab4.750x562x1.jpg",
+     "id": 402580,
+     "image_url": "https://images.genius.com/b3d691be3514b7e7453c0d1f15084ab4.750x562x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Peter Mor\u00e9n",
+     "url": "https://genius.com/artists/Peter-moren"
+    },
+    {
+     "api_path": "/artists/179156",
+     "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+     "id": 179156,
+     "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zacke",
+     "url": "https://genius.com/artists/Zacke"
+    }
+   ],
+   "artist": "Zacke",
+   "lyrics": "Utomlands Lyrics[Intro: Peter Mor\u00e9n]\nDet \u00e4r samma himmel som vi tittar p\u00e5\nKan du se att den \u00e4r lika bl\u00e5?\nL\u00e5tsas som att du \u00e4r utomlands, utomlands, utomlands\n\n[Vers 1: Zacke]\nJag ska inte k\u00f6pa n\u00e5n drink f\u00f6r din hundring\nJag ska k\u00f6pa mig en hink f\u00f6r din hundring\nDr\u00f6mmer mig bort fr\u00e5n vintern och rusket\nTill grisfester och ping-pong pussey\nVill ha det fett i solen\nVarf\u00f6r ska du h\u00e5lla p\u00e5 med dina pretentioner?\nKlapp, klapp, klapp me min flip-flopp-toffel\nI, i, i takt med min tax-free-p\u00e5se\nS\u00e5 ba' l\u00e5tsas tillsammans, appl\u00e5d\nSom om piloten just landat\nS\u00e5, vi kan l\u00e5tsas p\u00e5 tu man hand\nH\u00f6rru, l\u00e5tsas som att du \u00e4r utomlands\n[Refr\u00e4ng: Peter Mor\u00e9n]\nDet \u00e4r samma himmel som vi tittar p\u00e5\nKan du se att den \u00e4r lika bl\u00e5?\nL\u00e5tsas som att du \u00e4r utomlands, utomlands, utomlands\nIn i dimman och ut p\u00e5 stan\nKan du se att det \u00e4r likadant?\nL\u00e5tsas som att du \u00e4r utomlands, utomlands, utomlands\n\n[Vers 2: Zacke]\nSvenska flickan, det k\u00e4nns i fickan\nDet inte samma kurs men det \u00e4r samma red-bull-drinkar\nS\u00e5, vi kan v\u00e4l l\u00e5tsas som om vi var p\u00e5 kreta\nKolla, jag hade v\u00e4l kunna g\u00e5 f\u00f6r en grek, huh?\n\u00d6stersj\u00f6n kan va medelhavet\n\u00c5 din solbr\u00e4nna beh\u00f6ver inte va fr\u00e5n solariet\nL\u00e5tsas som jag aldrig mer kommer h\u00f6ra av mig\nJag menar, va fan, h\u00e5ll p\u00e5 hemmalaget\nV\u00e5r fr\u00e4msta exportvara\nF\u00f6r skogen \u00e5 malmen \u00e4r l\u00e5ngt ifr\u00e5n lika fagra\nDu som har s\u00e5 mycket, bjud f\u00f6r fan\nBaby, l\u00e5tsas som att du \u00e4r utomlands\n\n[Refr\u00e4ng: Peter Mor\u00e9n]\nDet \u00e4r samma himmel som vi tittar p\u00e5\nKan du se att den \u00e4r lika bl\u00e5?\nL\u00e5tsas som att du \u00e4r utomlands, utomlands, utomlands\nIn i dimman och ut p\u00e5 stan\nKan du se att det \u00e4r likadant?\nL\u00e5tsas som att du \u00e4r utomlands, utomlands, utomlands\nYou might also like[Vers 3: Zacke]\n\"F\u00f6rskr\u00e4ckligt n\u00e4r man t\u00e4nker p\u00e5 hur allting f\u00f6r\u00e4ndras\nDom lyckas med \u00e5 st\u00e4lla det h\u00e4r landet p\u00e5 \u00e4nda\nGr\u00e5ten i halsen t\u00e4nker p\u00e5 en svunnen tid\nBr\u00e5kmakargatan, L\u00f6nneberga, Bullerbyn\nD\u00e4r fanns inte n\u00e5n blatte inte\n\u00c4lska landet d\u00e5 det var som Astrid Lindgrens\nS\u00e5 man f\u00e5r dr\u00f6mma sig bort till andra tider\nDet \u00e4r skamligt hur fan det h\u00e4r landet blivit\nIlla hur det ser ut h\u00e4r\nF\u00e5r l\u00e5tsas som om deras hudf\u00e4rg \u00e4r brunkr\u00e4m, som tur \u00e4r\nMan kan l\u00e5tsas, tur som fan\"\nJimmie, l\u00e5tsas som att du \u00e4r utomlands\n\n[Refr\u00e4ng: Peter Mor\u00e9n]\nDet \u00e4r samma himmel som vi tittar p\u00e5\nKan du se att den \u00e4r lika bl\u00e5?\nL\u00e5tsas som att du \u00e4r utomlands, utomlands, utomlands\nIn i dimman och ut p\u00e5 stan\nKan du se att det \u00e4r likadant?\nL\u00e5tsas som att du \u00e4r utomlands, utomlands, utomlands\nDet \u00e4r samma himmel som vi tittar p\u00e5\nKan du se att den \u00e4r lika bl\u00e5?\nL\u00e5tsas som att du \u00e4r utomlands, utomlands, utomlands\nIn i dimman och ut p\u00e5 stan\nKan du se att det \u00e4r likadant?\nL\u00e5tsas som att du \u00e4r utomlands, utomlands, utomlandsEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/6045001",
+   "artist_names": "Zacke (Ft. Parham)",
+   "full_title": "Kommer hem by\u00a0Zacke (Ft.\u00a0Parham)",
+   "header_image_thumbnail_url": "https://images.genius.com/0411ef5cd2a7bdec3e66f1250f26e8f2.300x226x1.png",
+   "header_image_url": "https://images.genius.com/0411ef5cd2a7bdec3e66f1250f26e8f2.1000x753x1.png",
+   "id": 6045001,
+   "language": "sv",
+   "lyrics_owner_id": 7936819,
+   "lyrics_state": "complete",
+   "path": "/Zacke-kommer-hem-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Zacke-kommer-hem-sample",
+   "release_date_components": {
+    "year": 2020,
+    "month": 10,
+    "day": 9
+   },
+   "release_date_for_display": "October 9, 2020",
+   "release_date_with_abbreviated_month_for_display": "Oct. 9, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/caba6753fff84c0a56a51ebf93a2c965.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/caba6753fff84c0a56a51ebf93a2c965.440x440x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 5,
+    "transcribers": 3,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Kommer hem",
+   "title_with_featured": "Kommer hem (Ft.\u00a0Parham)",
+   "url": "https://genius.com/Zacke-kommer-hem-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/164275",
+     "header_image_url": "https://images.genius.com/c1bcfff8d6ddffedd9c9cf20c6b890de.476x476x1.jpg",
+     "id": 164275,
+     "image_url": "https://images.genius.com/c1bcfff8d6ddffedd9c9cf20c6b890de.476x476x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Parham",
+     "url": "https://genius.com/artists/Parham"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/179156",
+    "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+    "id": 179156,
+    "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Zacke",
+    "url": "https://genius.com/artists/Zacke"
+   },
+   "apple_music_id": "1533435910",
+   "apple_music_player_url": "https://genius.com/songs/6045001/apple_music_player",
+   "description": {
+    "plain": "Kommer hem handlar om en person som en v\u00e4ntar p\u00e5 och \u00e4r v\u00e4rd att v\u00e4nta p\u00e5\n\nDen h\u00e4r l\u00e5ten \u00e4r Zacke och Parhams andra collab efter b\u00e5da g\u00e4stade Adam Tenstas \u201cDet b\u00f6rja med mig (Fatta man)\u201d\n\nKommer hem \u00e4r den fj\u00e4rde och sista singeln fr\u00e5n Zackes fj\u00e4rde skiva \u201cPengar. Frihet. Zakaria Jamal.\u201d\n\n\u201cSl\u00e4pper fj\u00e4rde och sista singeln innan plattan. Vi har snackat l\u00e4nge om att g\u00f6ra n\u00e5t ihop och nu blev det av, stj\u00e4rnorna stod r\u00e4tt och allt det d\u00e4r.\u201d \u2013 Zacke"
+   },
+   "embed_content": "<div id='rg_embed_link_6045001' class='rg_embed_link' data-song-id='6045001'>Read <a href='https://genius.com/Zacke-kommer-hem-lyrics'>\u201cKommer hem\u201d by Zacke</a> on Genius</div> <script crossorigin src='//genius.com/songs/6045001/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Antarktis Studios",
+   "release_date": "2020-10-09",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/697561",
+    "cover_art_url": "https://images.genius.com/e809933d5c6f52ca01ac7400a4592952.1000x1000x1.jpg",
+    "full_title": "Pengar. Frihet. Zakaria Jamal. by Zacke",
+    "id": 697561,
+    "name": "Pengar. Frihet. Zakaria Jamal.",
+    "url": "https://genius.com/albums/Zacke/Pengar-frihet-zakaria-jamal",
+    "artist": {
+     "api_path": "/artists/179156",
+     "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+     "id": 179156,
+     "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zacke",
+     "url": "https://genius.com/artists/Zacke"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Mixed",
+     "artists": [
+      {
+       "api_path": "/artists/179155",
+       "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+       "id": 179155,
+       "image_url": "https://images.genius.com/cd0b348bd3cfa6f7bdef0332b7ba205f.610x610x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "M\u00f6rdar-Anders",
+       "url": "https://genius.com/artists/Mordar-anders"
+      },
+      {
+       "api_path": "/artists/179156",
+       "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+       "id": 179156,
+       "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Zacke",
+       "url": "https://genius.com/artists/Zacke"
+      }
+     ]
+    },
+    {
+     "label": "Instruments",
+     "artists": [
+      {
+       "api_path": "/artists/179155",
+       "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+       "id": 179155,
+       "image_url": "https://images.genius.com/cd0b348bd3cfa6f7bdef0332b7ba205f.610x610x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "M\u00f6rdar-Anders",
+       "url": "https://genius.com/artists/Mordar-anders"
+      },
+      {
+       "api_path": "/artists/1194230",
+       "header_image_url": "https://images.genius.com/412b447b2fffe0a3c9178704f08c4f2a.1000x210x1.jpg",
+       "id": 1194230,
+       "image_url": "https://images.genius.com/86f52513763fdf328117b67b0bfce881.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Osrin",
+       "url": "https://genius.com/artists/Osrin"
+      },
+      {
+       "api_path": "/artists/1028044",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1028044,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Bj\u00f6rken",
+       "url": "https://genius.com/artists/David-bjorken"
+      }
+     ]
+    },
+    {
+     "label": "Mastered",
+     "artists": [
+      {
+       "api_path": "/artists/683662",
+       "header_image_url": "https://images.genius.com/69f469b889939e1c5a616f605a4977b4.300x300x1.jpg",
+       "id": 683662,
+       "image_url": "https://images.genius.com/69f469b889939e1c5a616f605a4977b4.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Bj\u00f6rn Engelmann",
+       "url": "https://genius.com/artists/Bjorn-engelmann"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 7936819,
+    "annotator_login": "emanuelsover",
+    "api_path": "/referents/21026684",
+    "classification": "unreviewed",
+    "fragment": "Kommer hem",
+    "id": 21026684,
+    "is_description": true,
+    "path": "/21026684/Zacke-kommer-hem/Kommer-hem",
+    "range": {
+     "content": "Kommer hem"
+    },
+    "song_id": 6045001,
+    "url": "https://genius.com/21026684/Zacke-kommer-hem/Kommer-hem",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6045001",
+     "client_timestamps": {
+      "updated_by_human_at": 1638828356,
+      "lyrics_updated_at": 1638828315
+     },
+     "context": "Zacke",
+     "id": 6045001,
+     "image_url": "https://images.genius.com/caba6753fff84c0a56a51ebf93a2c965.440x440x1.jpg",
+     "link_title": "Kommer hem by\u00a0Zacke (Ft.\u00a0Parham)",
+     "title": "Kommer hem",
+     "type": "Song",
+     "url": "https://genius.com/Zacke-kommer-hem-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21026684",
+      "body": {
+       "plain": "Kommer hem handlar om en person som en v\u00e4ntar p\u00e5 och \u00e4r v\u00e4rd att v\u00e4nta p\u00e5\n\nDen h\u00e4r l\u00e5ten \u00e4r Zacke och Parhams andra collab efter b\u00e5da g\u00e4stade Adam Tenstas \u201cDet b\u00f6rja med mig (Fatta man)\u201d\n\nKommer hem \u00e4r den fj\u00e4rde och sista singeln fr\u00e5n Zackes fj\u00e4rde skiva \u201cPengar. Frihet. Zakaria Jamal.\u201d\n\n\u201cSl\u00e4pper fj\u00e4rde och sista singeln innan plattan. Vi har snackat l\u00e4nge om att g\u00f6ra n\u00e5t ihop och nu blev det av, stj\u00e4rnorna stod r\u00e4tt och allt det d\u00e4r.\u201d \u2013 Zacke"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 21026684,
+      "pinned": false,
+      "share_url": "https://genius.com/21026684",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/21026684/Zacke-kommer-hem/Kommer-hem",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7936819",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/tlmkbsurjja",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/tlmkbsurjja",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/tlmkbsurjja",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/tlmkbsurjja",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/fzmpw9zrdxh",
+         "human_readable_role_for_display": "Contributor",
+         "id": 7936819,
+         "iq": 6109,
+         "login": "emanuelsover",
+         "name": "emanuelsover",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/emanuelsover",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=FkeP7qXyB54"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/179155",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 179155,
+     "image_url": "https://images.genius.com/cd0b348bd3cfa6f7bdef0332b7ba205f.610x610x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00f6rdar-Anders",
+     "url": "https://genius.com/artists/Mordar-anders"
+    },
+    {
+     "api_path": "/artists/1221901",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1221901,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Fredrik Lundstr\u00f6m",
+     "url": "https://genius.com/artists/Fredrik-lundstrom"
+    },
+    {
+     "api_path": "/artists/1194230",
+     "header_image_url": "https://images.genius.com/412b447b2fffe0a3c9178704f08c4f2a.1000x210x1.jpg",
+     "id": 1194230,
+     "image_url": "https://images.genius.com/86f52513763fdf328117b67b0bfce881.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Osrin",
+     "url": "https://genius.com/artists/Osrin"
+    },
+    {
+     "api_path": "/artists/179156",
+     "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+     "id": 179156,
+     "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zacke",
+     "url": "https://genius.com/artists/Zacke"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/164275",
+     "header_image_url": "https://images.genius.com/c1bcfff8d6ddffedd9c9cf20c6b890de.476x476x1.jpg",
+     "id": 164275,
+     "image_url": "https://images.genius.com/c1bcfff8d6ddffedd9c9cf20c6b890de.476x476x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Parham",
+     "url": "https://genius.com/artists/Parham"
+    },
+    {
+     "api_path": "/artists/179156",
+     "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+     "id": 179156,
+     "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zacke",
+     "url": "https://genius.com/artists/Zacke"
+    }
+   ],
+   "artist": "Zacke",
+   "lyrics": "Kommer hem Lyrics[Vers 1: Zacke]\nFuckar upp allting ibland, st\u00e4ller upp som volont\u00e4r\nSluta l\u00e4gga tid p\u00e5 dem, de \u00e4r ju bara som dem \u00e4r\nOch pengarna \u00e4r inte v\u00e4rt n\u00e5nting, f\u00f6r de har inget konto h\u00e4r\nKan inte k\u00f6pa det vi har, aldrig gjorts n\u00e5n s\u00e5n aff\u00e4r\nFramtiden \u00e4r sv\u00e5rtydd\nMen se p\u00e5 mig baby kolla hur jag \u00e5ldras som ett fint l\u00e5dvin\nGe mig handen, jag sp\u00e5r din\nVarje g\u00e5ng jag blir deep, du tycker jag \u00e4r corny\nHur man lever pojkdr\u00f6mmen p\u00e5 visstid\nMen h\u00f6r dem s\u00e4ga hur man lever sitt liv\nSvensk medelklass vill du v\u00e4l visst bli?\nBa', jag kan ta pengarna, beh\u00e5ll ni er livsstil\n[Brygga: Zacke]\nVill alltid g\u00f6ra n\u00e5nting nu\nVill aldrig g\u00f6ra n\u00e5nting sen\nNu k\u00e4nns det som jag m\u00e5ste ut\nMen du vet att jag v\u00e4ntar tills du kommer hem\n\n[Refr\u00e4ng: Parham]\nS\u00e5 baby n\u00e4r du kommer hem\nOhhh, du f\u00f6rtj\u00e4nar ladda om igen\nAllting som du vill hinna klart\nOhhh, kan du sl\u00e4ppa, l\u00e5t det rinna av, rinna av\nS\u00e5 baby n\u00e4r du kommer hem\nOhhh, du f\u00f6rtj\u00e4nar ladda om igen\nAllting som du dealat med\nOhhh, kan du sl\u00e4ppa l\u00e5t det rinna ner\nDet som regn l\u00e5t det rinna ner\n\n[Vers 2: Parham]\nT\u00e4nda ljus och Frankie p\u00e5\nFavodish p\u00e5 plattorna\nKramar stress ur axlarna\nAllt betalat av plattorna jag sl\u00e4ppt f\u00f6rut (Sl\u00e4ppt f\u00f6rut)\nMade man, ett hem dem aldrig sett f\u00f6rut (Aldrig)\nSv\u00e5rt att hitta n\u00e5gon som \u00e4r s\u00e5 h\u00e4r bra fr\u00e5n v\u00e4sterut (Shoutout)\nDet \u00e4r dubbelt upp n\u00e4r du \u00e4r med\nV\u00e5r karant\u00e4n en piece of cake\nFotmassage f\u00f6r din huvudv\u00e4rk\nSen jag \u00e4ter dig som en piece of cake\nMin efterr\u00e4tt, min efterr\u00e4tt\nHar l\u00e4rt mig skapa himlen n\u00e4r jag g\u00e5tt igenom helvetet (Helvetet)\nVet hur jag f\u00e5r dig tillbaka\nF\u00e5r dig att sova gott sen brunch n\u00e4r du vaknar (Mami)\nVet hur du skiner p\u00e5 tourlife\nGiga och \u00e5ka, det \u00e4r st\u00f6kigt men h\u00e4r \u00e4r det ordnat (Ordnat)\nKasta luren baby, ber\u00e4tta om din dag, jag tar hand om dig (Tar hand om dig)\nF\u00f6r jag njuter av att ta hand om dig\nYou might also like[Refr\u00e4ng: Parham]\nS\u00e5 baby n\u00e4r du kommer hem\nOhhh, du f\u00f6rtj\u00e4nar ladda om igen\nAllting som du vill hinna klart\nOhhh, kan du sl\u00e4ppa, l\u00e5t det rinna av, rinna av\nS\u00e5 baby n\u00e4r du kommer hem\nOhhh, du f\u00f6rtj\u00e4nar ladda om igen\nAllting som du dealat med\nOhhh, kan du sl\u00e4ppa l\u00e5t det rinna ner\nDet som regn l\u00e5t det rinna ner\n\n[Vers 3: Zacke]\nJag har l\u00e5nat b\u00e5de din cabin bag och din Samsonite\nTid \u00e4r emot mig men tid \u00e4r med dig, du har aldrig missat en \u00e4nda flight\nV\u00e4nta den som v\u00e4nta kan\nDet som frusit ner ska tina upp\nOch du vet jag kommer hem i Maj\nAdidas, Adidas, Adidas, Adidas, Adidas\nR\u00e4nderna g\u00e5r aldrig ur sen jag ba hade Adidas\nTrivs \u00e4nd\u00e5 r\u00e4tt bra bland alla b\u00e4nkarna och alkisar\nBa h\u00e5ll mini-me borta fr\u00e5n badsalt-tjackisar\nS\u00e5 owiee\nAllt som jag tog vid, allt som jag tog vid, blev skit tills du tog vid\nDu och jag vi \u00e4r som en 2 piece\nH\u00e4r i l\u00e5dan som vi bor i\nM\u00e5ste hit, du m\u00e5ste fort hit, och komma hem\n[Brygga: Zacke]\nVill alltid g\u00f6ra n\u00e5nting nu\nVill aldrig g\u00f6ra n\u00e5nting sen\nNu k\u00e4nns det som jag m\u00e5ste ut\nMen du vet att jag v\u00e4ntar tills du kommer hem\n\n[Refr\u00e4ng: Parham]\nS\u00e5 baby n\u00e4r du kommer hem\nOhhh, du f\u00f6rtj\u00e4nar ladda om igen\nAllting som du vill hinna klart\nOhhh, kan du sl\u00e4ppa, l\u00e5t det rinna av, rinna av\nS\u00e5 baby n\u00e4r du kommer hem\nOhhh, du f\u00f6rtj\u00e4nar ladda om igen\nAllting som du dealat med\nOhhh, kan du sl\u00e4ppa l\u00e5t det rinna ner\nDet som regn l\u00e5t det rinna ner1Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3072495",
+   "artist_names": "Zacke (Ft. Ansiktet)",
+   "full_title": "G\u00f6ra upp en eld by\u00a0Zacke (Ft.\u00a0Ansiktet)",
+   "header_image_thumbnail_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+   "id": 3072495,
+   "language": "sv",
+   "lyrics_owner_id": 4584199,
+   "lyrics_state": "complete",
+   "path": "/Zacke-gora-upp-en-eld-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Zacke-gora-upp-en-eld-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 11,
+    "day": 11
+   },
+   "release_date_for_display": "November 11, 2016",
+   "release_date_with_abbreviated_month_for_display": "Nov. 11, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "G\u00f6ra upp en eld",
+   "title_with_featured": "G\u00f6ra upp en eld (Ft.\u00a0Ansiktet)",
+   "url": "https://genius.com/Zacke-gora-upp-en-eld-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/221162",
+     "header_image_url": "https://images.genius.com/9481e8f1b6dac7f56d719b1ac1a59b69.1000x667x1.jpg",
+     "id": 221162,
+     "image_url": "https://images.genius.com/9481e8f1b6dac7f56d719b1ac1a59b69.1000x667x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ansiktet",
+     "url": "https://genius.com/artists/Ansiktet"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/179156",
+    "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+    "id": 179156,
+    "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Zacke",
+    "url": "https://genius.com/artists/Zacke"
+   },
+   "apple_music_id": "1442387796",
+   "apple_music_player_url": "https://genius.com/songs/3072495/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3072495' class='rg_embed_link' data-song-id='3072495'>Read <a href='https://genius.com/Zacke-gora-upp-en-eld-lyrics'>\u201cG\u00f6ra upp en eld\u201d by Zacke</a> on Genius</div> <script crossorigin src='//genius.com/songs/3072495/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-11-11",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/288990",
+    "cover_art_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+    "full_title": "Fattigkussen by Zacke",
+    "id": 288990,
+    "name": "Fattigkussen",
+    "url": "https://genius.com/albums/Zacke/Fattigkussen",
+    "artist": {
+     "api_path": "/artists/179156",
+     "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+     "id": 179156,
+     "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zacke",
+     "url": "https://genius.com/artists/Zacke"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4584199,
+    "annotator_login": "Sorken",
+    "api_path": "/referents/11758799",
+    "classification": "needs_exegesis",
+    "fragment": "G\u00f6ra upp en eld",
+    "id": 11758799,
+    "is_description": true,
+    "path": "/11758799/Zacke-gora-upp-en-eld/Gora-upp-en-eld",
+    "range": {
+     "content": "G\u00f6ra upp en eld"
+    },
+    "song_id": 3072495,
+    "url": "https://genius.com/11758799/Zacke-gora-upp-en-eld/Gora-upp-en-eld",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3072495",
+     "client_timestamps": {
+      "updated_by_human_at": 1607541255,
+      "lyrics_updated_at": 1493599244
+     },
+     "context": "Zacke",
+     "id": 3072495,
+     "image_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+     "link_title": "G\u00f6ra upp en eld by\u00a0Zacke (Ft.\u00a0Ansiktet)",
+     "title": "G\u00f6ra upp en eld",
+     "type": "Song",
+     "url": "https://genius.com/Zacke-gora-upp-en-eld-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11758799",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11758799,
+      "pinned": false,
+      "share_url": "https://genius.com/11758799",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11758799/Zacke-gora-upp-en-eld/Gora-upp-en-eld",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4584199",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/786c01efd0938870cd2b0a4e40a899a9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/786c01efd0938870cd2b0a4e40a899a9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/786c01efd0938870cd2b0a4e40a899a9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/786c01efd0938870cd2b0a4e40a899a9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/786c01efd0938870cd2b0a4e40a899a9",
+         "human_readable_role_for_display": null,
+         "id": 4584199,
+         "iq": 215,
+         "login": "Sorken",
+         "name": "Sorken",
+         "role_for_display": null,
+         "url": "https://genius.com/Sorken",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/179155",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 179155,
+     "image_url": "https://images.genius.com/cd0b348bd3cfa6f7bdef0332b7ba205f.610x610x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00f6rdar-Anders",
+     "url": "https://genius.com/artists/Mordar-anders"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Zacke",
+   "lyrics": "G\u00f6ra upp en eld Lyrics[Vers 1, Zacke]\n\u00c4lskar n\u00e4r det br\u00e4nner, jag \u00e4lskar n\u00e4r det br\u00e4nner\nHur ska du \u00e4lska n\u00e5gonting som du inte k\u00e4nner?\nDina lena sammetsvantar, nej dem \u00e4lskar jag inte heller\nOch du \u00e4lskar din mamma, men jag \u00e4lskar inte henne\nS\u00e5 jag gled in med armb\u00e5gen f\u00f6rst\nOch det som etablissemanget ans\u00e5g var st\u00f6rst\nS\u00e5 varje \u00e4ngslig hipster f\u00e5r en puss\nOm du inte har n\u00e5gon egen smak kanske du kan g\u00e5 en kurs\nJag f\u00f6rtj\u00e4nar, tj\u00e4nar pippi-pappa-pengar, jag f\u00f6rtj\u00e4nar, tj\u00e4nar pippi-pappa-pengar\nMen aldrig n\u00e5gonsin sett det som ett s\u00e4tt f\u00f6r mig att skaffa pengar\nLever som en dagsl\u00e4nda n\u00e4r jag v\u00e4l har haft en enda (ha)\nNej det d\u00e4r \u00e4r ingen eld\nSatte handen p\u00e5 din platta och det \u00e4r inget som har k\u00e4nts\nS\u00e5 fort det br\u00e4nner lite s\u00e5 sl\u00e4cker dem ut den\nVad fan g\u00f6r du nu n\u00e4r du har eld inne i huset?\n[Refr\u00e4ng, Ansiktet]\nJag br\u00e4nner mina broar, jag br\u00e4nner mina cash\nBr\u00e4nner b\u00e5da \u00e4ndar tills jag brinner ihj\u00e4l, (eeyy)\nBr\u00e4nner lika mycket som jag brinner f\u00f6r det\nOch jag brinner f\u00f6r det, (ey)\nJag br\u00e4nner mina broar, jag br\u00e4nner mina cash\nBr\u00e4nner b\u00e5da \u00e4ndar tills jag brinner ihj\u00e4l (eeyy)\nBr\u00e4nner lika mycket som jag brinner f\u00f6r det\nOch jag brinner f\u00f6r det, (ey), jag brinner f\u00f6r det\n\n[Vers 2, Afasi]\nSn\u00e4lla ba' ge mig n\u00e5got jag kan ta p\u00e5\nS\u00e5 l\u00e4nge som det k\u00e4nns jag kommer och h\u00e5lla kvar d\u00e5\nPissa l\u00e4nge i s\u00e4ngen n\u00e4r jag var barn\nS\u00e5 tror du verkligen att jag \u00e4r r\u00e4dd f\u00f6r elden idag d\u00e5?\nJag har, tvingat mig och piska upp en k\u00e4nslostorm\nMitt behov av starka k\u00e4nslor nu, det k\u00e4nns enormt\nEfter \u00e5r av mellanmj\u00f6lk och jag t\u00e4nker om\nJag tror det \u00e4r bra, s\u00e4nker mitt gamla jag varenda rond\nPassa inte mig, nej, jag passade inte in\nKlarar mig sj\u00e4lv, har du inte fattat n\u00e5gonting? (yeah)\nLeva livet p\u00e5 sparl\u00e5ga, inget alternativ\nJag m\u00e5ste ut, m\u00e5ste ha facklan i skyn\nMen det kanske g\u00e5r upp ett ljus om jag \u00e4ntligen kan se\nAtt jag g\u00e5r med paraply, men det inte regnar mer, men\nN\u00e5gonting jag l\u00e4rt mig, det finns br\u00e4nsle s\u00e5 du vet\nSka de sl\u00e4cka denna gnistan f\u00e5r de k\u00e4mpa lite mer\nYou might also like[Refr\u00e4ng, Ansiktet]\nBr\u00e4nner mina broar, jag br\u00e4nner mina cash\nBr\u00e4nner b\u00e5da \u00e4ndar tills jag brinner ihj\u00e4l, (eeyy)\nBr\u00e4nner lika mycket som jag brinner f\u00f6r det\nOch jag brinner f\u00f6r det, (ey)\nJag br\u00e4nner mina broar, jag br\u00e4nner mina cash\nBr\u00e4nner b\u00e5da \u00e4ndar tills jag brinner ihj\u00e4l (eeyy)\nBr\u00e4nner lika mycket som jag brinner f\u00f6r det\nOch jag brinner f\u00f6r det, (ey), jag brinner f\u00f6r det\n\n[Brygga, Ansiktet]\nDem s\u00e4ger vi kan bli vad vi vill\nMen aldrig vi kan va som vi \u00e4r\nVi m\u00e5ste inte bli n\u00e5gonting\nDem s\u00e4ger vi kan n\u00e5 hur l\u00e5ngt som helst\nMen t\u00e4nk om vi skulle bli kvar\nVi m\u00e5ste inte komma n\u00e5gonstans\n\n[Refr\u00e4ng, Ansiktet]\nBr\u00e4nner mina broar, jag br\u00e4nner mina cash\nBr\u00e4nner b\u00e5da \u00e4ndar tills jag brinner ihj\u00e4l, (eeyy)\nBr\u00e4nner lika mycket som jag brinner f\u00f6r det\nOch jag brinner f\u00f6r det, (ey)\nJag br\u00e4nner mina broar, jag br\u00e4nner mina cash\nBr\u00e4nner b\u00e5da \u00e4ndar tills jag brinner ihj\u00e4l (eeyy)\nBr\u00e4nner lika mycket som jag brinner f\u00f6r det\nOch jag brinner f\u00f6r det, (ey), jag brinner f\u00f6r detEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2922819",
+   "artist_names": "Zacke (Ft. Haartland)",
+   "full_title": "En glasspinne by\u00a0Zacke (Ft.\u00a0Haartland)",
+   "header_image_thumbnail_url": "https://images.genius.com/b6cd2ecaebc929babec685c5b9c9deb8.300x217x1.jpg",
+   "header_image_url": "https://images.genius.com/b6cd2ecaebc929babec685c5b9c9deb8.1000x724x1.jpg",
+   "id": 2922819,
+   "language": "sv",
+   "lyrics_owner_id": 3265452,
+   "lyrics_state": "complete",
+   "path": "/Zacke-en-glasspinne-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Zacke-en-glasspinne-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 11,
+    "day": 11
+   },
+   "release_date_for_display": "November 11, 2016",
+   "release_date_with_abbreviated_month_for_display": "Nov. 11, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "En glasspinne",
+   "title_with_featured": "En glasspinne (Ft.\u00a0Haartland)",
+   "url": "https://genius.com/Zacke-en-glasspinne-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1043472",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1043472,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Haartland",
+     "url": "https://genius.com/artists/Haartland"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/179156",
+    "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+    "id": 179156,
+    "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Zacke",
+    "url": "https://genius.com/artists/Zacke"
+   },
+   "apple_music_id": "1442387560",
+   "apple_music_player_url": "https://genius.com/songs/2922819/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2922819' class='rg_embed_link' data-song-id='2922819'>Read <a href='https://genius.com/Zacke-en-glasspinne-lyrics'>\u201cEn glasspinne\u201d by Zacke</a> on Genius</div> <script crossorigin src='//genius.com/songs/2922819/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-11-11",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/288990",
+    "cover_art_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+    "full_title": "Fattigkussen by Zacke",
+    "id": 288990,
+    "name": "Fattigkussen",
+    "url": "https://genius.com/albums/Zacke/Fattigkussen",
+    "artist": {
+     "api_path": "/artists/179156",
+     "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+     "id": 179156,
+     "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zacke",
+     "url": "https://genius.com/artists/Zacke"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3265452,
+    "annotator_login": "loderberg",
+    "api_path": "/referents/10941231",
+    "classification": "needs_exegesis",
+    "fragment": "En glasspinne",
+    "id": 10941231,
+    "is_description": true,
+    "path": "/10941231/Zacke-en-glasspinne/En-glasspinne",
+    "range": {
+     "content": "En glasspinne"
+    },
+    "song_id": 2922819,
+    "url": "https://genius.com/10941231/Zacke-en-glasspinne/En-glasspinne",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2922819",
+     "client_timestamps": {
+      "updated_by_human_at": 1608153475,
+      "lyrics_updated_at": 1480680323
+     },
+     "context": "Zacke",
+     "id": 2922819,
+     "image_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+     "link_title": "En glasspinne by\u00a0Zacke (Ft.\u00a0Haartland)",
+     "title": "En glasspinne",
+     "type": "Song",
+     "url": "https://genius.com/Zacke-en-glasspinne-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10941231",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10941231,
+      "pinned": false,
+      "share_url": "https://genius.com/10941231",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10941231/Zacke-en-glasspinne/En-glasspinne",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3265452",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8e9f26e95fdf909e1b372c05aec85539",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8e9f26e95fdf909e1b372c05aec85539",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8e9f26e95fdf909e1b372c05aec85539",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8e9f26e95fdf909e1b372c05aec85539",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/B2JGSwLT5mqCPWuzjjoV_twitter%20blank.png",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3265452,
+         "iq": 3835,
+         "login": "loderberg",
+         "name": "loderberg",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/loderberg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/179155",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 179155,
+     "image_url": "https://images.genius.com/cd0b348bd3cfa6f7bdef0332b7ba205f.610x610x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00f6rdar-Anders",
+     "url": "https://genius.com/artists/Mordar-anders"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Zacke",
+   "lyrics": "En glasspinne Lyrics[Intro]\n(Det \u00e4r allt\nDet \u00e4r allt\nDet \u00e4r allt\nDet \u00e4r allt)\n\n[Verse 1]\nDu f\u00e5r se dem s\u00e4tta l\u00e5s p\u00e5 allt\nAldrig haft en nyckel aldrig haft en kompass\nVi bara tar dig n\u00e5gonvart, vi bara tar dig n\u00e5gonvart\nDu f\u00e5r se dem s\u00e4tta l\u00e5s p\u00e5 allt\nAldrig haft en nyckel, aldrig haft en kompass\nVi bara tar dig n\u00e5gonvart, vi bara tar dig n\u00e5gonvart\nOch allt du har \u00e4r en glasspinne\nMen det funkar bra p\u00e5 en Saab 90\nJa, det funkar bra om man inte har n\u00e5gon nyckel\nS\u00e4tt pinnen i l\u00e5set och burna s\u00f6nder hela bygden\nJag \u00e4r polaren, du \u00e4r kung men beh\u00f6ver kompass\nI en gammal bil och du k\u00e4kar n\u00e5gon glass\nGatan vill ha din autograf\nSvarta ringar p\u00e5 parkeringen\nDu signar den med dina donuts\nBeh\u00f6ver inga cash f\u00f6r att komma h\u00e4rifr\u00e5n\nDe kan bygga sina inner, de kan bygga sina l\u00e5s\n10 varv i rondellen, 20 varv i rondellen\nBurn-out om du skulle stanna p\u00e5 st\u00e4llet\nS\u00e4ger kom hit, kom hit, kom hit\nOm det \u00e4r l\u00e5st s\u00e4ger kom in, kom in, kom in\nHar nog aldrig sett n\u00e5gon som \u00e4r fri\nMen du \u00e4r nog friare \u00e4n vad dem n\u00e5gonsin kommer bli\nOch allt du har \u00e4r en glasspinne\n[Hook]\nDet \u00e4r allt, det \u00e4r allt, det \u00e4r allt\nDet \u00e4r allt, det \u00e4r allt, det \u00e4r allt\nDet \u00e4r allt, det \u00e4r allt, det \u00e4r allt\nDet \u00e4r allt, det \u00e4r allt, det \u00e4r allt\n\n[Verse 2]\nVeva ner rutan och det bl\u00e5ser kallt\nKan inte stanna nu det g\u00e5r f\u00f6r snabbt\nVi bara tar dig n\u00e5gonvart, vi bara tar dig n\u00e5gonvart\nVeva ner rutan och det bl\u00e5ser kallt\nKan inte stanna nu det g\u00e5r f\u00f6r snabbt\nVi bara tar dig n\u00e5gonvart, vi bara tar dig n\u00e5gonvart\nAllt du har \u00e4r en glasspinne\nIngen nyckel g\u00e5r dit\nDe bygger v\u00e4rre l\u00e5s som \u00e4r dyrare i pris\nAlla vill, alla vill ha nyare bil\nG\u00e5r i l\u00e5s om du vill att de skall dyrka s\u00e5dan skit\nMen vad tror dem, vet de n\u00e5got alls?\nSitta sn\u00e4llt och inte komma n\u00e5gonvart\n\u00c4ta pinnglass, leta simplats\nInget att f\u00f6rlora, det finns ingenting alls\nMen de vill samla p\u00e5 sig allt och sen l\u00e5sa in sig\nMen hur skall de l\u00e5sa in dig?\nDu snackar bara om att \u00e5ka snabbt\nDu skulle aldrig snacka om du \u00e5kte fast\nDu sa till din mamma \"f\u00f6rs\u00f6k sov inatt\"\nHan \u00e4r kung men beh\u00f6ver kompass\nMen nu vill dem s\u00e4tta l\u00e5s p\u00e5 dig\nKolla nu har dem satt l\u00e5s p\u00e5 dig\nOch allt du har \u00e4r en glasspinne\nYou might also like[Hook]\nDet \u00e4r allt, det \u00e4r allt, det \u00e4r allt\nDet \u00e4r allt, det \u00e4r allt, det \u00e4r allt\nDet \u00e4r allt, det \u00e4r allt, det \u00e4r allt\nDet \u00e4r allt, det \u00e4r allt, det \u00e4r allt\n\nDet \u00e4r allt, det \u00e4r allt, det \u00e4r allt\n\nDet \u00e4r allt, det \u00e4r allt, det \u00e4r allt\n\nDet \u00e4r allt, det \u00e4r allt, det \u00e4r allt\n\nDet \u00e4r allt, det \u00e4r allt, det \u00e4r alltEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2934211",
+   "artist_names": "Zacke (Ft. Peter Mor\u00e9n)",
+   "full_title": "\u00d6ver bron by\u00a0Zacke (Ft.\u00a0Peter\u00a0Mor\u00e9n)",
+   "header_image_thumbnail_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+   "id": 2934211,
+   "language": null,
+   "lyrics_owner_id": 4065567,
+   "lyrics_state": "complete",
+   "path": "/Zacke-over-bron-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Zacke-over-bron-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 11,
+    "day": 11
+   },
+   "release_date_for_display": "November 11, 2016",
+   "release_date_with_abbreviated_month_for_display": "Nov. 11, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 3,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "\u00d6ver bron",
+   "title_with_featured": "\u00d6ver bron (Ft.\u00a0Peter\u00a0Mor\u00e9n)",
+   "url": "https://genius.com/Zacke-over-bron-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/402580",
+     "header_image_url": "https://images.genius.com/b3d691be3514b7e7453c0d1f15084ab4.750x562x1.jpg",
+     "id": 402580,
+     "image_url": "https://images.genius.com/b3d691be3514b7e7453c0d1f15084ab4.750x562x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Peter Mor\u00e9n",
+     "url": "https://genius.com/artists/Peter-moren"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/179156",
+    "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+    "id": 179156,
+    "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Zacke",
+    "url": "https://genius.com/artists/Zacke"
+   },
+   "apple_music_id": "1442387789",
+   "apple_music_player_url": "https://genius.com/songs/2934211/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2934211' class='rg_embed_link' data-song-id='2934211'>Read <a href='https://genius.com/Zacke-over-bron-lyrics'>\u201c\u00d6ver bron\u201d by Zacke</a> on Genius</div> <script crossorigin src='//genius.com/songs/2934211/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-11-11",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/288990",
+    "cover_art_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+    "full_title": "Fattigkussen by Zacke",
+    "id": 288990,
+    "name": "Fattigkussen",
+    "url": "https://genius.com/albums/Zacke/Fattigkussen",
+    "artist": {
+     "api_path": "/artists/179156",
+     "header_image_url": "https://images.genius.com/5102eb1233f84810750de4e8556d2e6f.1000x305x1.jpg",
+     "id": 179156,
+     "image_url": "https://images.genius.com/11176fd43316045eb55c8e56b8095f89.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zacke",
+     "url": "https://genius.com/artists/Zacke"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4065567,
+    "annotator_login": "Krut",
+    "api_path": "/referents/11033280",
+    "classification": "needs_exegesis",
+    "fragment": "\u00d6ver bron",
+    "id": 11033280,
+    "is_description": true,
+    "path": "/11033280/Zacke-over-bron/Over-bron",
+    "range": {
+     "content": "\u00d6ver bron"
+    },
+    "song_id": 2934211,
+    "url": "https://genius.com/11033280/Zacke-over-bron/Over-bron",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2934211",
+     "client_timestamps": {
+      "updated_by_human_at": 1608153520,
+      "lyrics_updated_at": 1483809450
+     },
+     "context": "Zacke",
+     "id": 2934211,
+     "image_url": "https://images.genius.com/6c66335949c1d857c772c3f13fa38572.1000x1000x1.jpg",
+     "link_title": "\u00d6ver bron by\u00a0Zacke (Ft.\u00a0Peter\u00a0Mor\u00e9n)",
+     "title": "\u00d6ver bron",
+     "type": "Song",
+     "url": "https://genius.com/Zacke-over-bron-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11033280",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11033280,
+      "pinned": false,
+      "share_url": "https://genius.com/11033280",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11033280/Zacke-over-bron/Over-bron",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4065567",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/1fe72253e7724ebc3046aa352abd9f0c",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/1fe72253e7724ebc3046aa352abd9f0c",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/1fe72253e7724ebc3046aa352abd9f0c",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/1fe72253e7724ebc3046aa352abd9f0c",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/i0MV0FfTFmLNWiGIWEdQ_V%20A%20R%20R%20O%20K%20B%20O%20I%20S.png",
+         "human_readable_role_for_display": null,
+         "id": 4065567,
+         "iq": 115,
+         "login": "Krut",
+         "name": "Krut",
+         "role_for_display": null,
+         "url": "https://genius.com/Krut",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/179155",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 179155,
+     "image_url": "https://images.genius.com/cd0b348bd3cfa6f7bdef0332b7ba205f.610x610x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "M\u00f6rdar-Anders",
+     "url": "https://genius.com/artists/Mordar-anders"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Zacke",
+   "lyrics": "\u00d6ver bron Lyrics[Refr\u00e4ng: Peter Mor\u00e9n]\nAlla vi\nAlla vi\nAlla vi vet nog att du ska dit\nAlla ni\nAlla ni\nAlla ni alltid brukar va\n\nAlla vi\nAlla vi\nAlla vi vet nog att du ska dit\nAlla ni\nAlla ni\nAlla ni alltid brukar va\n[Vers 1:]\nDu s\u00e5g himlen genom b\u00e5garna p\u00e5 bron\nS\u00e5g ut som galler att du aldrig s\u00e5g n\u00e5 sol\nVille hellre va i deras elfenbenstorn\n\u00c4n att va p\u00e5 n\u00e5gon j\u00e4vla fattig plats d\u00e4r vi bor\nLe \u00e5t varje sk\u00e4mt som om du f\u00f6rst\u00e5r\n\u00c5k runt i varje tunnel\nF\u00f6r dig fint\nG\u00e5 p\u00e5 t\u00e5\nHem till Jul, liten stund knappt n\u00e5 sp\u00e5r\nOch visa upp din v\u00e4rldskarta och varenda knappn\u00e5l\nOch vi vet att det \u00e4r pengar i det n\u00e5 f\u00f6rbannat\nMen vi har aldrig lyckats l\u00e5tsats  som vi va n\u00e5 annat\nS\u00e5 vi kanske skulle sluta l\u00e5tsas om varandra?\nOnt att klippa band men hur ska du lossna annars?\nVi var av samma slag\nVi var i samma strid, samma slag\nSamma \u00e4rr fr\u00e5n samma slag\nVi s\u00e5g samma ort, samma bygd, samma stad\nMen kussen vi s\u00e5g aldrig samma sak\nDit ingen vet vem du \u00e4r och ingen vet vad du gjort\nMhm\nDit alla tror de vet vem de \u00e4r men ingen vet alla tror\nMhm\nDu kommer aldrig mer tillbaks hit n\u00e4r du tar dig \u00f6ver bron\nMhm\nDu kommer aldrig mer tillbaks hit n\u00e4r du tar dig \u00f6ver bron\nYou might also like[Refr\u00e4ng: Peter Mor\u00e9n]\nAlla vi\nAlla vi\nAlla vi vet nog att du ska dit\nAlla ni\nAlla ni\nAlla ni alltid brukar va\n\nAlla vi\nAlla vi\nAlla vi vet nog att du ska dit\nAlla ni\nAlla ni\nAlla ni alltid brukar va\n\n[Vers 2:]\nN\u00e4 inget konstigt att du for\nVet du tror du \u00e4r n\u00e5nting, de n\u00e5nting som du tror\nLeta h\u00e5l i st\u00e4ngslet och vi s\u00e5g dig gr\u00e5ta blod\nF\u00f6r att du m\u00e5ste s\u00e4tta dina fina f\u00f6tter p\u00e5 v\u00e5r jord\nS\u00e5 fuck att bli som sin f\u00f6r\u00e4lder\nDu vet vad du ska g\u00f6ra om du r\u00e5kar bli p\u00e5 sm\u00e4llen\nEfter studenten, flytta p\u00e5 direkten\nOch vi sa \"du g\u00f6r v\u00e4l som du k\u00e4nner\"\nMen f\u00e5r vi fr\u00e5ga, vems pappa, vems mamma\nJa du verkar tycka de okej att ba l\u00e4mna folk ensamma\nBeter dig som du \u00e4r den enda som har t\u00e4nkt tankar\nT\u00e4nker p\u00e5 dig sj\u00e4lv som vi har inte t\u00e4nkt samma\nJa du \u00e4r fin nu va?\nH\u00e4nger med fint folk\nInget snack om vem man \u00e4r ba snack om hur man blir n\u00e5t\nDin hand p\u00e5 br\u00f6stet\nDu sa \"min \u00e4r r\u00f6d\"\nVi sa \"min \u00e4r bl\u00e5tt\"\nOm vi sviker dig som du svikit oss\nDit ingen vet vem du \u00e4r och ingen vet vad du gjort\nMhm\nDit alla tror de vet vem de \u00e4r men ingen vet alla tror\nMhm\nDu kommer aldrig mer tillbaks hit n\u00e4r du tar dig \u00f6ver bron\nMhm\nDu kommer aldrig mer tillbaks hit n\u00e4r du tar dig \u00f6ver bron\n[Refr\u00e4ng: Peter Mor\u00e9n]\nAlla vi\nAlla vi\nAlla vi vet nog att du ska dit\nAlla ni\nAlla ni\nAlla ni alltid brukar va\n\nAlla vi\nAlla vi\nAlla vi vet nog att du ska dit\nAlla ni\nAlla ni\nAlla ni alltid brukar va1Embed"
+  }
+ ]
+}

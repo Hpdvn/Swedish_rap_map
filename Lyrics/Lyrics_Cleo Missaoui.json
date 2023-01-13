@@ -1,0 +1,4574 @@
+{
+ "alternate_names": [
+  "Nathalie Missaoui",
+  "Cleo Missaoui",
+  "Cleo (Sweden)"
+ ],
+ "api_path": "/artists/125177",
+ "description": {
+  "plain": "Cleo is a Swedish rapper from Ume\u00e5, she is a member of Random Bastards and a founder of Femtastic. She mostly performs in Swedish.\n\n\n\nCleo f\u00f6ddes 1987 som Nathalie Missaoui i Uppsala, men hon v\u00e4xte upp i Ume\u00e5 och hiphop-scenen d\u00e4r. Hon \u00e4r en av grundarna till Random Bastards, ett hiphopkollektiv, skate- och snowboardcrew, skivbolag och kl\u00e4df\u00f6retag. Hon har varit med och startat upp workshopen Tell Dem (tillsammans med Syster Sol), kollektivet Femtastic samt Popkollo Hiphop.\n\nCa 2004 flyttade Cleo till Stockholm och \u00e5r 2007 kom f\u00f6rsta EPn. Runt 2009 flyttade hon tillbaka till Ume\u00e5 och f\u00f6ljande \u00e5ren sl\u00e4ppte hon en rad singlar och skivor. 2013 flyttade Cleo tillbaka till storstan och sl\u00e4ppte \u00e5ret d\u00e4rp\u00e5 EPn Vem E Han tillsammans med Kristin Amparo.\n\nBollandet mellan Umescenen och Stockholmscenen lyfte Cleo upp till nationell status, men Cleo forts\u00e4tter, emellertid hon verkar i huvudstaden, att reppa Ume\u00e5 och st\u00e5 p\u00e5 frontlinjen f\u00f6r den v\u00e4xande norrlandsv\u00e5gen."
+ },
+ "facebook_name": "CLEOMUSICPAGE",
+ "followers_count": 6,
+ "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+ "id": 125177,
+ "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+ "instagram_name": "cleomissaoui",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Cleo (SWE)",
+ "translation_artist": false,
+ "twitter_name": "cleomissaoui",
+ "url": "https://genius.com/artists/Cleo-swe",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 292,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3698451,
+  "annotator_login": "Aegidrom",
+  "api_path": "/referents/7003505",
+  "classification": "unreviewed",
+  "fragment": "Cleo (SWE)",
+  "id": 7003505,
+  "is_description": true,
+  "path": "/7003505/Cleo-swe/Cleo-swe",
+  "range": {
+   "content": "Cleo (SWE)"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7003505/Cleo-swe/Cleo-swe",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/125177",
+   "context": null,
+   "id": 125177,
+   "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+   "link_title": "Cleo (SWE)",
+   "title": "Cleo (SWE)",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Cleo-swe"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7003505",
+    "body": {
+     "plain": "Cleo is a Swedish rapper from Ume\u00e5, she is a member of Random Bastards and a founder of Femtastic. She mostly performs in Swedish.\n\n\n\nCleo f\u00f6ddes 1987 som Nathalie Missaoui i Uppsala, men hon v\u00e4xte upp i Ume\u00e5 och hiphop-scenen d\u00e4r. Hon \u00e4r en av grundarna till Random Bastards, ett hiphopkollektiv, skate- och snowboardcrew, skivbolag och kl\u00e4df\u00f6retag. Hon har varit med och startat upp workshopen Tell Dem (tillsammans med Syster Sol), kollektivet Femtastic samt Popkollo Hiphop.\n\nCa 2004 flyttade Cleo till Stockholm och \u00e5r 2007 kom f\u00f6rsta EPn. Runt 2009 flyttade hon tillbaka till Ume\u00e5 och f\u00f6ljande \u00e5ren sl\u00e4ppte hon en rad singlar och skivor. 2013 flyttade Cleo tillbaka till storstan och sl\u00e4ppte \u00e5ret d\u00e4rp\u00e5 EPn Vem E Han tillsammans med Kristin Amparo.\n\nBollandet mellan Umescenen och Stockholmscenen lyfte Cleo upp till nationell status, men Cleo forts\u00e4tter, emellertid hon verkar i huvudstaden, att reppa Ume\u00e5 och st\u00e5 p\u00e5 frontlinjen f\u00f6r den v\u00e4xande norrlandsv\u00e5gen."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7003505,
+    "pinned": false,
+    "share_url": "https://genius.com/7003505",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/7003505/Cleo-swe/Cleo-swe",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3698451",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cXhv9W9QWaWf3sfQ52VA_jag%20och%20hund%20tekla.jpeg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cXhv9W9QWaWf3sfQ52VA_jag%20och%20hund%20tekla.jpeg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cXhv9W9QWaWf3sfQ52VA_jag%20och%20hund%20tekla.jpeg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cXhv9W9QWaWf3sfQ52VA_jag%20och%20hund%20tekla.jpeg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/s2nIOfTzyNK3J6kFOLAq_Namnlo%CC%88st.png",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3698451,
+       "iq": 17301,
+       "login": "Aegidrom",
+       "name": "Aegidrom",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Aegidrom",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/911319",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/eda41a234124634623f859a5ae8a02b7",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/eda41a234124634623f859a5ae8a02b7",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/eda41a234124634623f859a5ae8a02b7",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/eda41a234124634623f859a5ae8a02b7",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 911319,
+  "iq": 292,
+  "login": "cleomissaoui",
+  "name": "Cleo (SWE)",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/cleomissaoui",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2843375",
+   "artist_names": "Cleo (SWE) (Ft. Academics, Beri, Broder John, Fricky, Gonza-Ra & Random Bastards)",
+   "full_title": "Tagga Ner Remix by\u00a0Cleo\u00a0(SWE) (Ft.\u00a0Academics, Beri, Broder\u00a0John, Fricky, Gonza-Ra & Random\u00a0Bastards)",
+   "header_image_thumbnail_url": "https://images.genius.com/ac0a569f6a6dfc3e1d5bc4e2084a124f.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ac0a569f6a6dfc3e1d5bc4e2084a124f.580x580x1.jpg",
+   "id": 2843375,
+   "language": "sv",
+   "lyrics_owner_id": 3634005,
+   "lyrics_state": "complete",
+   "path": "/Cleo-swe-tagga-ner-remix-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Cleo-swe-tagga-ner-remix-sample",
+   "release_date_components": {
+    "year": 2015,
+    "month": 1,
+    "day": 27
+   },
+   "release_date_for_display": "January 27, 2015",
+   "release_date_with_abbreviated_month_for_display": "Jan. 27, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ac0a569f6a6dfc3e1d5bc4e2084a124f.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ac0a569f6a6dfc3e1d5bc4e2084a124f.580x580x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 6624
+   },
+   "title": "Tagga Ner Remix",
+   "title_with_featured": "Tagga Ner Remix (Ft.\u00a0Academics, Beri, Broder\u00a0John, Fricky, Gonza-Ra & Random\u00a0Bastards)",
+   "url": "https://genius.com/Cleo-swe-tagga-ner-remix-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/226668",
+     "header_image_url": "https://images.genius.com/0419e5bbbdf7c596adb9114a1d96e7bd.900x191x1.jpg",
+     "id": 226668,
+     "image_url": "https://images.genius.com/d0fabc87291e5db0c224b47fea42d34c.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Random Bastards",
+     "url": "https://genius.com/artists/Random-bastards"
+    },
+    {
+     "api_path": "/artists/226673",
+     "header_image_url": "https://images.genius.com/db800f7c578c6e888e6f67a1f9397993.1000x1000x1.jpg",
+     "id": 226673,
+     "image_url": "https://images.genius.com/c9257e0f79227cc78e1594d341a28829.483x483x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Broder John",
+     "url": "https://genius.com/artists/Broder-john"
+    },
+    {
+     "api_path": "/artists/226672",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 226672,
+     "image_url": "https://images.genius.com/36479d39f1e2f83bb37e712824c26799.480x480x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Gonza-Ra",
+     "url": "https://genius.com/artists/Gonza-ra"
+    },
+    {
+     "api_path": "/artists/226671",
+     "header_image_url": "https://images.genius.com/d8de09842b70527e41eb1e8008d01582.992x558x1.jpg",
+     "id": 226671,
+     "image_url": "https://images.genius.com/f988c3a0e9d84962a70b15acfe28844f.471x471x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Fricky",
+     "url": "https://genius.com/artists/Fricky"
+    },
+    {
+     "api_path": "/artists/992956",
+     "header_image_url": "https://images.genius.com/d928c0a4f2cabd7f88d7a8860f6ea0a8.700x700x1.jpg",
+     "id": 992956,
+     "image_url": "https://images.genius.com/d928c0a4f2cabd7f88d7a8860f6ea0a8.700x700x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Beri",
+     "url": "https://genius.com/artists/Beri"
+    },
+    {
+     "api_path": "/artists/155733",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 155733,
+     "image_url": "https://images.genius.com/06fb9f8694afea38ca29edb85931e2dc.654x654x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Academics",
+     "url": "https://genius.com/artists/Academics"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/125177",
+    "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+    "id": 125177,
+    "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Cleo (SWE)",
+    "url": "https://genius.com/artists/Cleo-swe",
+    "iq": 292
+   },
+   "apple_music_id": "960366447",
+   "apple_music_player_url": "https://genius.com/songs/2843375/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2843375' class='rg_embed_link' data-song-id='2843375'>Read <a href='https://genius.com/Cleo-swe-tagga-ner-remix-lyrics'>\u201cTagga Ner Remix\u201d by Cleo\u00a0(SWE)</a> on Genius</div> <script crossorigin src='//genius.com/songs/2843375/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2015-01-27",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3634005,
+    "annotator_login": "Hoopdiggas",
+    "api_path": "/referents/10274966",
+    "classification": "needs_exegesis",
+    "fragment": "Tagga Ner Remix",
+    "id": 10274966,
+    "is_description": true,
+    "path": "/10274966/Cleo-swe-tagga-ner-remix/Tagga-ner-remix",
+    "range": {
+     "content": "Tagga Ner Remix"
+    },
+    "song_id": 2843375,
+    "url": "https://genius.com/10274966/Cleo-swe-tagga-ner-remix/Tagga-ner-remix",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2843375",
+     "client_timestamps": {
+      "updated_by_human_at": 1576868855,
+      "lyrics_updated_at": 1529714262
+     },
+     "context": "Cleo (SWE)",
+     "id": 2843375,
+     "image_url": "https://images.genius.com/ac0a569f6a6dfc3e1d5bc4e2084a124f.580x580x1.jpg",
+     "link_title": "Tagga Ner Remix by\u00a0Cleo\u00a0(SWE) (Ft.\u00a0Academics, Beri, Broder\u00a0John, Fricky, Gonza-Ra & Random\u00a0Bastards)",
+     "title": "Tagga Ner Remix",
+     "type": "Song",
+     "url": "https://genius.com/Cleo-swe-tagga-ner-remix-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10274966",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10274966,
+      "pinned": false,
+      "share_url": "https://genius.com/10274966",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10274966/Cleo-swe-tagga-ner-remix/Tagga-ner-remix",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3634005",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/e837013d360659a6d2335c857ede36bb",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/e837013d360659a6d2335c857ede36bb",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/e837013d360659a6d2335c857ede36bb",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/e837013d360659a6d2335c857ede36bb",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/e837013d360659a6d2335c857ede36bb",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3634005,
+         "iq": 4268,
+         "login": "Hoopdiggas",
+         "name": "Hoopdiggas",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Hoopdiggas",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=4vt72nIJoCk"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/174757",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 174757,
+     "image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Broke \u2019n Tipsy",
+     "url": "https://genius.com/artists/Broke-n-tipsy"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": [
+      {
+       "annotation_count": 6,
+       "api_path": "/songs/712955",
+       "artist_names": "Cleo (SWE) (Ft. Dirty Jens & Kristin Amparo)",
+       "full_title": "Tagga Ner by\u00a0Cleo\u00a0(SWE) (Ft.\u00a0Dirty\u00a0Jens & Kristin\u00a0Amparo)",
+       "header_image_thumbnail_url": "https://images.genius.com/8dd94dc50850f6f5bd9b0a71ca224695.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8dd94dc50850f6f5bd9b0a71ca224695.580x580x1.jpg",
+       "id": 712955,
+       "language": "sv",
+       "lyrics_owner_id": 1553567,
+       "lyrics_state": "complete",
+       "path": "/Cleo-swe-tagga-ner-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Cleo-swe-tagga-ner-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 1,
+        "day": 25
+       },
+       "release_date_for_display": "January 25, 2014",
+       "release_date_with_abbreviated_month_for_display": "Jan. 25, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/8dd94dc50850f6f5bd9b0a71ca224695.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8dd94dc50850f6f5bd9b0a71ca224695.580x580x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false
+       },
+       "title": "Tagga Ner",
+       "title_with_featured": "Tagga Ner (Ft.\u00a0Dirty\u00a0Jens & Kristin\u00a0Amparo)",
+       "url": "https://genius.com/Cleo-swe-tagga-ner-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/332104",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "id": 332104,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Kristin Amparo",
+         "url": "https://genius.com/artists/Kristin-amparo"
+        },
+        {
+         "api_path": "/artists/332099",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "id": 332099,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Dirty Jens",
+         "url": "https://genius.com/artists/Dirty-jens"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/125177",
+        "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+        "id": 125177,
+        "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Cleo (SWE)",
+        "url": "https://genius.com/artists/Cleo-swe",
+        "iq": 292
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/992956",
+     "header_image_url": "https://images.genius.com/d928c0a4f2cabd7f88d7a8860f6ea0a8.700x700x1.jpg",
+     "id": 992956,
+     "image_url": "https://images.genius.com/d928c0a4f2cabd7f88d7a8860f6ea0a8.700x700x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Beri",
+     "url": "https://genius.com/artists/Beri"
+    },
+    {
+     "api_path": "/artists/155733",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 155733,
+     "image_url": "https://images.genius.com/06fb9f8694afea38ca29edb85931e2dc.654x654x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Academics",
+     "url": "https://genius.com/artists/Academics"
+    },
+    {
+     "api_path": "/artists/226672",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 226672,
+     "image_url": "https://images.genius.com/36479d39f1e2f83bb37e712824c26799.480x480x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Gonza-Ra",
+     "url": "https://genius.com/artists/Gonza-ra"
+    },
+    {
+     "api_path": "/artists/174757",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 174757,
+     "image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Broke \u2019n Tipsy",
+     "url": "https://genius.com/artists/Broke-n-tipsy"
+    },
+    {
+     "api_path": "/artists/226671",
+     "header_image_url": "https://images.genius.com/d8de09842b70527e41eb1e8008d01582.992x558x1.jpg",
+     "id": 226671,
+     "image_url": "https://images.genius.com/f988c3a0e9d84962a70b15acfe28844f.471x471x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Fricky",
+     "url": "https://genius.com/artists/Fricky"
+    },
+    {
+     "api_path": "/artists/125177",
+     "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+     "id": 125177,
+     "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Cleo (SWE)",
+     "url": "https://genius.com/artists/Cleo-swe",
+     "iq": 292
+    },
+    {
+     "api_path": "/artists/226673",
+     "header_image_url": "https://images.genius.com/db800f7c578c6e888e6f67a1f9397993.1000x1000x1.jpg",
+     "id": 226673,
+     "image_url": "https://images.genius.com/c9257e0f79227cc78e1594d341a28829.483x483x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Broder John",
+     "url": "https://genius.com/artists/Broder-john"
+    }
+   ],
+   "artist": "Cleo (SWE)",
+   "lyrics": "Tagga Ner Remix Lyrics[Vers 1: Academics]\nNu ser jag v\u00e5r v\u00e4rld ur en mastodontsblick\nAldrig haft tid \u00e5t kameleonttrick\nBlivit utfryst och kallad konstig\nAldrig n\u00e5nsin sluta backa v\u00e5r klick\n\u00c4r (brrap) som kalashnikov\nStannar kvar trots halva stan bannat oss\nAlla vi blir satta p\u00e5 samma kors, men vi tar och sl\u00e5ss\nSl\u00e5ss f\u00f6r dom som aldrig sl\u00e5ss, Cleo \u00e4r en boss\n\n[Vers 2: Beri]\nVilket fack ska jag hamna i?\nDu s\u00e5g mig putsa p\u00e5 min rap, nu ses jag som en stereotyp\nHah, och min tid, ja den \u00e4r allt f\u00f6r dyr\nS\u00e5 du kan hoppas p\u00e5 en blick, men chansen den \u00e4r l\u00e5ngt f\u00f6rbi\nTog n\u00e4stan \u00e5t mig, men dum id\u00e9\nNi \u00e4r n\u00e5gra, vi \u00e4r m\u00e5nga fler\nDin tankev\u00e4rld ska nu rivas ned\nEy, hey hey\nS\u00e5 mycket mer \u00e4n ni ba f\u00e5r se\nTa det lugnt, inga problem\nAndas ut och ba tagga ner\nTagga ner\n[Hook: Cleo]\nJag s\u00e4ger bara saker som dom \u00e4r\nTagga ner syrran f\u00f6r det \u00e4r inte mitt problem (Inte mitt)\nJag s\u00e4ger bara saker som dom \u00e4r\nTagga ner brorsan f\u00f6r det \u00e4r inte mitt problem\nS\u00e5 tagga ner, tagga ner, tagga ne-ne-ne-ner\nTagga ner, tagga ner, tagga ner dig sj\u00e4lv\nDom borde veta mycket b\u00e4ttre\nS\u00e4tt inte Cleo i fack, \u00e4ru efter?\n\n[Vers 3: Friman]\nAh, murdabizniz, murdabih, ey\nChill-chill-chill-chill chilla\nStoppa upp en prilla\nSluta snacka skit, det lukt illa\n\u00c4r jag i Truman show? Fan vad dom stirra\nVamanos innan jag g\u00e5r bananas och blir matador f\u00f6r\nB\u00e4ng b\u00e4ng, d\u00f6dar en mikrofon\n\u00c4r l\u00e4ngesen \u00f6gat int s\u00e5g\nVad som p\u00e5g\u00e5r runt ikring n\u00e4r alla snackar ned p\u00e5 Frimme\nFuck it, jag l\u00e4r ju tacka alla haters f\u00f6r min dinner, huh\n\n[Vers 4: Gonza-Ra]\nJ\u00e5, k\u00e4nn ig\u00e4\u00e4n\nTagga ner fan, ta-ta-tagga ner\nJag vet ni hatar vad ni ser (Friman: Hatar vad ni ser)\nT\u00e4nkte leva life, auto-tune och bl\u00e4sta mer\nBara f\u00f6r jag vet att ni komm hata det, jag \u00e4lskar det\nVarje dag, sv\u00e4r jag kommer att skratta h\u00f6gst\nNi \u00e4r s\u00e5 \u00e4kta, sjukt true, n\u00e4r ni steppar upp\nDet ska va scratch, det ska va si eller s\u00e5\nDet h\u00e4r \u00e4r 2015, det \u00e4r dags att f\u00f6rst\u00e5\nK\u00e4nn ig\u00e4\u00e4n\nYou might also like[Hook: Cleo]\nJag s\u00e4ger bara saker som dom \u00e4r\nTagga ner syrran f\u00f6r det \u00e4r inte mitt problem (Inte mitt)\nJag s\u00e4ger bara saker som dom \u00e4r\nTagga ner brorsan f\u00f6r det \u00e4r inte mitt problem\nS\u00e5 tagga ner, tagga ner, tagga ne-ne-ne-ner\nTagga ner, tagga ner, tagga ner dig sj\u00e4lv\nDom borde veta mycket b\u00e4ttre\nS\u00e4tt inte Cleo i fack, \u00e4ru efter?\n\n[Vers 5: Broder John]\nTills jag var 13 var jag mindre cool\nDet k\u00e4ndes lugnt n\u00e4r mina k\u00e4nslor dog\nJag var 14 n\u00e4r en motg\u00e5ng blev till min passion\nJag tog dom 15 som dom lovade och min station blev h\u00e4r\nNu har jag 16 i min nya 9, min pistol \u00e4r laddad med n\u00e5 nya ord\nDet bombas kommentarer\nGe mig lite ro i sinnet, hinner knappt f\u00e5 \u00e5ngest av det\nDom spottar salvor, r\u00e4knar h\u00f6gt, hur m\u00e5nga g\u00e5nger tar det?\nKlick, klick, poof\nOch n\u00e5n ska d\u00f6 fr\u00e5n skottskador\nDom hade mage att s\u00e4ga att jag har kastat tid\nMen sen dom tog min rygg s\u00e5 har ju ingenting h\u00e4r vart sig likt\nHokus, pokus, t\u00e4nka sig att fokus var s\u00e5 effektivt\nInspirationsdoser fr\u00e5n ordboksgloser r\u00e4ckte dit\nT\u00f6m magasinet p\u00e5 pojken fr\u00e5n U\u00c5\nOrd rinner ut, jag har fyllt varje kulh\u00e5l\nSkjut p\u00e5, jag lovar att er mening redan blivit sedd\nJag \u00e4lskar n\u00e4r ni h\u00e5ller era speglar f\u00f6r er sj\u00e4lv\n[Vers 6: Cleo]\nN\u00e5n sa \"Jag hoppas att du \u00e4r kunnig\"\nSen fick jag sitta i debatt f\u00f6r att jag reppa N\u00e4\u00e4\u00e4k-hoodie\nNu spring dom runt i Lancome\nOch lek dom \u00e4r branschfolk\nOch alla ba: fuck dom\nS\u00e5 less s\u00e5 jag \u00e4r andf\u00e5dd\nSluta, f\u00f6rs\u00f6k att tysta ned mig\nS\u00e4tta k\u00e4ppar i hjulet och tro att jag ska ge mig?\nJag ska ta min skit tillbaka\nKlottra \"Free Joel\" \u00f6ver hela fucking gatan, huh!\n\n[Hook: Cleo]\nJag s\u00e4ger bara saker som dom \u00e4r\nTagga ner syrran f\u00f6r det \u00e4r inte mitt problem\nJag s\u00e4ger bara saker som dom \u00e4r s\u00e5\nTagga tagga ne-ne-ne-ne-ne-ne-ned\nJag s\u00e4ger bara saker som dom \u00e4r\nTagga ner syrran f\u00f6r det \u00e4r inte mitt problem (Inte mitt)\nJag s\u00e4ger bara saker som dom \u00e4r\nTagga ner brorsan f\u00f6r det \u00e4r inte mitt problem\nS\u00e5 tagga ner, tagga ner, tagga ne-ne-ne-ner\nTagga ner, tagga ner, tagga ner dig sj\u00e4lv\nDom borde veta mycket b\u00e4ttre\nS\u00e4tt inte Cleo i fack, \u00e4ru efter?\n\n[Outro: Academics]\nH\u00e4lften storspov, h\u00e4lften albatross\nFinns inget fack f\u00f6r ossEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2477060",
+   "artist_names": "Cleo (SWE) (Ft. Adam Tensta)",
+   "full_title": "Lika bra by\u00a0Cleo\u00a0(SWE) (Ft.\u00a0Adam\u00a0Tensta)",
+   "header_image_thumbnail_url": "https://images.genius.com/930958f70c9d8178f8605d7f40ffcfd0.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/930958f70c9d8178f8605d7f40ffcfd0.1000x1000x1.jpg",
+   "id": 2477060,
+   "language": "sv",
+   "lyrics_owner_id": 513272,
+   "lyrics_state": "complete",
+   "path": "/Cleo-swe-lika-bra-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Cleo-swe-lika-bra-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 2,
+    "day": 18
+   },
+   "release_date_for_display": "February 18, 2016",
+   "release_date_with_abbreviated_month_for_display": "Feb. 18, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/930958f70c9d8178f8605d7f40ffcfd0.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/930958f70c9d8178f8605d7f40ffcfd0.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 5,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 5037
+   },
+   "title": "Lika bra",
+   "title_with_featured": "Lika bra (Ft.\u00a0Adam\u00a0Tensta)",
+   "url": "https://genius.com/Cleo-swe-lika-bra-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/17004",
+     "header_image_url": "https://images.rapgenius.com/avatars/medium/b36e40a81760326c6d08a34cd47274f6",
+     "id": 17004,
+     "image_url": "https://images.rapgenius.com/avatars/medium/b36e40a81760326c6d08a34cd47274f6",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Adam Tensta",
+     "url": "https://genius.com/artists/Adam-tensta",
+     "iq": 405
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/125177",
+    "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+    "id": 125177,
+    "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Cleo (SWE)",
+    "url": "https://genius.com/artists/Cleo-swe",
+    "iq": 292
+   },
+   "apple_music_id": "1112311639",
+   "apple_music_player_url": "https://genius.com/songs/2477060/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2477060' class='rg_embed_link' data-song-id='2477060'>Read <a href='https://genius.com/Cleo-swe-lika-bra-lyrics'>\u201cLika bra\u201d by Cleo\u00a0(SWE)</a> on Genius</div> <script crossorigin src='//genius.com/songs/2477060/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-02-18",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/223098",
+    "cover_art_url": "https://images.genius.com/5342050d9c1f31dfff58edd8d88949f0.580x580x1.jpg",
+    "full_title": "Vi har sagt allt by Cleo (SWE)",
+    "id": 223098,
+    "name": "Vi har sagt allt",
+    "url": "https://genius.com/albums/Cleo-swe/Vi-har-sagt-allt",
+    "artist": {
+     "api_path": "/artists/125177",
+     "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+     "id": 125177,
+     "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Cleo (SWE)",
+     "url": "https://genius.com/artists/Cleo-swe",
+     "iq": 292
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 513272,
+    "annotator_login": "ektelene",
+    "api_path": "/referents/9193026",
+    "classification": "needs_exegesis",
+    "fragment": "Lika bra",
+    "id": 9193026,
+    "is_description": true,
+    "path": "/9193026/Cleo-swe-lika-bra/Lika-bra",
+    "range": {
+     "content": "Lika bra"
+    },
+    "song_id": 2477060,
+    "url": "https://genius.com/9193026/Cleo-swe-lika-bra/Lika-bra",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2477060",
+     "client_timestamps": {
+      "updated_by_human_at": 1568971320,
+      "lyrics_updated_at": 1551113806
+     },
+     "context": "Cleo (SWE)",
+     "id": 2477060,
+     "image_url": "https://images.genius.com/930958f70c9d8178f8605d7f40ffcfd0.1000x1000x1.jpg",
+     "link_title": "Lika bra by\u00a0Cleo\u00a0(SWE) (Ft.\u00a0Adam\u00a0Tensta)",
+     "title": "Lika bra",
+     "type": "Song",
+     "url": "https://genius.com/Cleo-swe-lika-bra-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/9193026",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 9193026,
+      "pinned": false,
+      "share_url": "https://genius.com/9193026",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/9193026/Cleo-swe-lika-bra/Lika-bra",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/513272",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/d0234e000b8200f92b202313fa7f1826",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/d0234e000b8200f92b202313fa7f1826",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/d0234e000b8200f92b202313fa7f1826",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/d0234e000b8200f92b202313fa7f1826",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/oe34w6s0n6",
+         "human_readable_role_for_display": "Moderator",
+         "id": 513272,
+         "iq": 217071,
+         "login": "ektelene",
+         "name": "ektelene",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/ektelene",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=uuISDruzjgY"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/174757",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 174757,
+     "image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Broke \u2019n Tipsy",
+     "url": "https://genius.com/artists/Broke-n-tipsy"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2841323",
+       "artist_names": "Broder John (Ft. AnnaMelina & Cleo (SWE))",
+       "full_title": "Lika Bra (remix) by\u00a0Broder\u00a0John (Ft.\u00a0AnnaMelina & Cleo\u00a0(SWE))",
+       "header_image_thumbnail_url": "https://images.genius.com/b25296d4f755831461e730206745ca03.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b25296d4f755831461e730206745ca03.480x480x1.jpg",
+       "id": 2841323,
+       "language": "sv",
+       "lyrics_owner_id": 1933816,
+       "lyrics_state": "complete",
+       "path": "/Broder-john-lika-bra-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Broder-john-lika-bra-remix-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 8,
+        "day": 8
+       },
+       "release_date_for_display": "August 8, 2016",
+       "release_date_with_abbreviated_month_for_display": "Aug. 8, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b25296d4f755831461e730206745ca03.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b25296d4f755831461e730206745ca03.480x480x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Lika Bra (remix)",
+       "title_with_featured": "Lika Bra (remix) (Ft.\u00a0AnnaMelina & Cleo\u00a0(SWE))",
+       "url": "https://genius.com/Broder-john-lika-bra-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/125177",
+         "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+         "id": 125177,
+         "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Cleo (SWE)",
+         "url": "https://genius.com/artists/Cleo-swe",
+         "iq": 292
+        },
+        {
+         "api_path": "/artists/455632",
+         "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+         "id": 455632,
+         "image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "AnnaMelina",
+         "url": "https://genius.com/artists/Annamelina"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/226673",
+        "header_image_url": "https://images.genius.com/db800f7c578c6e888e6f67a1f9397993.1000x1000x1.jpg",
+        "id": 226673,
+        "image_url": "https://images.genius.com/c9257e0f79227cc78e1594d341a28829.483x483x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Broder John",
+        "url": "https://genius.com/artists/Broder-john"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Cleo (SWE)",
+   "lyrics": "Lika bra Lyrics[Vers 1: Cleo]\nIngen vet om oss tv\u00e5\nDe e ba jag och han\nDet \u00e4r s\u00e5 sv\u00e5rt ibland och inte h\u00e5lla han i hand\nMen de va de vi sa, de e fucking sv\u00e5rt ibland\nF\u00f6r jag s\u00e5 k\u00e5t p\u00e5 han, jag skriver fucking l\u00e5t om han\nJag brukar tveka a, men du \u00e4r mycket b\u00e4ttre, boy\nVi har varit nakna j\u00e4ttem\u00e5nga n\u00e4tter, boy\nVi brinner upp och jag \u00e4r mjuk\nJag f\u00e5r komma i din famn innan vi tv\u00e5 tar slut\nKanske \u00e4r det bra dom inte vet\nF\u00f6r nu \u00e4r du och jag i hemlighet\n\nAh okej, kom, vi leker s\u00e5 l\u00e4nge vi f\u00e5r och\nS\u00e5 l\u00e4nge vi vill och s\u00e5 l\u00e4nge det g\u00e5r d\u00e5\nJag kan h\u00e5lla dig h\u00e5rt och du kan va i min famn\nDet snurrar i min skalle, kan du vara min\nDet va inte det vi sa, men jag \u00e4ndra det jag sa\nOch de e kanske lika bra\n\n[Hook: Adam Tensta]\nKanske lika bra, lika bra\nS\u00e5 fucking sv\u00e5rt att h\u00e5lla oss till det vi sa\nDe e kanske lika bra, lika bra\nDu g\u00f6r mig helt delli, t\u00e4nker p\u00e5 dig varje dag\nDe e kanske lika bra, lika bra\nS\u00e5 fucking sv\u00e5rt att h\u00e5lla oss till det vi sa\nDe e kanske lika bra, lika bra\nDu g\u00f6r mig helt delli t\u00e4nker p\u00e5 dig varje dag\n\n[Vers 2: Adam Tensta]\nL\u00e5t mig m\u00e5la upp en bild\nTr\u00e4ffa henne h\u00e4r p\u00e5 bl\u00e5a\nTog ett bloss utav sin cigg\nJag sa urs\u00e4kta m\u00e5ste fr\u00e5ga\nSen n\u00e5t annat som jag sagt\nS\u00e5 m\u00e5nga g\u00e5nger innan det\nMen det var d\u00e4r v\u00e5r resa b\u00f6rja\nNu \u00e4r jag mellan hennes ben\nHelt bl\u00e5st, svart h\u00e5r, som natten i Senegal\nHuden \u00e4r marockansk, samma toner som sand\nBlandningen den \u00e4r \u00e4kta, brytningen den \u00e4r fransk\nOch varje g\u00e5ng vi ses, det slutar alltid i haram\nMen ingen vet vad vi har gjort h\u00e4r i v\u00e5r ensamhet\nOklara SMS, men hennes g\u00f6tt \u00e4r konkret\nG\u00f6r en shunno helt delli, f\u00f6rsvinner som Makaveli\nRinger min lur, inget svar, som jag leker hemlig\nEn liten stad d\u00e4r folk babblar lite f\u00f6r mycket\nOch h\u00e5llas mellan fyra \u00f6ron \u00e4r ett konststycke\nFolk fr\u00e5gar, dom undrar vem det \u00e4r som jag tr\u00e4ffar\nLetar fram ditt namn p\u00e5 telefonen och jag SMSar\nYou might also like[Hook: Adam Tensta]\nDe e kanske lika bra, lika bra\nS\u00e5 fucking sv\u00e5rt att h\u00e5lla oss till det vi sa\nDe e kanske lika bra, lika bra\nDu g\u00f6r mig helt delli, t\u00e4nker p\u00e5 dig varje dag\nDe e kanske lika bra, lika bra\nS\u00e5 fucking sv\u00e5rt att h\u00e5lla oss till det vi sa\nDe e kanske lika bra, lika bra\nDu g\u00f6r mig helt delli t\u00e4nker p\u00e5 dig varje dagEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/417981",
+   "artist_names": "Cleo (SWE) (Ft. Kristin Amparo)",
+   "full_title": "Vem E Han by\u00a0Cleo\u00a0(SWE) (Ft.\u00a0Kristin\u00a0Amparo)",
+   "header_image_thumbnail_url": "https://images.genius.com/8dd94dc50850f6f5bd9b0a71ca224695.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8dd94dc50850f6f5bd9b0a71ca224695.580x580x1.jpg",
+   "id": 417981,
+   "language": "sv",
+   "lyrics_owner_id": 604616,
+   "lyrics_state": "complete",
+   "path": "/Cleo-swe-vem-e-han-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Cleo-swe-vem-e-han-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 1,
+    "day": 26
+   },
+   "release_date_for_display": "January 26, 2014",
+   "release_date_with_abbreviated_month_for_display": "Jan. 26, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8dd94dc50850f6f5bd9b0a71ca224695.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8dd94dc50850f6f5bd9b0a71ca224695.580x580x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 3,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Vem E Han",
+   "title_with_featured": "Vem E Han (Ft.\u00a0Kristin\u00a0Amparo)",
+   "url": "https://genius.com/Cleo-swe-vem-e-han-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/332104",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 332104,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kristin Amparo",
+     "url": "https://genius.com/artists/Kristin-amparo"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/125177",
+    "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+    "id": 125177,
+    "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Cleo (SWE)",
+    "url": "https://genius.com/artists/Cleo-swe",
+    "iq": 292
+   },
+   "apple_music_id": "815640012",
+   "apple_music_player_url": "https://genius.com/songs/417981/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_417981' class='rg_embed_link' data-song-id='417981'>Read <a href='https://genius.com/Cleo-swe-vem-e-han-lyrics'>\u201cVem E Han\u201d by Cleo\u00a0(SWE)</a> on Genius</div> <script crossorigin src='//genius.com/songs/417981/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-01-26",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/222872",
+    "cover_art_url": "https://images.genius.com/8dd94dc50850f6f5bd9b0a71ca224695.580x580x1.jpg",
+    "full_title": "Vem E Han by Cleo (SWE)",
+    "id": 222872,
+    "name": "Vem E Han",
+    "url": "https://genius.com/albums/Cleo-swe/Vem-e-han",
+    "artist": {
+     "api_path": "/artists/125177",
+     "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+     "id": 125177,
+     "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Cleo (SWE)",
+     "url": "https://genius.com/artists/Cleo-swe",
+     "iq": 292
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 604616,
+    "annotator_login": "sail-e",
+    "api_path": "/referents/3730081",
+    "classification": "needs_exegesis",
+    "fragment": "Vem E Han",
+    "id": 3730081,
+    "is_description": true,
+    "path": "/3730081/Cleo-swe-vem-e-han/Vem-e-han",
+    "range": {
+     "content": "Vem E Han"
+    },
+    "song_id": 417981,
+    "url": "https://genius.com/3730081/Cleo-swe-vem-e-han/Vem-e-han",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/417981",
+     "client_timestamps": {
+      "updated_by_human_at": 1576868916,
+      "lyrics_updated_at": 1552430211
+     },
+     "context": "Cleo (SWE)",
+     "id": 417981,
+     "image_url": "https://images.genius.com/8dd94dc50850f6f5bd9b0a71ca224695.580x580x1.jpg",
+     "link_title": "Vem E Han by\u00a0Cleo\u00a0(SWE) (Ft.\u00a0Kristin\u00a0Amparo)",
+     "title": "Vem E Han",
+     "type": "Song",
+     "url": "https://genius.com/Cleo-swe-vem-e-han-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3730081",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3730081,
+      "pinned": false,
+      "share_url": "https://genius.com/3730081",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3730081/Cleo-swe-vem-e-han/Vem-e-han",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/604616",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3ifioujm9uq",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3ifioujm9uq",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3ifioujm9uq",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3ifioujm9uq",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/17bgkf6fpo8",
+         "human_readable_role_for_display": "Contributor",
+         "id": 604616,
+         "iq": 4910,
+         "login": "sail-e",
+         "name": "sail-e",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/sail-e",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "femtastic",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/femtastic/vem-e-han"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=sEMAqXLnOew"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/174757",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 174757,
+     "image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Broke \u2019n Tipsy",
+     "url": "https://genius.com/artists/Broke-n-tipsy"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Cleo (SWE)",
+   "lyrics": "Vem E Han Lyrics[Vers 1: Cleo]\nJag spotta dig p\u00e5 klubben och du kolla in min bakdel\nVa stelt, men du fick mig att k\u00e4nna mig ashet\nGled ut p\u00e5 golvet och whina som jag brukar\nR\u00f6kte en fet och svepte \u00f6l med mina brudar\nHela tiden med vetskapen om att du och dom\nDina grabbar kolla in mig p\u00e5 avst\u00e5nd\nDansa l\u00e5gt ner, l\u00e5tsas du st\u00e5r bakom\nJag r\u00f6r mig sexigt, du blir galen s\u00e5 d\u00e4r lagom\nT\u00e4nker att jag m\u00e5ste ha sex med han men han ska veta\nSka han playa mig, playa mig som en gentleman\nJag andas i takt med baktakten medan\nV\u00e5ran vibb \u00e4r s\u00e5 stark att hela klubben vibrerar\nJag vill se dig utan tr\u00f6jan som du svettas i\nOm inte nu, s\u00e5 sn\u00e4lla, knulla mig i n\u00e4sta liv\nDu kan va vem du vill, snubben fr\u00e5n klubben\nEller ch\u00e1pan som jag haffa som jag knulla f\u00f6r stunden\n[Hook]\nS\u00e5 vem \u00e4r han\nHan som steppar in p\u00e5 klubben som en riktig man\nBlir svag i hela kroppen n\u00e4r han fr\u00e5gar mitt namn\n(Eyo, s\u00e5 vem e han d\u00e5?)\nJag undrar vem \u00e4r han\nHan som steppar in p\u00e5 klubben som en riktig man\nBlir svag i hela kroppen n\u00e4r han fr\u00e5gar mitt namn\n(Eyo, s\u00e5 vem e han d\u00e5?)\n\n[Vers 2: Kristin Amparo]\nJag kattar in p\u00e5 klubben, han kom fram\nFr\u00e5gade rakt ut; vem \u00e4r han\nIngen annan f\u00f6rde sig som han\nSa till mina brudar; ni kan g\u00e5\nFr\u00e5n den dagen har det bara varit han och jag\nInte l\u00e4mnat s\u00e4ngen, vi har varit d\u00e4r varenda dag\nTimma ut, timma in, mors dag, fars dag\nJag vet inte l\u00e4ngre vad det \u00e4r f\u00f6r j\u00e4vla veckodag\nF\u00f6r h\u00e4r finns en o\u00e4ndlig dragningskraft, osinande k\u00e4rlekssaft\nEn oanst\u00e4nding parningsdans. Nice, men vem fan \u00e4r han\nG\u00f6r mig stark, g\u00f6r mig svag, ger orgasm i varje andetag\n\n[Hook]\nS\u00e5 vem \u00e4r han\nHan som steppar in p\u00e5 klubben som en riktig man\nBlir svag i hela kroppen n\u00e4r han fr\u00e5gar mitt namn\n(Eyo, s\u00e5 vem e han d\u00e5?)\nJag undrar vem \u00e4r han\nHan som steppar in p\u00e5 klubben som en riktig man\nBlir svag i hela kroppen n\u00e4r han fr\u00e5gar mitt namn\n(Eyo, s\u00e5 vem e han d\u00e5?)\nYou might also like[Stick: Cleo]\nFan, jag t\u00e4nker forts\u00e4tta chilla, han borde komma fram till mig\nJag ser att han kollar p\u00e5 mig, vissa snubbar allts\u00e5. Palla\n\n[Hook]\nS\u00e5 vem \u00e4r han\nHan som steppar in p\u00e5 klubben som en riktig man\nBlir svag i hela kroppen n\u00e4r han fr\u00e5gar mitt namn\n(Eyo, s\u00e5 vem e han d\u00e5?)\nJag undrar vem \u00e4r han\nHan som steppar in p\u00e5 klubben som en riktig man\nBlir svag i hela kroppen n\u00e4r han fr\u00e5gar mitt namn\n(Eyo, s\u00e5 vem e han d\u00e5?)Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3616244",
+   "artist_names": "Cleo (SWE) (Ft. Academics & Erik Henebratt)",
+   "full_title": "\u00c4lska N\u00e5n by\u00a0Cleo\u00a0(SWE) (Ft.\u00a0Academics & Erik\u00a0Henebratt)",
+   "header_image_thumbnail_url": "https://images.genius.com/ac7000a8c4c0e0bc32e6882fce4dd581.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ac7000a8c4c0e0bc32e6882fce4dd581.640x640x1.jpg",
+   "id": 3616244,
+   "language": "sv",
+   "lyrics_owner_id": 6171461,
+   "lyrics_state": "complete",
+   "path": "/Cleo-swe-alska-nan-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Cleo-swe-alska-nan-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 3,
+    "day": 30
+   },
+   "release_date_for_display": "March 30, 2018",
+   "release_date_with_abbreviated_month_for_display": "Mar. 30, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ac7000a8c4c0e0bc32e6882fce4dd581.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ac7000a8c4c0e0bc32e6882fce4dd581.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "\u00c4lska N\u00e5n",
+   "title_with_featured": "\u00c4lska N\u00e5n (Ft.\u00a0Academics & Erik\u00a0Henebratt)",
+   "url": "https://genius.com/Cleo-swe-alska-nan-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/155733",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 155733,
+     "image_url": "https://images.genius.com/06fb9f8694afea38ca29edb85931e2dc.654x654x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Academics",
+     "url": "https://genius.com/artists/Academics"
+    },
+    {
+     "api_path": "/artists/1432716",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1432716,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Erik Henebratt",
+     "url": "https://genius.com/artists/Erik-henebratt"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/125177",
+    "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+    "id": 125177,
+    "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Cleo (SWE)",
+    "url": "https://genius.com/artists/Cleo-swe",
+    "iq": 292
+   },
+   "apple_music_id": "1360509300",
+   "apple_music_player_url": "https://genius.com/songs/3616244/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3616244' class='rg_embed_link' data-song-id='3616244'>Read <a href='https://genius.com/Cleo-swe-alska-nan-lyrics'>\u201c\u00c4lska N\u00e5n\u201d by Cleo\u00a0(SWE)</a> on Genius</div> <script crossorigin src='//genius.com/songs/3616244/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-03-30",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6171461,
+    "annotator_login": "B-MDN",
+    "api_path": "/referents/14203898",
+    "classification": "needs_exegesis",
+    "fragment": "\u00c4lska N\u00e5n",
+    "id": 14203898,
+    "is_description": true,
+    "path": "/14203898/Cleo-swe-alska-nan/Alska-nan",
+    "range": {
+     "content": "\u00c4lska N\u00e5n"
+    },
+    "song_id": 3616244,
+    "url": "https://genius.com/14203898/Cleo-swe-alska-nan/Alska-nan",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3616244",
+     "client_timestamps": {
+      "updated_by_human_at": 1646242525,
+      "lyrics_updated_at": 1571167843
+     },
+     "context": "Cleo (SWE)",
+     "id": 3616244,
+     "image_url": "https://images.genius.com/ac7000a8c4c0e0bc32e6882fce4dd581.640x640x1.jpg",
+     "link_title": "\u00c4lska N\u00e5n by\u00a0Cleo\u00a0(SWE) (Ft.\u00a0Academics & Erik\u00a0Henebratt)",
+     "title": "\u00c4lska N\u00e5n",
+     "type": "Song",
+     "url": "https://genius.com/Cleo-swe-alska-nan-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14203898",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14203898,
+      "pinned": false,
+      "share_url": "https://genius.com/14203898",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14203898/Cleo-swe-alska-nan/Alska-nan",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6171461",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/75546e78340bd816e23a422e1af6551b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/75546e78340bd816e23a422e1af6551b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/75546e78340bd816e23a422e1af6551b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/75546e78340bd816e23a422e1af6551b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/75546e78340bd816e23a422e1af6551b",
+         "human_readable_role_for_display": null,
+         "id": 6171461,
+         "iq": 216,
+         "login": "B-MDN",
+         "name": "B-MDN",
+         "role_for_display": null,
+         "url": "https://genius.com/B-MDN",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Ar3fwCaXgq0"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Cleo (SWE)",
+   "lyrics": "\u00c4lska N\u00e5n Lyrics[Refr\u00e4ng]\nJag ska aldrig n\u00e5gon mer \u00e4lska n\u00e5n\nF\u00f6r jag har blivit s\u00e5 m\u00e5nga g\u00e5nger s\u00e5rad\nAv det d\u00e4r\nJag ska aldrig n\u00e5gon mer \u00e4lska n\u00e5n\nF\u00f6r jag har blivit s\u00e5 m\u00e5nga g\u00e5nger s\u00e5rad just av det d\u00e4r\n\n[Vers 1]\nAlla k\u00e4nner till den\nDu har sv\u00e5rt att t\u00e4nka\nDu har sv\u00e5rt att vilja leva men det \u00e4r sv\u00e5rt att m\u00e4rkas\nIngen fr\u00e5gar om det men du \u00e4r alltid d\u00e4r\nHj\u00e4rtat g\u00e5r i tusen fucking bitar och du har aldrig l\u00e4kt\nJag vill springa \u00f6ver jorden f\u00f6r att h\u00e4mta dig\nDu brukar kliva \u00f6ver elden f\u00f6r att r\u00e4dda mig\nOch nu \u00e4r askan i mitt h\u00e5r och mina blickar dunkla\nSn\u00e4lla fr\u00e5ga inte efter mig, bara l\u00e5t mig sjunka\n[Refr\u00e4ng]\nJag ska aldrig n\u00e5gon mer \u00e4lska n\u00e5n (Bara l\u00e5t mig sjunka)\nF\u00f6r jag har blivit s\u00e5 m\u00e5nga g\u00e5nger s\u00e5rad\nAv det d\u00e4r\nJag ska aldrig n\u00e5gon mer \u00e4lska n\u00e5n\nF\u00f6r jag har blivit s\u00e5 m\u00e5nga g\u00e5nger s\u00e5rad just av det d\u00e4r\nOoh, ooh\n(\u00c4lska n\u00e5n)\nOoh, ooh\n(\u00c4lska n\u00e5n)\n\n[Vers 2]\nOkej\nOm jag ska leva utan dig vill jag inte leva alls\nS\u00e5 jag ska aldrig \u00e4lska n\u00e5n igen, jag sv\u00e4r p\u00e5 allt\nJag kan h\u00f6ra att v\u00e5ra s\u00e5nger inte sjunger mer\nOch ingenstans i stan \u00e4r lika trygg som d\u00e4r vi brukade ses\nJag vill h\u00e4mta v\u00e5ra misstag och sen g\u00f6ra r\u00e4tt\nJag vill inte sitta ledsen p\u00e5 n\u00e5n efterfest\nOch undra varje morgon varf\u00f6r tiden aldrig stannade upp\nVarf\u00f6r hj\u00e4rtat gick i bitar och vi tappa luft\nI vilket h\u00f6rn ska jag bli kysst s\u00e5d\u00e4r?\nP\u00e5 vilket torg och vilken gata ska jag n\u00e5nsin kunna bli s\u00e5 k\u00e4r?\nJag ska rinna genom \u00e4lven under cykelbron\nRista v\u00e5ra namn i alla bj\u00f6rkar med mitt eget blod\nOm du bara kunde komma tillbaks\nVi gl\u00f6mmer alla fr\u00e5gor f\u00f6r de har inga svar\nJag har alltid kunnat d\u00f6 f\u00f6r dig, jag d\u00f6r f\u00f6r dig\nJag ska d\u00f6 f\u00f6r dig, \u00e4lskling, s\u00e5 det l\u00f6ser sig\nYou might also like[Refr\u00e4ng]\nJag ska aldrig n\u00e5gon mer \u00e4lska n\u00e5n\nF\u00f6r jag har blivit s\u00e5 m\u00e5nga g\u00e5nger s\u00e5rad\nAv det d\u00e4r\n(Av det d\u00e4r)\nJag ska aldrig n\u00e5gon mer \u00e4lska n\u00e5n\nF\u00f6r jag har blivit s\u00e5 m\u00e5nga g\u00e5nger s\u00e5rad just av det d\u00e4r\nOoh, ooh\n(S\u00e5 m\u00e5nga g\u00e5nger s\u00e5rad\nAv det d\u00e4r)\nOoh, ooh\nOoh\n(S\u00e5 m\u00e5nga g\u00e5nger s\u00e5rad just av det d\u00e4r)\n(Av det d\u00e4r)\n\n[Stick]\nOm alla stj\u00e4rnorna p\u00e5 himlen var mina tankar p\u00e5 dig\nSkulle du tro mig d\u00e5?\nOm alla regndroppar fr\u00e5n himlen var alla t\u00e5rarna fr\u00e5n mig\nSkulle du tro mig d\u00e5?\nP\u00e5 att jag liksom bara spar\nP\u00e5 alla tuv\u00e4gar vi har kvar att g\u00e5\n\n[Outro]\nOoh, ooh\nOoh\nOoh\nOoh\nMmEmbed"
+  },
+  {
+   "annotation_count": 6,
+   "api_path": "/songs/712955",
+   "artist_names": "Cleo (SWE) (Ft. Dirty Jens & Kristin Amparo)",
+   "full_title": "Tagga Ner by\u00a0Cleo\u00a0(SWE) (Ft.\u00a0Dirty\u00a0Jens & Kristin\u00a0Amparo)",
+   "header_image_thumbnail_url": "https://images.genius.com/8dd94dc50850f6f5bd9b0a71ca224695.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8dd94dc50850f6f5bd9b0a71ca224695.580x580x1.jpg",
+   "id": 712955,
+   "language": "sv",
+   "lyrics_owner_id": 1553567,
+   "lyrics_state": "complete",
+   "path": "/Cleo-swe-tagga-ner-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Cleo-swe-tagga-ner-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 1,
+    "day": 25
+   },
+   "release_date_for_display": "January 25, 2014",
+   "release_date_with_abbreviated_month_for_display": "Jan. 25, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8dd94dc50850f6f5bd9b0a71ca224695.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8dd94dc50850f6f5bd9b0a71ca224695.580x580x1.jpg",
+   "stats": {
+    "accepted_annotations": 2,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 2,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tagga Ner",
+   "title_with_featured": "Tagga Ner (Ft.\u00a0Dirty\u00a0Jens & Kristin\u00a0Amparo)",
+   "url": "https://genius.com/Cleo-swe-tagga-ner-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/332104",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 332104,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kristin Amparo",
+     "url": "https://genius.com/artists/Kristin-amparo"
+    },
+    {
+     "api_path": "/artists/332099",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 332099,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dirty Jens",
+     "url": "https://genius.com/artists/Dirty-jens"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/125177",
+    "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+    "id": 125177,
+    "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Cleo (SWE)",
+    "url": "https://genius.com/artists/Cleo-swe",
+    "iq": 292
+   },
+   "apple_music_id": "815640014",
+   "apple_music_player_url": "https://genius.com/songs/712955/apple_music_player",
+   "description": {
+    "plain": "\u201cTagga Ner\u201d is a song from Cleo & Kristin Amparos EP \u201cVem E Han\u201d. It is Cleo\u2019s quickdraw whenever she faces adversity, a song that makes everyone stand up and bow down simultaneously.\n\n\n\nL\u00e5ten handlar om att blir d\u00f6md och kritiserad utifr\u00e5n f\u00f6rdomar och stereotyper."
+   },
+   "embed_content": "<div id='rg_embed_link_712955' class='rg_embed_link' data-song-id='712955'>Read <a href='https://genius.com/Cleo-swe-tagga-ner-lyrics'>\u201cTagga Ner\u201d by Cleo\u00a0(SWE)</a> on Genius</div> <script crossorigin src='//genius.com/songs/712955/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-01-25",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/222872",
+    "cover_art_url": "https://images.genius.com/8dd94dc50850f6f5bd9b0a71ca224695.580x580x1.jpg",
+    "full_title": "Vem E Han by Cleo (SWE)",
+    "id": 222872,
+    "name": "Vem E Han",
+    "url": "https://genius.com/albums/Cleo-swe/Vem-e-han",
+    "artist": {
+     "api_path": "/artists/125177",
+     "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+     "id": 125177,
+     "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Cleo (SWE)",
+     "url": "https://genius.com/artists/Cleo-swe",
+     "iq": 292
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1553567,
+    "annotator_login": "savedbybravado",
+    "api_path": "/referents/4958155",
+    "classification": "accepted",
+    "fragment": "Tagga Ner",
+    "id": 4958155,
+    "is_description": true,
+    "path": "/4958155/Cleo-swe-tagga-ner/Tagga-ner",
+    "range": {
+     "content": "Tagga Ner"
+    },
+    "song_id": 712955,
+    "url": "https://genius.com/4958155/Cleo-swe-tagga-ner/Tagga-ner",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/712955",
+     "client_timestamps": {
+      "updated_by_human_at": 1576868929,
+      "lyrics_updated_at": 1475352740
+     },
+     "context": "Cleo (SWE)",
+     "id": 712955,
+     "image_url": "https://images.genius.com/8dd94dc50850f6f5bd9b0a71ca224695.580x580x1.jpg",
+     "link_title": "Tagga Ner by\u00a0Cleo\u00a0(SWE) (Ft.\u00a0Dirty\u00a0Jens & Kristin\u00a0Amparo)",
+     "title": "Tagga Ner",
+     "type": "Song",
+     "url": "https://genius.com/Cleo-swe-tagga-ner-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4958155",
+      "body": {
+       "plain": "\u201cTagga Ner\u201d is a song from Cleo & Kristin Amparos EP \u201cVem E Han\u201d. It is Cleo\u2019s quickdraw whenever she faces adversity, a song that makes everyone stand up and bow down simultaneously.\n\n\n\nL\u00e5ten handlar om att blir d\u00f6md och kritiserad utifr\u00e5n f\u00f6rdomar och stereotyper."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 4958155,
+      "pinned": false,
+      "share_url": "https://genius.com/4958155",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/4958155/Cleo-swe-tagga-ner/Tagga-ner",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.7045454545454546,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1553567",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/pq0hc4c3qm",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/pq0hc4c3qm",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/pq0hc4c3qm",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/pq0hc4c3qm",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/O62fw4kRWmMkNK88cb48_276483927_018f5964-3e4d-401c-86fb-6f8368229478.jpg",
+         "human_readable_role_for_display": null,
+         "id": 1553567,
+         "iq": 169,
+         "login": "savedbybravado",
+         "name": "savedbybravado",
+         "role_for_display": null,
+         "url": "https://genius.com/savedbybravado",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.29545454545454547,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3698451",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cXhv9W9QWaWf3sfQ52VA_jag%20och%20hund%20tekla.jpeg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cXhv9W9QWaWf3sfQ52VA_jag%20och%20hund%20tekla.jpeg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cXhv9W9QWaWf3sfQ52VA_jag%20och%20hund%20tekla.jpeg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cXhv9W9QWaWf3sfQ52VA_jag%20och%20hund%20tekla.jpeg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/s2nIOfTzyNK3J6kFOLAq_Namnlo%CC%88st.png",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3698451,
+         "iq": 17301,
+         "login": "Aegidrom",
+         "name": "Aegidrom",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Aegidrom",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "femtastic",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/femtastic/tagga-ner"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=E_2wFD5Zeg0"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/174757",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 174757,
+     "image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Broke \u2019n Tipsy",
+     "url": "https://genius.com/artists/Broke-n-tipsy"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2843375",
+       "artist_names": "Cleo (SWE) (Ft. Academics, Beri, Broder John, Fricky, Gonza-Ra & Random Bastards)",
+       "full_title": "Tagga Ner Remix by\u00a0Cleo\u00a0(SWE) (Ft.\u00a0Academics, Beri, Broder\u00a0John, Fricky, Gonza-Ra & Random\u00a0Bastards)",
+       "header_image_thumbnail_url": "https://images.genius.com/ac0a569f6a6dfc3e1d5bc4e2084a124f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ac0a569f6a6dfc3e1d5bc4e2084a124f.580x580x1.jpg",
+       "id": 2843375,
+       "language": "sv",
+       "lyrics_owner_id": 3634005,
+       "lyrics_state": "complete",
+       "path": "/Cleo-swe-tagga-ner-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Cleo-swe-tagga-ner-remix-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 1,
+        "day": 27
+       },
+       "release_date_for_display": "January 27, 2015",
+       "release_date_with_abbreviated_month_for_display": "Jan. 27, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/ac0a569f6a6dfc3e1d5bc4e2084a124f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ac0a569f6a6dfc3e1d5bc4e2084a124f.580x580x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 6624
+       },
+       "title": "Tagga Ner Remix",
+       "title_with_featured": "Tagga Ner Remix (Ft.\u00a0Academics, Beri, Broder\u00a0John, Fricky, Gonza-Ra & Random\u00a0Bastards)",
+       "url": "https://genius.com/Cleo-swe-tagga-ner-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/226668",
+         "header_image_url": "https://images.genius.com/0419e5bbbdf7c596adb9114a1d96e7bd.900x191x1.jpg",
+         "id": 226668,
+         "image_url": "https://images.genius.com/d0fabc87291e5db0c224b47fea42d34c.500x500x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Random Bastards",
+         "url": "https://genius.com/artists/Random-bastards"
+        },
+        {
+         "api_path": "/artists/226673",
+         "header_image_url": "https://images.genius.com/db800f7c578c6e888e6f67a1f9397993.1000x1000x1.jpg",
+         "id": 226673,
+         "image_url": "https://images.genius.com/c9257e0f79227cc78e1594d341a28829.483x483x1.png",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Broder John",
+         "url": "https://genius.com/artists/Broder-john"
+        },
+        {
+         "api_path": "/artists/226672",
+         "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+         "id": 226672,
+         "image_url": "https://images.genius.com/36479d39f1e2f83bb37e712824c26799.480x480x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Gonza-Ra",
+         "url": "https://genius.com/artists/Gonza-ra"
+        },
+        {
+         "api_path": "/artists/226671",
+         "header_image_url": "https://images.genius.com/d8de09842b70527e41eb1e8008d01582.992x558x1.jpg",
+         "id": 226671,
+         "image_url": "https://images.genius.com/f988c3a0e9d84962a70b15acfe28844f.471x471x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Fricky",
+         "url": "https://genius.com/artists/Fricky"
+        },
+        {
+         "api_path": "/artists/992956",
+         "header_image_url": "https://images.genius.com/d928c0a4f2cabd7f88d7a8860f6ea0a8.700x700x1.jpg",
+         "id": 992956,
+         "image_url": "https://images.genius.com/d928c0a4f2cabd7f88d7a8860f6ea0a8.700x700x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Beri",
+         "url": "https://genius.com/artists/Beri"
+        },
+        {
+         "api_path": "/artists/155733",
+         "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+         "id": 155733,
+         "image_url": "https://images.genius.com/06fb9f8694afea38ca29edb85931e2dc.654x654x1.png",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Academics",
+         "url": "https://genius.com/artists/Academics"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/125177",
+        "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+        "id": 125177,
+        "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Cleo (SWE)",
+        "url": "https://genius.com/artists/Cleo-swe",
+        "iq": 292
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Cleo (SWE)",
+   "lyrics": "Tagga Ner Lyrics[Intro: Cleo]\nS\u00e5 j\u00e4vla sjukt ass\u00e5\nHelt j\u00e4vla st\u00f6rt\n\n[Vers 1: Cleo]\nJag \u00e4r inte PK, jag \u00e4r inte p\u00e5l\u00e4st, jag har ba' k\u00e4nsla\nTagga ner f\u00f6r fan, yo du h\u00f6rde att jag sk\u00e4mta\nHata p\u00e5 stilen n\u00e4r du placerar mig i fack\nJag \u00e4r fast och min musik har pl\u00f6tsligt blivit en last\nS\u00e5 j\u00e4vla kasst\nF\u00e5ngar ditt ord och fast jag inte vill alls \u00e4r\nKorten p\u00e5 mitt bord och nu granskar ni allt\nJag k\u00e4nde f\u00f6r att snacka lite skit, droppa bars \u00f6ver ett beat\nSkita i med flit, va i stunden\nNu \u00e4r jag bunden till massa trubbel\nTappa hypen p\u00e5 kuppen och viben och lusten\n\u00c4r Sverige j\u00e4mst\u00e4llt? Brorsan, jag tror inte det\nF\u00f6r jag blir granskad uppifr\u00e5n och ner n\u00e4r jag st\u00e5r p\u00e5 scen\n\"Hon \u00e4r feminist! Hon borde vara si eller s\u00e5\"\n\"Hon \u00e4r ju morsa! Hon borde vara si eller s\u00e5\"\nDu s\u00e4tter mig i fack\nDet \u00e4r inte mitt problem om du blir besviken\nJag kommer aldrig f\u00f6lja regler och rutiner, s\u00e5'att\n\n[Refr\u00e4ng: Cleo, Kristin Amparo, Dirty Jens]\nJag s\u00e4ger bara saker som dom \u00e4r (ja)\nTagga ner syrran f\u00f6r det \u00e4r inte mitt problem (inte mitt)\nJag s\u00e4ger bara saker som dom \u00e4r, s\u00e5 (yea)\nTagga ner brorsan f\u00f6r det \u00e4r inte mitt problem\nS\u00e5 tagga ner, tagga ner, tagga ne-ne-ne-ner (chilla, fan)\nTagga ner, tagga ner, tagga ner dig sj\u00e4lv\nDom borde veta mycket b\u00e4ttre\nS\u00e4tt inte Cleo i fack, \u00e4r du efter?\n\n[Vers 2: Cleo]\nF\u00f6r det b\u00f6rjar k\u00e4nnas som jag sitter i knas\nN\u00e4r skivbolaget ringer och vill g\u00f6ra mig till Nicki Minaj\nBlir bitter och lat, och skiter i smicker och prat\nMicken och jag \u2014 l\u00e4mna oss ifred, l\u00e4mna oss ifred\n(S\u00e5 j\u00e4vla ensp\u00e5rigt) Springer utanf\u00f6r\nL\u00e5dan \u00e4r s\u00e5 liten, s\u00e5 liten; s\u00e5 sjukt, jag d\u00f6r\nDum fr\u00e5ga, varf\u00f6r jag reppar dom som jag reppar\nTrigga min familj och du tycker jag tappar k\u00e4nsla\nYou might also likeDu \u00e4r misst\u00e4nkt, du lever inskr\u00e4nkt\nF\u00f6rdomar tar \u00f6ver som disken ja p\u00e5 min diskb\u00e4nk\nS\u00e5 l\u00e5t mig tv\u00e4tta av dig, jag \u00e4r en tv\u00e4ttmaskin\nDumpar dina m\u00f6gliga tankar, du ska bli extra fin\nJag har ingen tid f\u00f6r din bild\nJag lever mycket b\u00e4ttre ifred n\u00e4r jag f\u00e5r g\u00f6ra som jag vill\nJa, fyll p\u00e5 ni! Kommer aldrig passa in h\u00e4r\nJag \u00e4r f\u00f6r h\u00e5rd och stark, jag \u00e4r f\u00f6r auktorit\u00e4r\nJag sa\n\n[Refr\u00e4ng: Cleo, Kristin Amparo, Dirty Jens]\nJag s\u00e4ger bara saker som dom \u00e4r (ja)\nTagga ner syrran f\u00f6r det \u00e4r inte mitt problem (inte mitt)\nJag s\u00e4ger bara saker som dom \u00e4r, s\u00e5 (yea)\nTagga ner brorsan f\u00f6r det \u00e4r inte mitt problem\nS\u00e5 tagga ner, tagga ner, tagga ne-ne-ne-ner\nTagga ner, tagga ner, tagga ner dig sj\u00e4lv (chilla, fan)\nDom borde veta mycket b\u00e4ttre\nS\u00e4tt inte Cleo i fack, \u00e4r du efter?\n\n[Vers 3: Dirty Jens]\nSvart Bagheera, du studerar det\nS\u00e4tter mig i fack hur jag fan \u00e4n agerar\nMen jag vet var jag st\u00e5r, det beh\u00f6ver du ej repetera\nOm vem jag \u00e4r, min karakt\u00e4r, om jag \u00e4r en volont\u00e4r\nHur jag lever nu och h\u00e4r, och vad jag tycker om det h\u00e4r\nTar avst\u00e5nd f\u00f6r att va s\u00e5n, finns ingen annan liberal som\nPersonlighet och f\u00f6rebild precis som Henrik Larsson\nJag r\u00e5kar bara va som dom det talas knas om\nNi missf\u00f6rst\u00e5r som han p\u00e5 taket (Hashtag!) Karlsson\nTr\u00f6tta p\u00e5 alla som hoppades, tr\u00f6tta p\u00e5 alla som l\u00e5tsades\n\"Dirty, han hip hoppare\" \"Dirty, han kan spotta den\"\nSanningen: Sitter i min soffa och ba' blossar en\nMed en v\u00e4n, spelar tv-spel och bara softar sen\nHar ni fattat det? Har jag tappat det?\nFick inte uttrycka mig fritt bara f\u00f6r jag var rappare\nTycker jag talar s\u00e5 v\u00e4l f\u00f6r att vara svartare\n\n[Refr\u00e4ng: Cleo, Kristin Amparo, Dirty Jens]\nJag s\u00e4ger bara saker som dom \u00e4r (ja)\nTagga ner syrran f\u00f6r det \u00e4r inte mitt problem (inte mitt)\nJag s\u00e4ger bara saker som dom \u00e4r, s\u00e5 (yea)\nTagga ner brorsan f\u00f6r det \u00e4r inte mitt problem\nS\u00e5 tagga ner, tagga ner, tagga ne-ne-ne-ner (chilla, fan)\nTagga ner, tagga ner, tagga ner dig sj\u00e4lv\nDom borde veta mycket b\u00e4ttre\nS\u00e4tt inte Cleo i fack, \u00e4r du efter?1Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2869108",
+   "artist_names": "Cleo (SWE) (Ft. Ayla Shatz & N\u00e4\u00e4\u00e4k (SWE))",
+   "full_title": "Vandraren by\u00a0Cleo\u00a0(SWE) (Ft.\u00a0Ayla\u00a0Shatz & N\u00e4\u00e4\u00e4k\u00a0(SWE))",
+   "header_image_thumbnail_url": "https://images.genius.com/4a5234c903c65383b694b49384be7a96.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/4a5234c903c65383b694b49384be7a96.640x640x1.jpg",
+   "id": 2869108,
+   "language": "sv",
+   "lyrics_owner_id": 3698451,
+   "lyrics_state": "complete",
+   "path": "/Cleo-swe-vandraren-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Cleo-swe-vandraren-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 1,
+    "day": 1
+   },
+   "release_date_for_display": "January 1, 2016",
+   "release_date_with_abbreviated_month_for_display": "Jan. 1, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/4a5234c903c65383b694b49384be7a96.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/4a5234c903c65383b694b49384be7a96.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 3,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Vandraren",
+   "title_with_featured": "Vandraren (Ft.\u00a0Ayla\u00a0Shatz & N\u00e4\u00e4\u00e4k\u00a0(SWE))",
+   "url": "https://genius.com/Cleo-swe-vandraren-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/68231",
+     "header_image_url": "https://images.genius.com/aacbcdedc54fdf1e60996c85c276dbcb.580x345x1.jpg",
+     "id": 68231,
+     "image_url": "https://images.genius.com/52a39a50fda30ebb710f66f55f507aa9.473x473x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "N\u00e4\u00e4\u00e4k (SWE)",
+     "url": "https://genius.com/artists/Naaak-swe"
+    },
+    {
+     "api_path": "/artists/336515",
+     "header_image_url": "https://images.genius.com/c6245cb563bdfcc018cd3cb21b4d17dd.960x960x1.jpg",
+     "id": 336515,
+     "image_url": "https://images.genius.com/0fa67fd97e6e3bdad26d682533343c74.648x648x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ayla Shatz",
+     "url": "https://genius.com/artists/Ayla-shatz"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/125177",
+    "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+    "id": 125177,
+    "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Cleo (SWE)",
+    "url": "https://genius.com/artists/Cleo-swe",
+    "iq": 292
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2869108/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2869108' class='rg_embed_link' data-song-id='2869108'>Read <a href='https://genius.com/Cleo-swe-vandraren-lyrics'>\u201cVandraren\u201d by Cleo\u00a0(SWE)</a> on Genius</div> <script crossorigin src='//genius.com/songs/2869108/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-01-01",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3698451,
+    "annotator_login": "Aegidrom",
+    "api_path": "/referents/10514433",
+    "classification": "needs_exegesis",
+    "fragment": "Vandraren",
+    "id": 10514433,
+    "is_description": true,
+    "path": "/10514433/Cleo-swe-vandraren/Vandraren",
+    "range": {
+     "content": "Vandraren"
+    },
+    "song_id": 2869108,
+    "url": "https://genius.com/10514433/Cleo-swe-vandraren/Vandraren",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2869108",
+     "client_timestamps": {
+      "updated_by_human_at": 1639058704,
+      "lyrics_updated_at": 1639058704
+     },
+     "context": "Cleo (SWE)",
+     "id": 2869108,
+     "image_url": "https://images.genius.com/4a5234c903c65383b694b49384be7a96.640x640x1.jpg",
+     "link_title": "Vandraren by\u00a0Cleo\u00a0(SWE) (Ft.\u00a0Ayla\u00a0Shatz & N\u00e4\u00e4\u00e4k\u00a0(SWE))",
+     "title": "Vandraren",
+     "type": "Song",
+     "url": "https://genius.com/Cleo-swe-vandraren-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10514433",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10514433,
+      "pinned": false,
+      "share_url": "https://genius.com/10514433",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10514433/Cleo-swe-vandraren/Vandraren",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3698451",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cXhv9W9QWaWf3sfQ52VA_jag%20och%20hund%20tekla.jpeg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cXhv9W9QWaWf3sfQ52VA_jag%20och%20hund%20tekla.jpeg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cXhv9W9QWaWf3sfQ52VA_jag%20och%20hund%20tekla.jpeg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cXhv9W9QWaWf3sfQ52VA_jag%20och%20hund%20tekla.jpeg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/s2nIOfTzyNK3J6kFOLAq_Namnlo%CC%88st.png",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3698451,
+         "iq": 17301,
+         "login": "Aegidrom",
+         "name": "Aegidrom",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Aegidrom",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Cleo (SWE)",
+   "lyrics": "Vandraren Lyrics[Cleo]\nVill den mig illa eller vill den mig v\u00e4l? Jag \u00e4r p\u00e5 v\u00e4g\nAlltid p\u00e5 v\u00e4g, st\u00e5 aldrig stilla, fr\u00e5gan \u00e4r vill den mig illa\nJag har ingenstans att g\u00e5, vet inte ens l\u00e4ngre vad jag \u00e4r inne p\u00e5\nAtt det kan bli s\u00e5 j\u00e4vla m\u00f6rkt h\u00e4r inne\nKan n\u00e5n t\u00e4nda ljus h\u00e4r inne?\nJag \u00e4r tom utan hela min packning\nD\u00e4rf\u00f6r b\u00e4r jag p\u00e5 hela och faktiskt\nHela skiten f\u00e5r plats, vi beh\u00f6ver inte dela\nJag kan ta allt de'e s\u00e5 klassiskt\nIbland kommer tvivel men jag vandrar f\u00f6rbi det\nJag vandrar f\u00f6rbi det\nJag kan ta allt och s\u00e5 k\u00e4nns det, beh\u00f6ver inte dela p\u00e5 h\u00e4lften\n[Brygga: Cleo]\nKan alltid v\u00e4nda tillbaks, det f\u00e5r ta vad det tar nu\nMed min n\u00e4ve i luften, och min clique har min rygg (Alltid)\nLedsen f\u00f6r skiten jag gjort, det jag t\u00e4nkt om mig sj\u00e4lv, aldrig igen\nJag har inget svar, men v\u00e4gen \u00e4r d\u00e4r och jag vill och jag ska\n\n[Refr\u00e4ng: Ayla Shatz]\nDet g\u00f6r ont men g\u00e5 \u00e4nd\u00e5, du kan alltid v\u00e4nda om\nDet g\u00f6r ont men g\u00e5 \u00e4nd\u00e5\nDu \u00e4r h\u00e4r och kom hit som en vandrare\nDet g\u00f6r ont men g\u00e5 \u00e4nd\u00e5, du kan alltid v\u00e4nda om\nDet g\u00f6r ont men g\u00e5 \u00e4nd\u00e5\nDu \u00e4r h\u00e4r och kom hit som en vandrare\n\n[Cleo]\nAlla har dr\u00f6mmar, m\u00e5nga vill n\u00e5nting, ibland vill man sluta\nIbland blir man kall, alla k\u00e4nslor blir frusna och man slutar njuta\nHojta p\u00e5 din syster n\u00e4r \u00e5ngest kommer i dig\nHojta p\u00e5 din syster f\u00f6r jag kommer h\u00e5lla i dig\n\n[N\u00e4\u00e4\u00e4k]\nHojta p\u00e5 din bror och fr\u00e5ga mig vad du vill\nLivet \u00e4r h\u00e5rt kompis, d\u00e4rf\u00f6r det tagit tid\nBack in the days jag var all about money, weed, ingenting annat\nHar sett den h\u00e4r staden bli darker than black\nSv\u00e5rt att se v\u00e4gen d\u00e5 hatar de N\u00e4\u00e4\u00e4k\nMen jag lovar och sv\u00e4r att de pratar ba' crap\nOch de'e sv\u00e5rt att f\u00f6rst\u00e5 men jag starta' med jack shit i min ficka man tittar tillbaks\nYou might also like[Cleo]\nDet f\u00e5r bli vad det ska, de'e ba' l\u00e5ta det va\nOm du tvekar p\u00e5 hur \u00e4r jag med dig\nOm du backar tillbaka jag ser dig\nSe ba' p\u00e5\n\n[N\u00e4\u00e4\u00e4k]\nSe ba' p\u00e5 N\u00e4\u00e4\u00e4k han \u00e4r alltid p\u00e5 v\u00e4g\nHar f\u00e5tt mycket g\u00e4ht men de s\u00e5ren har l\u00e4kt\nOch n\u00e5got jag l\u00e4rt mig de'e livet \u00e4r v\u00e4rt\nMycket mer \u00e4n ba' skit, massa slit och besv\u00e4r\n\n[Brygga: Cleo]\nKan alltid v\u00e4nda tillbaks, det f\u00e5r ta vad det tar nu\nMed min n\u00e4ve i luften, och min clique har min rygg (Alltid)\nLedsen f\u00f6r skiten jag gjort, det jag t\u00e4nkt om mig sj\u00e4lv, aldrig igen\nJag har inget svar, men v\u00e4gen \u00e4r d\u00e4r och jag vill och jag ska\n\n[Refr\u00e4ng: Ayla Shatz]\nDet g\u00f6r ont men g\u00e5 \u00e4nd\u00e5, du kan alltid v\u00e4nda om\nDet g\u00f6r ont men g\u00e5 \u00e4nd\u00e5\nDu \u00e4r h\u00e4r och kom hit som en vandrare\nDet g\u00f6r ont men g\u00e5 \u00e4nd\u00e5, du kan alltid v\u00e4nda om\nDet g\u00f6r ont men g\u00e5 \u00e4nd\u00e5\nDu \u00e4r h\u00e4r och kom hit som en vandrareEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/7915597",
+   "artist_names": "Cleo (SWE) (Ft. Ayla Adams)",
+   "full_title": "Tornetr\u00e4sket by\u00a0Cleo\u00a0(SWE) (Ft.\u00a0Ayla\u00a0Adams)",
+   "header_image_thumbnail_url": "https://images.genius.com/efa3b52b108cf97260115fa8a067780e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/efa3b52b108cf97260115fa8a067780e.1000x1000x1.jpg",
+   "id": 7915597,
+   "language": "sv",
+   "lyrics_owner_id": 911319,
+   "lyrics_state": "complete",
+   "path": "/Cleo-swe-tornetrasket-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Cleo-swe-tornetrasket-sample",
+   "release_date_components": {
+    "year": 2022,
+    "month": 4,
+    "day": 15
+   },
+   "release_date_for_display": "April 15, 2022",
+   "release_date_with_abbreviated_month_for_display": "Apr. 15, 2022",
+   "song_art_image_thumbnail_url": "https://images.genius.com/efa3b52b108cf97260115fa8a067780e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/efa3b52b108cf97260115fa8a067780e.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tornetr\u00e4sket",
+   "title_with_featured": "Tornetr\u00e4sket (Ft.\u00a0Ayla\u00a0Adams)",
+   "url": "https://genius.com/Cleo-swe-tornetrasket-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1798552",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1798552,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ayla Adams",
+     "url": "https://genius.com/artists/Ayla-adams"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/125177",
+    "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+    "id": 125177,
+    "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Cleo (SWE)",
+    "url": "https://genius.com/artists/Cleo-swe",
+    "iq": 292
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/7915597/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_7915597' class='rg_embed_link' data-song-id='7915597'>Read <a href='https://genius.com/Cleo-swe-tornetrasket-lyrics'>\u201cTornetr\u00e4sket\u201d by Cleo\u00a0(SWE)</a> on Genius</div> <script crossorigin src='//genius.com/songs/7915597/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2022-04-15",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/918823",
+    "cover_art_url": "https://images.genius.com/822739bb31c33a97858f93c0f00ad3ce.580x580x1.png",
+    "full_title": "Missaoui by Cleo (SWE)",
+    "id": 918823,
+    "name": "Missaoui",
+    "url": "https://genius.com/albums/Cleo-swe/Missaoui",
+    "artist": {
+     "api_path": "/artists/125177",
+     "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+     "id": 125177,
+     "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Cleo (SWE)",
+     "url": "https://genius.com/artists/Cleo-swe",
+     "iq": 292
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 387897,
+    "annotator_login": "LucasGabrielRM",
+    "api_path": "/referents/27142788",
+    "classification": "needs_exegesis",
+    "fragment": "Tornetr\u00e4sket",
+    "id": 27142788,
+    "is_description": true,
+    "path": "/27142788/Cleo-swe-tornetrasket/Tornetrasket",
+    "range": {
+     "content": "Tornetr\u00e4sket"
+    },
+    "song_id": 7915597,
+    "url": "https://genius.com/27142788/Cleo-swe-tornetrasket/Tornetrasket",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/7915597",
+     "client_timestamps": {
+      "updated_by_human_at": 1668618152,
+      "lyrics_updated_at": 1668618107
+     },
+     "context": "Cleo (SWE)",
+     "id": 7915597,
+     "image_url": "https://images.genius.com/efa3b52b108cf97260115fa8a067780e.1000x1000x1.jpg",
+     "link_title": "Tornetr\u00e4sket by\u00a0Cleo\u00a0(SWE) (Ft.\u00a0Ayla\u00a0Adams)",
+     "title": "Tornetr\u00e4sket",
+     "type": "Song",
+     "url": "https://genius.com/Cleo-swe-tornetrasket-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/27142788",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 27142788,
+      "pinned": false,
+      "share_url": "https://genius.com/27142788",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/27142788/Cleo-swe-tornetrasket/Tornetrasket",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/387897",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/c3d43ef8387ce5c23cfc9a3b3a61cebf",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/c3d43ef8387ce5c23cfc9a3b3a61cebf",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/c3d43ef8387ce5c23cfc9a3b3a61cebf",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/c3d43ef8387ce5c23cfc9a3b3a61cebf",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/NdigQmfIQRSqJ5RrlTzN_Untitled-1.png",
+         "human_readable_role_for_display": "Moderator",
+         "id": 387897,
+         "iq": 567089,
+         "login": "LucasGabrielRM",
+         "name": "Lucas Gabriel",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/LucasGabrielRM",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=3chhBmtkA-o"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/155733",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 155733,
+     "image_url": "https://images.genius.com/06fb9f8694afea38ca29edb85931e2dc.654x654x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Academics",
+     "url": "https://genius.com/artists/Academics"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1798552",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1798552,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ayla Adams",
+     "url": "https://genius.com/artists/Ayla-adams"
+    },
+    {
+     "api_path": "/artists/125177",
+     "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+     "id": 125177,
+     "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Cleo (SWE)",
+     "url": "https://genius.com/artists/Cleo-swe",
+     "iq": 292
+    }
+   ],
+   "artist": "Cleo (SWE)",
+   "lyrics": "Tornetr\u00e4sket Lyrics[Refr\u00e4ng: Ayla]\nJag vet att det landar d\u00e4r inne i dig\nKom aldrig d\u00e4r in, du sa du gett mig allt du har\nTa mig \u00e4nda ner i det f\u00f6r jag vill va i det\nL\u00e5t mig komma in, g\u00e5 runt d\u00e4r in i dalen hand i hand\n\n[Vers 1: Cleo]\nS\u00f6ker dig s\u00e5 du g\u00e5r du \u00e4lskling g\u00e5r jag efter\nIbland f\u00e5r jag g\u00e5 mycket djupare \u00e4n Tornertr\u00e4sket\nJag vill g\u00e4rna dela vibe ibland med sk\u00e5l och fester\nMen f\u00f6r dig tar br\u00e4nslet slut, d\u00e5 du n\u00e5r ba gr\u00e4nsen\nT\u00e4nk om solen kunde f\u00e5nga m\u00e5nen\nT\u00e4nk om vinden kunde stanna f\u00e5geln\nJag brukar fr\u00e5ga ''vad det \u00e4r du gr\u00e5ter?''\n''Vad \u00e4r din l\u00e4ngtan?'' om jag kunde f\u00e5 den\nJag har sv\u00e5rt att se din k\u00e4rlek, som du h\u00e5ller \u00e5t den\nJag vill visa v\u00e4rlden om du l\u00e5ter mig\nV\u00e4rlden som jag ser n\u00e4r jag f\u00f6rl\u00e5tit dig\nS\u00e5 l\u00e5t mig bryta ner ditt pok\u0435rface\nDu \u00e4r s\u00e5 j\u00e4vla vacker n\u00e4r du visar vad som s\u00e5rar dig\nDet du spring\u0435r ifr\u00e5n kommer snabbt tillbaks\nMen jag kan packa upp packa nytt bagage\nDu gr\u00e4ver h\u00e5let djupt som att det va din grav \u00a0\nVill prova trycka p\u00e5, inte st\u00e4nga av\n[Refr\u00e4ng: Ayla]\nJag vet att det landar d\u00e4r inne i dig\nKom aldrig d\u00e4r in, du sa du gett mig allt du har\nTa mig \u00e4nda ner i det f\u00f6r jag vill va i det\nL\u00e5t mig komma in, g\u00e5 runt d\u00e4r in i dalen hand i hand\n\n[Vers 2: Cleo]\nS\u00e5 m\u00e5nga n\u00e4tter som vi k\u00e4mpat f\u00f6r att n\u00e5 varandra\nKliat oss till t\u00e5rar och f\u00e5tt s\u00e5r i pannan\nMen jag vill inte ha n\u00e5n annan\nSv\u00e5rt \u00e5 fatta vart vi hamna\nTrodde vi tv\u00e5 skull' bli gamla\nAllt jag gjorde va adore ya\nGe mig nyckeln till din l\u00e5da\nJag \u00f6ppnar portar som Aurora\nV\u00e5ga sl\u00e4ppa in mig d\u00e5r\u00e5\nMen vars \u00e4r du da\nP\u00e5 n\u00e5n \u00f6 n\u00e5nstans p\u00e5 Kuba\nSom alla g\u00e5nger som du v\u00e4nt bort , bort\nVars \u00e4r du? Jag ba blev utan, vars \u00e4r du\nJag har varit nere sett korallerna i Torne\nMen jag kan inte h\u00e5lla i dom alla \u00e5t dig\nJag f\u00f6rs\u00f6kte l\u00e4ka, h\u00e5lla handen \u00f6ver s\u00e5ren\nHar varit bredvid, gjort mitt b\u00e4sta f\u00f6r \u00e5 n\u00e5 dig\nMen baby din k\u00e4rlek du brinner f\u00f6r\nDu sl\u00e4cker ner som ett hinder f\u00f6r\nDig, vad\u00e5 d\u00e5? Allt jag gjorde va adore ya\nYou might also like[Refr\u00e4ng: Ayla]\nTa mig \u00e4nda ner i det f\u00f6r jag vill va i det\nL\u00e5t mig komma in, g\u00e5 runt d\u00e4r in i dalen hand i hand\nJag vet att det landar d\u00e4r inne i dig\nKom aldrig d\u00e4r in, du sa du gett mig allt du har\nTa mig \u00e4nda ner i det f\u00f6r jag vill va i det\nL\u00e5t mig komma in, g\u00e5 runt d\u00e4r in i dalen hand i hand\n\n[Brygga: Cleo]\nS\u00e5 mycket tid som du har waistat\nP\u00e5 att st\u00e4nga av din k\u00e4nsla\nDen h\u00e4r g\u00e5ngen va den l\u00e4ngsta\nSom mycket fint som kunnat h\u00e4nda\nS\u00e5 mycket tid som du har waistat\nP\u00e5 att st\u00e4nga av din k\u00e4nsla\nDen h\u00e4r g\u00e5ngen va den l\u00e4ngsta\nSom mycket fint som kunnat h\u00e4nda\n\n[Outro: Afunakwa]\n[?]Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/419003",
+   "artist_names": "Cleo (SWE) (Ft. Kristin Amparo)",
+   "full_title": "G\u00e5 P\u00e5 Salong by\u00a0Cleo\u00a0(SWE) (Ft.\u00a0Kristin\u00a0Amparo)",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/9769046c52fe432dba79658c34eb8deb.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/9769046c52fe432dba79658c34eb8deb.580x580x1.jpg",
+   "id": 419003,
+   "language": "sv",
+   "lyrics_owner_id": 604616,
+   "lyrics_state": "complete",
+   "path": "/Cleo-swe-ga-pa-salong-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Cleo-swe-ga-pa-salong-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 1,
+    "day": 25
+   },
+   "release_date_for_display": "January 25, 2014",
+   "release_date_with_abbreviated_month_for_display": "Jan. 25, 2014",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/9769046c52fe432dba79658c34eb8deb.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/9769046c52fe432dba79658c34eb8deb.580x580x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 8,
+    "iq_earners": 6,
+    "transcribers": 5,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "G\u00e5 P\u00e5 Salong",
+   "title_with_featured": "G\u00e5 P\u00e5 Salong (Ft.\u00a0Kristin\u00a0Amparo)",
+   "url": "https://genius.com/Cleo-swe-ga-pa-salong-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/332104",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 332104,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kristin Amparo",
+     "url": "https://genius.com/artists/Kristin-amparo"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/125177",
+    "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+    "id": 125177,
+    "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Cleo (SWE)",
+    "url": "https://genius.com/artists/Cleo-swe",
+    "iq": 292
+   },
+   "apple_music_id": "815640013",
+   "apple_music_player_url": "https://genius.com/songs/419003/apple_music_player",
+   "description": {
+    "plain": "Cleo och Amparos hyllning till frisersalongen, en naturlig samlingsplats f\u00f6r kvinnor, laddad med kvinnopower och systerskap."
+   },
+   "embed_content": "<div id='rg_embed_link_419003' class='rg_embed_link' data-song-id='419003'>Read <a href='https://genius.com/Cleo-swe-ga-pa-salong-lyrics'>\u201cG\u00e5 P\u00e5 Salong\u201d by Cleo\u00a0(SWE)</a> on Genius</div> <script crossorigin src='//genius.com/songs/419003/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-01-25",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/222872",
+    "cover_art_url": "https://images.genius.com/8dd94dc50850f6f5bd9b0a71ca224695.580x580x1.jpg",
+    "full_title": "Vem E Han by Cleo (SWE)",
+    "id": 222872,
+    "name": "Vem E Han",
+    "url": "https://genius.com/albums/Cleo-swe/Vem-e-han",
+    "artist": {
+     "api_path": "/artists/125177",
+     "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+     "id": 125177,
+     "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Cleo (SWE)",
+     "url": "https://genius.com/artists/Cleo-swe",
+     "iq": 292
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 409651,
+    "annotator_login": "theappropriator",
+    "api_path": "/referents/3730751",
+    "classification": "accepted",
+    "fragment": "G\u00e5 P\u00e5 Salong",
+    "id": 3730751,
+    "is_description": true,
+    "path": "/3730751/Cleo-swe-ga-pa-salong/Ga-pa-salong",
+    "range": {
+     "content": "G\u00e5 P\u00e5 Salong"
+    },
+    "song_id": 419003,
+    "url": "https://genius.com/3730751/Cleo-swe-ga-pa-salong/Ga-pa-salong",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/419003",
+     "client_timestamps": {
+      "updated_by_human_at": 1576868947,
+      "lyrics_updated_at": 1552430185
+     },
+     "context": "Cleo (SWE)",
+     "id": 419003,
+     "image_url": "https://images.rapgenius.com/9769046c52fe432dba79658c34eb8deb.580x580x1.jpg",
+     "link_title": "G\u00e5 P\u00e5 Salong by\u00a0Cleo\u00a0(SWE) (Ft.\u00a0Kristin\u00a0Amparo)",
+     "title": "G\u00e5 P\u00e5 Salong",
+     "type": "Song",
+     "url": "https://genius.com/Cleo-swe-ga-pa-salong-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3730751",
+      "body": {
+       "plain": "Cleo och Amparos hyllning till frisersalongen, en naturlig samlingsplats f\u00f6r kvinnor, laddad med kvinnopower och systerskap."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3730751,
+      "pinned": false,
+      "share_url": "https://genius.com/3730751",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3730751/Cleo-swe-ga-pa-salong/Ga-pa-salong",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3698451",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cXhv9W9QWaWf3sfQ52VA_jag%20och%20hund%20tekla.jpeg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cXhv9W9QWaWf3sfQ52VA_jag%20och%20hund%20tekla.jpeg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cXhv9W9QWaWf3sfQ52VA_jag%20och%20hund%20tekla.jpeg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cXhv9W9QWaWf3sfQ52VA_jag%20och%20hund%20tekla.jpeg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/s2nIOfTzyNK3J6kFOLAq_Namnlo%CC%88st.png",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3698451,
+         "iq": 17301,
+         "login": "Aegidrom",
+         "name": "Aegidrom",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Aegidrom",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=E_2wFD5Zeg0"
+    },
+    {
+     "native_uri": "spotify:track:4008dpmqe3536dNu10BVAM",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/4008dpmqe3536dNu10BVAM"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/174757",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 174757,
+     "image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Broke \u2019n Tipsy",
+     "url": "https://genius.com/artists/Broke-n-tipsy"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Cleo (SWE)",
+   "lyrics": "G\u00e5 P\u00e5 Salong Lyrics[Vers 1: Cleo]\nJag snackar skit p\u00e5 salongen, g\u00f6r mig fin p\u00e5 salongen\nVaxar ben p\u00e5 salongen men aldrig mer p\u00e5 salongen\nJag blir en ny p\u00e5 salongen, det \u00e4r ganska dyrt p\u00e5 salongen\nMen jag f\u00e5r extrapris p\u00e5 salongen s\u00e5 du kan f\u00e5 rabattkuponger\nJag vill h\u00e4nga d\u00e4r guzzarna h\u00e4nger, det bara det\nOch p\u00e5 salongen har en kvinna alltid vart ifred\nDet \u00e4r inte han jag g\u00f6r mig fin f\u00f6r, vad har du f\u00e5tt det ifr\u00e5n\nH\u00e4nger p\u00e5 salongen bara f\u00f6r att det \u00e4r \u00e7ok med v\u00e5rt\nAlltid varit s\u00e5 i tusen miljoner \u00e5ttio \u00e5r\nSmider v\u00e5ra planer som mafioso\nSkiter i v\u00e5ra vanor f\u00f6r h\u00e4r f\u00e5r vi lov\nDet \u00e4r inte dig jag g\u00f6r mig fin f\u00f6r, det \u00e4r sj\u00e4lsligt\nFixar mina naglar bara f\u00f6r att det \u00e4r h\u00e4rligt\n[Hook]\nG\u00e5-p\u00e5-sa g\u00e5-p\u00e5-sa g\u00e5-p\u00e5 [x3] g\u00e5-p\u00e5-sa, g\u00e5 p\u00e5 salong\nG\u00e5-p\u00e5-sa g\u00e5-p\u00e5-sa g\u00e5-p\u00e5 [x3] g\u00e5-p\u00e5-sa, g\u00e5 p\u00e5 salong\nG\u00e5-p\u00e5-sa [x7] g\u00e5 p\u00e5 salong\nG\u00e5-p\u00e5-sa [x7] g\u00e5 p\u00e5 salongen\n\n[Vers 2: Kristin Amparo]\nJag g\u00f6r mig fin (p\u00e5 salongen)\nJag plockar bryn (p\u00e5 salongen)\nG\u00f6r manikyr (p\u00e5 salongen)\nFixar frisyr (p\u00e5 salongen)\nDet \u00e4r s\u00e5 sk\u00f6nt att kliva in och bara slappna av\nI alla v\u00e4rldens st\u00e4der \u00e4r salongen v\u00e5r oas\nH\u00e4r faller burkar ner till marken och vi snackar skit\nJag m\u00f6ter mina syrror, h\u00e4r \u00e4r alla varandra lik\nMed papiljotter i h\u00e5ret\nSmider vi planer om att ta \u00f6ver, \u00f6vertag\nOooo, inget av det \u00e4r f\u00f6r dig\nOooo, jag g\u00f6r det f\u00f6r mig sj\u00e4lv\nOooo, inget av det \u00e4r f\u00f6r han\nF\u00f6lj med\n\n[Hook]\nG\u00e5-p\u00e5-sa g\u00e5-p\u00e5-sa g\u00e5-p\u00e5 [x3] g\u00e5-p\u00e5-sa, g\u00e5 p\u00e5 salong\nG\u00e5-p\u00e5-sa [x7] g\u00e5 p\u00e5 salong\nG\u00e5-p\u00e5-sa [x7] g\u00e5 p\u00e5 salongen...You might also likeEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/8103148",
+   "artist_names": "Cleo (SWE) (Ft. Academics & MISS MAMI)",
+   "full_title": "7 lr 8 by\u00a0Cleo\u00a0(SWE) (Ft.\u00a0Academics & MISS\u00a0MAMI)",
+   "header_image_thumbnail_url": "https://images.genius.com/822739bb31c33a97858f93c0f00ad3ce.300x300x1.png",
+   "header_image_url": "https://images.genius.com/822739bb31c33a97858f93c0f00ad3ce.580x580x1.png",
+   "id": 8103148,
+   "language": "sv",
+   "lyrics_owner_id": 2340679,
+   "lyrics_state": "complete",
+   "path": "/Cleo-swe-7-lr-8-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Cleo-swe-7-lr-8-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/822739bb31c33a97858f93c0f00ad3ce.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/822739bb31c33a97858f93c0f00ad3ce.580x580x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "7 lr 8",
+   "title_with_featured": "7 lr 8 (Ft.\u00a0Academics & MISS\u00a0MAMI)",
+   "url": "https://genius.com/Cleo-swe-7-lr-8-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/3198714",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 3198714,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "MISS MAMI",
+     "url": "https://genius.com/artists/Miss-mami"
+    },
+    {
+     "api_path": "/artists/155733",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 155733,
+     "image_url": "https://images.genius.com/06fb9f8694afea38ca29edb85931e2dc.654x654x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Academics",
+     "url": "https://genius.com/artists/Academics"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/125177",
+    "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+    "id": 125177,
+    "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Cleo (SWE)",
+    "url": "https://genius.com/artists/Cleo-swe",
+    "iq": 292
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/8103148/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_8103148' class='rg_embed_link' data-song-id='8103148'>Read <a href='https://genius.com/Cleo-swe-7-lr-8-lyrics'>\u201c7 lr 8\u201d by Cleo\u00a0(SWE)</a> on Genius</div> <script crossorigin src='//genius.com/songs/8103148/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/918823",
+    "cover_art_url": "https://images.genius.com/822739bb31c33a97858f93c0f00ad3ce.580x580x1.png",
+    "full_title": "Missaoui by Cleo (SWE)",
+    "id": 918823,
+    "name": "Missaoui",
+    "url": "https://genius.com/albums/Cleo-swe/Missaoui",
+    "artist": {
+     "api_path": "/artists/125177",
+     "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+     "id": 125177,
+     "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Cleo (SWE)",
+     "url": "https://genius.com/artists/Cleo-swe",
+     "iq": 292
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2340679,
+    "annotator_login": "Isakrohlin",
+    "api_path": "/referents/26058219",
+    "classification": "needs_exegesis",
+    "fragment": "7 lr 8",
+    "id": 26058219,
+    "is_description": true,
+    "path": "/26058219/Cleo-swe-7-lr-8/7-lr-8",
+    "range": {
+     "content": "7 lr 8"
+    },
+    "song_id": 8103148,
+    "url": "https://genius.com/26058219/Cleo-swe-7-lr-8/7-lr-8",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/8103148",
+     "client_timestamps": {
+      "updated_by_human_at": 1657653047,
+      "lyrics_updated_at": 1657653047
+     },
+     "context": "Cleo (SWE)",
+     "id": 8103148,
+     "image_url": "https://images.genius.com/822739bb31c33a97858f93c0f00ad3ce.580x580x1.png",
+     "link_title": "7 lr 8 by\u00a0Cleo\u00a0(SWE) (Ft.\u00a0Academics & MISS\u00a0MAMI)",
+     "title": "7 lr 8",
+     "type": "Song",
+     "url": "https://genius.com/Cleo-swe-7-lr-8-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/26058219",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 26058219,
+      "pinned": false,
+      "share_url": "https://genius.com/26058219",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/26058219/Cleo-swe-7-lr-8/7-lr-8",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2340679",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/cb4fdec9ee7b2f417954ce7475bdabd7",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/cb4fdec9ee7b2f417954ce7475bdabd7",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/cb4fdec9ee7b2f417954ce7475bdabd7",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/cb4fdec9ee7b2f417954ce7475bdabd7",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/cb4fdec9ee7b2f417954ce7475bdabd7",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2340679,
+         "iq": 2176,
+         "login": "Isakrohlin",
+         "name": "Isakrohlin",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Isakrohlin",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/3198714",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 3198714,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "MISS MAMI",
+     "url": "https://genius.com/artists/Miss-mami"
+    },
+    {
+     "api_path": "/artists/155733",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 155733,
+     "image_url": "https://images.genius.com/06fb9f8694afea38ca29edb85931e2dc.654x654x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Academics",
+     "url": "https://genius.com/artists/Academics"
+    },
+    {
+     "api_path": "/artists/125177",
+     "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+     "id": 125177,
+     "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Cleo (SWE)",
+     "url": "https://genius.com/artists/Cleo-swe",
+     "iq": 292
+    }
+   ],
+   "artist": "Cleo (SWE)",
+   "lyrics": "7 lr 8 Lyrics[Intro: Cleo]\nL\u00e5t mig va' en part of dig babe\nDu kan f\u00e5 mitt heart on a plate\nDom andra - inge bra eller fake\nVi borde ba' va p\u00e5 en date\n\n[Refr\u00e4ng: Cleo]\n\u00c4r du en sjua eller en \u00e5tta? Ring mig nio till fem\nDom kan ligga, dom kan t\u00e4nka, jag vill rulla runt i din s\u00e4ng\n\u00c4r du en sjua eller en \u00e5tta? Kanske vi kan g\u00e5 hem?\nDom som tar men inte kan sk\u00e4nka - g\u00e5 aldrig dit\u00e5t igen\n\u00c4r du en sjua? eller en \u00e5tta? (Ring mig)\n\u00c4r du en sjua? eller en \u00e5tta? (Ring mig, \u00e4t mig)\n\u00c4r du en sjua? eller en \u00e5tta? (Ring mig)\n\u00c4r du en sjua? eller en \u00e5tta? (Ring mig)\n\u00c4r du en sjua eller en \u00e5tta? Ring mig nio till fem\nDom kan ligga, dom kan t\u00e4nka, jag vill rulla runt i din s\u00e4ng\n\u00c4r du en sjua eller en \u00e5tta? Kanske vi kan g\u00e5 hem?\nDom som tar men inte kan sk\u00e4nka - g\u00e5 aldrig dit\u00e5t igen\n\n[Vers 1: Cleo]\nFanns inga m\u00e4n h\u00e4r, okej? Stopp mig - han \u00e4r en skr\u00e4ll\nFuck alla tior, tomma i skallen, o' d\u00e5 \u00e4r jag sn\u00e4ll\nN\u00e4r dom verkar smart \u00e4r dom ba' st\u00f6rig, har inga sk\u00e4mt\nHur du ser ut - de' e klart du \u00e4r jobbig, t\u00f6ntig, k\u00e4nd\nVa' h\u00e4nt? Killen som roddar - my type\nHan \u00e4r ful-snygg, han har s\u00f6tsur vibe som pad thai\nDom snygga \u00e4r dum, kan inte snacka ens online\nDom tror dom \u00e4r hotshot men dom k\u00e4nns som Fun Light\n\n[Refr\u00e4ng: Cleo]\n\u00c4r du en sjua eller en \u00e5tta? Ring mig nio till fem\nDom kan ligga, dom kan t\u00e4nka, jag vill rulla runt i din s\u00e4ng\n\u00c4r du en sjua eller en \u00e5tta? Kanske vi kan g\u00e5 hem?\nDom som tar men inte kan sk\u00e4nka - g\u00e5 aldrig dit\u00e5t igen\n\u00c4r du en sjua? eller en \u00e5tta? (Ring mig)\n\u00c4r du en sjua? eller en \u00e5tta? (Ring mig, \u00e4t mig)\n\u00c4r du en sjua? eller en \u00e5tta? (Ring mig)\n\u00c4r du en sjua? eller en \u00e5tta? (Ring mig)\n\n[Vers 2: MISS MIAMI]\nSka vi ba gatch k\u00e4ka hasch i en cake all day\nDroppa roofet i coopen whoptidido\nVi kan l\u00e4gga oss i right lain\nTa det slow och parkera\nVi' n\u00e5n l\u00e4gga som vi hittade p\u00e5 air bnb\nO ba skita i the no smoke policy\nN\u00e4r vi knullar hela natten och ba lyssnar p\u00e5 n\u00e5n RnB\nYeah I root for the loose ends\nH\u00e5ller mig till nonsence\nS\u00e5 ba ta min tid\nKan bli k\u00e4r p\u00e5 en natt ska vi dra Madrid\nHey hey that's how I feel\nVi kan ba popp p\u00e5 n\u00e5 fizzy candy\nDricka p\u00e5 n\u00e5tt gott ta en good ol brandy\nK\u00f6pa mig en lotto och vi skrapar den\nF\u00f6rlora den men agerar som jag vann p\u00e5 den\nTa en flight var \u00e4r next stop huh\nYou might also like[Refr\u00e4ng: Cleo]\n\u00c4r du en sjua eller en \u00e5tta? Ring mig nio till fem\nDom kan ligga, dom kan t\u00e4nka, jag vill rulla runt i din s\u00e4ng\n\u00c4r du en sjua eller en \u00e5tta? Kanske vi kan g\u00e5 hem?\nDom som tar men inte kan sk\u00e4nka - g\u00e5 aldrig dit\u00e5t igen\n\u00c4r du en sjua? eller en \u00e5tta? (Ring mig)\n\u00c4r du en sjua? eller en \u00e5tta? (\u00e4t mig)\n\u00c4r du en sjua? eller en \u00e5tta? (Ring mig)\n\u00c4r du en sjua? eller en \u00e5tta? (Ring mig)\n\n[Brygga: Cleo]\nVi kan va' tillsammans och k\u00e4ra\n\u00c5ka p\u00e5 en b\u00e5t eller br\u00e4da\nTror p\u00e5 att det finns n\u00e5n f\u00f6r alla \u00e4nd\u00e5\n\u00c4r du min sjua kan vi g\u00e5 o' bli tv\u00e5\nJag har letat \u00f6ver och under\nSom Sawyer s\u00f6kte Kate genom djungeln\nTror p\u00e5 att det finns n\u00e5n f\u00f6r alla \u00e4nd\u00e5\n\u00c4r du min sjua kan vi bli tv\u00e5\n\n[Refr\u00e4ng: Cleo]\n\u00c4r du en sjua eller en \u00e5tta? Ring mig nio till fem\nDom kan ligga, dom kan t\u00e4nka, jag vill rulla runt i din s\u00e4ng\n\u00c4r du en sjua eller en \u00e5tta? Kanske vi kan g\u00e5 hem?\nDom som tar men inte kan sk\u00e4nka - g\u00e5 aldrig dit\u00e5t igen\n\u00c4r du en sjua? eller en \u00e5tta? (Ring mig)\n\u00c4r du en sjua? eller en \u00e5tta? (Ring mig, \u00e4t mig)\n\u00c4r du en sjua? eller en \u00e5tta? (Ring mig)\n\u00c4r du en sjua? eller en \u00e5tta? (Ring mig)\n[Outro: Cleo & Acamdemics]\n\u00c4r du en sjua?\nJa det \u00e4r jag\nEller en \u00e5tta?\nJa jag \u00e4r det\n\u00c4r du en sjua?\nDet \u00e4r jag\nEller en \u00e5tta?\nJag \u00e4r en eight\n\u00c4r du en sjua?\nJag det \u00e4r jag\nEller en \u00e5tta?\nJa jag \u00e4r det\n\u00c4r du en sjua?\nEn sju\u00e5ttaEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/7981680",
+   "artist_names": "Cleo (SWE)",
+   "full_title": "Tjejerna Tjejerna Tjejerna by\u00a0Cleo\u00a0(SWE)",
+   "header_image_thumbnail_url": "https://images.genius.com/643674b00a0aab0378f38957672cee08.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/643674b00a0aab0378f38957672cee08.1000x1000x1.jpg",
+   "id": 7981680,
+   "language": "sv",
+   "lyrics_owner_id": 911319,
+   "lyrics_state": "complete",
+   "path": "/Cleo-swe-tjejerna-tjejerna-tjejerna-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Cleo-swe-tjejerna-tjejerna-tjejerna-sample",
+   "release_date_components": {
+    "year": 2022,
+    "month": 4,
+    "day": 29
+   },
+   "release_date_for_display": "April 29, 2022",
+   "release_date_with_abbreviated_month_for_display": "Apr. 29, 2022",
+   "song_art_image_thumbnail_url": "https://images.genius.com/643674b00a0aab0378f38957672cee08.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/643674b00a0aab0378f38957672cee08.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tjejerna Tjejerna Tjejerna",
+   "title_with_featured": "Tjejerna Tjejerna Tjejerna",
+   "url": "https://genius.com/Cleo-swe-tjejerna-tjejerna-tjejerna-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/125177",
+    "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+    "id": 125177,
+    "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Cleo (SWE)",
+    "url": "https://genius.com/artists/Cleo-swe",
+    "iq": 292
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/7981680/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_7981680' class='rg_embed_link' data-song-id='7981680'>Read <a href='https://genius.com/Cleo-swe-tjejerna-tjejerna-tjejerna-lyrics'>\u201cTjejerna Tjejerna Tjejerna\u201d by Cleo\u00a0(SWE)</a> on Genius</div> <script crossorigin src='//genius.com/songs/7981680/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2022-04-29",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/918823",
+    "cover_art_url": "https://images.genius.com/822739bb31c33a97858f93c0f00ad3ce.580x580x1.png",
+    "full_title": "Missaoui by Cleo (SWE)",
+    "id": 918823,
+    "name": "Missaoui",
+    "url": "https://genius.com/albums/Cleo-swe/Missaoui",
+    "artist": {
+     "api_path": "/artists/125177",
+     "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+     "id": 125177,
+     "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Cleo (SWE)",
+     "url": "https://genius.com/artists/Cleo-swe",
+     "iq": 292
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 387897,
+    "annotator_login": "LucasGabrielRM",
+    "api_path": "/referents/27142790",
+    "classification": "needs_exegesis",
+    "fragment": "Tjejerna Tjejerna Tjejerna",
+    "id": 27142790,
+    "is_description": true,
+    "path": "/27142790/Cleo-swe-tjejerna-tjejerna-tjejerna/Tjejerna-tjejerna-tjejerna",
+    "range": {
+     "content": "Tjejerna Tjejerna Tjejerna"
+    },
+    "song_id": 7981680,
+    "url": "https://genius.com/27142790/Cleo-swe-tjejerna-tjejerna-tjejerna/Tjejerna-tjejerna-tjejerna",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/7981680",
+     "client_timestamps": {
+      "updated_by_human_at": 1657652932,
+      "lyrics_updated_at": 1657652932
+     },
+     "context": "Cleo (SWE)",
+     "id": 7981680,
+     "image_url": "https://images.genius.com/643674b00a0aab0378f38957672cee08.1000x1000x1.jpg",
+     "link_title": "Tjejerna Tjejerna Tjejerna by\u00a0Cleo\u00a0(SWE)",
+     "title": "Tjejerna Tjejerna Tjejerna",
+     "type": "Song",
+     "url": "https://genius.com/Cleo-swe-tjejerna-tjejerna-tjejerna-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/27142790",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 27142790,
+      "pinned": false,
+      "share_url": "https://genius.com/27142790",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/27142790/Cleo-swe-tjejerna-tjejerna-tjejerna/Tjejerna-tjejerna-tjejerna",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/387897",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/c3d43ef8387ce5c23cfc9a3b3a61cebf",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/c3d43ef8387ce5c23cfc9a3b3a61cebf",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/c3d43ef8387ce5c23cfc9a3b3a61cebf",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/c3d43ef8387ce5c23cfc9a3b3a61cebf",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/NdigQmfIQRSqJ5RrlTzN_Untitled-1.png",
+         "human_readable_role_for_display": "Moderator",
+         "id": 387897,
+         "iq": 567089,
+         "login": "LucasGabrielRM",
+         "name": "Lucas Gabriel",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/LucasGabrielRM",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=oPMyM1SnlPQ"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/155733",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 155733,
+     "image_url": "https://images.genius.com/06fb9f8694afea38ca29edb85931e2dc.654x654x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Academics",
+     "url": "https://genius.com/artists/Academics"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/155733",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 155733,
+     "image_url": "https://images.genius.com/06fb9f8694afea38ca29edb85931e2dc.654x654x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Academics",
+     "url": "https://genius.com/artists/Academics"
+    },
+    {
+     "api_path": "/artists/125177",
+     "header_image_url": "https://images.genius.com/2a560097c33b380e2399c78919fb0350.1000x210x1.jpg",
+     "id": 125177,
+     "image_url": "https://images.genius.com/e04eaae1308eff88ad6fa15753184d4a.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Cleo (SWE)",
+     "url": "https://genius.com/artists/Cleo-swe",
+     "iq": 292
+    }
+   ],
+   "artist": "Cleo (SWE)",
+   "lyrics": "Tjejerna Tjejerna Tjejerna Lyrics[Chorus]\nFenty \u00e4r fint, men Kylie \u00e4r kass\nG\u00e5 p\u00e5 salong, dansa p\u00e5 fasching det viben inatt\nF\u00f6r morgonen gryr, det revolution och barnen ska upp\nFenty \u00e4r fint, men Kylie \u00e4r kass det klart det \u00e4r tufft\nFenty \u00e4r fint, men Kylie \u00e4r kass\nG\u00e5 p\u00e5 salong, dansa p\u00e5 fasching det viben inatt\nF\u00f6r morgonen gryr, det revolution och barnen ska upp\nFenty \u00e4r fint, men Kylie \u00e4r kass det klart det \u00e4r tufft\n\n[Verse 1: Cleo]\nSprinklar min stew, med en l\u00e5da garlic\nGuidar mitt crew, som anden fick r\u00e5da Ali\nRinger till Isse, vi sk\u00e5lar mami\nLess nu, st\u00e4ng han , Rosa Saris\nJag gav dig mitt liv som en g\u00e5va habi\nVad va det f\u00f6r stil n\u00e4r du fick mig att gr\u00e5ta maniskt\nFuck han, b\u00e5da bakis\nJag f\u00f6ddes p\u00e5 nytt som en kr\u00e5mad rari\nListan \u00e4r full, du f\u00e5r fr\u00e5ga Barni\nVi p\u00e5 salongen och v\u00e5rdar bodies\nF\u00f6rst, \u00e5ka dagis\nS\u0435n startar vi gang som kartellerna ovan Cali\nSe hur vi skin\u0435r solarie tans , st\u00e4ngde ner honom , Gulabi Gang\nSampat Pal Devi, se upp vart det \u00e4r trampat, allt \u00e4r vi\n[Chorus: Cleo]\nFenty \u00e4r fint, men Kylie \u00e4r kass\nG\u00e5 p\u00e5 salong, dansa p\u00e5 fasching det viben inatt\nF\u00f6r morgonen gryr, det revolution och barnen ska upp\nFenty \u00e4r fint, men Kylie \u00e4r kass det klart det \u00e4r tufft\nJag och tjejerna tjejerna tjejerna tjejerna tjejerna fuck you\nJag och tjejerna tjejerna tjejerna tjejerna tjejerna fuck you\nJag och tjejerna tjejerna tjejerna tjejerna tjejerna fuck you\nJag och tjejerna tjejerna tjejerna tjejerna tjejerna fuck you\n\n[Verse 2: Cleo]\nVill ha sex med Lil Nas X\nHemma i U\u00c5 sparkar in judo innan Rex\nTar inga swishar som n\u00e4r jag tittar tar en check\nUte med Suzi, sladdar i kurvan sladdar d\u00e4ck\nDumpa din kille, lyssna lyssna skriv en l\u00e5t\nKryddan \u00e4r ingen, du \u00e4r ett mirakel, kvinnan i filmen Gal Gadot\nInna da djungle, amason , det va samma d\u00e5\nVi \u00e4r som Gal gadot, Amanda Bergman , Amason\nFick citroner gjorde lemonada\nTacka livet, Violetta Parra\n\u00c4ter upp dig som en enchilada\nEn kvinna av folket Ch\u00e9 Gue Vara\nSe hur vi krigar som Pascalidou\nV\u00e4nder hot till kraften som i aikido\nGe dig ass i facet, det ba kasta tior\nSen vi strimlar ner dig i en packad silo\nTrollar med folk jag \u00e4r h\u00e4xa gal Sabrina\nHar magiska h\u00e4nder som baba Ridha\nSer in i framtid, Al Kahina\nDom vill br\u00e4nna p\u00e5 b\u00e5len, det samma lika\nMen vi \u00e4r gjorda f\u00f6r livet vi magnifika\nFuck dom, \u00a0ljus i m\u00f6rker\nGracias a la vida\nYou might also like[Chorus: Cleo]\nJag och tjejerna tjejerna tjejerna tjejerna tjejerna fuck you\nJag och tjejerna tjejerna tjejerna tjejerna tjejerna fuck you\nJag och tjejerna tjejerna tjejerna tjejerna tjejerna fuck you\nJag och tjejerna tjejerna tjejerna tjejerna tjejerna fuck you\nFenty \u00e4r fint, men Kylie \u00e4r kass\nG\u00e5 p\u00e5 salong, dansa p\u00e5 fasching det viben inatt\nF\u00f6r morgonen gryr, det revolution och barnen ska upp\nFenty \u00e4r fint, men Kylie \u00e4r kass det klart det \u00e4r tufft\n\n\n[Outro: Cleo]\nHeter Nathalie Miriam Missaoui\nHon \u00e4r s\u00e5 feisty, en backhand som Billie Jean King\nPull upp som Tina Turner eller Ida\nPull up som Tina, Isse eller Iza\nHeter Nathalie Miriam Missaoui\nHon \u00e4r s\u00e5 feisty, en backhand som Billie Jean King\nPull upp som Tina Turner eller Ida\nPull up som Tina, Isse eller Iza\nJag och tjejerna tjejernaEmbed"
+  }
+ ]
+}

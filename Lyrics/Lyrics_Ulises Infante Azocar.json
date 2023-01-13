@@ -1,0 +1,4608 @@
+{
+ "alternate_names": [
+  "Ulises Infante Azocar"
+ ],
+ "api_path": "/artists/16542",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 3,
+ "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+ "id": 16542,
+ "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "STOR",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Stor",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4335922,
+  "annotator_login": "Chancelorr",
+  "api_path": "/referents/17421249",
+  "classification": "needs_exegesis",
+  "fragment": "STOR",
+  "id": 17421249,
+  "is_description": true,
+  "path": "/17421249/Stor/Stor",
+  "range": {
+   "content": "STOR"
+  },
+  "song_id": null,
+  "url": "https://genius.com/17421249/Stor/Stor",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/16542",
+   "context": null,
+   "id": 16542,
+   "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+   "link_title": "STOR",
+   "title": "STOR",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Stor"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/17421249",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 17421249,
+    "pinned": false,
+    "share_url": "https://genius.com/17421249",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/17421249/Stor/Stor",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4335922",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/19235db3955f307e1b767a599e1e1715",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/19235db3955f307e1b767a599e1e1715",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/19235db3955f307e1b767a599e1e1715",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/19235db3955f307e1b767a599e1e1715",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/19235db3955f307e1b767a599e1e1715",
+       "human_readable_role_for_display": "Moderator",
+       "id": 4335922,
+       "iq": 1023112,
+       "login": "Chancelorr",
+       "name": "\u200bchancelorr",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/Chancelorr",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/4070707",
+   "artist_names": "STOR (Ft. Jireel & Linnea Henriksson)",
+   "full_title": "S\u00e4ga mig by\u00a0STOR (Ft.\u00a0Jireel & Linnea\u00a0Henriksson)",
+   "header_image_thumbnail_url": "https://images.genius.com/3bf3d90ad900e6c59a00763edb712f02.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3bf3d90ad900e6c59a00763edb712f02.1000x1000x1.jpg",
+   "id": 4070707,
+   "language": "sv",
+   "lyrics_owner_id": 3463637,
+   "lyrics_state": "complete",
+   "path": "/Stor-saga-mig-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Stor-saga-mig-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 11,
+    "day": 3
+   },
+   "release_date_for_display": "November 3, 2018",
+   "release_date_with_abbreviated_month_for_display": "Nov. 3, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/3bf3d90ad900e6c59a00763edb712f02.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3bf3d90ad900e6c59a00763edb712f02.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 16,
+    "iq_earners": 15,
+    "transcribers": 3,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 24269
+   },
+   "title": "S\u00e4ga mig",
+   "title_with_featured": "S\u00e4ga mig (Ft.\u00a0Jireel & Linnea\u00a0Henriksson)",
+   "url": "https://genius.com/Stor-saga-mig-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/69041",
+     "header_image_url": "https://images.genius.com/03d7c53e8daa71d695b1f341d5b9619a.1000x274x1.jpg",
+     "id": 69041,
+     "image_url": "https://images.genius.com/1ae60d549b79c8b926f5a472ddd19d5e.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Linnea Henriksson",
+     "url": "https://genius.com/artists/Linnea-henriksson"
+    },
+    {
+     "api_path": "/artists/615992",
+     "header_image_url": "https://images.genius.com/7b56f4fad768f77f51dd16385f1de570.580x345x1.jpg",
+     "id": 615992,
+     "image_url": "https://images.genius.com/f60ffe3570e60d9f8c08b6c03b398069.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jireel",
+     "url": "https://genius.com/artists/Jireel"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/16542",
+    "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+    "id": 16542,
+    "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "STOR",
+    "url": "https://genius.com/artists/Stor"
+   },
+   "apple_music_id": "1445420482",
+   "apple_music_player_url": "https://genius.com/songs/4070707/apple_music_player",
+   "description": {
+    "plain": "\u201cS\u00e4ga mig\u201d \u00e4r Stors cover av Linnea Henrikssons s\u00e5ng, \u201cS\u00e4ga mig\u201d. Under programmet \u201cS\u00e5 mycket b\u00e4ttre\u201d s\u00e5 f\u00e5r ett antal artister turas om att g\u00f6ra sina egna covers p\u00e5 de andra artisters l\u00e5tar. \u201cS\u00e4ga mig\u201d \u00e4r Stors hyllning till Linnea Henriksson.\n\nEfter programmet s\u00e5 blev \u00e4ven Jireel featured i l\u00e5ten."
+   },
+   "embed_content": "<div id='rg_embed_link_4070707' class='rg_embed_link' data-song-id='4070707'>Read <a href='https://genius.com/Stor-saga-mig-lyrics'>\u201cS\u00e4ga mig\u201d by STOR</a> on Genius</div> <script crossorigin src='//genius.com/songs/4070707/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-11-03",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/613184",
+    "cover_art_url": "https://images.genius.com/3bf3d90ad900e6c59a00763edb712f02.1000x1000x1.jpg",
+    "full_title": "S\u00e5 mycket b\u00e4ttre 2018 - Tolkningarna by STOR",
+    "id": 613184,
+    "name": "S\u00e5 mycket b\u00e4ttre 2018 - Tolkningarna",
+    "url": "https://genius.com/albums/Stor/Sa-mycket-battre-2018-tolkningarna",
+    "artist": {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6755681,
+    "annotator_login": "lilcallie",
+    "api_path": "/referents/15733676",
+    "classification": "unreviewed",
+    "fragment": "S\u00e4ga mig",
+    "id": 15733676,
+    "is_description": true,
+    "path": "/15733676/Stor-saga-mig/Saga-mig",
+    "range": {
+     "content": "S\u00e4ga mig"
+    },
+    "song_id": 4070707,
+    "url": "https://genius.com/15733676/Stor-saga-mig/Saga-mig",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4070707",
+     "client_timestamps": {
+      "updated_by_human_at": 1630522548,
+      "lyrics_updated_at": 1630522548
+     },
+     "context": "STOR",
+     "id": 4070707,
+     "image_url": "https://images.genius.com/3bf3d90ad900e6c59a00763edb712f02.1000x1000x1.jpg",
+     "link_title": "S\u00e4ga mig by\u00a0STOR (Ft.\u00a0Jireel & Linnea\u00a0Henriksson)",
+     "title": "S\u00e4ga mig",
+     "type": "Song",
+     "url": "https://genius.com/Stor-saga-mig-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/15733676",
+      "body": {
+       "plain": "\u201cS\u00e4ga mig\u201d \u00e4r Stors cover av Linnea Henrikssons s\u00e5ng, \u201cS\u00e4ga mig\u201d. Under programmet \u201cS\u00e5 mycket b\u00e4ttre\u201d s\u00e5 f\u00e5r ett antal artister turas om att g\u00f6ra sina egna covers p\u00e5 de andra artisters l\u00e5tar. \u201cS\u00e4ga mig\u201d \u00e4r Stors hyllning till Linnea Henriksson.\n\nEfter programmet s\u00e5 blev \u00e4ven Jireel featured i l\u00e5ten."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 15733676,
+      "pinned": false,
+      "share_url": "https://genius.com/15733676",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/15733676/Stor-saga-mig/Saga-mig",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6755681",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1669064443",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1669064443",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1669064443",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "human_readable_role_for_display": null,
+         "id": 6755681,
+         "iq": 201,
+         "login": "lilcallie",
+         "name": "lilcallie",
+         "role_for_display": null,
+         "url": "https://genius.com/lilcallie",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=mVqU_NdsORw"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2982257",
+       "artist_names": "Linnea Henriksson",
+       "full_title": "S\u00e4ga mig by\u00a0Linnea\u00a0Henriksson",
+       "header_image_thumbnail_url": "https://images.genius.com/0acbe086cb0e38aebb9657f4b0a54070.300x300x1.png",
+       "header_image_url": "https://images.genius.com/0acbe086cb0e38aebb9657f4b0a54070.1000x1000x1.png",
+       "id": 2982257,
+       "language": "sv",
+       "lyrics_owner_id": 4029109,
+       "lyrics_state": "complete",
+       "path": "/Linnea-henriksson-saga-mig-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Linnea-henriksson-saga-mig-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 1,
+        "day": 13
+       },
+       "release_date_for_display": "January 13, 2017",
+       "release_date_with_abbreviated_month_for_display": "Jan. 13, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/37dcac322505b9332aae07f46551504f.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/37dcac322505b9332aae07f46551504f.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 23430
+       },
+       "title": "S\u00e4ga mig",
+       "title_with_featured": "S\u00e4ga mig",
+       "url": "https://genius.com/Linnea-henriksson-saga-mig-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/69041",
+        "header_image_url": "https://images.genius.com/03d7c53e8daa71d695b1f341d5b9619a.1000x274x1.jpg",
+        "id": 69041,
+        "image_url": "https://images.genius.com/1ae60d549b79c8b926f5a472ddd19d5e.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Linnea Henriksson",
+        "url": "https://genius.com/artists/Linnea-henriksson"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1267003",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1267003,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alex Sk\u00f6ld",
+     "url": "https://genius.com/artists/Alex-skold"
+    },
+    {
+     "api_path": "/artists/69041",
+     "header_image_url": "https://images.genius.com/03d7c53e8daa71d695b1f341d5b9619a.1000x274x1.jpg",
+     "id": 69041,
+     "image_url": "https://images.genius.com/1ae60d549b79c8b926f5a472ddd19d5e.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Linnea Henriksson",
+     "url": "https://genius.com/artists/Linnea-henriksson"
+    },
+    {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   ],
+   "artist": "STOR",
+   "lyrics": "S\u00e4ga mig Lyrics[Vers 1: STOR]\nAldrig vart en \u00e4ngel, alltid haft en \u00e4ngel\nKanske liten hejarklack utav dem bror\nAkta mig f\u00f6r b\u00e4ngen, axa \u00f6ver st\u00e4ngslet\nS\u00e5ngen det var l\u00e4nge, lever dr\u00f6mmen bror\nSnurra sena n\u00e4tter med Adidasbarn\nH\u00e4ngde runt i Gucci-st\u00e4llen, l\u00e5tsas man var likadan\nSurfa rushen, tvungen tackla v\u00e5gorna som triathlon (Yeah)\nVi gjorde kaos i varje sida av stan\nSegla under broarna\nDet har passerat tio \u00e5r\nK\u00e4ndes som ett \u00f6gonblick\nSlaggade p\u00e5 vita moln\nH\u00f6rde ropen eka i min djupa s\u00f6mn\nJag kunde inte tyda ett ord, men tro p\u00e5 mig att jag \u00e4r inte gl\u00f6md\nF\u00f6r jag minns Natalia sa till mig\nMinns Fransisca sa till mig\nVar f\u00f6r blind f\u00f6r att kunna se den k\u00e4rleken ni gav till mig\nBror du m\u00e5ste vakna, ey\nJag ba somna om, s\u00e5 om jag vaknat nu den h\u00e4r \u00e4r f\u00f6r alla dem\n[Refr\u00e4ng: Linnea Henriksson & Jireel]\nOm du kunde s\u00e4ga mig\nHur m\u00e5nga g\u00e5nger ska du r\u00e4dda mig?\nMinns varje g\u00e5ng som du vart d\u00e4r f\u00f6r mig\nKan du s\u00e4ga mig\nE n\u00e4ra d\u00f6den men du r\u00e4dda mig\nDu ger mig hoppet n\u00e4r det l\u00e4mnat mig\nOm du kunde s\u00e4ga mig\nF\u00f6r alla ord du sa\nVarje r\u00e5d du gav till mig\nKan du s\u00e4ga mig\nKan du s\u00e4ga mig?\nOh, s\u00e4ga mig vad som helst\n\n[Vers 2: STOR]\nHon sa du kommer inte n\u00e5nstans\nOm du inte f\u00f6rs\u00f6ker ocks\u00e5\nSnart s\u00e5 kommer du hitta balans\nMen du m\u00e5ste f\u00f6rs\u00f6ka ocks\u00e5\nStorasyster \u00e4r din bror, Ulises\nDu g\u00f6r s\u00e5 skorna lyfter\nTar mig ner p\u00e5 jorden n\u00e4r jag tror f\u00f6r mycket\nN\u00e4r jag ville d\u00f6 s\u00e5 var det er jag t\u00e4nkte p\u00e5\nSv\u00e4r, f\u00f6rl\u00e5t, jag vet inte hur jag t\u00e4nkte d\u00e5\nF\u00f6ll ner i helvetesgapet och jag var fast\nMen ni hj\u00e4lpte mig\nK\u00e4rleken fick mig kl\u00e4ttra med kraft\n\u00d6ppna munnen jag g\u00e5r back p\u00e5 dig\nHit em\u2019 up (Braaam)\nMin k\u00e4rlek smattra som det \u00e4r ny\u00e5rsnatt\nEy yo, jag minns Lovisa sa till mig\nMinns hur Linda sa till mig\nImen gav mig tro\nHon ba storebror ba lock your way\nBror du m\u00e5ste vakna, ey\nJag ba somna om, s\u00e5 om jag vaknat nu den h\u00e4r \u00e4r f\u00f6r alla dem\nYou might also like[Refr\u00e4ng: Linnea Henriksson & Jireel]\nOm du kunde s\u00e4ga mig\nHur m\u00e5nga g\u00e5nger ska du r\u00e4dda mig?\nMinns varje g\u00e5ng som du vart d\u00e4r f\u00f6r mig\nKan du s\u00e4ga mig\nE n\u00e4ra d\u00f6den men du r\u00e4dda mig\nDu ger mig hoppet n\u00e4r det l\u00e4mnat mig\nOm du kunde s\u00e4ga mig\nF\u00f6r alla ord du sa\nVarje r\u00e5d du gav till mig\nKan du s\u00e4ga mig\nKan du s\u00e4ga mig?\nOh, s\u00e4ga mig vad som helst\n\n[Brygga: Astrid Lindgren med Ronja och Birk]\nD\u00e5 s\u00e5g hon Birk\nOch han var r\u00e4dd, det s\u00e5g man\nUtan hj\u00e4lp skulle han inte kunna komma d\u00e4rifr\u00e5n\nF\u00f6rr eller senare skulle han st\u00f6rta ner i djupet\nN\u00e4r han inte orkade l\u00e4ngre\nRonja tog skinnremmen som hon bar hoprullad vid b\u00e4ltet\nOch firade ner den till Birk\nH\u00e4r! Du kan b\u00f6rja kl\u00e4ttra n\u00e4r jag ropar!\nHur m\u00e5nga g\u00e5nger t\u00e4nker du r\u00e4dda mitt liv?\nSystra mi\n[Refr\u00e4ng: Linnea Henriksson & Jireel]\nOm du kunde s\u00e4ga mig\nHur m\u00e5nga g\u00e5nger ska du r\u00e4dda mig?\nMinns varje g\u00e5ng som du vart d\u00e4r f\u00f6r mig\nKan du s\u00e4ga mig\nE n\u00e4ra d\u00f6den men du r\u00e4dda mig\nDu ger mig hoppet n\u00e4r det l\u00e4mnat mig\nOm du kunde s\u00e4ga mig\nF\u00f6r alla ord du sa\nVarje r\u00e5d du gav till mig\nOm du kunde s\u00e4ga mig\nKan du s\u00e4ga mig?\nOh, s\u00e4ga mig vad som helstEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2482591",
+   "artist_names": "STOR",
+   "full_title": "Svartskallar by\u00a0STOR",
+   "header_image_thumbnail_url": "https://images.genius.com/64c53973a74416e96f40a36d1a790ac8.300x342x1.jpg",
+   "header_image_url": "https://images.genius.com/64c53973a74416e96f40a36d1a790ac8.700x799x1.jpg",
+   "id": 2482591,
+   "language": "no",
+   "lyrics_owner_id": 1081970,
+   "lyrics_state": "complete",
+   "path": "/Stor-svartskallar-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Stor-svartskallar-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 5,
+    "day": 19
+   },
+   "release_date_for_display": "May 19, 2016",
+   "release_date_with_abbreviated_month_for_display": "May. 19, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/64c53973a74416e96f40a36d1a790ac8.300x342x1.jpg",
+   "song_art_image_url": "https://images.genius.com/64c53973a74416e96f40a36d1a790ac8.700x799x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 7,
+    "iq_earners": 4,
+    "transcribers": 4,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 21675
+   },
+   "title": "Svartskallar",
+   "title_with_featured": "Svartskallar",
+   "url": "https://genius.com/Stor-svartskallar-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/16542",
+    "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+    "id": 16542,
+    "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "STOR",
+    "url": "https://genius.com/artists/Stor"
+   },
+   "apple_music_id": "1240135138",
+   "apple_music_player_url": "https://genius.com/songs/2482591/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2482591' class='rg_embed_link' data-song-id='2482591'>Read <a href='https://genius.com/Stor-svartskallar-lyrics'>\u201cSvartskallar\u201d by STOR</a> on Genius</div> <script crossorigin src='//genius.com/songs/2482591/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-05-19",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/356301",
+    "cover_art_url": "https://images.genius.com/a97e6e6da7e5cfc6d0b782a2beaf69d8.580x580x1.jpg",
+    "full_title": "Under broarna  by STOR",
+    "id": 356301,
+    "name": "Under broarna ",
+    "url": "https://genius.com/albums/Stor/Under-broarna",
+    "artist": {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1081970,
+    "annotator_login": "JohannaMariaGeorgsson",
+    "api_path": "/referents/9238100",
+    "classification": "needs_exegesis",
+    "fragment": "Svartskallar",
+    "id": 9238100,
+    "is_description": true,
+    "path": "/9238100/Stor-svartskallar/Svartskallar",
+    "range": {
+     "content": "Svartskallar"
+    },
+    "song_id": 2482591,
+    "url": "https://genius.com/9238100/Stor-svartskallar/Svartskallar",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2482591",
+     "client_timestamps": {
+      "updated_by_human_at": 1632173289,
+      "lyrics_updated_at": 1632173289
+     },
+     "context": "STOR",
+     "id": 2482591,
+     "image_url": "https://images.genius.com/64c53973a74416e96f40a36d1a790ac8.700x799x1.jpg",
+     "link_title": "Svartskallar by\u00a0STOR",
+     "title": "Svartskallar",
+     "type": "Song",
+     "url": "https://genius.com/Stor-svartskallar-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/9238100",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 9238100,
+      "pinned": false,
+      "share_url": "https://genius.com/9238100",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/9238100/Stor-svartskallar/Svartskallar",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1081970",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/200607b6a2d283b1b4c73fe541c03b3e",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/200607b6a2d283b1b4c73fe541c03b3e",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/200607b6a2d283b1b4c73fe541c03b3e",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/200607b6a2d283b1b4c73fe541c03b3e",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/200607b6a2d283b1b4c73fe541c03b3e",
+         "human_readable_role_for_display": null,
+         "id": 1081970,
+         "iq": 242,
+         "login": "JohannaMariaGeorgsson",
+         "name": "JohannaMariaGeorgsson",
+         "role_for_display": null,
+         "url": "https://genius.com/JohannaMariaGeorgsson",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=wZRziALIx9c"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/398949",
+     "header_image_url": "https://images.genius.com/5dd35b54580c8407ee57a70e8c3d5805.443x443x1.png",
+     "id": 398949,
+     "image_url": "https://images.genius.com/5dd35b54580c8407ee57a70e8c3d5805.443x443x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Charlie Bernardo",
+     "url": "https://genius.com/artists/Charlie-bernardo"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/4149945",
+       "artist_names": "Linnea Henriksson (Ft. Beri, Frida Hyv\u00f6nen, GRANT (Swedish singer), Imenella, Molly Sand\u00e9n & Peg Parnevik)",
+       "full_title": "Sm\u00e5tjejer Remix by\u00a0Linnea\u00a0Henriksson (Ft.\u00a0Beri, Frida\u00a0Hyv\u00f6nen, GRANT\u00a0(Swedish singer), Imenella, Molly\u00a0Sand\u00e9n & Peg\u00a0Parnevik)",
+       "header_image_thumbnail_url": "https://images.genius.com/bca787363ebe5d502323bc2f5c1cf1f5.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/bca787363ebe5d502323bc2f5c1cf1f5.640x640x1.jpg",
+       "id": 4149945,
+       "language": "sv",
+       "lyrics_owner_id": 7516379,
+       "lyrics_state": "complete",
+       "path": "/Linnea-henriksson-smatjejer-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Linnea-henriksson-smatjejer-remix-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 11,
+        "day": 28
+       },
+       "release_date_for_display": "November 28, 2018",
+       "release_date_with_abbreviated_month_for_display": "Nov. 28, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/bca787363ebe5d502323bc2f5c1cf1f5.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/bca787363ebe5d502323bc2f5c1cf1f5.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Sm\u00e5tjejer Remix",
+       "title_with_featured": "Sm\u00e5tjejer Remix (Ft.\u00a0Beri, Frida\u00a0Hyv\u00f6nen, GRANT\u00a0(Swedish singer), Imenella, Molly\u00a0Sand\u00e9n & Peg\u00a0Parnevik)",
+       "url": "https://genius.com/Linnea-henriksson-smatjejer-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/1708951",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "id": 1708951,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "GRANT (Swedish singer)",
+         "url": "https://genius.com/artists/Grant-swedish-singer"
+        },
+        {
+         "api_path": "/artists/365753",
+         "header_image_url": "https://images.genius.com/e40a20fb940ef2ca85e625ccc39799b2.686x380x1.jpg",
+         "id": 365753,
+         "image_url": "https://images.genius.com/f321ad40bbe15243815b6206007b393f.390x390x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Frida Hyv\u00f6nen",
+         "url": "https://genius.com/artists/Frida-hyvonen"
+        },
+        {
+         "api_path": "/artists/1421437",
+         "header_image_url": "https://images.genius.com/ffd3fa9dd085002b16a03dbdc3a58f66.1000x1000x1.jpg",
+         "id": 1421437,
+         "image_url": "https://images.genius.com/4b0838a10b5a5710af160636cffb0916.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Imenella",
+         "url": "https://genius.com/artists/Imenella"
+        },
+        {
+         "api_path": "/artists/649820",
+         "header_image_url": "https://images.genius.com/4179704a5ce7d2ff14a50c06ba402533.1000x667x1.png",
+         "id": 649820,
+         "image_url": "https://images.genius.com/c7775aa938f5bebb464d6d8d529000f3.960x960x1.png",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Peg Parnevik",
+         "url": "https://genius.com/artists/Peg-parnevik"
+        },
+        {
+         "api_path": "/artists/992956",
+         "header_image_url": "https://images.genius.com/d928c0a4f2cabd7f88d7a8860f6ea0a8.700x700x1.jpg",
+         "id": 992956,
+         "image_url": "https://images.genius.com/d928c0a4f2cabd7f88d7a8860f6ea0a8.700x700x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Beri",
+         "url": "https://genius.com/artists/Beri"
+        },
+        {
+         "api_path": "/artists/381965",
+         "header_image_url": "https://images.genius.com/fe29f666171c327646a6037d73d602fa.1000x500x1.jpg",
+         "id": 381965,
+         "image_url": "https://images.genius.com/499183cfe5bca523a084baebd1e68641.274x274x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Molly Sand\u00e9n",
+         "url": "https://genius.com/artists/Molly-sanden"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/69041",
+        "header_image_url": "https://images.genius.com/03d7c53e8daa71d695b1f341d5b9619a.1000x274x1.jpg",
+        "id": 69041,
+        "image_url": "https://images.genius.com/1ae60d549b79c8b926f5a472ddd19d5e.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Linnea Henriksson",
+        "url": "https://genius.com/artists/Linnea-henriksson"
+       }
+      },
+      {
+       "annotation_count": 5,
+       "api_path": "/songs/4099156",
+       "artist_names": "Linnea Henriksson",
+       "full_title": "Sm\u00e5tjejer by\u00a0Linnea\u00a0Henriksson",
+       "header_image_thumbnail_url": "https://images.genius.com/0ddfb755eea2de4b9d6981b024b7a666.300x300x1.png",
+       "header_image_url": "https://images.genius.com/0ddfb755eea2de4b9d6981b024b7a666.420x420x1.png",
+       "id": 4099156,
+       "language": "sv",
+       "lyrics_owner_id": 5580870,
+       "lyrics_state": "complete",
+       "path": "/Linnea-henriksson-smatjejer-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Linnea-henriksson-smatjejer-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 11,
+        "day": 17
+       },
+       "release_date_for_display": "November 17, 2018",
+       "release_date_with_abbreviated_month_for_display": "Nov. 17, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0ddfb755eea2de4b9d6981b024b7a666.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/0ddfb755eea2de4b9d6981b024b7a666.420x420x1.png",
+       "stats": {
+        "unreviewed_annotations": 5,
+        "hot": false,
+        "pageviews": 29087
+       },
+       "title": "Sm\u00e5tjejer",
+       "title_with_featured": "Sm\u00e5tjejer",
+       "url": "https://genius.com/Linnea-henriksson-smatjejer-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/69041",
+        "header_image_url": "https://images.genius.com/03d7c53e8daa71d695b1f341d5b9619a.1000x274x1.jpg",
+        "id": 69041,
+        "image_url": "https://images.genius.com/1ae60d549b79c8b926f5a472ddd19d5e.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Linnea Henriksson",
+        "url": "https://genius.com/artists/Linnea-henriksson"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   ],
+   "artist": "STOR",
+   "lyrics": "Svartskallar Lyrics[Intro]\nDet var en g\u00e5ng\nDet var en g\u00e5ng\n\n[Vers 1]\nTv\u00e5 Rinkeby somalier\nBrushan, b\u00e5da hette Abdullai\nDom bruka hugga haschkakan som en samurai\nSamla para om det beef d\u00e5 de jalla bye\nKasta st\u00e5let upp i luften, ingen butterfly\nTv\u00e5 norra B syrianer, b\u00e5da hette Gabi\nBilen bakdelen full som en ghettog\u00e4ri\nSv\u00e4r att fem g\u00e5nger om dan dom beckna hekton \u00e4zi\nNu har caf\u00e9 i Stureplan i stora lyxhotel\nTv\u00e5 Flemingbergs gambianer b\u00e5da hette Modo\nDom bruka pressa folk p\u00e5 para gjorde fett med euro\nVissa spr\u00e4ckte n\u00e5gra skallar och dom stressa shunon\nMen nu dom bygger hus i Gambia, alltid kl\u00e4dd i polo\n[Refr\u00e4ng]\nSvartskallar \u00e4lskar min musik\nHustla vad du \u00e4n g\u00f6r f\u00f6r o' bli rik\nRevolution\u00e4r (Huh, musik), revolution\u00e4r\nHustling\n\n[Vers 2]\nTv\u00e5 chilenare fr\u00e5n r\u00f6da, ah de va' kusiner\nDom bruka importera abiat som det apelsiner\nAlla va' med, hela familjen fyllde kassaskrinen\nNu de torska, jag s\u00e5g mormor \u00e5ka aina-bilen\nTv\u00e5 juggar bor i villa nu, Soran o' Goran\nDe kunde b\u00e4nka 150 utan anabola\nDe har vart med sen 80-talet, bruka japp Carola\nDe gjorde para innan alla andra hade n\u00e5gra\nArash ifr\u00e5n Hallonbergen var en svenne-iranie\nHan kunde snacka s\u00f6nder suedis sedan mellanstadiet\nB\u00e4sta s\u00e4ljaren s\u00e5 firman gjorde fem miljarder\nNu han bor i Strandv\u00e4gen, hajar i akvariet\n\n[Refr\u00e4ng]\nSvartskallar \u00e4lskar min musik\nHustla vad du \u00e4n g\u00f6r f\u00f6r o' bli rik\nRevolution\u00e4r (Huh, musik), revolution\u00e4r\nHustling\nSvartskallar \u00e4lskar min musik\nHustla vad du \u00e4n g\u00f6r f\u00f6r o' bli rik\nRevolution\u00e4r (Huh, musik), revolution\u00e4r\nHustling\nYou might also like[Vers 3]\nK\u00e4nner en finne, heter Miko\nGillar sticka kniv, jag driver ba' med stereotyper\nKan inte trampa folk p\u00e5 t\u00e5rna, m\u00e5ste va' f\u00f6rsiktig\nK\u00e4nner en kurd som \u00e4lska kriga och det \u00e4r p\u00e5 riktig\nSvartskallar e alltid st\u00e4mplade f\u00f6r n\u00e5tt\nSt\u00e4mpla tillbaks normalt h\u00e4ndelsef\u00f6rlopp\nJag \u00e4r kvalitetsst\u00e4mpeln utav svensk hiphop\nHustlat gamet tio g\u00e5nger, aldrig d\u00f6mts f\u00f6r brott\nJag skriver rhymes f\u00f6r mig och andra\nFlera familjer samlas, vi lever bra p\u00e5 de h\u00e4r rhymesen\nTror vi gjort en chanta\nDr\u00f6mscenarion intressanta\nT\u00e4nk gatubarn fr\u00e5n Sri Lanka r\u00e5nar Ingvar Kamprad\n\n[Refr\u00e4ng]\nSvartskallar \u00e4lskar min musik\nHustla vad du \u00e4n g\u00f6r f\u00f6r o' bli rik\nRevolution\u00e4r (Huh, musik), revolution\u00e4r\nHustling\nSvartskallar \u00e4lskar min musik\nHustla vad du \u00e4n g\u00f6r f\u00f6r o' bli rik\nRevolution\u00e4r (Huh, musik), revolution\u00e4r\nHustlingEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/131681",
+   "artist_names": "STOR (Ft. Dani M)",
+   "full_title": "Stolthet by\u00a0STOR (Ft.\u00a0Dani\u00a0M)",
+   "header_image_thumbnail_url": "https://images.genius.com/8fdb4868a6cd329f74d789bb228f0172.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8fdb4868a6cd329f74d789bb228f0172.640x640x1.jpg",
+   "id": 131681,
+   "language": "sv",
+   "lyrics_owner_id": 149650,
+   "lyrics_state": "complete",
+   "path": "/Stor-stolthet-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Stor-stolthet-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 3,
+    "day": 22
+   },
+   "release_date_for_display": "March 22, 2013",
+   "release_date_with_abbreviated_month_for_display": "Mar. 22, 2013",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8fdb4868a6cd329f74d789bb228f0172.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8fdb4868a6cd329f74d789bb228f0172.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 3,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 10916
+   },
+   "title": "Stolthet",
+   "title_with_featured": "Stolthet (Ft.\u00a0Dani\u00a0M)",
+   "url": "https://genius.com/Stor-stolthet-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/24303",
+     "header_image_url": "https://images.genius.com/78b0c8fda314a857ef17abd9933b03eb.1000x563x1.jpg",
+     "id": 24303,
+     "image_url": "https://images.genius.com/a6dc72d1a9973bcf6dc34adcd12a0eb4.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dani M",
+     "url": "https://genius.com/artists/Dani-m"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/16542",
+    "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+    "id": 16542,
+    "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "STOR",
+    "url": "https://genius.com/artists/Stor"
+   },
+   "apple_music_id": "1559278558",
+   "apple_music_player_url": "https://genius.com/songs/131681/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_131681' class='rg_embed_link' data-song-id='131681'>Read <a href='https://genius.com/Stor-stolthet-lyrics'>\u201cStolthet\u201d by STOR</a> on Genius</div> <script crossorigin src='//genius.com/songs/131681/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-03-22",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/64177",
+    "cover_art_url": "https://images.genius.com/8fdb4868a6cd329f74d789bb228f0172.640x640x1.jpg",
+    "full_title": "Shere Khan XIII by STOR",
+    "id": 64177,
+    "name": "Shere Khan XIII",
+    "url": "https://genius.com/albums/Stor/Shere-khan-xiii",
+    "artist": {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 149650,
+    "annotator_login": "boolin",
+    "api_path": "/referents/3823536",
+    "classification": "needs_exegesis",
+    "fragment": "Stolthet",
+    "id": 3823536,
+    "is_description": true,
+    "path": "/3823536/Stor-stolthet/Stolthet",
+    "range": {
+     "content": "Stolthet"
+    },
+    "song_id": 131681,
+    "url": "https://genius.com/3823536/Stor-stolthet/Stolthet",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/131681",
+     "client_timestamps": {
+      "updated_by_human_at": 1630376097,
+      "lyrics_updated_at": 1629939767
+     },
+     "context": "STOR",
+     "id": 131681,
+     "image_url": "https://images.genius.com/8fdb4868a6cd329f74d789bb228f0172.640x640x1.jpg",
+     "link_title": "Stolthet by\u00a0STOR (Ft.\u00a0Dani\u00a0M)",
+     "title": "Stolthet",
+     "type": "Song",
+     "url": "https://genius.com/Stor-stolthet-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3823536",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3823536,
+      "pinned": false,
+      "share_url": "https://genius.com/3823536",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3823536/Stor-stolthet/Stolthet",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/149650",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/ad190fca65cca7eed60e581a81706753",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/ad190fca65cca7eed60e581a81706753",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/ad190fca65cca7eed60e581a81706753",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/ad190fca65cca7eed60e581a81706753",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/ad190fca65cca7eed60e581a81706753",
+         "human_readable_role_for_display": "Contributor",
+         "id": 149650,
+         "iq": 124432,
+         "login": "boolin",
+         "name": "\u00adboolin",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/boolin",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=-Yrju5szu_c"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/36309",
+     "header_image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "id": 36309,
+     "image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Masse",
+     "url": "https://genius.com/artists/Masse"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/24303",
+     "header_image_url": "https://images.genius.com/78b0c8fda314a857ef17abd9933b03eb.1000x563x1.jpg",
+     "id": 24303,
+     "image_url": "https://images.genius.com/a6dc72d1a9973bcf6dc34adcd12a0eb4.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dani M",
+     "url": "https://genius.com/artists/Dani-m"
+    },
+    {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   ],
+   "artist": "STOR",
+   "lyrics": "Stolthet Lyrics[Intro: Dani M]\nMhmmm\nRedline\n\n[Refr\u00e4ng 1: Dani M]\nDu kan aldrig ge upp det du sj\u00e4lv har byggt\nMed ditt eget svett och blod\nInnan jag viker mig ner och lever p\u00e5 kn\u00e4\nSv\u00e4r vid Gud jag ska d\u00f6 till fots\n\n[Refr\u00e4ng 2: Dani M]\nJag g\u00e5r man mot m\u00e4n\nSt\u00e5r upp f\u00f6r den jag \u00e4r\nDet h\u00e4r \u00e4r mina gator\nDet h\u00e4r \u00e4r vad jag blev\n[Vers 1: STOR]\nL\u00e5t det regna p\u00e5 mig, fuck it\nL\u00e5t det \u00f6sa ner fr\u00e5n himmelen\nJag sv\u00e4r dem ville alla se mig slockna, men jag brinner \u00e4n\nJag skiter i det \u00e4r jag mot alla, public enemy\nHalsar fr\u00e5n en flaska Hennessy, vem \u00e4r ni\nHar inga tvivel h\u00f6r min st\u00e4mma hur den saknar gr\u00e5t\nFinns ingen \u00e5terv\u00e4ndo, mannen jag \u00e4r l\u00e5st\nSvarta tankar jagar bort dig ifr\u00e5n verkligheten\nOch d\u00e4r enda vid din sida heter ensamheten\nTro jag beh\u00f6ver er, en hand p\u00e5 bibeln innan b\u00f6nen bes\nS\u00e5 m\u00e5nga strider jag har \u00f6verlevt\nMannen jag trivs d\u00e4r regnet \u00f6ser ner\nVi hustlar vidare vi stannar inte f\u00f6r n\u00e5n\n\n[Refr\u00e4ng 2: Dani M]\nJag g\u00e5r man mot m\u00e4n\nSt\u00e5r upp f\u00f6r den jag \u00e4r\nDet h\u00e4r \u00e4r mina gator\nDet h\u00e4r \u00e4r vad jag blev\nJag g\u00e5r man mot m\u00e4n\nSt\u00e5r upp f\u00f6r den jag \u00e4r\nDet h\u00e4r \u00e4r mina gator\nDet h\u00e4r \u00e4r vad jag blev\n\n[Vers 2: STOR]\nS\u00e4g Gud, vart slutar stigen p\u00e5 din gr\u00f6na jord\nAv alla b\u00f6ner som jag bett dig, har du h\u00f6rt mitt rop?\nHur m\u00e5nga steg \u00e4r det kvar innan du kommer ta mig?\nSe mina ben b\u00f6rjar vika sig, jag h\u00e5ller kvar mig\nF\u00f6r mycket press i mitt br\u00f6st, \u00e4r som en vissen ros\nSv\u00e4r allt jag har \u00e4r mina taggar jag \u00e4r klar att bli till jord\nGr\u00e5bl\u00e5a toner utav depression\nN\u00e4ra drunkna d\u00e4r p\u00e5 botten d\u00e5 man n\u00e4stan tappat tron\nGe mig lite ljus i m\u00f6rkret f\u00f6r de sv\u00e5rt f\u00f6r mig att se\nKan inte skilja p\u00e5 en v\u00e4n och en fiende n\u00e5 mer\nVandrar vidare p\u00e5 v\u00e4gen, d\u00f6r f\u00f6r \u00e4ran och mitt namn\nRyggen rak n\u00e4r jag tar mig fram\nYou might also like[Refr\u00e4ng 2: Dani M]\nJag g\u00e5r man mot m\u00e4n\nSt\u00e5r upp f\u00f6r den jag \u00e4r\nDet h\u00e4r \u00e4r mina gator\nDet h\u00e4r \u00e4r vad jag blev\nJag g\u00e5r man mot m\u00e4n\nSt\u00e5r upp f\u00f6r den jag \u00e4r\nDet h\u00e4r \u00e4r mina gator\nDet h\u00e4r \u00e4r vad jag blev\n\n[Stick: Dani M]\nStolthet\nDom kan aldrig ta ifr\u00e5n v\u00e5r stolthet\nNej, nej, nej, nej\n\n[Refr\u00e4ng 1: Dani M]\nDu kan aldrig ge upp det du sj\u00e4lv har byggt\nMed ditt eget svett och blod\nInnan jag viker mig ner och lever p\u00e5 kn\u00e4\nSv\u00e4r vid Gud jag ska d\u00f6 till fots\n\n[Vers 3: STOR]\nIngenting \u00e4r nytt under solen\nDet \u00e4r samma stig jag alltid g\u00e5tt\nDet kommer tider d\u00e5 man blir tvingad att sl\u00e5ss\nMen hellre segla in i d\u00f6den \u00e4n att sjunka i skam\nJag \u00e4r som en hungrig tiger vandrar genom djungeln ensam\nDe vill ta bort det du slitit f\u00f6r\nJagat efter p\u00e5 liv och d\u00f6d\nBita en tugga av din tallrik\nFast du gav en chans att bryta br\u00f6d\nKrigarstam vi d\u00f6r f\u00f6r \u00e4ran och v\u00e5rt namn\nRyggen rak n\u00e4r vi tar oss fram\n[Refr\u00e4ng 2: Dani M]\nJag g\u00e5r man mot m\u00e4n\nSt\u00e5r upp f\u00f6r den jag \u00e4r\nDet h\u00e4r \u00e4r mina gator\nDet h\u00e4r \u00e4r vad jag blev\nJag g\u00e5r man mot m\u00e4n\nSt\u00e5r upp f\u00f6r den jag \u00e4r\nDet h\u00e4r \u00e4r mina gator\nDet h\u00e4r \u00e4r vad jag blev1Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2944858",
+   "artist_names": "STOR (Ft. Seinabo Sey)",
+   "full_title": "V\u00e4gen hem by\u00a0STOR (Ft.\u00a0Seinabo\u00a0Sey)",
+   "header_image_thumbnail_url": "https://images.genius.com/a97e6e6da7e5cfc6d0b782a2beaf69d8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a97e6e6da7e5cfc6d0b782a2beaf69d8.580x580x1.jpg",
+   "id": 2944858,
+   "language": "sv",
+   "lyrics_owner_id": 1928692,
+   "lyrics_state": "complete",
+   "path": "/Stor-vagen-hem-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Stor-vagen-hem-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 11,
+    "day": 17
+   },
+   "release_date_for_display": "November 17, 2016",
+   "release_date_with_abbreviated_month_for_display": "Nov. 17, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a97e6e6da7e5cfc6d0b782a2beaf69d8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a97e6e6da7e5cfc6d0b782a2beaf69d8.580x580x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 5,
+    "transcribers": 3,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 10423
+   },
+   "title": "V\u00e4gen hem",
+   "title_with_featured": "V\u00e4gen hem (Ft.\u00a0Seinabo\u00a0Sey)",
+   "url": "https://genius.com/Stor-vagen-hem-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/102621",
+     "header_image_url": "https://images.genius.com/c4540f15e77fa26ce26b3d272e6035a2.1000x1000x1.jpg",
+     "id": 102621,
+     "image_url": "https://images.genius.com/c4540f15e77fa26ce26b3d272e6035a2.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Seinabo Sey",
+     "url": "https://genius.com/artists/Seinabo-sey",
+     "iq": 637
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/16542",
+    "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+    "id": 16542,
+    "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "STOR",
+    "url": "https://genius.com/artists/Stor"
+   },
+   "apple_music_id": "1240135140",
+   "apple_music_player_url": "https://genius.com/songs/2944858/apple_music_player",
+   "description": {
+    "plain": "V\u00e4gen hem \u00e4r en ber\u00e4ttelse om obesvarad k\u00e4rlek och l\u00e4ngtan men ocks\u00e5 lika mycket om Stockholmsnatten.\n\n\u201cV\u00e4gen hem har varit den sv\u00e5raste l\u00e5ten f\u00f6r mig att skriva i min karri\u00e4r hittills dels f\u00f6r pressen att leverera verser som h\u00f6ll niv\u00e5n till den vackra refr\u00e4ngen som vi fick till med Seinabo. Men ocks\u00e5 f\u00f6r att f\u00f6rklara och f\u00e5 ut en av de starkaste och mest of\u00f6rklarliga k\u00e4nslorna jag haft. Jag kunde inte kompromissa, \u00e4ven om den k\u00e4nslan fick mig att m\u00e5 d\u00e5ligt, s\u00e5 var l\u00e5ten viktigare \u00e4n livet.\u201d \u2013 Stor"
+   },
+   "embed_content": "<div id='rg_embed_link_2944858' class='rg_embed_link' data-song-id='2944858'>Read <a href='https://genius.com/Stor-vagen-hem-lyrics'>\u201cV\u00e4gen hem\u201d by STOR</a> on Genius</div> <script crossorigin src='//genius.com/songs/2944858/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-11-17",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/356301",
+    "cover_art_url": "https://images.genius.com/a97e6e6da7e5cfc6d0b782a2beaf69d8.580x580x1.jpg",
+    "full_title": "Under broarna  by STOR",
+    "id": 356301,
+    "name": "Under broarna ",
+    "url": "https://genius.com/albums/Stor/Under-broarna",
+    "artist": {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3158543,
+    "annotator_login": "benzion11",
+    "api_path": "/referents/11100136",
+    "classification": "unreviewed",
+    "fragment": "V\u00e4gen hem",
+    "id": 11100136,
+    "is_description": true,
+    "path": "/11100136/Stor-vagen-hem/Vagen-hem",
+    "range": {
+     "content": "V\u00e4gen hem"
+    },
+    "song_id": 2944858,
+    "url": "https://genius.com/11100136/Stor-vagen-hem/Vagen-hem",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2944858",
+     "client_timestamps": {
+      "updated_by_human_at": 1653831199,
+      "lyrics_updated_at": 1653831145
+     },
+     "context": "STOR",
+     "id": 2944858,
+     "image_url": "https://images.genius.com/a97e6e6da7e5cfc6d0b782a2beaf69d8.580x580x1.jpg",
+     "link_title": "V\u00e4gen hem by\u00a0STOR (Ft.\u00a0Seinabo\u00a0Sey)",
+     "title": "V\u00e4gen hem",
+     "type": "Song",
+     "url": "https://genius.com/Stor-vagen-hem-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11100136",
+      "body": {
+       "plain": "V\u00e4gen hem \u00e4r en ber\u00e4ttelse om obesvarad k\u00e4rlek och l\u00e4ngtan men ocks\u00e5 lika mycket om Stockholmsnatten.\n\n\u201cV\u00e4gen hem har varit den sv\u00e5raste l\u00e5ten f\u00f6r mig att skriva i min karri\u00e4r hittills dels f\u00f6r pressen att leverera verser som h\u00f6ll niv\u00e5n till den vackra refr\u00e4ngen som vi fick till med Seinabo. Men ocks\u00e5 f\u00f6r att f\u00f6rklara och f\u00e5 ut en av de starkaste och mest of\u00f6rklarliga k\u00e4nslorna jag haft. Jag kunde inte kompromissa, \u00e4ven om den k\u00e4nslan fick mig att m\u00e5 d\u00e5ligt, s\u00e5 var l\u00e5ten viktigare \u00e4n livet.\u201d \u2013 Stor"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 11100136,
+      "pinned": false,
+      "share_url": "https://genius.com/11100136",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/11100136/Stor-vagen-hem/Vagen-hem",
+      "verified": false,
+      "votes_total": 3,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3158543",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/c14076ef34d8bf20515804493c9ba9aa",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/c14076ef34d8bf20515804493c9ba9aa",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/c14076ef34d8bf20515804493c9ba9aa",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/c14076ef34d8bf20515804493c9ba9aa",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/c14076ef34d8bf20515804493c9ba9aa",
+         "human_readable_role_for_display": null,
+         "id": 3158543,
+         "iq": 113,
+         "login": "benzion11",
+         "name": "benzion11",
+         "role_for_display": null,
+         "url": "https://genius.com/benzion11",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=ZZr3somDVPI"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/398949",
+     "header_image_url": "https://images.genius.com/5dd35b54580c8407ee57a70e8c3d5805.443x443x1.png",
+     "id": 398949,
+     "image_url": "https://images.genius.com/5dd35b54580c8407ee57a70e8c3d5805.443x443x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Charlie Bernardo",
+     "url": "https://genius.com/artists/Charlie-bernardo"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/4108022",
+       "artist_names": "Eric Gadd (Ft. Fricky)",
+       "full_title": "V\u00e4gen Hem by\u00a0Eric\u00a0Gadd (Ft.\u00a0Fricky)",
+       "header_image_thumbnail_url": "https://images.genius.com/98772f50f2c6894b98a8491e8147de72.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/98772f50f2c6894b98a8491e8147de72.720x720x1.jpg",
+       "id": 4108022,
+       "language": "sv",
+       "lyrics_owner_id": 6044727,
+       "lyrics_state": "complete",
+       "path": "/Eric-gadd-vagen-hem-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Eric-gadd-vagen-hem-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 1,
+        "day": 1
+       },
+       "release_date_for_display": "January 1, 2018",
+       "release_date_with_abbreviated_month_for_display": "Jan. 1, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/98772f50f2c6894b98a8491e8147de72.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/98772f50f2c6894b98a8491e8147de72.720x720x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "V\u00e4gen Hem",
+       "title_with_featured": "V\u00e4gen Hem (Ft.\u00a0Fricky)",
+       "url": "https://genius.com/Eric-gadd-vagen-hem-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/226671",
+         "header_image_url": "https://images.genius.com/d8de09842b70527e41eb1e8008d01582.992x558x1.jpg",
+         "id": 226671,
+         "image_url": "https://images.genius.com/f988c3a0e9d84962a70b15acfe28844f.471x471x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Fricky",
+         "url": "https://genius.com/artists/Fricky"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/388007",
+        "header_image_url": "https://images.genius.com/fe03382a707819d81d07d02d084409f0.1000x1000x1.jpg",
+        "id": 388007,
+        "image_url": "https://images.genius.com/e36a23fb0e44ca4a9ddb3b64ff2d3120.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Eric Gadd",
+        "url": "https://genius.com/artists/Eric-gadd",
+        "iq": 110
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/102621",
+     "header_image_url": "https://images.genius.com/c4540f15e77fa26ce26b3d272e6035a2.1000x1000x1.jpg",
+     "id": 102621,
+     "image_url": "https://images.genius.com/c4540f15e77fa26ce26b3d272e6035a2.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Seinabo Sey",
+     "url": "https://genius.com/artists/Seinabo-sey",
+     "iq": 637
+    },
+    {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   ],
+   "artist": "STOR",
+   "lyrics": "V\u00e4gen hem Lyrics[intro: Seinabo sey]\nKan du v\u00e4gen hem?\nMassa t\u00e5g har \u00e5kt men hittar inte r\u00e4tt\nTappat kortet, vill du vara min biljett?\nSer du m\u00e5nen? Vi kan \u00e5ka \u00f6ver den, \u00f6ver den\n\n[Refr\u00e4ng: Seinabo Sey]\nKan du v\u00e4gen hem?\nSer du f\u00e4rgen n\u00e4r du st\u00e4nger \u00f6gonen?\n\u00d6nskar att vi kunde nudda himmelen\nAllting snurrar, vill du f\u00f6lja med mig hem?\nMig hem\n[Vers 1: Stor]\n90-tals hippie har mig filosofisk\nHelt organisk nu n\u00e4r v\u00e4rlden \u00e4r f\u00f6r teknologisk\nS\u00e5 jag bara v\u00e4ntar h\u00e4r med lugn, ingen j\u00e4ttebr\u00e5dis\nIngen slit och sl\u00e4ng-k\u00e4rlek, enkelt, k\u00e4nns s\u00e5 logiskt\nDet h\u00e4r \u00e4r galet \u00e4kta, k\u00e4nslan du gav \u00e4r exakt\nPrecis min smak, l\u00e5ter mitt jag att v\u00e4xa\nP\u00e5 balkongen medan natten och dan f\u00f6rv\u00e4xlas\n\u00c4r s\u00e5 hungrig p\u00e5 din k\u00e4rlek, vill ha din nektar\nJag vill kyssa henne men hon tar det slow\nS\u00e5 hon pratar och jag lyssnar som det \u00e4r radio\nN\u00e4r hon tystnar, jag lyssnar som det \u00e4r stadio\nVarje hj\u00e4rtslag \u00e4r high-definition audio\nKan inte stoppa denna viljan\nAtt bara f\u00f6rena v\u00e5ra kroppar som det \u00e4r Yin och Yang\nKv\u00e4llen \u00e4r f\u00f6r vacker f\u00f6r min Instagram\nMina tankar f\u00e4rgade i din nyans\n\n[Refr\u00e4ng: Seinabo Sey]\nKan du v\u00e4gen hem?\nSer du f\u00e4rgen n\u00e4r du st\u00e4nger \u00f6gonen?\n\u00d6nskar att vi kunde nudda himmelen\nAllting snurrar, vill du f\u00f6lja med mig hem?\nMig hem\n\n[Vers 2: Stor]\nMidnattsvind i h\u00e5ret, m\u00f6rka blicken glittrar i neonet\nHur m\u00e5nga somrar har jag ropat ditt namn?\nViljat segla ut p\u00e5 \u00e4ventyr, ro dig i hamn\nF\u00f6rlorad i din charm, s\u00e4ker p\u00e5 att jag borde va han\nMinns vi satt p\u00e5 bron, r\u00e4kna timmarna\nKlubben va st\u00e4ngd f\u00f6r l\u00e4ngesen, du och jag var kvar i dimmorna\nKunde h\u00f6ra f\u00e4rger n\u00e4r jag st\u00e4ngde \u00f6gonen\nJag s\u00e5g det svartvitt n\u00e4r jag \u00f6ppnade de igen\nEn stum film, hade inga ord en stumfilm\nBaby s\u00e4g mig stod varje sekund still?\nAllt jag ville s\u00e4ga var stanna en stund till\nMen jag hejdade, l\u00e5t oss dra h\u00e4rifr\u00e5n i full vind\nT\u00e4nk dig ifall vi bara kunde sv\u00e4vat i\nGenom stan, lila r\u00f6k \u00f6ver M\u00e4laren\nKunde dykt under broarna p\u00e5 v\u00e4gen hem\nHade \u00e4nd\u00e5 redan drunknat i denna k\u00e4rleken\nYou might also like[Refr\u00e4ng: Seinabo Sey]\nKan du v\u00e4gen hem?\nSer du f\u00e4rgen n\u00e4r du st\u00e4nger \u00f6gonen?\n\u00d6nskar att vi kunde nudda himmelen\nAllting snurrar, vill du f\u00f6lja med mig hem?\nMig hem\nKan du v\u00e4gen hem?\nSer du f\u00e4rgen n\u00e4r du st\u00e4nger \u00f6gonen?\n\u00d6nskar att vi kunde nudda himmelen\nAllting snurrar, vill du f\u00f6lja med mig hem?\nMig hem1Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/3164087",
+   "artist_names": "STOR (Ft. Jireel)",
+   "full_title": "Nightime by\u00a0STOR (Ft.\u00a0Jireel)",
+   "header_image_thumbnail_url": "https://images.genius.com/a97e6e6da7e5cfc6d0b782a2beaf69d8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a97e6e6da7e5cfc6d0b782a2beaf69d8.580x580x1.jpg",
+   "id": 3164087,
+   "language": "sv",
+   "lyrics_owner_id": 4933880,
+   "lyrics_state": "complete",
+   "path": "/Stor-nightime-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Stor-nightime-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "2017",
+   "release_date_with_abbreviated_month_for_display": "2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a97e6e6da7e5cfc6d0b782a2beaf69d8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a97e6e6da7e5cfc6d0b782a2beaf69d8.580x580x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 9,
+    "iq_earners": 8,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 8973
+   },
+   "title": "Nightime",
+   "title_with_featured": "Nightime (Ft.\u00a0Jireel)",
+   "url": "https://genius.com/Stor-nightime-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/615992",
+     "header_image_url": "https://images.genius.com/7b56f4fad768f77f51dd16385f1de570.580x345x1.jpg",
+     "id": 615992,
+     "image_url": "https://images.genius.com/f60ffe3570e60d9f8c08b6c03b398069.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jireel",
+     "url": "https://genius.com/artists/Jireel"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/16542",
+    "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+    "id": 16542,
+    "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "STOR",
+    "url": "https://genius.com/artists/Stor"
+   },
+   "apple_music_id": "1240135142",
+   "apple_music_player_url": "https://genius.com/songs/3164087/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3164087' class='rg_embed_link' data-song-id='3164087'>Read <a href='https://genius.com/Stor-nightime-lyrics'>\u201cNightime\u201d by STOR</a> on Genius</div> <script crossorigin src='//genius.com/songs/3164087/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/356301",
+    "cover_art_url": "https://images.genius.com/a97e6e6da7e5cfc6d0b782a2beaf69d8.580x580x1.jpg",
+    "full_title": "Under broarna  by STOR",
+    "id": 356301,
+    "name": "Under broarna ",
+    "url": "https://genius.com/albums/Stor/Under-broarna",
+    "artist": {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8117646,
+    "annotator_login": "TrappaChiNo",
+    "api_path": "/referents/17421327",
+    "classification": "needs_exegesis",
+    "fragment": "Nightime",
+    "id": 17421327,
+    "is_description": true,
+    "path": "/17421327/Stor-nightime/Nightime",
+    "range": {
+     "content": "Nightime"
+    },
+    "song_id": 3164087,
+    "url": "https://genius.com/17421327/Stor-nightime/Nightime",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3164087",
+     "client_timestamps": {
+      "updated_by_human_at": 1632175262,
+      "lyrics_updated_at": 1571731285
+     },
+     "context": "STOR",
+     "id": 3164087,
+     "image_url": "https://images.genius.com/a97e6e6da7e5cfc6d0b782a2beaf69d8.580x580x1.jpg",
+     "link_title": "Nightime by\u00a0STOR (Ft.\u00a0Jireel)",
+     "title": "Nightime",
+     "type": "Song",
+     "url": "https://genius.com/Stor-nightime-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17421327",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17421327,
+      "pinned": false,
+      "share_url": "https://genius.com/17421327",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/17421327/Stor-nightime/Nightime",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8117646",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/b82391d26056f643e1ca6a70231d79a8",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/b82391d26056f643e1ca6a70231d79a8",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/b82391d26056f643e1ca6a70231d79a8",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/b82391d26056f643e1ca6a70231d79a8",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/7367f5ae5b4de0f05a6ee48cc22833b7.1000x1000x8.gif",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8117646,
+         "iq": 482280,
+         "login": "TrappaChiNo",
+         "name": "TrappaChiNo",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/TrappaChiNo",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=lAqrIgKjFb0"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/398949",
+     "header_image_url": "https://images.genius.com/5dd35b54580c8407ee57a70e8c3d5805.443x443x1.png",
+     "id": 398949,
+     "image_url": "https://images.genius.com/5dd35b54580c8407ee57a70e8c3d5805.443x443x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Charlie Bernardo",
+     "url": "https://genius.com/artists/Charlie-bernardo"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/615992",
+     "header_image_url": "https://images.genius.com/7b56f4fad768f77f51dd16385f1de570.580x345x1.jpg",
+     "id": 615992,
+     "image_url": "https://images.genius.com/f60ffe3570e60d9f8c08b6c03b398069.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jireel",
+     "url": "https://genius.com/artists/Jireel"
+    },
+    {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   ],
+   "artist": "STOR",
+   "lyrics": "Nightime Lyrics[verse 1: Stor]\n\nOm himlen finns \u00e4r jag f\u00f6rlorad, ha\nMen k\u00e4nn ingen sorg f\u00f6r mig Stockholm ekar ut under broarna\nMinns dom bruka s\u00e4ga att dr\u00f6mmarna var f\u00f6r stora, ha\nS\u00e5 nu vi sk\u00e5lar till f\u00f6rlorarna\nK\u00e4nslan hallelujaha\nNej ingen h\u00e4r \u00e4r som vi, imorn s\u00e5 kan allting va f\u00f6rbi\nLong gone historia, l\u00e5t oss springa tio varv runt jorden, ja\nUpp i solnedg\u00e5ngen str\u00e4cker glasen upp i skyn\n[Pre-Chorus: Jireel]\nYeah, sena n\u00e4tter blir till dar\nVarje kv\u00e4ll det \u00e4r du och jag, ingen annan kan ta plats baby\nL\u00e5t mig bara do you right, bara en sak hon vill f\u00f6r en natt\nHon \u00e4r ute efter nightime\nHon vill bara leva highlife, yeah\nH\u00e4nga med grabbar som g\u00f6r drive by\nMen kom med mig s\u00e5 vi kan ride, ride\nK\u00e4nslan den \u00e4r aj aj\nS\u00e4ger bara\n\n[Chorus: Jireel]\nBaby kom hit, jag vill bara k\u00e4nna av ditt mode\nL\u00e4ra k\u00e4nna dig personally\nIngen stress vi kan ta det slow\nYeah, f\u00f6r n\u00e4r det nightime\nK\u00e4nner viben n\u00e4r hon whinar, eyy\nV\u00e4ntar tills det blir nightime\nK\u00e4nna viben n\u00e4r hon dansar med mig\n\n[Verse 2: Stor]\nHon har mig gitti som det \u00e4r opium\nOch det d\u00e4r smilet har en broder dum\nFaller som p\u00e5 Gr\u00f6na Lund, m\u00e5ste v\u00e5ga hoppa f\u00f6r att kunna flyga\nHar n\u00e5tt i fickan om du hoppas p\u00e5 att kunna flyga\nDelar sativa med mitt squad, jalla h\u00e4ll upp glas sk\u00e5la f\u00f6r framtiden\nDr\u00f6mmer om tidningarnas framsidor\nBaby vi kan skriva v\u00e5ra namn i den\nDet \u00e4r nightime och jag m\u00e5r nice n\u00e4r du dansar h\u00e4r bredvid mig\nYou might also like(Late night music)\n\n[Pre-Chorus: Jireel]\nGe mig lite mer \u00e4r det f\u00f6r mig baby skiter i dom andra\nHon vill in till mig n\u00e4r \u00e4r i rummet vad som helst kan h\u00e4nda\nN\u00e4r du g\u00e5r down so slow varje g\u00e5ng vi \u00e4r h\u00e4r det blir show\nHon \u00e4r bad, hon har flow, hon \u00e4r stj\u00e4rnan jag kan k\u00e4nna hennes move\nJag s\u00e4ger bara\n\n[Chorus: Jireel]\nBaby kom hit, jag vill bara k\u00e4nna av ditt mode\nL\u00e4ra k\u00e4nna dig personaly\nIngen stress vi kan ta det slow\nYeah, f\u00f6r n\u00e4r det nightime\nK\u00e4nner viben n\u00e4r hon whinar, eyy\nV\u00e4ntar tills det blir nightime\nK\u00e4nna viben n\u00e4r hon dansar med mig\n\n[Bridge: Jireel]\nS\u00e5 l\u00e4nge jag l\u00e4ngtar, har v\u00e4ntat p\u00e5 min tid\nNu st\u00e5r vi h\u00e4r p\u00e5 plats, jag k\u00e4nner energi\n(Late night music)\nDu skulle aldrig tro att sann k\u00e4rlek fanns f\u00f6r dig\nMina vibbar r\u00f6r sig fram n\u00e4r du dansar f\u00f6r mig\nJag s\u00e4ger\n[Chorus: Jireel]\nBaby kom hit, jag vill bara k\u00e4nna av ditt mode\nL\u00e4ra k\u00e4nna dig personaly\nIngen stress vi kan ta det slow\nYeah, f\u00f6r n\u00e4r det nightime\nK\u00e4nner viben n\u00e4r hon whinar, eyy\nV\u00e4ntar tills det blir nightime\nK\u00e4nna viben n\u00e4r hon dansar med migEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2090231",
+   "artist_names": "STOR (Ft. Dani M)",
+   "full_title": "Pappas l\u00e5t by\u00a0STOR (Ft.\u00a0Dani\u00a0M)",
+   "header_image_thumbnail_url": "https://images.genius.com/8fdb4868a6cd329f74d789bb228f0172.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8fdb4868a6cd329f74d789bb228f0172.640x640x1.jpg",
+   "id": 2090231,
+   "language": "sv",
+   "lyrics_owner_id": 228031,
+   "lyrics_state": "complete",
+   "path": "/Stor-pappas-lat-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Stor-pappas-lat-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 5,
+    "day": 3
+   },
+   "release_date_for_display": "May 3, 2013",
+   "release_date_with_abbreviated_month_for_display": "May. 3, 2013",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8fdb4868a6cd329f74d789bb228f0172.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8fdb4868a6cd329f74d789bb228f0172.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 6,
+    "iq_earners": 5,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 6001
+   },
+   "title": "Pappas l\u00e5t",
+   "title_with_featured": "Pappas l\u00e5t (Ft.\u00a0Dani\u00a0M)",
+   "url": "https://genius.com/Stor-pappas-lat-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/24303",
+     "header_image_url": "https://images.genius.com/78b0c8fda314a857ef17abd9933b03eb.1000x563x1.jpg",
+     "id": 24303,
+     "image_url": "https://images.genius.com/a6dc72d1a9973bcf6dc34adcd12a0eb4.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dani M",
+     "url": "https://genius.com/artists/Dani-m"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/16542",
+    "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+    "id": 16542,
+    "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "STOR",
+    "url": "https://genius.com/artists/Stor"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2090231/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2090231' class='rg_embed_link' data-song-id='2090231'>Read <a href='https://genius.com/Stor-pappas-lat-lyrics'>\u201cPappas l\u00e5t\u201d by STOR</a> on Genius</div> <script crossorigin src='//genius.com/songs/2090231/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-05-03",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/64177",
+    "cover_art_url": "https://images.genius.com/8fdb4868a6cd329f74d789bb228f0172.640x640x1.jpg",
+    "full_title": "Shere Khan XIII by STOR",
+    "id": 64177,
+    "name": "Shere Khan XIII",
+    "url": "https://genius.com/albums/Stor/Shere-khan-xiii",
+    "artist": {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6830267",
+    "classification": "needs_exegesis",
+    "fragment": "Pappas l\u00e5t",
+    "id": 6830267,
+    "is_description": true,
+    "path": "/6830267/Stor-pappas-lat/Pappas-lat",
+    "range": {
+     "content": "Pappas l\u00e5t"
+    },
+    "song_id": 2090231,
+    "url": "https://genius.com/6830267/Stor-pappas-lat/Pappas-lat",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2090231",
+     "client_timestamps": {
+      "updated_by_human_at": 1631396526,
+      "lyrics_updated_at": 1631396526
+     },
+     "context": "STOR",
+     "id": 2090231,
+     "image_url": "https://images.genius.com/8fdb4868a6cd329f74d789bb228f0172.640x640x1.jpg",
+     "link_title": "Pappas l\u00e5t by\u00a0STOR (Ft.\u00a0Dani\u00a0M)",
+     "title": "Pappas l\u00e5t",
+     "type": "Song",
+     "url": "https://genius.com/Stor-pappas-lat-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6830267",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6830267,
+      "pinned": false,
+      "share_url": "https://genius.com/6830267",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6830267/Stor-pappas-lat/Pappas-lat",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=dS1w48qkMjs"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/36309",
+     "header_image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "id": 36309,
+     "image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Masse",
+     "url": "https://genius.com/artists/Masse"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/24303",
+     "header_image_url": "https://images.genius.com/78b0c8fda314a857ef17abd9933b03eb.1000x563x1.jpg",
+     "id": 24303,
+     "image_url": "https://images.genius.com/a6dc72d1a9973bcf6dc34adcd12a0eb4.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dani M",
+     "url": "https://genius.com/artists/Dani-m"
+    },
+    {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   ],
+   "artist": "STOR",
+   "lyrics": "Pappas l\u00e5t Lyrics[Intro]\nMasse\n\n[Vers 1: STOR]\nMin pappa packade sina v\u00e4skor och drog\nGav upp dr\u00f6mmar om en revolution\nSer hur min farmor t\u00e5rar rinner\nM\u00e5ste h\u00e4rifr\u00e5n nu, folk f\u00f6rsvinner\nHela staden \u00e4r i l\u00e5gor, landet brinner\nMen elden blev till aska\n\u00d6ver v\u00e4rlden fl\u00f6g med vindarna\nGl\u00f6d f\u00f6ll ner fr\u00e5n himlarna\nDet var ni, Sverige, \u00f6ppna grindarna\nSl\u00e4pa tunga v\u00e4skor genom sn\u00f6n\nPackade med sorger som gav med n\u00e4tter utan s\u00f6mn\nPappa var en hj\u00e4lte, brukade skura golv\nSt\u00e4dade korridorer och kontor \u00e5t rika folk\nT\u00e4nkte p\u00e5 sitt hemland, h\u00f6rde deras skrik\nL\u00e5tsas som att tystnaden runt om var ljuv musik\nKunde inte spr\u00e5ket, pratade inte ett ord\nMen alltid mat p\u00e5 v\u00e5rat bord och aldrig h\u00e5l i v\u00e5ra kardborreskor\nStolthet, blattar ni f\u00f6rst\u00e5r mig\nStolt att vara er son, erat blod i mina \u00e5dror\n[Refr\u00e4ng: Dani M]\nDet \u00e4r en gammal man med sitt vita h\u00e5r\nSom har f\u00e4rgats utav livets sorger\nPappa ditt blod i mina vener\nPappa du gav ditt allt\nDet \u00e4r en gammal man, med sitt vita h\u00e5r\nSom har f\u00e4rgats utav livets sorger\nPappa ditt blod i mina vener\nPappa du gav ditt allt\n\n[Vers 2: STOR]\nJag har aldrig sett min pappa gr\u00e5ta\nFast\u00e4n han haft r\u00e4tt\nAldrig sett han stj\u00e4la\nHade aldrig n\u00e5nsin skett\nHar bara sett han knega och ta hand om sin familj\nMen media gillar oftast m\u00e5la upp en annan bild\nS\u00e5 l\u00e4tt att bara g\u00e5 under n\u00e4r kampen \u00e4r f\u00f6r STOR\nOch allt jag sagt passar \u00e4ven in p\u00e5 min vackra mor\nMen det h\u00e4r \u00e4r n\u00e5t som v\u00e4ldigt s\u00e4llan n\u00e4mns i v\u00e5ra snack\nTyst i v\u00e5ra l\u00e5tar f\u00f6r att m\u00e5nga farsor stack\nMen de flesta stannar, och du var en av dom\nNu \u00e4r du gammal, vita h\u00e5rstr\u00e5n\nHar \u00f6vervunnit platsen d\u00e4r du hamna\nF\u00f6dd i Sverige, de s\u00e4ger andra generation\nGe mig inte \u00e4ran att bli kallad invandrare\nHar inte gjort det pappa gjort\nYou might also like[Refr\u00e4ng: Dani M]\nDet \u00e4r en gammal man med sitt vita h\u00e5r\nSom har f\u00e4rgats utav livets sorger\nPappa ditt blod i mina vener\nPappa du gav ditt allt\nDet \u00e4r en gammal man med sitt vita h\u00e5r\nSom har f\u00e4rgats utav livets sorger\nPappa ditt blod i mina vener\nPappa du gav ditt allt\n\n[Vers 3: STOR]\nJag l\u00e4rde mig historier, pappa du var Atlas\nJag var din v\u00e4rld, du bar mig\nSatt p\u00e5 dina axlar, s\u00e5g ut p\u00e5 v\u00e4rlden\nLitet storstadsbarn, med en superhj\u00e4lte bredvid mig p\u00e5 trottoaren\nSv\u00e5rt att f\u00f6rklara allt det h\u00e4ra man till man\nM\u00e5nga ord som man vill ha sagt men inte kan\nTacksamheten blir f\u00f6r stor, det fastnar i min hals\nSom kv\u00e4vet i min r\u00f6st, stryper orden, jag vill s\u00e4ga det jag b\u00e4r p\u00e5 i mitt br\u00f6st\nJag minns n\u00e4r jag var liten och du alltid hade svar\nSkulle vilja backa tiden, hur m\u00e5nga dagar har vi kvar?\nMen \u00e4r tacksam att du var h\u00e4r och jag vet du gav ditt allt\nVem som helst kan g\u00f6ra barn, men f\u00f6r att vara far s\u00e5 kr\u00e4vs en man\n\n[Refr\u00e4ng: Dani M]\nDet \u00e4r en gammal man med sitt vita h\u00e5r\nSom har f\u00e4rgats utav livets sorger\nPappa ditt blod i mina vener\nPappa du gav ditt allt\nDet \u00e4r en gammal man med sitt vita h\u00e5r\nSom har f\u00e4rgats utav livets sorger\nPappa ditt blod i mina vener\nPappa du gav ditt allt (Pappa du gav ditt allt)\n[Outro: STOR]\nGracias papa\nSvartskallar st\u00e5 upp\nLyssna, konstapel REVA\nS\u00e5nna h\u00e4r personer du stoppar\nTunnelbanan, varje morgon n\u00e4r dom ska till sina jobbEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/7247897",
+   "artist_names": "STOR (Ft. Dizzy)",
+   "full_title": "Elden by\u00a0STOR (Ft.\u00a0Dizzy)",
+   "header_image_thumbnail_url": "https://images.genius.com/ccfcb2bf1acc271d36c7a4f2e8633131.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ccfcb2bf1acc271d36c7a4f2e8633131.640x640x1.jpg",
+   "id": 7247897,
+   "language": "sv",
+   "lyrics_owner_id": 228031,
+   "lyrics_state": "complete",
+   "path": "/Stor-elden-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Stor-elden-sample",
+   "release_date_components": {
+    "year": 2021,
+    "month": 10,
+    "day": 1
+   },
+   "release_date_for_display": "October 1, 2021",
+   "release_date_with_abbreviated_month_for_display": "Oct. 1, 2021",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ccfcb2bf1acc271d36c7a4f2e8633131.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ccfcb2bf1acc271d36c7a4f2e8633131.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Elden",
+   "title_with_featured": "Elden (Ft.\u00a0Dizzy)",
+   "url": "https://genius.com/Stor-elden-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1682901",
+     "header_image_url": "https://images.genius.com/f0e856f836834c165f490b2194b6abac.781x781x1.jpg",
+     "id": 1682901,
+     "image_url": "https://images.genius.com/844aadbd0dbb512001de14e68fb94540.781x781x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dizzy",
+     "url": "https://genius.com/artists/Dizzy"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/16542",
+    "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+    "id": 16542,
+    "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "STOR",
+    "url": "https://genius.com/artists/Stor"
+   },
+   "apple_music_id": "1586817147",
+   "apple_music_player_url": "https://genius.com/songs/7247897/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_7247897' class='rg_embed_link' data-song-id='7247897'>Read <a href='https://genius.com/Stor-elden-lyrics'>\u201cElden\u201d by STOR</a> on Genius</div> <script crossorigin src='//genius.com/songs/7247897/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2021-10-01",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 228031,
+    "annotator_login": "SmutsigSon",
+    "api_path": "/referents/24071551",
+    "classification": "needs_exegesis",
+    "fragment": "Elden",
+    "id": 24071551,
+    "is_description": true,
+    "path": "/24071551/Stor-elden/Elden",
+    "range": {
+     "content": "Elden"
+    },
+    "song_id": 7247897,
+    "url": "https://genius.com/24071551/Stor-elden/Elden",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/7247897",
+     "client_timestamps": {
+      "updated_by_human_at": 1653043754,
+      "lyrics_updated_at": 1653043722
+     },
+     "context": "STOR",
+     "id": 7247897,
+     "image_url": "https://images.genius.com/ccfcb2bf1acc271d36c7a4f2e8633131.640x640x1.jpg",
+     "link_title": "Elden by\u00a0STOR (Ft.\u00a0Dizzy)",
+     "title": "Elden",
+     "type": "Song",
+     "url": "https://genius.com/Stor-elden-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/24071551",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 24071551,
+      "pinned": false,
+      "share_url": "https://genius.com/24071551",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/24071551/Stor-elden/Elden",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/228031",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cf8qpucvkio",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cf8qpucvkio",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cf8qpucvkio",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cf8qpucvkio",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/vhnafte5fd8",
+         "human_readable_role_for_display": "Contributor",
+         "id": 228031,
+         "iq": 12371,
+         "login": "SmutsigSon",
+         "name": "SmutsigSon",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/SmutsigSon",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=yQ58xR0Nirw"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1727903",
+     "header_image_url": "https://images.genius.com/80c2d7071fa6f8111c85b73a182b8f11.1000x1000x1.jpg",
+     "id": 1727903,
+     "image_url": "https://images.genius.com/68b7f52f9a379e1069639d765aa40b9a.814x814x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Manny Flaco",
+     "url": "https://genius.com/artists/Manny-flaco"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1727903",
+     "header_image_url": "https://images.genius.com/80c2d7071fa6f8111c85b73a182b8f11.1000x1000x1.jpg",
+     "id": 1727903,
+     "image_url": "https://images.genius.com/68b7f52f9a379e1069639d765aa40b9a.814x814x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Manny Flaco",
+     "url": "https://genius.com/artists/Manny-flaco"
+    },
+    {
+     "api_path": "/artists/1682901",
+     "header_image_url": "https://images.genius.com/f0e856f836834c165f490b2194b6abac.781x781x1.jpg",
+     "id": 1682901,
+     "image_url": "https://images.genius.com/844aadbd0dbb512001de14e68fb94540.781x781x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dizzy",
+     "url": "https://genius.com/artists/Dizzy"
+    },
+    {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   ],
+   "artist": "STOR",
+   "lyrics": "Elden Lyrics[Vers 1: STOR & Manny Flaco]\nEy, mitt namn v\u00e4ger tungt, beh\u00f6ver aldrig fr\u00e5ga runt\nBenim aldrig varit nere en sekund\nInne p\u00e5 mitt andra decennium som slant eller sedelbunt\nAlla vet, ST \u00e4r inte dum\nSv\u00e4r vi \u00e4r tillbaka mannen, ser mig starta samme\nManny Flaco on the beat, s\u00e5 det lugnt\nMannen jag \u00e4r en val i dammen, ser mig kapa lammen\nOG, flowen fortfarande ung\nBabyface om jag vill, men \u00e4r man f\u00f6r jag m\u00e5ste\nSitter i kostym, nu jag schemes, jag \u00e4r p\u00e5 bosstr\u00e4ff\nBebek leker fin, tror han blivit lika proffsig\nSm\u00e5 kungar \u00f6verallt, se mig klippa huvud\u0435t av en Joffrey\nGame of Thron\u0435s, mannen, vad vet du?\nFick fem styckna h\u00e4romkring\nKanske du \u00e4r inne \u00e4nnu, men snart ingenting\nNer p\u00e5 kn\u00e4, kyss min mothafucking ring, l\u00e5t den rulla p\u00e5\nAlla vet, aldrig v\u00e4ntat h\u00e4r p\u00e5 n\u00e5n\nAldrig varit stressad av folk, \u00e4r f\u00f6r blessad f\u00f6r n\u00e5t s\u00e5nt\nOr\u00e4ttvist, kan inte h\u00e4mta mig p\u00e5 dem, kan inte n\u00e4mna mig med n\u00e5n\nJa, den h\u00e4r elden \u00e4r f\u00f6r l\u00e5ng\nEyo, Manny, vad ska jag rappa f\u00f6r dem h\u00e4r bre?\nDe vet det redan\nPon tu fucking reggaeton\n[Vers 2: Dizzy]\n\u00c5h, \u00e5h, kommer d\u00e4rifr\u00e5n\nGrabbar becknar zutt, andra f\u00f6redrar r\u00e5n\nOm du g\u00f6r fel, ingen h\u00e4r visar n\u00e5d\nJagar efter papper, jag har aldrig f\u00e5tt diplom\nRegel nummer ett, inget snack telefon\nHabbarna de klappar, ingen h\u00e4r har f\u00e5tt appl\u00e5d\nMannen, jag har pondus f\u00f6r jag pratar som jag g\u00e5r\nSiktar emot stj\u00e4rnor, rullar upp ett teleskop\n\n[Refr\u00e4ng 1: STOR & Dizzy]\nJag ser dem vill inte se oss som p\u00e5 Cosmonova\nKickar n\u00e5gra bloss, sl\u00e4ppa loss pandora\nSe oss knacka p\u00e5 din d\u00f6rr som vi fr\u00e5n Jehova\nHar en g\u00e4ri fr\u00e5n Brazil, gillar bossa nova\nOch jag t\u00e4nder upp en till, kan inte sl\u00e4cka l\u00e5gan\nMannen, vi har utbud och efterfr\u00e5gan\nVill att du tvivlar p\u00e5 din f\u00f6rm\u00e5ga\nF\u00e5r dig gl\u00f6mma livet \u00e4r st\u00f6rsta g\u00e5van\nS\u00e4g mig vart ska vi glida?\nMami, r\u00f6r p\u00e5 din midja\nHon \u00e4r blandad latina, mellan\u00f6stern, Afrika\nWoah, woah, woah, ey, mi vida, mami, r\u00f6r p\u00e5 din midja\nS\u00e4g mig, vart ska vi glida, (ey)\nHej, du gamla, du fria, babe\nYou might also like[Brygga: Dizzy]\nWhy, oh why, oh why, oh why?\nIt's going down tonight, de kalla vindar h\u00e4r\nSkotten flyger n\u00e4r det night\nOh why, oh why, oh why?\nIt's going down tonight\nIt's going down tonight, oh why?\n\n[Refr\u00e4ng 2: STOR & Dizzy]\nJag ser dem vill inte se oss som p\u00e5 Cosmonova\nKickar n\u00e5gra bloss, sl\u00e4ppa loss pandora\nSe oss knacka p\u00e5 din d\u00f6rr som vi fr\u00e5n Jehova\nMed en fet DMT, \u00e4r fr\u00e5n Amazonas\nOch jag t\u00e4nder upp en till, kan inte sl\u00e4cka l\u00e5gan\nMannen, vi har utbud och efterfr\u00e5gan\nVill att du tvivlar p\u00e5 din f\u00f6rm\u00e5ga\nF\u00e5r dig gl\u00f6mma livet \u00e4r st\u00f6rsta g\u00e5van\nS\u00e4g mig vart ska vi glida?\nMami, r\u00f6r p\u00e5 din midja\nHon \u00e4r blandad latina, mellan\u00f6stern, Afrika\nWoah, woah, woah, ey, mi vida, mami, r\u00f6r p\u00e5 din midja\nS\u00e4g mig vart ska vi glida, ey? Vet du gamla, du fria, (babe)Embed"
+  },
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/1741513",
+   "artist_names": "STOR (Ft. AKI, Dani M, Linda Pira & Natty Silver)",
+   "full_title": "Mitt folk by\u00a0STOR (Ft.\u00a0AKI, Dani\u00a0M, Linda\u00a0Pira & Natty\u00a0Silver)",
+   "header_image_thumbnail_url": "https://images.genius.com/410d7eac0defd939345f0dbbbd2652ff.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/410d7eac0defd939345f0dbbbd2652ff.1000x1000x1.jpg",
+   "id": 1741513,
+   "language": "sv",
+   "lyrics_owner_id": 1247326,
+   "lyrics_state": "complete",
+   "path": "/Stor-mitt-folk-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Stor-mitt-folk-sample",
+   "release_date_components": {
+    "year": 2012,
+    "month": 11,
+    "day": 10
+   },
+   "release_date_for_display": "November 10, 2012",
+   "release_date_with_abbreviated_month_for_display": "Nov. 10, 2012",
+   "song_art_image_thumbnail_url": "https://images.genius.com/410d7eac0defd939345f0dbbbd2652ff.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/410d7eac0defd939345f0dbbbd2652ff.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Mitt folk",
+   "title_with_featured": "Mitt folk (Ft.\u00a0AKI, Dani\u00a0M, Linda\u00a0Pira & Natty\u00a0Silver)",
+   "url": "https://genius.com/Stor-mitt-folk-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/81306",
+     "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+     "id": 81306,
+     "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Linda Pira",
+     "url": "https://genius.com/artists/Linda-pira"
+    },
+    {
+     "api_path": "/artists/105301",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 105301,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Natty Silver",
+     "url": "https://genius.com/artists/Natty-silver"
+    },
+    {
+     "api_path": "/artists/36959",
+     "header_image_url": "https://images.genius.com/a8aa5882acbaddf0c3edb83f7e34ffe2.1000x1000x1.jpg",
+     "id": 36959,
+     "image_url": "https://images.genius.com/a8aa5882acbaddf0c3edb83f7e34ffe2.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "AKI",
+     "url": "https://genius.com/artists/Aki"
+    },
+    {
+     "api_path": "/artists/24303",
+     "header_image_url": "https://images.genius.com/78b0c8fda314a857ef17abd9933b03eb.1000x563x1.jpg",
+     "id": 24303,
+     "image_url": "https://images.genius.com/a6dc72d1a9973bcf6dc34adcd12a0eb4.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dani M",
+     "url": "https://genius.com/artists/Dani-m"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/16542",
+    "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+    "id": 16542,
+    "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "STOR",
+    "url": "https://genius.com/artists/Stor"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1741513/apple_music_player",
+   "description": {
+    "plain": "Fl\u00f6jten \u00e4r samplat fr\u00e5n \u201cTommy Butler \u2013 Prison Song\u201d, som \u00e4ven anv\u00e4ndes i Futures hit \u201cMask Off\u201d n\u00e5gra \u00e5r senare."
+   },
+   "embed_content": "<div id='rg_embed_link_1741513' class='rg_embed_link' data-song-id='1741513'>Read <a href='https://genius.com/Stor-mitt-folk-lyrics'>\u201cMitt folk\u201d by STOR</a> on Genius</div> <script crossorigin src='//genius.com/songs/1741513/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2012-11-10",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/616763",
+    "cover_art_url": "https://images.genius.com/410d7eac0defd939345f0dbbbd2652ff.1000x1000x1.jpg",
+    "full_title": "Rom & Kush by STOR",
+    "id": 616763,
+    "name": "Rom & Kush",
+    "url": "https://genius.com/albums/Stor/Rom-kush",
+    "artist": {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4141390,
+    "annotator_login": "bullerboi",
+    "api_path": "/referents/6258894",
+    "classification": "unreviewed",
+    "fragment": "Mitt folk",
+    "id": 6258894,
+    "is_description": true,
+    "path": "/6258894/Stor-mitt-folk/Mitt-folk",
+    "range": {
+     "content": "Mitt folk"
+    },
+    "song_id": 1741513,
+    "url": "https://genius.com/6258894/Stor-mitt-folk/Mitt-folk",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1741513",
+     "client_timestamps": {
+      "updated_by_human_at": 1602279109,
+      "lyrics_updated_at": 1602279109
+     },
+     "context": "STOR",
+     "id": 1741513,
+     "image_url": "https://images.genius.com/410d7eac0defd939345f0dbbbd2652ff.1000x1000x1.jpg",
+     "link_title": "Mitt folk by\u00a0STOR (Ft.\u00a0AKI, Dani\u00a0M, Linda\u00a0Pira & Natty\u00a0Silver)",
+     "title": "Mitt folk",
+     "type": "Song",
+     "url": "https://genius.com/Stor-mitt-folk-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6258894",
+      "body": {
+       "plain": "Fl\u00f6jten \u00e4r samplat fr\u00e5n \u201cTommy Butler \u2013 Prison Song\u201d, som \u00e4ven anv\u00e4ndes i Futures hit \u201cMask Off\u201d n\u00e5gra \u00e5r senare."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 6258894,
+      "pinned": false,
+      "share_url": "https://genius.com/6258894",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/6258894/Stor-mitt-folk/Mitt-folk",
+      "verified": false,
+      "votes_total": 1,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4141390",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/279379dccf5a9998f8278a337e3f6062",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/279379dccf5a9998f8278a337e3f6062",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/279379dccf5a9998f8278a337e3f6062",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/279379dccf5a9998f8278a337e3f6062",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/DxCp3laqRmWF1DWr4erv_BANNER.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4141390,
+         "iq": 331,
+         "login": "bullerboi",
+         "name": "bullerboi",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/bullerboi",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=d6qjjjDo8Hc"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/149092",
+     "header_image_url": "https://images.genius.com/0cc49535834e3da8744bf4fb5ce67b5e.1000x1000x1.jpg",
+     "id": 149092,
+     "image_url": "https://images.genius.com/0cc49535834e3da8744bf4fb5ce67b5e.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Salazar Brothers",
+     "url": "https://genius.com/artists/Salazar-brothers"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/908401",
+       "artist_names": "The Latin Kings",
+       "full_title": "Kompisar fr\u00e5n f\u00f6rr by\u00a0The\u00a0Latin Kings",
+       "header_image_thumbnail_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+       "id": 908401,
+       "language": "sv",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/The-latin-kings-kompisar-fran-forr-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/The-latin-kings-kompisar-fran-forr-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false
+       },
+       "title": "Kompisar fr\u00e5n f\u00f6rr",
+       "title_with_featured": "Kompisar fr\u00e5n f\u00f6rr",
+       "url": "https://genius.com/The-latin-kings-kompisar-fran-forr-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/104809",
+        "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+        "id": 104809,
+        "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Latin Kings",
+        "url": "https://genius.com/artists/The-latin-kings"
+       }
+      },
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/288504",
+       "artist_names": "The Latin Kings",
+       "full_title": "Cashen dom tas by\u00a0The\u00a0Latin Kings",
+       "header_image_thumbnail_url": "https://images.genius.com/7f259bfd85934e2f75c7e2ba71a21440.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/7f259bfd85934e2f75c7e2ba71a21440.1000x1000x1.jpg",
+       "id": 288504,
+       "language": "sv",
+       "lyrics_owner_id": 204542,
+       "lyrics_state": "complete",
+       "path": "/The-latin-kings-cashen-dom-tas-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/The-latin-kings-cashen-dom-tas-sample",
+       "release_date_components": {
+        "year": 2003,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "2003",
+       "release_date_with_abbreviated_month_for_display": "2003",
+       "song_art_image_thumbnail_url": "https://images.genius.com/7f259bfd85934e2f75c7e2ba71a21440.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/7f259bfd85934e2f75c7e2ba71a21440.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 19540
+       },
+       "title": "Cashen dom tas",
+       "title_with_featured": "Cashen dom tas",
+       "url": "https://genius.com/The-latin-kings-cashen-dom-tas-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/104809",
+        "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+        "id": 104809,
+        "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Latin Kings",
+        "url": "https://genius.com/artists/The-latin-kings"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "STOR",
+   "lyrics": "Mitt folk Lyrics[Vers 1: Stor]\nTomma blickar p\u00e5 perrongen, t\u00e5get rullar fram\nIbland s\u00e5 k\u00e4nns det som att d\u00f6den st\u00e5r och sjunger v\u00e5ra namn\nL\u00e4mnar snaror, ser dina boys g\u00e5 o h\u00e4mta varor\nTror att allt \u00e4r lugnt men nere bakom h\u00f6rnet v\u00e4ntar faror\nDet e som kvicksand har inte f\u00f6tts, har \u00f6verlevt missfall\nE gisslan till skulder och knark, vindarna visslar i solnedg\u00e5ngen\nH\u00e4r i staden d\u00e4r en bror e f\u00e5ngen\nO tappar hoppet f\u00f6r miljonte g\u00e5ngen men jag skiter i k\u00f6r f\u00f6r mina br\u00f6der min clique\nLa cosa nostra expanderar och tar \u00f6ver distrikt\nHip hop i mitt blod st\u00e5r o skriker psalmer som en livets ord\n\u00c4nda sedan buffalo och fila skor stilen mord\nS\u00e5 fyll upp parken jag varnar f\u00f6r storm, gerillakrigare mot babylon i gatuuniform\n\u00c5ret om du vet det knas m\u00e5ste tj\u00e4na mitt gage\nFr\u00e5ga ayo len cashen dom tas, tar dig tillbaks\n[Refr\u00e4ng: Dani M]\nVarje andetag, och varje dag levar jag f\u00f6r mitt folk\nSt\u00e4ll dig upp som en sann soldat, h\u00e5ll huvudet h\u00f6gt ryggen rak mitt folk\nGe inte upp, dom f\u00f6rs\u00f6ker h\u00e5lla oss tillbaks men vi tar ingen skit fr\u00e5n n\u00e5n\nDet kommer b\u00e4ttre dar, jag sv\u00e4r att hoppet lever kvar mitt folk\n\n[Vers 2: AKI]\nMitt folk har tajt cash, bekymmren blir fler\nAvslag p\u00e5 social bidrag problemen tynger ner, men vi ler\nSt\u00e5r rakt med huvudet h\u00f6gt fast ryggen \u00e4r vek\nLever i landet som har f\u00f6rst\u00f6rt sitt trygghets system\nOch mitt folk \u00e4r f\u00f6r m\u00e5nga p\u00e5 k\u00e5ken, m\u00e5ste skicka en h\u00e4lsning dit\nH\u00f6rde du pluggar f\u00f6r att ordna ett b\u00e4ttre liv\nAndra baxar, r\u00e5nar, hustlar hekton o keys\nUppv\u00e4xt p\u00e5 makaroner och ketchup, d\u00e5lig ekonomi\nTragedi efter tragedi mitt folk \u00e4r utsatta\nO starka uppfostrar barnen utan pappa\nBosatta d\u00e4r knaset h\u00e4nder, v\u00e4ntar p\u00e5 dan det v\u00e4nder\nLer stort million dollar smile med trasiga t\u00e4nder\n\n[Refr\u00e4ng: Dani M]\n\n[Vers 3: Linda Pira]\nVi st\u00e5r i sanningens stund, mitt folk \u00e4r krigare vi lever hand i mun\nSnabba para blir ett m\u00e5ste f\u00f6r att f\u00e5 allting att g\u00e5 runt\nUtan andningsrum, kalla faktum\nSv\u00e4r man blir dum\nV\u00e5r historia fr\u00e5n Stationen v\u00e4ster om johanneslund, H\u00e4sselby!\nDu vet vi kicka rhymes sen vi va barn\nUpp i cyphern, dom \u00e4ldre skicka aina ut p\u00e5 span\nSk\u00e5la med fienden fastm\u00e5lade leenden, kompisar fr\u00e5n f\u00f6rr p\u00e5 \u00e5terseenden med horsiga beteenden\nBortgl\u00f6md, man letar svar i flaskor man har t\u00f6mt\nS\u00f6ker d\u00e4r p\u00e5 djupet ser om sanningen fanns gl\u00f6md\nJag e som jeppe sallas hundar, jag hugger fr\u00e5n de d\u00f6da\nStiger upp fr\u00e5n askan vi e tillbaka h\u00e4r p\u00e5 r\u00f6daYou might also like1Embed"
+  },
+  {
+   "annotation_count": 25,
+   "api_path": "/songs/379575",
+   "artist_names": "STOR (Ft. Linda Pira)",
+   "full_title": "Rom & Kush by\u00a0STOR (Ft.\u00a0Linda\u00a0Pira)",
+   "header_image_thumbnail_url": "https://images.genius.com/8fdb4868a6cd329f74d789bb228f0172.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8fdb4868a6cd329f74d789bb228f0172.640x640x1.jpg",
+   "id": 379575,
+   "language": "sv",
+   "lyrics_owner_id": 293049,
+   "lyrics_state": "complete",
+   "path": "/Stor-rom-and-kush-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Stor-rom-and-kush-sample",
+   "release_date_components": {
+    "year": 2012,
+    "month": 11,
+    "day": 9
+   },
+   "release_date_for_display": "November 9, 2012",
+   "release_date_with_abbreviated_month_for_display": "Nov. 9, 2012",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8fdb4868a6cd329f74d789bb228f0172.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8fdb4868a6cd329f74d789bb228f0172.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 24,
+    "contributors": 6,
+    "iq_earners": 6,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Rom & Kush",
+   "title_with_featured": "Rom & Kush (Ft.\u00a0Linda\u00a0Pira)",
+   "url": "https://genius.com/Stor-rom-and-kush-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/81306",
+     "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+     "id": 81306,
+     "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Linda Pira",
+     "url": "https://genius.com/artists/Linda-pira"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/16542",
+    "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+    "id": 16542,
+    "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "STOR",
+    "url": "https://genius.com/artists/Stor"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/379575/apple_music_player",
+   "description": {
+    "plain": ""
+   },
+   "embed_content": "<div id='rg_embed_link_379575' class='rg_embed_link' data-song-id='379575'>Read <a href='https://genius.com/Stor-rom-and-kush-lyrics'>\u201cRom & Kush\u201d by STOR</a> on Genius</div> <script crossorigin src='//genius.com/songs/379575/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2012-11-09",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/64177",
+    "cover_art_url": "https://images.genius.com/8fdb4868a6cd329f74d789bb228f0172.640x640x1.jpg",
+    "full_title": "Shere Khan XIII by STOR",
+    "id": 64177,
+    "name": "Shere Khan XIII",
+    "url": "https://genius.com/albums/Stor/Shere-khan-xiii",
+    "artist": {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 293049,
+    "annotator_login": "jhjhjh",
+    "api_path": "/referents/3850802",
+    "classification": "accepted",
+    "fragment": "Rom & Kush",
+    "id": 3850802,
+    "is_description": true,
+    "path": "/3850802/Stor-rom-and-kush/Rom-and-kush",
+    "range": {
+     "content": "Rom & Kush"
+    },
+    "song_id": 379575,
+    "url": "https://genius.com/3850802/Stor-rom-and-kush/Rom-and-kush",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/379575",
+     "client_timestamps": {
+      "updated_by_human_at": 1630375634,
+      "lyrics_updated_at": 1629939303
+     },
+     "context": "STOR",
+     "id": 379575,
+     "image_url": "https://images.genius.com/8fdb4868a6cd329f74d789bb228f0172.640x640x1.jpg",
+     "link_title": "Rom & Kush by\u00a0STOR (Ft.\u00a0Linda\u00a0Pira)",
+     "title": "Rom & Kush",
+     "type": "Song",
+     "url": "https://genius.com/Stor-rom-and-kush-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3850802",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3850802,
+      "pinned": false,
+      "share_url": "https://genius.com/3850802",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3850802/Stor-rom-and-kush/Rom-and-kush",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/293049",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/c84f5539cf97ef44e7cc6f398c418bb3",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/c84f5539cf97ef44e7cc6f398c418bb3",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/c84f5539cf97ef44e7cc6f398c418bb3",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/c84f5539cf97ef44e7cc6f398c418bb3",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/c84f5539cf97ef44e7cc6f398c418bb3",
+         "human_readable_role_for_display": "Contributor",
+         "id": 293049,
+         "iq": 4835,
+         "login": "jhjhjh",
+         "name": "jhjhjh",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/jhjhjh",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=e4NQCYimZ_c"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/36309",
+     "header_image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "id": 36309,
+     "image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Masse",
+     "url": "https://genius.com/artists/Masse"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/81306",
+     "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+     "id": 81306,
+     "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Linda Pira",
+     "url": "https://genius.com/artists/Linda-pira"
+    },
+    {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   ],
+   "artist": "STOR",
+   "lyrics": "Rom & Kush Lyrics[Break]\nKorkar upp och sveper\nL\u00e4mnar verkligheten\nKorkar upp och sveper\nL\u00e4mnar verkligheten\nKorkar upp och sveper\nL\u00e4mnar verkligheten\nGittar fr\u00e5n planeten\nGittar fr\u00e5n planeten\n\n[Vers 1: STOR]\nEyo jag s\u00e5g dig p\u00e5 Super Sundays h\u00e4romdan\nShoo till Dj Taro, Zoulias och Viet-Naam\nS\u00e5g hur hundra grabbar d\u00f6da dig med luft\nJag e ingen fucking t\u00f6nt, vandra sakta f\u00f6rbi\nRom & Kush, Jag e \u00e4zad\nEn situation som jag kan l\u00e4sa\nModen den e hypad, basen blastar\nSen du st\u00e5r d\u00e4r\nTitta p\u00e5 dig, \"Oh vilka l\u00e5r bre\"\nDu f\u00e5r en svartskalle o bli\nDum, hamna i psykoser\nDu hade det d\u00e4r extra jag har saknat\nT\u00e4nkte p\u00e5 din bruna hud emot mina vita lakan\nDu fr\u00e5gade mitt namn, jag va den du tyckte om\nJag svara mami: \"Jag heter STOR som du inte visste om\"\nJag e den tyngsta shonon med rhymes och nice flow\nSom Notorious BIG skulle trycka J.LO\nDu Skratta och du log\nVi l\u00e4mna v\u00e5ran booze upp i baren, ropa taxin och bah drog\n[Break]\nKorkar upp och sveper\nL\u00e4mnar verkligheten\nKorkar upp och sveper\nL\u00e4mnar verkligheten\nKorkar upp och sveper\nL\u00e4mnar verkligheten\nGittar fr\u00e5n planeten\nGittar fr\u00e5n planeten\n\n[Hook]\nEyo hey, g\u00e4rey\nRom och Kush de har mig irie\nRullar upp hundra pers p\u00e5\nMin lista bitch!!\nCok lugnt f\u00f6r jag k\u00e4nner\nDJ\u00b4n (Dj\u00b4n)\n\n[Vers 2: Linda Pira]\nEy, Kodak moment n\u00e4r vi g\u00f6r entr\u00e9\nLondon shopping runda, jeans fr\u00e5n D&G\nD\u00f6ljer vickys hemlis knogj\u00e4rn i min Fendi\nJimmy shoo va h\u00e4ndish beats fr\u00e5n TSB\nAh tio blickar kl\u00e4r av mig, nio av dem\nHar redan planer p\u00e5 att ta mig\nDet kokar, svalkar med isbit och Sambuca\nRopar kasta upp en till p\u00e5 min nota\nJag och mina tjejer t\u00f6mmer baren\nTaxi till hotellet fyller badkaren\nVad vet du om det, du \u00e4r en maddafakkin f\u00e4rsking\nI din babas araba l\u00e5tsas va en v\u00e4rsting\nJag va den du tyckte om, mitt namn \u00e4r Linda Pira som\nDu inte visste om, jag e den tyngsta g\u00e4rin\nMed rhymes och nice flow, som Biggie Smalls skulle haffa J Lo\nYou might also like[Break]\nKorkar upp och sveper\nL\u00e4mnar verkligheten\nKorkar upp och sveper\nL\u00e4mnar verkligheten\nKorkar upp och sveper\nL\u00e4mnar verkligheten\nGittar fr\u00e5n planeten\nGittar fr\u00e5n planeten\n\n[Hook]\nEyo hey, g\u00e4rey\nRom och Kush de har mig irie\nRullar upp hundra pers p\u00e5\nMin lista bitch\nCok lugnt f\u00f6r jag k\u00e4nner\nDJ\u00b4n (Dj\u00b4n)\n\n[Break]\nKorkar upp och sveper\nL\u00e4mnar verkligheten\nKorkar upp och sveper\nL\u00e4mnar verkligheten\nKorkar upp och sveper\nL\u00e4mnar verkligheten\nGittar fr\u00e5n planeten\nGittar fr\u00e5n planetenEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3308610",
+   "artist_names": "STOR",
+   "full_title": "FUBU by\u00a0STOR",
+   "header_image_thumbnail_url": "https://images.genius.com/a97e6e6da7e5cfc6d0b782a2beaf69d8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a97e6e6da7e5cfc6d0b782a2beaf69d8.580x580x1.jpg",
+   "id": 3308610,
+   "language": "sv",
+   "lyrics_owner_id": 4753899,
+   "lyrics_state": "complete",
+   "path": "/Stor-fubu-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Stor-fubu-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 6,
+    "day": 9
+   },
+   "release_date_for_display": "June 9, 2017",
+   "release_date_with_abbreviated_month_for_display": "Jun. 9, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a97e6e6da7e5cfc6d0b782a2beaf69d8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a97e6e6da7e5cfc6d0b782a2beaf69d8.580x580x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "FUBU",
+   "title_with_featured": "FUBU",
+   "url": "https://genius.com/Stor-fubu-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/16542",
+    "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+    "id": 16542,
+    "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "STOR",
+    "url": "https://genius.com/artists/Stor"
+   },
+   "apple_music_id": "1240135135",
+   "apple_music_player_url": "https://genius.com/songs/3308610/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3308610' class='rg_embed_link' data-song-id='3308610'>Read <a href='https://genius.com/Stor-fubu-lyrics'>\u201cFUBU\u201d by STOR</a> on Genius</div> <script crossorigin src='//genius.com/songs/3308610/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-06-09",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/356301",
+    "cover_art_url": "https://images.genius.com/a97e6e6da7e5cfc6d0b782a2beaf69d8.580x580x1.jpg",
+    "full_title": "Under broarna  by STOR",
+    "id": 356301,
+    "name": "Under broarna ",
+    "url": "https://genius.com/albums/Stor/Under-broarna",
+    "artist": {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4004558,
+    "annotator_login": "SlimiJimi",
+    "api_path": "/referents/13012638",
+    "classification": "needs_exegesis",
+    "fragment": "FUBU",
+    "id": 13012638,
+    "is_description": true,
+    "path": "/13012638/Stor-fubu/Fubu",
+    "range": {
+     "content": "FUBU"
+    },
+    "song_id": 3308610,
+    "url": "https://genius.com/13012638/Stor-fubu/Fubu",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3308610",
+     "client_timestamps": {
+      "updated_by_human_at": 1560910297,
+      "lyrics_updated_at": 1510865309
+     },
+     "context": "STOR",
+     "id": 3308610,
+     "image_url": "https://images.genius.com/a97e6e6da7e5cfc6d0b782a2beaf69d8.580x580x1.jpg",
+     "link_title": "FUBU by\u00a0STOR",
+     "title": "FUBU",
+     "type": "Song",
+     "url": "https://genius.com/Stor-fubu-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13012638",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 13012638,
+      "pinned": false,
+      "share_url": "https://genius.com/13012638",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/13012638/Stor-fubu/Fubu",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4004558",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/226810652f7e62196689377f54048b8d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/226810652f7e62196689377f54048b8d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/226810652f7e62196689377f54048b8d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/226810652f7e62196689377f54048b8d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/226810652f7e62196689377f54048b8d",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4004558,
+         "iq": 13412,
+         "login": "SlimiJimi",
+         "name": "SlimiJimi",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/SlimiJimi",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=rbdHtdj_KeA"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/398949",
+     "header_image_url": "https://images.genius.com/5dd35b54580c8407ee57a70e8c3d5805.443x443x1.png",
+     "id": 398949,
+     "image_url": "https://images.genius.com/5dd35b54580c8407ee57a70e8c3d5805.443x443x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Charlie Bernardo",
+     "url": "https://genius.com/artists/Charlie-bernardo"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    }
+   ],
+   "artist": "STOR",
+   "lyrics": "FUBU Lyrics[Vers 1]\nBror jag alltid hungrig magen den kurrar j\u00e4mnt\nShishko apetit brorsan det \u00e4r inget sk\u00e4mt\nHaffa para bror gamet langar mera japp \u00e4n Marabou\nStudionn\u00e4tter, sena n\u00e4tter rendevouz\nShit, s\u00e4g godnatt jag tar det h\u00e4r till s\u00e4ngs\nV\u00e4ntat s\u00e5 l\u00e4nge det som min k\u00e4rlek spr\u00e4ngs\nNej men \u00e4ntligen hon s\u00e4rar sina ben nu\nIdiot du hade din chans ha den gled ut\nInte stor nog kunde dundrat henne n\u00e4r jag var sjutton\nGuzz det ingen match ....?.... k\u00e4kar upp dom\nDroppar flows \u00e5kt till shows s\u00e5 vi jobbar bro\nHar dina dr\u00f6mmar i en doggypose\nDenna skiten som en amjuk v\u00e4ntar p\u00e5 f\u00e5 japp\nOch jag \u00e4r som nymuckad f\u00e5nge fr\u00e5n ett f\u00e4ngelsestraff\nDet mina bebdi spottar upplyst som jag var 50\nDamn du har en svartskalle driftig\nSe det var nattetid pennan b\u00f6na om att pressas mot en pappersbit\nSt\u00f6nade vid det f\u00f6rsta ord jag satte dit\nAppetit, shishko\nSkinnen ger dig skit, shishko\nMicken och me, gemini, tvillingsyskon som Klitschko\nOoh la-la-la checka Stockholm rude boy\nDricker hinkish djupt glas Kosta Boda\nRobba dig ifr\u00e5n din kedja 98:as skola\nYo talangen \u00e4r f\u00f6r grov, jag f\u00f6r stor f\u00f6r Europa\nHar vunnit P3 och Grammis jag borde ta paus\nMen vi ba forts\u00e4tter fram\u00e5t bror vi g\u00e5r all out\nTror det \u00e4r tre shunos p\u00e5 l\u00e5ten det \u00e4r bara jag yao\nS\u00e5 din fattiga klick inget att ha yao\nMina fingrar kliar f\u00e5r lust att robba, stick up\nDJns fingrar kliar f\u00e5r lust att robba, stick up\nTill folk som flockas kommer till show och hoppar, big up\nTill nu det \u00e4r dags att jobba s\u00e5 DJ droppa pickup\nAlla mina svartskalleh\u00e4nder, big up!\nKan inte gl\u00f6mma Redline Rec's, big up!\nChampions League det \u00e4r mitt s\u00e4tt, big up!\nChampions League det \u00e4r mitt s\u00e4tt, big up!\nBig up!\nBig up!\nBig up!\nBig up!\n[Hook]\nGjort det h\u00e4r sen l\u00e4nge ass\u00e5...\n\nSe jag har vart h\u00e4r sen FUBU\nDom leker hiphop jag har aldrig sett shunon\nFr\u00e5n tiden d\u00e5 en besh gick f\u00f6r trehundra kronor\nTommy Hilfiger, Timberland sen FUBU\nSen FUBU, jag vart h\u00e4r sen FUBU\nDom leker hiphop jag har aldrig sett shunon\nFr\u00e5n tiden d\u00e5 en besh gick f\u00f6r trehundra kronor\nTommy Hilfiger, Timberland sen FUBU\nSen FUBU ja\n\n[Vers 2]\nL\u00e4nge sen du var relevant\nSe min clique \u00e4r alltid center of attention\nSo smooth, alltid gentleman\nHaffa g\u00e4ri ele ele ele elegant\nElefant am tio ton bounce\nKonstpaus\nDu \u00e4r bara turist yao vi har vart h\u00e4r sen FUBU\nF\u00f6rlora oskuld g\u00e4ri pumpa D'angelo's Voodoo\nL\u00e4nge-l\u00e4nge-l\u00e4nge sen sl\u00e4ngde min kondom\nK\u00f6pte FUBU-brallor, Timberlandk\u00e4ngorna var p\u00e5\nTimbaland var en producent hade inte r\u00e5d\nMina v\u00e4nner sv\u00e4r jag minns det som ig\u00e5r\nYou might also like[Hook]\nJag har vart h\u00e4r sen FUBU\nDom leker hiphop jag har aldrig sett shunon\nFr\u00e5n tiden d\u00e5 en besh gick f\u00f6r trehundra kronor\nTommy Hilfiger, Timberland sen FUBU\nSen FUBU, jag vart h\u00e4r sen FUBU\nDom leker hiphop jag har aldrig sett shunon\nFr\u00e5n tiden d\u00e5 en besh gick f\u00f6r trehundra kronor\nTommy Hilfiger, Timberland sen FUBU\nSen FUBU jaEmbed"
+  }
+ ]
+}

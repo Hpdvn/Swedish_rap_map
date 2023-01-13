@@ -1,0 +1,4213 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/24306",
+ "description": {
+  "plain": "Labyrint \u00e4r en musikgrupp fr\u00e5n Eskisltuna, Fr\u00f6slunda, skapad \u00e5r 2007 av rapparna och l\u00e5tskrivarna Saki (Sakarie Mohamed), Jacco (Jacques Mattar) och Dajanko (Dejan Milacic) tillsammans med producenten och DJ:n Sai (Simon Wimmer).\n\nEfter flera \u00e5r av liveshower och inspelningar skrev gruppen l\u00e5ten V\u00e5r Betong i slutet av 2007. L\u00e5ten spred sig snabbt \u00f6ver hela landet och gruppen var p\u00e5 v\u00e4g att f\u00e5 sitt genombrott. Labyrint b\u00f6rjade att samarbeta med flera producenter bl.a Masse fr\u00e5n The Salazar Brothers och 2009 sl\u00e4ppte gruppen ett mixtape som blev det mest nerladdade p\u00e5 Whoa.se. Universal Records fick upp \u00f6gonen f\u00f6r Labyrint och de blev erbjudna ett kontrakt f\u00f6r debutalbumet Labababa, som sl\u00e4pptes 30 november 2011."
+ },
+ "facebook_name": "",
+ "followers_count": 9,
+ "header_image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+ "id": 24306,
+ "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+ "instagram_name": "",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Labyrint",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Labyrint",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 79542,
+  "annotator_login": "b-the-cop-killah",
+  "api_path": "/referents/6945263",
+  "classification": "accepted",
+  "fragment": "Labyrint",
+  "id": 6945263,
+  "is_description": true,
+  "path": "/6945263/Labyrint/Labyrint",
+  "range": {
+   "content": "Labyrint"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6945263/Labyrint/Labyrint",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/24306",
+   "context": null,
+   "id": 24306,
+   "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+   "link_title": "Labyrint",
+   "title": "Labyrint",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Labyrint"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6945263",
+    "body": {
+     "plain": "Labyrint \u00e4r en musikgrupp fr\u00e5n Eskisltuna, Fr\u00f6slunda, skapad \u00e5r 2007 av rapparna och l\u00e5tskrivarna Saki (Sakarie Mohamed), Jacco (Jacques Mattar) och Dajanko (Dejan Milacic) tillsammans med producenten och DJ:n Sai (Simon Wimmer).\n\nEfter flera \u00e5r av liveshower och inspelningar skrev gruppen l\u00e5ten V\u00e5r Betong i slutet av 2007. L\u00e5ten spred sig snabbt \u00f6ver hela landet och gruppen var p\u00e5 v\u00e4g att f\u00e5 sitt genombrott. Labyrint b\u00f6rjade att samarbeta med flera producenter bl.a Masse fr\u00e5n The Salazar Brothers och 2009 sl\u00e4ppte gruppen ett mixtape som blev det mest nerladdade p\u00e5 Whoa.se. Universal Records fick upp \u00f6gonen f\u00f6r Labyrint och de blev erbjudna ett kontrakt f\u00f6r debutalbumet Labababa, som sl\u00e4pptes 30 november 2011."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6945263,
+    "pinned": false,
+    "share_url": "https://genius.com/6945263",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6945263/Labyrint/Labyrint",
+    "verified": false,
+    "votes_total": 1,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/11294",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a0zztv87hla",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a0zztv87hla",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a0zztv87hla",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a0zztv87hla",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/rlo9joohi8i",
+       "human_readable_role_for_display": "Editor",
+       "id": 11294,
+       "iq": 104660,
+       "login": "Trakk",
+       "name": "Trakk",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Trakk",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 35,
+   "api_path": "/songs/86316",
+   "artist_names": "Labyrint (Ft. Aleks, Alladin, Allyawan, Black Ghost, Dani M, JaQe, Pase & STOR)",
+   "full_title": "Ortens favoriter (Remix) by\u00a0Labyrint (Ft.\u00a0Aleks, Alladin, Allyawan, Black\u00a0Ghost, Dani\u00a0M, JaQe, Pase & STOR)",
+   "header_image_thumbnail_url": "https://images.genius.com/9b093aa182de6fd9102dfb72c5f1e5c0.300x300x1.png",
+   "header_image_url": "https://images.genius.com/9b093aa182de6fd9102dfb72c5f1e5c0.999x999x1.png",
+   "id": 86316,
+   "language": "sv",
+   "lyrics_owner_id": 79542,
+   "lyrics_state": "complete",
+   "path": "/Labyrint-ortens-favoriter-remix-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Labyrint-ortens-favoriter-remix-sample",
+   "release_date_components": {
+    "year": 2012,
+    "month": 3,
+    "day": 9
+   },
+   "release_date_for_display": "March 9, 2012",
+   "release_date_with_abbreviated_month_for_display": "Mar. 9, 2012",
+   "song_art_image_thumbnail_url": "https://images.genius.com/9b093aa182de6fd9102dfb72c5f1e5c0.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/9b093aa182de6fd9102dfb72c5f1e5c0.999x999x1.png",
+   "stats": {
+    "accepted_annotations": 24,
+    "contributors": 32,
+    "iq_earners": 30,
+    "transcribers": 5,
+    "unreviewed_annotations": 11,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 56730
+   },
+   "title": "Ortens favoriter (Remix)",
+   "title_with_featured": "Ortens favoriter (Remix) (Ft.\u00a0Aleks, Alladin, Allyawan, Black\u00a0Ghost, Dani\u00a0M, JaQe, Pase & STOR)",
+   "url": "https://genius.com/Labyrint-ortens-favoriter-remix-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/24305",
+     "header_image_url": "https://images.genius.com/dece0a3836f5be480e882cc6377a66e8.350x235x1.png",
+     "id": 24305,
+     "image_url": "https://images.genius.com/dece0a3836f5be480e882cc6377a66e8.350x235x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JaQe",
+     "url": "https://genius.com/artists/Jaqe"
+    },
+    {
+     "api_path": "/artists/24304",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 24304,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alladin",
+     "url": "https://genius.com/artists/Alladin"
+    },
+    {
+     "api_path": "/artists/24303",
+     "header_image_url": "https://images.genius.com/78b0c8fda314a857ef17abd9933b03eb.1000x563x1.jpg",
+     "id": 24303,
+     "image_url": "https://images.genius.com/a6dc72d1a9973bcf6dc34adcd12a0eb4.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dani M",
+     "url": "https://genius.com/artists/Dani-m"
+    },
+    {
+     "api_path": "/artists/24302",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 24302,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pase",
+     "url": "https://genius.com/artists/Pase"
+    },
+    {
+     "api_path": "/artists/24301",
+     "header_image_url": "https://images.genius.com/96bd71259f1d4a0be11717cec84f86d3.960x600x1.jpg",
+     "id": 24301,
+     "image_url": "https://images.genius.com/5fca51cff915dc00d2c3d1937afd97c1.999x999x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Allyawan",
+     "url": "https://genius.com/artists/Allyawan"
+    },
+    {
+     "api_path": "/artists/16543",
+     "header_image_url": "https://images.genius.com/7af359965aaa5ae6fdcccaa17ec7e1cc.533x533x1.jpg",
+     "id": 16543,
+     "image_url": "https://images.genius.com/7af359965aaa5ae6fdcccaa17ec7e1cc.533x533x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aleks",
+     "url": "https://genius.com/artists/Aleks"
+    },
+    {
+     "api_path": "/artists/16542",
+     "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+     "id": 16542,
+     "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "STOR",
+     "url": "https://genius.com/artists/Stor"
+    },
+    {
+     "api_path": "/artists/24300",
+     "header_image_url": "https://images.genius.com/413295f16a7819d32bde6a5c98c022fc.480x480x1.jpg",
+     "id": 24300,
+     "image_url": "https://images.genius.com/413295f16a7819d32bde6a5c98c022fc.480x480x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Black Ghost",
+     "url": "https://genius.com/artists/Black-ghost"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/24306",
+    "header_image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+    "id": 24306,
+    "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Labyrint",
+    "url": "https://genius.com/artists/Labyrint"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/86316/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_86316' class='rg_embed_link' data-song-id='86316'>Read <a href='https://genius.com/Labyrint-ortens-favoriter-remix-lyrics'>\u201cOrtens favoriter (Remix)\u201d by Labyrint</a> on Genius</div> <script crossorigin src='//genius.com/songs/86316/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2012-03-09",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/579027",
+    "cover_art_url": "https://images.genius.com/9b093aa182de6fd9102dfb72c5f1e5c0.999x999x1.png",
+    "full_title": "Ortens favoriter by Labyrint",
+    "id": 579027,
+    "name": "Ortens favoriter",
+    "url": "https://genius.com/albums/Labyrint/Ortens-favoriter",
+    "artist": {
+     "api_path": "/artists/24306",
+     "header_image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+     "id": 24306,
+     "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Labyrint",
+     "url": "https://genius.com/artists/Labyrint"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 79542,
+    "annotator_login": "b-the-cop-killah",
+    "api_path": "/referents/3609716",
+    "classification": "needs_exegesis",
+    "fragment": "Ortens favoriter (Remix)",
+    "id": 3609716,
+    "is_description": true,
+    "path": "/3609716/Labyrint-ortens-favoriter-remix/Ortens-favoriter-remix",
+    "range": {
+     "content": "Ortens favoriter (Remix)"
+    },
+    "song_id": 86316,
+    "url": "https://genius.com/3609716/Labyrint-ortens-favoriter-remix/Ortens-favoriter-remix",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/86316",
+     "client_timestamps": {
+      "updated_by_human_at": 1648947999,
+      "lyrics_updated_at": 1648948000
+     },
+     "context": "Labyrint",
+     "id": 86316,
+     "image_url": "https://images.genius.com/9b093aa182de6fd9102dfb72c5f1e5c0.999x999x1.png",
+     "link_title": "Ortens favoriter (Remix) by\u00a0Labyrint (Ft.\u00a0Aleks, Alladin, Allyawan, Black\u00a0Ghost, Dani\u00a0M, JaQe, Pase & STOR)",
+     "title": "Ortens favoriter (Remix)",
+     "type": "Song",
+     "url": "https://genius.com/Labyrint-ortens-favoriter-remix-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3609716",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3609716,
+      "pinned": false,
+      "share_url": "https://genius.com/3609716",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3609716/Labyrint-ortens-favoriter-remix/Ortens-favoriter-remix",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/79542",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1669064443",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1669064443",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1669064443",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "human_readable_role_for_display": "Contributor",
+         "id": 79542,
+         "iq": 396,
+         "login": "b-the-cop-killah",
+         "name": "b-the-cop-killah",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/b-the-cop-killah",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=XrdqSYGF8ts"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/36309",
+     "header_image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "id": 36309,
+     "image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Masse",
+     "url": "https://genius.com/artists/Masse"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Labyrint",
+   "lyrics": "Ortens favoriter (Remix) Lyrics[Intro: AKI]\nDu lyssnar p\u00e5 Ortens Favoriter\nDin favoritstation i betongen med den b\u00e4sta musiken\nOch vi t\u00e4nkte g\u00e5 vidare\nMed lite nice musik fr\u00e5n ghetto-Sverige\n\n[Vers 1: Black Ghost]\nFuck stressen, ja, cool som jabbar musiken\nPass p\u00e5 pressen och spola balla rubriker\nVi lever som diametern, alltid mot trakternas mitten\nNoggrann med min cirkel\nProblem skalar, \u00e4kta m\u00e4n i gatans area, de' hood-matematiken\nD\u00e4r, r\u00e5aste gena gr\u00e4h, bl\u00e5sis i centa' h\u00e4r\nTuggarna som Whiskas, om katten sj\u00e4lv f\u00e5r v\u00e4lja, sv\u00e4r\nDudes svansar p\u00e5 isen, ortens favoriter\n[Vers 2: Dajanko]\nShit vilken k\u00e4nsla, att f\u00e5 lyckas n\u00e4r man har k\u00e4mpat\nOch jobbat i motvind och undrat n\u00e4r det ska v\u00e4nda\nG\u00e5tt fr\u00e5n undra om det \u00f6verhuvudtaget n\u00e5nsin kommer h\u00e4nda\nTill att varje f\u00f6rort vi spelar i k\u00e4nns som hemma\nF\u00f6r m\u00e5nga f\u00f6r att n\u00e4mna, men jag passar p\u00e5 och n\u00e4mner tv\u00e5\nGottsunda, st\u00e4llet jag kommer fr\u00e5n\nOch Jakobsberg, S\u00f6derh\u00f6jden, d\u00e4r jag glider\nSkriver sidor om nutiden, Dajanko f\u00f6rblir en av ortens favoriter\n\n[Vers 3: STOR]\nSl\u00e4pp dina vingar, lille broder, du s\u00e5 mycket mer\nMycket mer \u00e4n platsen som du bor p\u00e5, van att media trycker ner\nS\u00e5 l\u00e5t ingen s\u00e4ga \u00e5t dig vem du \u00e4r, vad du kan bli\nTraktens svagaste kan v\u00e4xa upp till ortens favorit\nFramtidsl\u00f6ften ifr\u00e5n Roseng\u00e5rd till Rinkeby till Hj\u00e4llbo\nDuckar faror typ som Mario p\u00e5 ett 8 bits-Nintendo\nBarnsoldater citerar v\u00e5ra ord p\u00e5 deras gator\nSkicka k\u00e4rleken tillbaka genom radioapparater!\n\n[Vers 4: Aleks]\nF\u00f6r i orten var jag stj\u00e4rnan l\u00e5ngt innan jag var k\u00e4nd\nK\u00e4nner mig hemma \u00f6verallt, s\u00e5 \u00f6verallt gick man hem (Men)\nMen, mannen, ta aldrig raden f\u00f6r n\u00e5t sk\u00e4mt\nTack till Alby, Skarpn\u00e4ck, 127 och Fru\u00e4ngen\nAleks \u00e4r power, Aleks \u00e4r vilja\nAleks och gatan kommer aldrig att skiljas\nAllting du l\u00e4rt mig kan aldrig f\u00f6rsvinna\nDu l\u00e4t mig f\u00f6rlora f\u00f6r att l\u00e4ra mig att vinna\nYou might also like[Refr\u00e4ng: AKI och Jacco]\nPass p\u00e5 era recensioner och priser\nSkiter i, f\u00f6r vi \u00e4r ortens favoriter\nAlla vet, finns inga flooz i musiken\nMen det \u00e4r lugnt, s\u00e5 l\u00e4nge vi \u00e4r ortens favoriter\nPass p\u00e5 era recensioner och priser\nSkiter i, f\u00f6r vi \u00e4r ortens favoriter\nAlla vet, finns inga flooz i musiken\nMen det \u00e4r lugnt, s\u00e5 l\u00e4nge vi \u00e4r ortens favoriter\n\n[Vers 5: Allyawan]\nFinns s\u00e5 m\u00e5nga st\u00e4llen som har gjort 'Wan till den han \u00e9\n\u00d6xnehaga, \u00d6ster\u00e4ngen, Torpa till att b\u00f6rja med\nG\u00f6tet blev mitt hem, sen Bellevue \u00e4n idag\nK\u00e4rlek till varje hood i GBG-stad\nJa, ni vet vad, uppv\u00e4xt med resande\nS\u00e5 jag lever likadant, jip', vi ses senare\nNu knegar man i huvudstaden, the big city monster\nS\u00e5 m\u00e5ste s\u00e4ga shoo till Bagis, Jordbo och Farsta (What's up?)\n\n[Vers 6: Pase]\nI hope they bump my lyrics in a whip, tell em' I writ them on the strip\nWanted a fortune, a few to forge a future off the bricks\nSit on the stairs writer, council estate rhymer\nBaptized in a fire, but still no love for aina\nI'd love to see my hood good, but I can only vision it\nGet padlocked in madness, if you can do division with\nWhatever you get your hands on, dependin' on what the grams on\nFrom Peckham to V\u00e4ster\u00e5s my feet, I walk, I land on!\n[Vers 7: Dani M]\nKom hit fr\u00e5n Kuba n\u00e4r jag var \u00e5tta men fastna \u00e4nd\u00e5 kvar i Hagen\nBland baxare, bufflare, uppv\u00e4xt bland gatubarnen\nH\u00e4ngde vid Tavve, lilla Kurdistan och Arabdalen\nHustla' para vid gamla D\u00e4ra, r\u00f6kte zutt vid basketplanen\nNu h\u00f6r jag min musik i bilarna som br\u00e4nner runt\nEller fr\u00e5n ungarnas lur n\u00e4r jag tar 5:ans buss\nI trappen n\u00e4r hegget cuttas och grabbar becknar zutt\nStenhagens favorit, 752 \u00e4r vad jag reppar upp\n\n[Refr\u00e4ng: AKI och Jacco]\nPass p\u00e5 era recensioner och priser\nSkiter i, f\u00f6r vi \u00e4r ortens favoriter\nAlla vet, finns inga flooz i musiken\nMen det \u00e4r lugnt, s\u00e5 l\u00e4nge vi \u00e4r ortens favoriter\nPass p\u00e5 era recensioner och priser\nSkiter i, f\u00f6r vi \u00e4r ortens favoriter\nAlla vet, finns inga flooz i musiken\nMen det \u00e4r lugnt, s\u00e5 l\u00e4nge vi \u00e4r ortens favoriter\n\n[Vers 8: Alladin]\nJag har bott h\u00e4r i G-sunda sen jag vart liten (Yeah)\nSpenderat min tid oftast nere p\u00e5 Gipen (Woah, yeah)\n\u00c4ven om allting kan vara knas (Oh, yeah)\nS\u00e5 kommer jag alltid att komma tillbaks (Komma tillbaks, woah, yeah)\n\n[Vers 9: AKI]\nAlbyungar \u00e4r som Gottsundabarn\nGhettofolk, varje stad har minst ett hundratal\nOch varenda en pumpar Labyrint i slummen idag\nAKI ortens favorit-MC, jag sv\u00e4r p\u00e5 pundarnas grav\nOch dom \u00e4r f\u00f6r m\u00e5nga, tragiska livs\u00f6den\nDroger f\u00f6rst\u00f6r m\u00e5nga, n\u00e4r de s\u00e4ljs d\u00e4r p\u00e5 h\u00f6rnet\nFr\u00e5n Bandstolsv\u00e4gen, Stenhammar f\u00f6rbi Fl\u00f6jten\nVi m\u00f6ts p\u00e5 Albyv\u00e4gen eller syns p\u00e5 H\u00f6jden\n\n[Vers 10: JaQe]\nJag minns n\u00e4r ortens favorit var Ken, Blues och Latin Kings\nChapee 'N' Chess, nu f\u00f6r tiden \u00e4r det STOR och Labyrint\nS\u00e5 bara rulla upp en till, nu f\u00e5r brushan en familj\nOm det g\u00e4ller Malm\u00f6, klart dom hookar brushan p\u00e5 remix\nYeah, fr\u00e5n trapphus, k\u00e4llare, om g\u00e5rden kan k\u00e4nna det\nDet p\u00e5minner om n\u00e5gonting f\u00f6r l\u00e4nge sen\nChecka mig, fr\u00e5n omr\u00e5det, b\u00e4ttre k\u00e4nt f\u00f6r postkoden\n232, folk kan relatera fast dom \u00e4r s\u00e5 l\u00e5ngt fr\u00e5n det\n\n[Vers 11: Jacco]\nJag v\u00e4xte upp h\u00e4r, tog mitt f\u00f6rsta steg h\u00e4r\nSa mitt f\u00f6rsta ord och gatan blev min bror\nIdag jag g\u00f6r musik i Red Line med mitt crew\nLabababa reppar Gottsunda och alla andras orter\nVi har ett band mellan oss\nSom ni aldrig kommer att f\u00f6rst\u00e5, nej\nVi har delat sorg, skratt, blod, t\u00e5rar\nOch f\u00f6rluster sen vi var sm\u00e5, s\u00e5\n\n[Refr\u00e4ng: Dani M & Jacco]\nPass p\u00e5 era recensioner och priser\nSkiter i, f\u00f6r vi \u00e4r ortens favoriter\nAlla vet, finns inga flooz i musiken\nMen det \u00e4r lugnt, s\u00e5 l\u00e4nge vi \u00e4r ortens favoriter\nPass p\u00e5 era recensioner och priser\nSkiter i, f\u00f6r vi \u00e4r ortens favoriter\nAlla vet, finns inga flooz i musiken\nMen det \u00e4r lugnt, s\u00e5 l\u00e4nge vi \u00e4r ortens favoriter1Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/405538",
+   "artist_names": "Labyrint (Ft. Amsie Brown)",
+   "full_title": "Chilla Lide by\u00a0Labyrint (Ft.\u00a0Amsie\u00a0Brown)",
+   "header_image_thumbnail_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.640x640x1.jpg",
+   "id": 405538,
+   "language": "sv",
+   "lyrics_owner_id": 786760,
+   "lyrics_state": "complete",
+   "path": "/Labyrint-chilla-lide-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Labyrint-chilla-lide-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 4,
+    "day": 16
+   },
+   "release_date_for_display": "April 16, 2014",
+   "release_date_with_abbreviated_month_for_display": "Apr. 16, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 8,
+    "iq_earners": 6,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 48613
+   },
+   "title": "Chilla Lide",
+   "title_with_featured": "Chilla Lide (Ft.\u00a0Amsie\u00a0Brown)",
+   "url": "https://genius.com/Labyrint-chilla-lide-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/39349",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 39349,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Amsie Brown",
+     "url": "https://genius.com/artists/Amsie-brown"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/24306",
+    "header_image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+    "id": 24306,
+    "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Labyrint",
+    "url": "https://genius.com/artists/Labyrint"
+   },
+   "apple_music_id": "1559281066",
+   "apple_music_player_url": "https://genius.com/songs/405538/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_405538' class='rg_embed_link' data-song-id='405538'>Read <a href='https://genius.com/Labyrint-chilla-lide-lyrics'>\u201cChilla Lide\u201d by Labyrint</a> on Genius</div> <script crossorigin src='//genius.com/songs/405538/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-04-16",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/101941",
+    "cover_art_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.640x640x1.jpg",
+    "full_title": "Garalaowit by Labyrint",
+    "id": 101941,
+    "name": "Garalaowit",
+    "url": "https://genius.com/albums/Labyrint/Garalaowit",
+    "artist": {
+     "api_path": "/artists/24306",
+     "header_image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+     "id": 24306,
+     "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Labyrint",
+     "url": "https://genius.com/artists/Labyrint"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 786760,
+    "annotator_login": "Sergre",
+    "api_path": "/referents/3591776",
+    "classification": "needs_exegesis",
+    "fragment": "Chilla Lide",
+    "id": 3591776,
+    "is_description": true,
+    "path": "/3591776/Labyrint-chilla-lide/Chilla-lide",
+    "range": {
+     "content": "Chilla Lide"
+    },
+    "song_id": 405538,
+    "url": "https://genius.com/3591776/Labyrint-chilla-lide/Chilla-lide",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/405538",
+     "client_timestamps": {
+      "updated_by_human_at": 1577288623,
+      "lyrics_updated_at": 1577288623
+     },
+     "context": "Labyrint",
+     "id": 405538,
+     "image_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.640x640x1.jpg",
+     "link_title": "Chilla Lide by\u00a0Labyrint (Ft.\u00a0Amsie\u00a0Brown)",
+     "title": "Chilla Lide",
+     "type": "Song",
+     "url": "https://genius.com/Labyrint-chilla-lide-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3591776",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3591776,
+      "pinned": false,
+      "share_url": "https://genius.com/3591776",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3591776/Labyrint-chilla-lide/Chilla-lide",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/786760",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1669064443",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1669064443",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1669064443",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "human_readable_role_for_display": null,
+         "id": 786760,
+         "iq": 0,
+         "login": "Sergre",
+         "name": "Sergre",
+         "role_for_display": null,
+         "url": "https://genius.com/Sergre",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=VkHtSNPkhZA"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Labyrint",
+   "lyrics": "Chilla Lide Lyrics[Vers 1: Amsie Brown]\nAbow, vad fett! \u00c4ntligen \u00e4r det min vecka med barnen\nS\u00e5 vi taggar ner till parken och vi leker pirater\nSvarar inte p\u00e5 samtalen\nMan vill gl\u00f6mma bort imorgon och bara leva f\u00f6r dagen\nN\u00e4r man slavar p\u00e5 ett \u00e5tta-till-fyra\nOch \u00e4nd\u00e5 m\u00e5ste hassla f\u00f6r att betala hyran\nApparaten, den vill st\u00e4lla och styra\nMen jag har aldrig varit bra p\u00e5 att lyda\nDe vill ha mig fast i flocken, se mig f\u00f6lja, som ett f\u00e5r\nMen jag skiter i vad de vill, jag bara chillar p\u00e5 min g\u00e5rd\nF\u00f6r de stressar och bara pressar och vill g\u00f6ra livet sv\u00e5rt\nS\u00e5 jag tar mitt pick och pack\nOch taggar l\u00e5ngt bort h\u00e4rifr\u00e5n, och bara\u2026\n[Refr\u00e4ng: Jacco]\nChilla lite\nOoaaah, ta det launa\nChilla lite (chilla lite), ta det lugnt\n\n[Vers 2: Dajanko]\nJag m\u00e5ste l\u00e4ra mig att koppla av\nVarva ner, ta det lugnt, slappna av ett tag\n\u00c4ven om problemen tynger, jag f\u00e5r l\u00e4gga dem \u00e5t sidan\nBeh\u00f6ver vila, inte v\u00e4nda dygnet och kriga\nYeah, jag m\u00e5ste softa ner\nBeh\u00f6ver chilla grovt, pallar inte l\u00e5tsas mer\nOfta skevt i v\u00e5r lilla ort, mannen, orka med\nDet g\u00e5r illa fort, s\u00e5 akta er f\u00f6r snedsteg\nT\u00e4nk om vi alla kunde g\u00f6ra samma\nChilla lite, bara ta det launa\nDu, jag, hon, han och alla andra\nTa ledigt n\u00e5gra dar och bara tagga\nVi m\u00e5ste axa h\u00e4rifr\u00e5n n\u00e5gonstans, varsomhelst\nPallar inte med stressen, f\u00f6r jag vill bara\u2026\n\n[Refr\u00e4ng: Jacco]\nChilla lite\nOoaaah, ta det launa\nChilla lite (chilla lite), ta det lugnt\nYou might also like[Vers 3: Jacco]\nDagens tempo \u00e4r stress hela tiden\nDet g\u00e5r f\u00f6r fort, dagar flyger f\u00f6rbi en\nV\u00e4nner bl\u00e5ser varann, man blir van\nOch jag \u00e4r tr\u00f6tt p\u00e5 den \u00e4ckliga stilen\nDet h\u00e4r \u00e4r en h\u00e5rd verklighet\nKan knappt lita p\u00e5 den som g\u00e5r bredvid\nOch alla stressar f\u00f6r mer\nFinns ingen tid \u00f6ver f\u00f6r k\u00e4rleken (Nej, nej, nej!)\nD\u00e5 \u00e4r det viktigt att slappna av\nTa det f\u00f6rsiktigt, inga krav\nK\u00e4nner mig lycklig, k\u00e4nner mig glad\nPass p\u00e5 kakan, ingen beknish idag\nF\u00f6rr i tiden det var stress av braj\nNuf\u00f6rtiden jag f\u00e5r stress av rhymes\nDu greppar mickar och kickar, hasslar och trixar\nFamiljedrama tills du vissnar, s\u00e5 kom ih\u00e5g\u2026\n\n[Refr\u00e4ng: Jacco]\nChilla lite\nOoaaah, ta det launa\nChilla lite (chilla lite), ta det lugnt\n\n[Vers 4: Aki]\nIbland blir allt f\u00f6r mycket och man m\u00e5ste ta det soft\nHar skuld p\u00e5 skuld och huvudet\nFullt av press och stress non stop\nD\u00e5 jag st\u00e4nger av min lur och bara kopplar bort\nOch bara ta det lugnt med mina barn en stund\nOch kanske \u00e4ter n\u00e5got gott\nF\u00f6r jag har haft nog med problem\nTom mage och svaga ben\nInte den som vill klaga, men l\u00e5t mig njuta av min oxfil\u00e9\nL\u00e5t mig bara va ett tag\nBeh\u00f6ver semester, l\u00e5t mig ta n\u00e5gon dag\nChampagne i varmt land skulle passa bra\nIngen show, ingenting, \u00e4ven om gaget \u00e4r bra\nVill inte rhyma, det \u00e4r launa, finaste grauna\nEller att jag \u00e4r brauna, suomalainen sauna\nBara chilla lide\nHoppa av hjulet, tr\u00f6tt p\u00e5 att springa i det\nKlockan kutar iv\u00e4g f\u00f6r mig\nFinns knappt tid till n\u00e5got, vilken j\u00e4vla grej!\nAyo, stress psychar, det kv\u00e4ver mig\nAyo, fett med jobbig dag, jag sjukanm\u00e4ler mig, och bara\u2026\n[Refr\u00e4ng: Jacco]\nChilla lite\nOoaaah, ta det launa\nChilla lite (chilla lite), ta det lugnt2Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1952018",
+   "artist_names": "Labyrint (Ft. Dani M)",
+   "full_title": "V\u00e4lkommen hem by\u00a0Labyrint (Ft.\u00a0Dani\u00a0M)",
+   "header_image_thumbnail_url": "https://images.genius.com/9b155c16bb170d24b6a156471a1dec07.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9b155c16bb170d24b6a156471a1dec07.640x640x1.jpg",
+   "id": 1952018,
+   "language": "sv",
+   "lyrics_owner_id": 228031,
+   "lyrics_state": "complete",
+   "path": "/Labyrint-valkommen-hem-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Labyrint-valkommen-hem-sample",
+   "release_date_components": {
+    "year": 2011,
+    "month": 11,
+    "day": 30
+   },
+   "release_date_for_display": "November 30, 2011",
+   "release_date_with_abbreviated_month_for_display": "Nov. 30, 2011",
+   "song_art_image_thumbnail_url": "https://images.genius.com/9b155c16bb170d24b6a156471a1dec07.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9b155c16bb170d24b6a156471a1dec07.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 6,
+    "iq_earners": 6,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 35654
+   },
+   "title": "V\u00e4lkommen hem",
+   "title_with_featured": "V\u00e4lkommen hem (Ft.\u00a0Dani\u00a0M)",
+   "url": "https://genius.com/Labyrint-valkommen-hem-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/24303",
+     "header_image_url": "https://images.genius.com/78b0c8fda314a857ef17abd9933b03eb.1000x563x1.jpg",
+     "id": 24303,
+     "image_url": "https://images.genius.com/a6dc72d1a9973bcf6dc34adcd12a0eb4.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dani M",
+     "url": "https://genius.com/artists/Dani-m"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/24306",
+    "header_image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+    "id": 24306,
+    "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Labyrint",
+    "url": "https://genius.com/artists/Labyrint"
+   },
+   "apple_music_id": "1442819566",
+   "apple_music_player_url": "https://genius.com/songs/1952018/apple_music_player",
+   "description": {
+    "plain": "L\u00e5ten samplar \u00e4ven \u201cWhat\u2019s going on\u201d av Marvin Gaye."
+   },
+   "embed_content": "<div id='rg_embed_link_1952018' class='rg_embed_link' data-song-id='1952018'>Read <a href='https://genius.com/Labyrint-valkommen-hem-lyrics'>\u201cV\u00e4lkommen hem\u201d by Labyrint</a> on Genius</div> <script crossorigin src='//genius.com/songs/1952018/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2011-11-30",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/22601",
+    "cover_art_url": "https://images.genius.com/9b155c16bb170d24b6a156471a1dec07.640x640x1.jpg",
+    "full_title": "Labababa by Labyrint",
+    "id": 22601,
+    "name": "Labababa",
+    "url": "https://genius.com/albums/Labyrint/Labababa",
+    "artist": {
+     "api_path": "/artists/24306",
+     "header_image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+     "id": 24306,
+     "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Labyrint",
+     "url": "https://genius.com/artists/Labyrint"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 15405526,
+    "annotator_login": "oklama02",
+    "api_path": "/referents/6638036",
+    "classification": "unreviewed",
+    "fragment": "V\u00e4lkommen hem",
+    "id": 6638036,
+    "is_description": true,
+    "path": "/6638036/Labyrint-valkommen-hem/Valkommen-hem",
+    "range": {
+     "content": "V\u00e4lkommen hem"
+    },
+    "song_id": 1952018,
+    "url": "https://genius.com/6638036/Labyrint-valkommen-hem/Valkommen-hem",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1952018",
+     "client_timestamps": {
+      "updated_by_human_at": 1661027949,
+      "lyrics_updated_at": 1661037356
+     },
+     "context": "Labyrint",
+     "id": 1952018,
+     "image_url": "https://images.genius.com/9b155c16bb170d24b6a156471a1dec07.640x640x1.jpg",
+     "link_title": "V\u00e4lkommen hem by\u00a0Labyrint (Ft.\u00a0Dani\u00a0M)",
+     "title": "V\u00e4lkommen hem",
+     "type": "Song",
+     "url": "https://genius.com/Labyrint-valkommen-hem-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6638036",
+      "body": {
+       "plain": "L\u00e5ten samplar \u00e4ven \u201cWhat\u2019s going on\u201d av Marvin Gaye."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6638036,
+      "pinned": false,
+      "share_url": "https://genius.com/6638036",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/6638036/Labyrint-valkommen-hem/Valkommen-hem",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/15405526",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/5eaf2107b026a227d97ecc2b0d8b518e",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/5eaf2107b026a227d97ecc2b0d8b518e",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/5eaf2107b026a227d97ecc2b0d8b518e",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/5eaf2107b026a227d97ecc2b0d8b518e",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/5eaf2107b026a227d97ecc2b0d8b518e",
+         "human_readable_role_for_display": "Contributor",
+         "id": 15405526,
+         "iq": 631,
+         "login": "oklama02",
+         "name": "oklama02",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/oklama02",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=J6ujLGsONW0"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/36309",
+     "header_image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "id": 36309,
+     "image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Masse",
+     "url": "https://genius.com/artists/Masse"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/46373",
+     "header_image_url": "https://images.genius.com/6035bcb94f8eb01548778d4051ce45b6.320x320x1.jpg",
+     "id": 46373,
+     "image_url": "https://images.genius.com/6035bcb94f8eb01548778d4051ce45b6.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jacco",
+     "url": "https://genius.com/artists/Jacco"
+    },
+    {
+     "api_path": "/artists/1079538",
+     "header_image_url": "https://images.genius.com/ca840648d3789dc54da4dc425a051db2.209x209x1.jpg",
+     "id": 1079538,
+     "image_url": "https://images.genius.com/ca840648d3789dc54da4dc425a051db2.209x209x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dajanko",
+     "url": "https://genius.com/artists/Dajanko"
+    },
+    {
+     "api_path": "/artists/36959",
+     "header_image_url": "https://images.genius.com/a8aa5882acbaddf0c3edb83f7e34ffe2.1000x1000x1.jpg",
+     "id": 36959,
+     "image_url": "https://images.genius.com/a8aa5882acbaddf0c3edb83f7e34ffe2.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "AKI",
+     "url": "https://genius.com/artists/Aki"
+    },
+    {
+     "api_path": "/artists/24303",
+     "header_image_url": "https://images.genius.com/78b0c8fda314a857ef17abd9933b03eb.1000x563x1.jpg",
+     "id": 24303,
+     "image_url": "https://images.genius.com/a6dc72d1a9973bcf6dc34adcd12a0eb4.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dani M",
+     "url": "https://genius.com/artists/Dani-m"
+    }
+   ],
+   "artist": "Labyrint",
+   "lyrics": "V\u00e4lkommen hem Lyrics[Intro]\nMasse, Masse\n\n[Vers 1: Dani M]\nDet h\u00e4r \u00e4r v\u00e5r big up, v\u00e5r Uppsalatribut\nKommer \u00e4lska 018 \u00e4nda tills sagan \u00e4r slut\nAlla dagar tills nu, som man gittat runt som barn och gjort bus\nTill allvarliga knas, som man har tagit sig ur\nTaggar in centralt, meckar upp vid Fyris\u00e5n\n\u00c4lskar stan, fast\u00e4n vi har en korrupt polisk\u00e5r\nReggaefestival, fullt med GLG, men vi g\u00e5r\nValborg \u00e4r flipp, som slottet, vid ny\u00e5r\nV\u00e4xte upp i Blattehagen, festade p\u00e5 Flogstataken\nHaffa kunder bland studenter, \"h\u00e4r \u00e4r numret brorsan, ta det\"\nMen inget gol, Uppsala nojja bror\nL\u00e4r studenterna att ainatown \u00e4r staden d\u00e4r vi bor\n[Vers 2: AKI]\nF\u00f6ddes Akademiska, v\u00e4xte upp innan g\u00e4ngen fanns\nI Gottsunda, d\u00e4r det var som ingen annanstans\nMina grabbar var knas, vi sprang fr\u00e5n b\u00e4ngen snabbt\nN\u00e4r vi r\u00f6kt Linn\u00e9s plantor, och klippt pelles svans\nUppsala, torska p\u00e5 festivalen \u00e4r tradition\nSom forsr\u00e4nning, fyller koppen med urinprov\nGottsunda, Gr\u00e4nby, Stenhagen, S\u00e4vja, d\u00e4r blattarna bor\nFestar i orten, f\u00f6r ingen av oss kommer in p\u00e5 nation\nVill ha guld och para, ungarna hungrar efter mycket\nBecknar gifter, g\u00f6r pundare dumma efter fixen\nGuldkedja, f\u00f6r n\u00e5gra hundra lax men rullar k\u00e4rringcykel\nHan m\u00e5ste vara fr\u00e5n Uppsala som den b\u00e4sta musiken\n\n[Refr\u00e4ng: Dani M, AKI & Dajanko]\nV\u00e4lkommen till Uppsala, v\u00e4lkommen hem\nFlogsta, Stenhagen, hela v\u00e4gen till Luthagen\nTillbaks p\u00e5 v\u00e5ran gata, najs att se er igen\nNyby, Gr\u00e4nby, Heidenstam, rullar ner, cyklar fram\nDe' sk\u00f6nt att vara tillbaka, d\u00e4r jag blev den jag \u00e4r\nS\u00e4vja till Rackarbacken, \u00c5rsta och Salabacke\nV\u00e4lkommen till Uppsala d\u00e4r jag bott sen barnsben\n(F\u00f6lj med p\u00e5 en runda, i G-Sunda)\n\n\n[Vers 3: Dajanko]\nUppsala, BB, v\u00e4xte upp GRB\nTorsk p\u00e5 THC, s\u00e5 det blev torsk med GLG\nKenneth Olsson med sin kikare i tr\u00e4det, det \u00e4r det\nUppsala, fr\u00e5n Gottsunda till \u00c5rsta, h\u00e4ng med\nStudenter, v\u00e5gar inte h\u00e4mta i v\u00e5r centa\nS\u00e5 jag tar min bag till Senanders v\u00e4g och st\u00e5r och v\u00e4ntar\nOch allt f\u00f6rsvinner, 16 h\u00f6ghus ska m\u00e4ttas, huh\nM\u00e5ste va vakna va? M\u00e5ste va tenta\n\u00c4lskar Uppsala \u00e4ven om man blev f\u00f6rst\u00f6rd\nBreaka lite, rhymade, graffiti, jag var sk\u00f6n\nTorska n\u00e4stan mille-skadest\u00e5nd, jag var nerv\u00f6s\nV\u00e5ran hyllning till staden som vi \u00e4lskar tills vi d\u00f6r\nYou might also like\n[Vers 4: Jacco]\nEyo, jag vet inte om jag \u00e4r f\u00f6dd p\u00e5 BB\nF\u00f6r min f\u00f6delsebricka s\u00e4ger Gottsunda C\nOja-ja \u00e4r fr\u00e5n Uppsala s\u00e5 jag \u00e4r naturligt skev\nHar ett spr\u00e5k som ni inte f\u00f6rst\u00e5r, yo det \u00e4r det\nEre launa med grauna, i ditt kvarter?\nL\u00e5t mig krirron en chamsi, sn\u00e4lla bror jag ber\nDet var torka i G men, vi f\u00e5r se\nH\u00f6rde n\u00e5got om en tung osprejad i Sala B\nSka du med? Vart?\nVi ska till Lenna och fiska med v\u00e4nnerna, ey\nSenare ikv\u00e4ll ingen BJ, det \u00e4r sound i bol\u00e4nderna, oh\nHela stan \u00e4r d\u00e4r, allihopa, b\u00e5de blattarna och svennarna, ey\nV\u00e4lkommen till v\u00e5r stad, brorsan k\u00e4nn dig som hemma jao\n\n\n[Refr\u00e4ng: Jacco, AKI & Dajanko]\nV\u00e4lkommen till Uppsala, v\u00e4lkommen hem\nFlogsta, Stenhagen, hela v\u00e4gen till Luthagen\nTillbaks p\u00e5 v\u00e5ran gata, najs att se er igen\nNyby, Gr\u00e4nby, Heidenstam, rullar ner, cyklar fram\nDe' sk\u00f6nt att vara tillbaka, d\u00e4r jag blev den jag \u00e4r\nS\u00e4vja till Rackarbacken, \u00c5rsta och Salabacke\nV\u00e4lkommen till Uppsala d\u00e4r jag bott sen barnsben\n(F\u00f6lj med p\u00e5 en runda, i G-Sunda)\n[Outro: Dani M]\nFr\u00e5n norra till s\u00f6dra, \u00f6stra till v\u00e4stra\nVisa hur det g\u00e5r till h\u00e4romkring n\u00e4r vi festar\n\u00c4r ni med mig?\nUppsala, \u00e4r ni med mig? Oh yeah\nH\u00e4mta dina grabbar och ben\u00e4ris och kom\nOch h\u00e4lsa hela ligan vi har cok med kn\u00e4bi till dem\nS\u00e5 \u00e4r ni med mig?\nUppsala \u00e4r ni med mig? Oh yeah, yeahEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/3177561",
+   "artist_names": "Labyrint",
+   "full_title": "Pang Pang by\u00a0Labyrint",
+   "header_image_thumbnail_url": "https://images.genius.com/9165ed9ecac8c13a99ca601d72f317ef.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9165ed9ecac8c13a99ca601d72f317ef.580x580x1.jpg",
+   "id": 3177561,
+   "language": "sv",
+   "lyrics_owner_id": 4004558,
+   "lyrics_state": "complete",
+   "path": "/Labyrint-pang-pang-lyrics",
+   "pyongs_count": 3,
+   "relationships_index_url": "https://genius.com/Labyrint-pang-pang-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 7,
+    "day": 28
+   },
+   "release_date_for_display": "July 28, 2017",
+   "release_date_with_abbreviated_month_for_display": "Jul. 28, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/9165ed9ecac8c13a99ca601d72f317ef.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9165ed9ecac8c13a99ca601d72f317ef.580x580x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 22412
+   },
+   "title": "Pang Pang",
+   "title_with_featured": "Pang Pang",
+   "url": "https://genius.com/Labyrint-pang-pang-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/24306",
+    "header_image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+    "id": 24306,
+    "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Labyrint",
+    "url": "https://genius.com/artists/Labyrint"
+   },
+   "apple_music_id": "1261418025",
+   "apple_music_player_url": "https://genius.com/songs/3177561/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3177561' class='rg_embed_link' data-song-id='3177561'>Read <a href='https://genius.com/Labyrint-pang-pang-lyrics'>\u201cPang Pang\u201d by Labyrint</a> on Genius</div> <script crossorigin src='//genius.com/songs/3177561/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-07-28",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4004558,
+    "annotator_login": "SlimiJimi",
+    "api_path": "/referents/12426919",
+    "classification": "needs_exegesis",
+    "fragment": "Pang Pang",
+    "id": 12426919,
+    "is_description": true,
+    "path": "/12426919/Labyrint-pang-pang/Pang-pang",
+    "range": {
+     "content": "Pang Pang"
+    },
+    "song_id": 3177561,
+    "url": "https://genius.com/12426919/Labyrint-pang-pang/Pang-pang",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3177561",
+     "client_timestamps": {
+      "updated_by_human_at": 1589637705,
+      "lyrics_updated_at": 1589637705
+     },
+     "context": "Labyrint",
+     "id": 3177561,
+     "image_url": "https://images.genius.com/9165ed9ecac8c13a99ca601d72f317ef.580x580x1.jpg",
+     "link_title": "Pang Pang by\u00a0Labyrint",
+     "title": "Pang Pang",
+     "type": "Song",
+     "url": "https://genius.com/Labyrint-pang-pang-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/12426919",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 12426919,
+      "pinned": false,
+      "share_url": "https://genius.com/12426919",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/12426919/Labyrint-pang-pang/Pang-pang",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4004558",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/226810652f7e62196689377f54048b8d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/226810652f7e62196689377f54048b8d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/226810652f7e62196689377f54048b8d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/226810652f7e62196689377f54048b8d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/226810652f7e62196689377f54048b8d",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4004558,
+         "iq": 13412,
+         "login": "SlimiJimi",
+         "name": "SlimiJimi",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/SlimiJimi",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=AOzLW2Hto-M"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/36309",
+     "header_image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "id": 36309,
+     "image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Masse",
+     "url": "https://genius.com/artists/Masse"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/36959",
+     "header_image_url": "https://images.genius.com/a8aa5882acbaddf0c3edb83f7e34ffe2.1000x1000x1.jpg",
+     "id": 36959,
+     "image_url": "https://images.genius.com/a8aa5882acbaddf0c3edb83f7e34ffe2.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "AKI",
+     "url": "https://genius.com/artists/Aki"
+    },
+    {
+     "api_path": "/artists/1079538",
+     "header_image_url": "https://images.genius.com/ca840648d3789dc54da4dc425a051db2.209x209x1.jpg",
+     "id": 1079538,
+     "image_url": "https://images.genius.com/ca840648d3789dc54da4dc425a051db2.209x209x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dajanko",
+     "url": "https://genius.com/artists/Dajanko"
+    },
+    {
+     "api_path": "/artists/46373",
+     "header_image_url": "https://images.genius.com/6035bcb94f8eb01548778d4051ce45b6.320x320x1.jpg",
+     "id": 46373,
+     "image_url": "https://images.genius.com/6035bcb94f8eb01548778d4051ce45b6.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jacco",
+     "url": "https://genius.com/artists/Jacco"
+    }
+   ],
+   "artist": "Labyrint",
+   "lyrics": "Pang Pang Lyrics[Intro: Jacco & Aki (Introt \u00e4r ej med i videoversionen)]\n\u00c4nnu en blodig natt i v\u00e5r trakt och det g\u00f6r ont\nAllt \u00e4r kalabalik och ingenting blir sig likt\n\u00c4nnu en bror blev yapt i v\u00e5r trakt nu \u00e4r han d\u00f6d\nMan ser s\u00e5 kallade krig f\u00f6rvandlar br\u00f6der till lik\n\u00c4nnu en mamma som f\u00e5r v\u00e4nda sig till b\u00f6nen f\u00f6r st\u00f6d\nO' det finns mycket vi kan g\u00f6ra \u00e5t det\nMen nuf\u00f6rtiden \u00e4r det para som styr\nMan vill ha mer, mer, mer, man vill ha mera...\n\n[Chorus: Jacco]\n(H\u00e4r i orten \u00e4r det) ...pang, pang, pang som g\u00e4ller\nFina bilar slirar snabbt i rondellen\nPang, pang, pang som g\u00e4ller\nLetar efter g\u00e4ng, rekryterar, anst\u00e4ller\nPang, pang, pang man blir van\nMan blir van n\u00e4r det finns vapen bland barn\nPang, pang, pang\n[Verse 1: Dajanko]\n\u00c4nnu en kall kropp p\u00e5 marken\nSlut p\u00e5 allt hopp dom t\u00f6mmer maggen\nGhetto youths som vill kl\u00e4ttra upp i branschen\nSteppar upp s\u00e5 fort dom f\u00e5r chansen\nDom vill leva sitt liv p\u00e5 brottets bana galna\nDet finns ett pris som familjerna f\u00e5r betala\nTragedi n\u00e4r liv g\u00e5r bort p\u00e5 gatan\nVi har gl\u00f6mt bort hur man pratar\nS\u00e5 kulor flyger h\u00f6ger, kulor flyger v\u00e4nster\nGalna tider folk har inga k\u00e4nslor, inga gr\u00e4nser\nSkiter i vem du k\u00e4nner, dina referenser\nHar \u00f6gonen i nacken h\u00e4r ute vilda v\u00e4stern\n\n[Chorus: Jacco]\nAllt vi h\u00f6r \u00e4r pang, pang, pang som g\u00e4ller\nFina bilar slirar snabbt i rondellen\nPang, pang, pang som g\u00e4ller\nLetar efter g\u00e4ng, rekryterar, anst\u00e4ller\nPang, pang, pang man blir van\nMan blir van n\u00e4r det finns vapen bland barn\nPang, pang, pang\n\n[Verse 2: Jacco]\nBed\u00f6var sig med medicin som han baxa' fr\u00e5n mamma\nS\u00e5 dom inte k\u00e4nner n\u00e5nting n\u00e4r dom g\u00f6r s\u00e5\nHan sparar pengar till tabanja och slungar den vilt\nF\u00f6r ingenting och sen d\u00f6r n\u00e5'n\nOch vi har tappat det f\u00f6r l\u00e4nge sen vi letar f\u00f6rg\u00e4ves\nK\u00e4nns som att hat tagit \u00f6ver dom\nMen vi har tid kvar\nS\u00e5 vi kan l\u00e4ra v\u00e5ra barn\nDu m\u00e5ste sluta st\u00e5 se p\u00e5, du har en skyldighet\nL\u00e4ra youths i v\u00e5r ort o' skilja r\u00e4tt fr\u00e5n fel\nAnnars blir det bara mer...\nYou might also like[Chorus: Jacco]\n...pang, pang, pang som g\u00e4ller\nFina bilar slirar snabbt i rondellen\nPang, pang, pang som g\u00e4ller\nLetar efter g\u00e4ng, rekryterar, anst\u00e4ller\nPang, pang, pang man blir van\nMan blir van n\u00e4r det finns vapen bland barn\nPang, pang, pang\n\n[Verse 3: Aki]\nKalla klimatet f\u00e5r oss d\u00f6dade\nVi skottar f\u00f6r vi \u00e4r s\u00e5 ins\u00f6ade\nVill ta oss ut d\u00e4r ingen g\u00f6r fel\nO milj\u00f6n vi lever inte \u00e4r s\u00e5 kriminell\nDu kan bli jappt av barn i puberteten\nI v\u00e5rt distrikt bli klippt som Hungerspelen\nMagasinet t\u00f6ms och ba' slungas i benet\nP\u00e5 kungen i kvarteret l\u00e4gger ungen under stenen\nVila i frid bro blev rekryterad till ett kort liv av brott\nOch v\u00e4nner blev fiender i en komplott\nBara \u00e4nnu en G' som g\u00e5tt bort\nTragedi i v\u00e5r ort\n\n[Chorus: Jacco]\nDet g\u00e5r pang, pang, pang som g\u00e4ller\nFina bilar slirar snabbt i rondellen\n(Pang, pang, pang som g\u00e4ller\nLetar efter g\u00e4ng, rekryterar, anst\u00e4ller)\nPang, pang, pang man blir van\nMan blir van n\u00e4r det finns vapen bland barn\nPang, pang, pang\n[Outro: Jacco]\nAllt vi k\u00e4nner \u00e4r sorg\nHan f\u00f6rlorade sitt liv nu hans tid \u00e4r f\u00f6rbi\nOch vi b\u00e4r p\u00e5 sorg\nDet g\u00f6r s\u00e5 ont inuti bror vila i frid3Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/1967080",
+   "artist_names": "Labyrint",
+   "full_title": "Fakkin Fin by\u00a0Labyrint",
+   "header_image_thumbnail_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.640x640x1.jpg",
+   "id": 1967080,
+   "language": "sv",
+   "lyrics_owner_id": 4310463,
+   "lyrics_state": "complete",
+   "path": "/Labyrint-fakkin-fin-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Labyrint-fakkin-fin-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "2013",
+   "release_date_with_abbreviated_month_for_display": "2013",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 6,
+    "iq_earners": 6,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 21277
+   },
+   "title": "Fakkin Fin",
+   "title_with_featured": "Fakkin Fin",
+   "url": "https://genius.com/Labyrint-fakkin-fin-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/24306",
+    "header_image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+    "id": 24306,
+    "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Labyrint",
+    "url": "https://genius.com/artists/Labyrint"
+   },
+   "apple_music_id": "1559278548",
+   "apple_music_player_url": "https://genius.com/songs/1967080/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1967080' class='rg_embed_link' data-song-id='1967080'>Read <a href='https://genius.com/Labyrint-fakkin-fin-lyrics'>\u201cFakkin Fin\u201d by Labyrint</a> on Genius</div> <script crossorigin src='//genius.com/songs/1967080/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/101941",
+    "cover_art_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.640x640x1.jpg",
+    "full_title": "Garalaowit by Labyrint",
+    "id": 101941,
+    "name": "Garalaowit",
+    "url": "https://genius.com/albums/Labyrint/Garalaowit",
+    "artist": {
+     "api_path": "/artists/24306",
+     "header_image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+     "id": 24306,
+     "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Labyrint",
+     "url": "https://genius.com/artists/Labyrint"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6653476",
+    "classification": "needs_exegesis",
+    "fragment": "Fakkin Fin",
+    "id": 6653476,
+    "is_description": true,
+    "path": "/6653476/Labyrint-fakkin-fin/Fakkin-fin",
+    "range": {
+     "content": "Fakkin Fin"
+    },
+    "song_id": 1967080,
+    "url": "https://genius.com/6653476/Labyrint-fakkin-fin/Fakkin-fin",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1967080",
+     "client_timestamps": {
+      "updated_by_human_at": 1577131918,
+      "lyrics_updated_at": 1577131918
+     },
+     "context": "Labyrint",
+     "id": 1967080,
+     "image_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.640x640x1.jpg",
+     "link_title": "Fakkin Fin by\u00a0Labyrint",
+     "title": "Fakkin Fin",
+     "type": "Song",
+     "url": "https://genius.com/Labyrint-fakkin-fin-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6653476",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6653476,
+      "pinned": false,
+      "share_url": "https://genius.com/6653476",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6653476/Labyrint-fakkin-fin/Fakkin-fin",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=0jb470Pe8Q0"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Labyrint",
+   "lyrics": "Fakkin Fin LyricsJacco\n\u00c4ntligen jag fann dig, tack f\u00f6r att du finns\nTack f\u00f6r att du \u00e4ntligen ville bli min\nEn naturligt fin sk\u00f6nhet - unik av sitt slag\nDen enda som ger mig tankar p\u00e5 att skaffa barn\nS\u00e5 jag s\u00e4ger - \u00e5 - har aldrig n\u00e5nsin t\u00e4nkt s\u00e5\nTitta p\u00e5 vad du g\u00f6r med din shuno\nDu \u00e4r den som f\u00e5r hans hj\u00e4rta att sl\u00e5 s\u00e5 h\u00e5rt\nS\u00e5 exceptionell och speciell, du \u00e4r s\u00e5 j\u00e4vla sn\u00e4ll att jag vill ha dig f\u00f6r mig sj\u00e4lv, ja\nS\u00e5 vackra drag, du \u00e4r s\u00e5 underbar, ohh ohh, vilken katt jag har\nS\u00e5 sexig att jag d\u00f6r, l\u00e4ttsam och sk\u00f6n\nJag \u00e5ngrar ingenting det k\u00e4nns s\u00e5 r\u00e4tt det vi g\u00f6r\nS\u00e5 intelligent; det b\u00e4sta som har h\u00e4nt; vill ha dig som mer \u00e4n min v\u00e4n\nREF:\nDu \u00e4r s\u00e5 fakkin fin, s\u00e5 fin, s\u00e5 fin, s\u00e5 fin, yeaah (x4)\n\nDajanko\nDu \u00e4r s\u00e5 fakkin fin, jag sv\u00e4r du \u00e4r den b\u00e4sta\nS\u00e5 attraktiv, vill ha dig som min n\u00e4sta\nIngen annan i mitt liv som ens kan testa min fantasi\nJag sv\u00e4r jag tror du \u00e4r den r\u00e4tta\nF\u00f6r du vet vad du g\u00f6r n\u00e4r du g\u00f6r vad du g\u00f6r n\u00e4r du\nLer och du f\u00f6rf\u00f6r med dina \u00f6gon\nKan inte h\u00e5lla mig ifr\u00e5n dig det \u00e4r som du f\u00f6rtrollat mig\nGuzzar hatar p\u00e5 dig f\u00f6r det st\u00f6r dom\nF\u00f6r du har allt jag vill ha, intellekt, du \u00e4r smart\nDina ord - dom g\u00f6r mig svag n\u00e4r jag h\u00f6r dom\nDom lockar mig ur balans och min puls sl\u00e5r s\u00e5 snabbt\nOch mitt hj\u00e4rta ur takt, ja det g\u00f6r dom\nVill vara din framtid, j\u00e4mt vara d\u00e4r och inte sl\u00e4ppa\nDu och jag som vi, det k\u00e4nns s\u00e5 r\u00e4tt, det k\u00e4nns s\u00e5 \u00e4kta\nG\u00f6ra dig till min, h\u00e5lla fast och aldrig sl\u00e4ppa\nS\u00e5 fakkin fin p\u00e5 alla s\u00e4tt, kan inte gl\u00e4ppa, heey\n\nREF:\nS\u00e5 fin s\u00e5 fin s\u00e5 fin yeaaay\nDu \u00e4r s\u00e5 fakkin fin, s\u00e5 fin, s\u00e5 fin, s\u00e5 fin yeaaay (x3)\n\nAki\nL\u00e5t mig va \u00e4rlig ett tag, vill ha dig n\u00e4ra varje dag\nOch ge dig k\u00e4rlek det jag har, du \u00e4r min kvinna\nOch jag dyrkar dina drag, jag sa varenda steg du tar\nVill bara vara dig till lags, min gudinna\nOch jag k\u00e4nner av din Voodoo, s\u00e4tt dig h\u00e4r bredvid\nL\u00e5t oss byta n\u00e5gra ord\nBara din lukt kan g\u00f6ra mig b\u00e4ngalo f\u00e5r smaka lite mer\nBaby, jo, du \u00e4r s\u00e5 god, s\u00e5 god\nS\u00e4ttet som du ler, yo, du f\u00e5r n\u00e5gonting o ske och vi\nKan sitta \u00e5 bara prata flera timmar\nTills kl\u00e4der \u00e5ker av och det \u00e4r bara du och jag\nEtt tag i v\u00e5ran v\u00e4rld vi har, l\u00e5t oss f\u00f6rsvinna\nI v\u00e5ran bubbla d\u00e4r vi kan bo, fastna f\u00f6rsta g\u00e5ngen\nSom jag s\u00e5g hur du log\nDu f\u00e5r en rude-boy o inte vara rude\nBeh\u00f6ver inget mer baby yo det \u00e4r bara me and you f\u00f6r:\nJacco; Du \u00e4r min, vill inte ha n\u00e5gon annan\nDet finns ingen som dig s\u00e5 hos dig ska jag stanna\nNaturligt vacker, inte falsk som dom andra, jag sv\u00e4r p\u00e5 min mamma\nYou might also likeREF:\nS\u00e5 fin s\u00e5 fin s\u00e5 fin yeaaay\nDu \u00e4r s\u00e5 fakkin fin s\u00e5 fin s\u00e5 fin s\u00e5 fin yeaaay (x3)Embed"
+  },
+  {
+   "annotation_count": 10,
+   "api_path": "/songs/254727",
+   "artist_names": "Labyrint",
+   "full_title": "Motattack by\u00a0Labyrint",
+   "header_image_thumbnail_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.640x640x1.jpg",
+   "id": 254727,
+   "language": "sv",
+   "lyrics_owner_id": 319309,
+   "lyrics_state": "complete",
+   "path": "/Labyrint-motattack-lyrics",
+   "pyongs_count": 4,
+   "relationships_index_url": "https://genius.com/Labyrint-motattack-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 11,
+    "day": 1
+   },
+   "release_date_for_display": "November 1, 2013",
+   "release_date_with_abbreviated_month_for_display": "Nov. 1, 2013",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 8,
+    "iq_earners": 8,
+    "transcribers": 1,
+    "unreviewed_annotations": 8,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 18444
+   },
+   "title": "Motattack",
+   "title_with_featured": "Motattack",
+   "url": "https://genius.com/Labyrint-motattack-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/24306",
+    "header_image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+    "id": 24306,
+    "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Labyrint",
+    "url": "https://genius.com/artists/Labyrint"
+   },
+   "apple_music_id": "1443272862",
+   "apple_music_player_url": "https://genius.com/songs/254727/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_254727' class='rg_embed_link' data-song-id='254727'>Read <a href='https://genius.com/Labyrint-motattack-lyrics'>\u201cMotattack\u201d by Labyrint</a> on Genius</div> <script crossorigin src='//genius.com/songs/254727/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-11-01",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/101941",
+    "cover_art_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.640x640x1.jpg",
+    "full_title": "Garalaowit by Labyrint",
+    "id": 101941,
+    "name": "Garalaowit",
+    "url": "https://genius.com/albums/Labyrint/Garalaowit",
+    "artist": {
+     "api_path": "/artists/24306",
+     "header_image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+     "id": 24306,
+     "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Labyrint",
+     "url": "https://genius.com/artists/Labyrint"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 319309,
+    "annotator_login": "Zeergy",
+    "api_path": "/referents/3706287",
+    "classification": "needs_exegesis",
+    "fragment": "Motattack",
+    "id": 3706287,
+    "is_description": true,
+    "path": "/3706287/Labyrint-motattack/Motattack",
+    "range": {
+     "content": "Motattack"
+    },
+    "song_id": 254727,
+    "url": "https://genius.com/3706287/Labyrint-motattack/Motattack",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/254727",
+     "client_timestamps": {
+      "updated_by_human_at": 1526897075,
+      "lyrics_updated_at": 1526897075
+     },
+     "context": "Labyrint",
+     "id": 254727,
+     "image_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.640x640x1.jpg",
+     "link_title": "Motattack by\u00a0Labyrint",
+     "title": "Motattack",
+     "type": "Song",
+     "url": "https://genius.com/Labyrint-motattack-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3706287",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3706287,
+      "pinned": false,
+      "share_url": "https://genius.com/3706287",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3706287/Labyrint-motattack/Motattack",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/319309",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/df5542a1e36cb32eda0cf14b7ef5c4a0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/df5542a1e36cb32eda0cf14b7ef5c4a0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/df5542a1e36cb32eda0cf14b7ef5c4a0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/df5542a1e36cb32eda0cf14b7ef5c4a0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/df5542a1e36cb32eda0cf14b7ef5c4a0",
+         "human_readable_role_for_display": "Contributor",
+         "id": 319309,
+         "iq": 814,
+         "login": "Zeergy",
+         "name": "Zeergy",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Zeergy",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=pHFCvZvGNpA"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/36309",
+     "header_image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "id": 36309,
+     "image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Masse",
+     "url": "https://genius.com/artists/Masse"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Labyrint",
+   "lyrics": "Motattack LyricsL\u00e5t dom aldrig n\u00e5nsin trycka dig ner\n\n[Verse 1: Dajanko]\nYeah, yeah, yeah, yeah\nJag sa,vem sk\u00f6t Palme, ugglan i skuggan vet\nSatelliter i himlen, dom buggar din l\u00e4genhet\nOnda makter och pakter, dom tr\u00e4ffas i hemlighet\nPlanerar n\u00e5t ruttet och skevt\nStorebror vill att vi ska g\u00e5 p\u00e5 bluffen helt\nOch blunda men vi ser, hur dom rika blir rikare och dom hungriga blir fler\nDom tog guld och gr\u00f6na skogar, l\u00e4mna h\u00f6ghusen kvar\nV\u00e5ra omr\u00e5den fl\u00f6dar av droger och fr\u00e5gor utan svar\nDom h\u00e5ller oss i utanf\u00f6rskap\nOch v\u00e4rldens tillg\u00e5ngar kan bara tillr\u00e4knas ett tusental\nOch resten som \u00e4r kvar, vi f\u00e5r kriga f\u00f6r smulorna\nBofors sponsrade kulorna som sk\u00f6t fredsduvorna\nFr\u00e5ga Carl Bildt, Reinfeldt, resten av frimurarna\nSverige styrs av dom d\u00e4r giriga tjuvarna\nDom vill tysta ner oss, l\u00e5sa in oss i burarna\nVi startar en revolution, explosion spr\u00e4nger murarna\n[Pre-Hook]\nDet k\u00e4nns som spelet \u00e4r riggat\nOch vi kan aldrig f\u00e5 n\u00e5n makt utan en motattack\n\n[Hook]\nSt\u00e5 upp rakt\nL\u00e5t dom aldrig n\u00e5nsin trycka dig ner\n(Yeah, chanser f\u00f6rsvinner, broar brinner, trakten fuckar upp oss)\nUpp, upp snart, f\u00f6r alla ser igenom deras system\n(Yeah, fast i komplotten h\u00e4r p\u00e5 botten, men vi sparkar upp\u00e5t)\n\n[Verse 2: Aki]\nYo, vi lever i en tid av kostymskinheads och laserm\u00e4n\nStorf\u00f6retag, moderater och var f\u00f6r en\nSkandaler, uppgjorda valer, rasist\u00e5klagare, hemliga m\u00f6ten i buskagen\nRitualer bland statsm\u00e4n, yeah\n\u00c4r uppfostrad att vara vaksam\nV\u00e4rlden \u00e4r snedvriden, hela skiten \u00e4r bak o fram\nN\u00e5gra f\u00e5 har allt, andra s\u00e4ljer sig f\u00f6r att f\u00e5 ta ett gram\nExplosion, revolution s\u00e4tter gator i brand\nFast i mitt dr\u00f6mmande, all makt \u00e5t folket\nTeknologi har gjort oss ree och vi tappar kontrollen\nMer reklam p\u00e5 deras kanal kan inte zappa bort det\nF\u00e5r lust och bev\u00e4pna mig och inte rappa om det\nFuck medias rubriker som dom skriver i bladet\nAtt vara paranoid \u00e4r en bra grej\nSyna dom tills s\u00e4kerhetspolisen tar mej\nOch jag tror inte p\u00e5 att Reinfeldts livvakt tog livet av sig\nYou might also likeSer vi ut o va dumma bre\nHan kom s\u00e4kert p\u00e5 dom p\u00e5 n\u00e5t hemligt m\u00f6te\n\n[Hook]\nSt\u00e5 upp rakt\nL\u00e5t dom aldrig n\u00e5nsin trycka dig ner\n(Chanser f\u00f6rsvinner, broar brinner, trakten fuckar upp oss)\nUpp, upp snart, f\u00f6r alla ser igenom deras system\n(Yeah, fast i komplotten h\u00e4r p\u00e5 botten, men vi sparkar upp\u00e5t)\n\n[Verse 3: Jacco]\nDom vill att du ska spela d\u00f6d som hunden, kr\u00e4la p\u00e5 marken\nInjicera, \u00f6verdosera och beckna knarken\nTills du blir l\u00e5st eller vilar under marken\nL\u00e5ngt ifr\u00e5n dom som sitter p\u00e5 banken\n(Dom vill att du ska)\nTa deras ord som lag\nStorhetsvansinne vilken galenskap\nOm halva Sverige fick chansen idag, att r\u00f6sta p\u00e5 SD s\u00e5 r\u00f6star dom ja\n\u00c4ckliga rasistgrisar med pistoler\nSom tr\u00e4nar prickskytte p\u00e5 lejon d\u00e4r vi bor\nSen, s\u00e4ger att vi kan f\u00f6r\u00e4ndra med orden\nBr\u00e4nn polisen som tog dig\n\u00c5klagaren som frimurar med satan\nPlockar oss som \u00e4pplen p\u00e5 tr\u00e4den fr\u00e5n gatan\nOch dom h\u00e5ller ainas rygg trygg\n(Utkl\u00e4dda m\u00f6rdare)\nS\u00e5 det \u00e4r klart jag \u00e4r folkskygg bror\n[Pre-Hook]\nDet k\u00e4nns som spelet \u00e4r riggat\nOch vi kan aldrig f\u00e5 n\u00e5n makt utan en motattack\n\n[Hook]\nSt\u00e5 upp rakt\nL\u00e5t dom aldrig n\u00e5nsin trycka dig ner\n(Chanser f\u00f6rsvinner, broar brinner, trakten fuckar upp oss)\nUpp, upp snart, f\u00f6r alla ser igenom deras system\n(Yeah, fast i komplotten h\u00e4r p\u00e5 botten, men vi sparkar upp\u00e5t)\n\nDet k\u00e4nns som spelet \u00e4r riggat\nOch vi kan aldrig f\u00e5 n\u00e5n makt utan en motattack4Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/3746530",
+   "artist_names": "Labyrint (Ft. AKI, Jacco & Saki)",
+   "full_title": "S\u00e5 Ajaib by\u00a0Labyrint (Ft.\u00a0AKI, Jacco & Saki)",
+   "header_image_thumbnail_url": "https://images.genius.com/9e2be8224922a30432302289a91d4cea.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9e2be8224922a30432302289a91d4cea.640x640x1.jpg",
+   "id": 3746530,
+   "language": "sv",
+   "lyrics_owner_id": 5229404,
+   "lyrics_state": "complete",
+   "path": "/Labyrint-sa-ajaib-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Labyrint-sa-ajaib-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 5,
+    "day": 26
+   },
+   "release_date_for_display": "May 26, 2018",
+   "release_date_with_abbreviated_month_for_display": "May. 26, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/9e2be8224922a30432302289a91d4cea.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9e2be8224922a30432302289a91d4cea.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 14133
+   },
+   "title": "S\u00e5 Ajaib",
+   "title_with_featured": "S\u00e5 Ajaib (Ft.\u00a0AKI, Jacco & Saki)",
+   "url": "https://genius.com/Labyrint-sa-ajaib-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/46373",
+     "header_image_url": "https://images.genius.com/6035bcb94f8eb01548778d4051ce45b6.320x320x1.jpg",
+     "id": 46373,
+     "image_url": "https://images.genius.com/6035bcb94f8eb01548778d4051ce45b6.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jacco",
+     "url": "https://genius.com/artists/Jacco"
+    },
+    {
+     "api_path": "/artists/36959",
+     "header_image_url": "https://images.genius.com/a8aa5882acbaddf0c3edb83f7e34ffe2.1000x1000x1.jpg",
+     "id": 36959,
+     "image_url": "https://images.genius.com/a8aa5882acbaddf0c3edb83f7e34ffe2.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "AKI",
+     "url": "https://genius.com/artists/Aki"
+    },
+    {
+     "api_path": "/artists/2650547",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 2650547,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Saki",
+     "url": "https://genius.com/artists/Saki"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/24306",
+    "header_image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+    "id": 24306,
+    "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Labyrint",
+    "url": "https://genius.com/artists/Labyrint"
+   },
+   "apple_music_id": "1385085344",
+   "apple_music_player_url": "https://genius.com/songs/3746530/apple_music_player",
+   "description": {
+    "plain": "Labyrint avslutade f\u00f6rra \u00e5rets R\u00f6d November med dubbelsingeln \u201cVi dansar / Of\u00f6rgl\u00f6mlig\u201d och nu sl\u00e4pper gruppen sin f\u00f6rsta singel 2018. \u201dS\u00e5 Ajaib\u201d \u00e4r producerad av Masse Salazar och sl\u00e4pps tillsammans med en kortfilm inspirerad av den f\u00f6rbjudna k\u00e4rlekshistorien mellan Gina och Manny i filmen \u201dScarface\u201d. I rollerna hittar vi Linda Pira som Gina Montana, Ray Jones IV som Tony Montana, David Tainton som Manny Ribera och Roy Rizk som \u201dChichi\u201d"
+   },
+   "embed_content": "<div id='rg_embed_link_3746530' class='rg_embed_link' data-song-id='3746530'>Read <a href='https://genius.com/Labyrint-sa-ajaib-lyrics'>\u201cS\u00e5 Ajaib\u201d by Labyrint</a> on Genius</div> <script crossorigin src='//genius.com/songs/3746530/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-05-26",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5229404,
+    "annotator_login": "pussyaintgotshit",
+    "api_path": "/referents/14657836",
+    "classification": "unreviewed",
+    "fragment": "S\u00e5 Ajaib",
+    "id": 14657836,
+    "is_description": true,
+    "path": "/14657836/Labyrint-sa-ajaib/Sa-ajaib",
+    "range": {
+     "content": "S\u00e5 Ajaib"
+    },
+    "song_id": 3746530,
+    "url": "https://genius.com/14657836/Labyrint-sa-ajaib/Sa-ajaib",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3746530",
+     "client_timestamps": {
+      "updated_by_human_at": 1667575546,
+      "lyrics_updated_at": 1527500684
+     },
+     "context": "Labyrint",
+     "id": 3746530,
+     "image_url": "https://images.genius.com/9e2be8224922a30432302289a91d4cea.640x640x1.jpg",
+     "link_title": "S\u00e5 Ajaib by\u00a0Labyrint (Ft.\u00a0AKI, Jacco & Saki)",
+     "title": "S\u00e5 Ajaib",
+     "type": "Song",
+     "url": "https://genius.com/Labyrint-sa-ajaib-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14657836",
+      "body": {
+       "plain": "Labyrint avslutade f\u00f6rra \u00e5rets R\u00f6d November med dubbelsingeln \u201cVi dansar / Of\u00f6rgl\u00f6mlig\u201d och nu sl\u00e4pper gruppen sin f\u00f6rsta singel 2018. \u201dS\u00e5 Ajaib\u201d \u00e4r producerad av Masse Salazar och sl\u00e4pps tillsammans med en kortfilm inspirerad av den f\u00f6rbjudna k\u00e4rlekshistorien mellan Gina och Manny i filmen \u201dScarface\u201d. I rollerna hittar vi Linda Pira som Gina Montana, Ray Jones IV som Tony Montana, David Tainton som Manny Ribera och Roy Rizk som \u201dChichi\u201d"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 14657836,
+      "pinned": false,
+      "share_url": "https://genius.com/14657836",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/14657836/Labyrint-sa-ajaib/Sa-ajaib",
+      "verified": false,
+      "votes_total": 2,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5229404",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8788cbeff8a5106209e0ca6b65796dd9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8788cbeff8a5106209e0ca6b65796dd9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8788cbeff8a5106209e0ca6b65796dd9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8788cbeff8a5106209e0ca6b65796dd9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xro8l64ob5b",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5229404,
+         "iq": 26591,
+         "login": "pussyaintgotshit",
+         "name": "pussyaintgotshit",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/pussyaintgotshit",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=7oQbT5ZIs9E"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/36309",
+     "header_image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "id": 36309,
+     "image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Masse",
+     "url": "https://genius.com/artists/Masse"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/24306",
+     "header_image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+     "id": 24306,
+     "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Labyrint",
+     "url": "https://genius.com/artists/Labyrint"
+    }
+   ],
+   "artist": "Labyrint",
+   "lyrics": "S\u00e5 Ajaib Lyrics[Intro: Jacco]\nYeah\n\n[Refr\u00e4ng: Jacco]\nAjaib, ajaib, ajaib\nDet allt jag s\u00e4ger n\u00e4r jag ser dig, yeah\nOch mina v\u00e4nner bredvid mig\nDom fr\u00e5gar \"vad \u00e4r det med dig?\"\nOh, yeah, yeah\nAjaib, ajaib, ajaib\nRunt dig det sv\u00e5rt att bete sig, yeah\nVilken sk\u00f6nhet du \u00e4r\nDu f\u00e5r folk bete sig galet\nDen vackraste kvinnan i staden\nDu \u00e4r s\u00e5\n[Vers 1: Jacco]\nHur du g\u00f6r det, s\u00e4ttet som du g\u00f6r det p\u00e5\nDu beh\u00f6ver aldrig fixa dig, du fin \u00e4nd\u00e5\nOch din insida den matchar dig o du \u00e4r klass\nEna sekund s\u00f6t och gullig andra fin och vass\nOch s\u00e4ttet som du r\u00f6r dig, blir helt tagen\nDet e hypnos, k\u00e4nner hj\u00e4rtslagen\nHelt psykos, du g\u00f6r mig galen, yeah\nDu, du \u00e4r mer \u00e4n va jag n\u00e5nsin trott\nF\u00f6rl\u00e5ter min fel och allting jag gjort\nBeter mig som en idiot, idiot\nOh, nu jag st\u00e5r som en real, vill ha en andra chans\nJag ber dig kom tillbaka, l\u00e5t mig ta din hand\nJag vet vi \u00e4r f\u00f6rbi och att du inte kan\nMen du \u00e4r\n\n[Refr\u00e4ng: Jacco]\nAjaib, ajaib, ajaib\nDet allt jag s\u00e4ger n\u00e4r jag ser dig, yeah\nOch mina v\u00e4nner bredvid mig\nDom fr\u00e5gar \"vad \u00e4r det med dig?\"\nOh, yeah, yeah\nAjaib, ajaib, ajaib\nRunt dig det sv\u00e5rt att bete sig, yeah\nVilken sk\u00f6nhet du \u00e4r\nDu f\u00e5r folk bete sig galet\nDen vackraste kvinnan i staden\nDu \u00e4r s\u00e5\nYou might also like[Vers 2: Saki]\nAjaib, ajaib, ajaib\nDet finaste jag sett\nS\u00e5 nice, s\u00e5 nice, s\u00e5 nice\nS\u00e5 mycket mer \u00e4n sex fr\u00e5n\nS\u00e4ttet du pratar, skrattar, smilar, r\u00f6r dig o bara e dig sj\u00e4lv\nDet s\u00e4ttet du vill prata som f\u00e5\nOch ingen g\u00e4ri i mitt liv har f\u00e5tt mig k\u00e4nna s\u00e5nt\nHar tror jag varit k\u00e4r i n\u00e5gon, n\u00e5gon g\u00e5ng men\nIngenting \u00e4r i n\u00e4rheten av det vi har\nVi har precis b\u00f6rjat, och har hela livet kvar\nOch \u00e4ven om saker och ting kan vara irritera\nS\u00e5 \u00e4r du alltid min och jag din genom det hela\nSkulle aldrig n\u00e5nsin \u00e4n kunna t\u00e4nka mig dela\nDet h\u00e4r med n\u00e5gon annan\nMitt hj\u00e4rta \u00e4r reserverat\nDu \u00e4r-\n\n[Refr\u00e4ng: Jacco]\nAjaib, ajaib, ajaib\nDet allt jag s\u00e4ger n\u00e4r jag ser dig, yeah\nOch mina v\u00e4nner bredvid mig\nDom fr\u00e5gar \"vad \u00e4r det med dig?\"\nOh, yeah, yeah\nAjaib, ajaib, ajaib\nRunt dig det sv\u00e5rt att bete sig, yeah\nVilken sk\u00f6nhet du \u00e4r\nDu f\u00e5r folk bete sig galet\nDen vackraste kvinnan i staden\nDu \u00e4r s\u00e5\n[Vers 3: Aki]\nYo, ajajaj du \u00e4r s\u00e5 nice och jag vill ha dig som min baby\nVi kan mysa, ja bara dansa till din playlist\nVi kan chilla, ta det lugnt\nJa jag vill ha dig h\u00e4r bredvid mig\nKan du va min Ruby Dee f\u00f6r jag vill va din Alki Davis\nAjaib, kan vi skapa lite minnen\nL\u00e5t oss f\u00f6rsvinna, inte svara n\u00e4r n\u00e5n ringer\nJag \u00e4r inte den som \u00e4r och jaga folk p\u00e5 tinder, nej\nDu \u00e4r den enda, sv\u00e4r jag saknar v\u00e5ra jidder, yeah\nOch jag saknar hur vi blir sams igen\nHur jag inser mina fel och du ger mig en chans igen\nV\u00e5r k\u00e4rlek, din n\u00e4rhet, jag hamnar i trams av den\nAjaib, det \u00e4r s\u00e5 jag beskriver den h\u00e4r romansen\nDu \u00e4r-\n\n[Refr\u00e4ng: Jacco]\nAjaib, ajaib, ajaib\nDet allt jag s\u00e4ger n\u00e4r jag ser dig, yeah\nOch mina v\u00e4nner bredvid mig\nDom fr\u00e5gar \"vad \u00e4r det med dig?\"\nOh, yeah, yeah\nAjaib, ajaib, ajaib\nRunt dig det sv\u00e5rt att bete sig, yeah\nVilken sk\u00f6nhet du \u00e4r\nDu f\u00e5r folk bete sig galet\nDen vackraste kvinnan i staden\nDu \u00e4r s\u00e5Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/621798",
+   "artist_names": "Labyrint (Ft. Amsie Brown, Briz, Chords, Dani M, Donny Dread, Essa Cham, General Knas, Kapten R\u00f6d, Ras Daniel, Rootbound Williams, Slag Fr\u00e5n Hj\u00e4rtat & Syster Sol)",
+   "full_title": "Broder del. 2 by\u00a0Labyrint (Ft.\u00a0Amsie\u00a0Brown, Briz, Chords, Dani\u00a0M, Donny\u00a0Dread, Essa\u00a0Cham, General\u00a0Knas, Kapten\u00a0R\u00f6d, Ras\u00a0Daniel, Rootbound\u00a0Williams, Slag\u00a0Fr\u00e5n Hj\u00e4rtat & Syster\u00a0Sol)",
+   "header_image_thumbnail_url": "https://images.genius.com/68f42e92bf032b62b27984df5c0b5a71.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/68f42e92bf032b62b27984df5c0b5a71.640x640x1.jpg",
+   "id": 621798,
+   "language": "sv",
+   "lyrics_owner_id": 1247326,
+   "lyrics_state": "complete",
+   "path": "/Labyrint-broder-del-2-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Labyrint-broder-del-2-sample",
+   "release_date_components": {
+    "year": 2012,
+    "month": 10,
+    "day": 26
+   },
+   "release_date_for_display": "October 26, 2012",
+   "release_date_with_abbreviated_month_for_display": "Oct. 26, 2012",
+   "song_art_image_thumbnail_url": "https://images.genius.com/68f42e92bf032b62b27984df5c0b5a71.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/68f42e92bf032b62b27984df5c0b5a71.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 8,
+    "iq_earners": 7,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 11872
+   },
+   "title": "Broder del. 2",
+   "title_with_featured": "Broder del. 2 (Ft.\u00a0Amsie\u00a0Brown, Briz, Chords, Dani\u00a0M, Donny\u00a0Dread, Essa\u00a0Cham, General\u00a0Knas, Kapten\u00a0R\u00f6d, Ras\u00a0Daniel, Rootbound\u00a0Williams, Slag\u00a0Fr\u00e5n Hj\u00e4rtat & Syster\u00a0Sol)",
+   "url": "https://genius.com/Labyrint-broder-del-2-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/995926",
+     "header_image_url": "https://images.genius.com/6f3d6976021351e03d67ad503a977ff2.1000x186x1.jpg",
+     "id": 995926,
+     "image_url": "https://images.genius.com/b3334e41cc869414d8521221e636fd32.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chords",
+     "url": "https://genius.com/artists/Chords"
+    },
+    {
+     "api_path": "/artists/285042",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 285042,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Syster Sol",
+     "url": "https://genius.com/artists/Syster-sol"
+    },
+    {
+     "api_path": "/artists/121730",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 121730,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Essa Cham",
+     "url": "https://genius.com/artists/Essa-cham"
+    },
+    {
+     "api_path": "/artists/285047",
+     "header_image_url": "https://images.genius.com/1da319be08f0a3cee1f83cd6e67c7651.1000x323x1.jpg",
+     "id": 285047,
+     "image_url": "https://images.genius.com/b0821b69d6bac3a0bd4629a1435bce0a.345x345x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "General Knas",
+     "url": "https://genius.com/artists/General-knas"
+    },
+    {
+     "api_path": "/artists/24303",
+     "header_image_url": "https://images.genius.com/78b0c8fda314a857ef17abd9933b03eb.1000x563x1.jpg",
+     "id": 24303,
+     "image_url": "https://images.genius.com/a6dc72d1a9973bcf6dc34adcd12a0eb4.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dani M",
+     "url": "https://genius.com/artists/Dani-m"
+    },
+    {
+     "api_path": "/artists/285041",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 285041,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rootbound Williams",
+     "url": "https://genius.com/artists/Rootbound-williams"
+    },
+    {
+     "api_path": "/artists/36958",
+     "header_image_url": "https://images.genius.com/cc2051ac3645625c73992c4cdd54acf5.1000x739x1.jpg",
+     "id": 36958,
+     "image_url": "https://images.genius.com/e0b5a61608e6e00fc2724bc235206cf4.399x399x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kapten R\u00f6d",
+     "url": "https://genius.com/artists/Kapten-rod"
+    },
+    {
+     "api_path": "/artists/285046",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 285046,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Donny Dread",
+     "url": "https://genius.com/artists/Donny-dread"
+    },
+    {
+     "api_path": "/artists/285040",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 285040,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ras Daniel",
+     "url": "https://genius.com/artists/Ras-daniel"
+    },
+    {
+     "api_path": "/artists/39349",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 39349,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Amsie Brown",
+     "url": "https://genius.com/artists/Amsie-brown"
+    },
+    {
+     "api_path": "/artists/285039",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 285039,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Briz",
+     "url": "https://genius.com/artists/Briz"
+    },
+    {
+     "api_path": "/artists/285044",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 285044,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slag Fr\u00e5n Hj\u00e4rtat",
+     "url": "https://genius.com/artists/Slag-fran-hjartat"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/24306",
+    "header_image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+    "id": 24306,
+    "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Labyrint",
+    "url": "https://genius.com/artists/Labyrint"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/621798/apple_music_player",
+   "description": {
+    "plain": "En hip-hopl\u00e5t som bland annat \u00e4r k\u00e4nd f\u00f6r att inkludera s\u00e5 m\u00e5nga olika rappare (15 stycken).\n\nL\u00e5ten \u00e4r med p\u00e5 hip-hopgruppen Labyrints album \u201cBroder\u201d."
+   },
+   "embed_content": "<div id='rg_embed_link_621798' class='rg_embed_link' data-song-id='621798'>Read <a href='https://genius.com/Labyrint-broder-del-2-lyrics'>\u201cBroder del. 2\u201d by Labyrint</a> on Genius</div> <script crossorigin src='//genius.com/songs/621798/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2012-10-26",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/116327",
+    "cover_art_url": "https://images.genius.com/68f42e92bf032b62b27984df5c0b5a71.640x640x1.jpg",
+    "full_title": "Broder by Labyrint",
+    "id": 116327,
+    "name": "Broder",
+    "url": "https://genius.com/albums/Labyrint/Broder",
+    "artist": {
+     "api_path": "/artists/24306",
+     "header_image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+     "id": 24306,
+     "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Labyrint",
+     "url": "https://genius.com/artists/Labyrint"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6249363,
+    "annotator_login": "Albinini",
+    "api_path": "/referents/4530163",
+    "classification": "unreviewed",
+    "fragment": "Broder del. 2",
+    "id": 4530163,
+    "is_description": true,
+    "path": "/4530163/Labyrint-broder-del-2/Broder-del-2",
+    "range": {
+     "content": "Broder del. 2"
+    },
+    "song_id": 621798,
+    "url": "https://genius.com/4530163/Labyrint-broder-del-2/Broder-del-2",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/621798",
+     "client_timestamps": {
+      "updated_by_human_at": 1611261261,
+      "lyrics_updated_at": 1433400273
+     },
+     "context": "Labyrint",
+     "id": 621798,
+     "image_url": "https://images.genius.com/68f42e92bf032b62b27984df5c0b5a71.640x640x1.jpg",
+     "link_title": "Broder del. 2 by\u00a0Labyrint (Ft.\u00a0Amsie\u00a0Brown, Briz, Chords, Dani\u00a0M, Donny\u00a0Dread, Essa\u00a0Cham, General\u00a0Knas, Kapten\u00a0R\u00f6d, Ras\u00a0Daniel, Rootbound\u00a0Williams, Slag\u00a0Fr\u00e5n Hj\u00e4rtat & Syster\u00a0Sol)",
+     "title": "Broder del. 2",
+     "type": "Song",
+     "url": "https://genius.com/Labyrint-broder-del-2-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4530163",
+      "body": {
+       "plain": "En hip-hopl\u00e5t som bland annat \u00e4r k\u00e4nd f\u00f6r att inkludera s\u00e5 m\u00e5nga olika rappare (15 stycken).\n\nL\u00e5ten \u00e4r med p\u00e5 hip-hopgruppen Labyrints album \u201cBroder\u201d."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 4530163,
+      "pinned": false,
+      "share_url": "https://genius.com/4530163",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/4530163/Labyrint-broder-del-2/Broder-del-2",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6249363",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8f5100a82da55b648d535278b5413534",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8f5100a82da55b648d535278b5413534",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8f5100a82da55b648d535278b5413534",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8f5100a82da55b648d535278b5413534",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/8f5100a82da55b648d535278b5413534",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6249363,
+         "iq": 2032,
+         "login": "Albinini",
+         "name": "Albinini",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Albinini",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 9,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=jP6n_dJGzUM"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Labyrint",
+   "lyrics": "Broder del. 2 Lyrics[Vers 1]\n[Briz]\nF\u00f6r sida vid sida s\u00e5 st\u00e5r vi genom eld och vatten\nOch \u00e4ven om det \u00e4r knas finns alltid hj\u00e4lpande handen\nVi \u00e4r ej fr\u00e5n samma rot men du \u00e4r \u00e4nd\u00e5 min bror\nLyssna inte p\u00e5 n\u00e5gon hycklaridiot\nBroderskap, det \u00e4r inget som man kastar \u00e5t skogen\nJiddrar ibland men sen s\u00e5 skrattar vi \u00e5t det\nEn v\u00e4nskap som \u00e4r viktigare \u00e4n vattnet och blodet\nKlart att vi br\u00e4nner dem som hasslar sin broder\n[Ras Daniel]\nN\u00e4r Babylon kommer och de skapar problem\nFinns inga pengar kvar och hyran \u00e4r sen\nPressen blir st\u00f6rre och axlarna trycks ner\nBeh\u00f6ver jag min broder\nSom kan str\u00e4cka ut en hj\u00e4lpande hand\nDe s\u00e5 vi g\u00f6r, br\u00f6der hj\u00e4lper varann\nSpelar ingen roll om vi har samma namn\nDu \u00e4r \u00e4nd\u00e5 min broder\n\n[Rootbound Williams]\nAlltid d\u00e4r n\u00e4r det beh\u00f6vs brorsan, jag tackar dig\nM\u00e5r du d\u00e5ligt kan vi prata, du kan snacka med mig\nInte golb\u00f6g du skulle aldrig vattna p\u00e5 mig, nej nej nej nej\nEn riktig broder du vet, jag backar upp dig\n\n[Kapten R\u00f6d]\nDet ser ut som de har inkallat arm\u00e9n f\u00f6r en tillkallad kapten\nDu ser tv\u00e5 hundra pers men ingen blinkande siren\nDet \u00e4r de som h\u00e5ller min rygg garanterad\nS\u00e5 G\u00f6tet vill jag salutera\nAlla f\u00f6r en st\u00e5r det p\u00e5 reklampelaren\nMen det \u00e4r \u00e4r f\u00e5 av dem som verkligen \u00e4r lagspelare\nUtan v\u00e4nnerna n\u00e4r vinden v\u00e4nder\nSt\u00e5r du ensam i regnet\nYou might also like[Essa Cham]\nBygger en bro, fr\u00e5n bror till bror\nBlodsbandet blir st\u00f6rre och gror\nJa, vi bygger en bro, yes, vi bygger en bro\nFr\u00e5n syster till bror, oavsett var vi bor\nH\u00e4r har vi alla samlats\nSom fr\u00e5n en och samma mamma\nAlla vi var inte som alla andra\nMen vi st\u00e5r bakom varandra\n\n[Aki]\nDu \u00e4r min brusch, v\u00e4rldens b\u00e4sta m\u00e5lskamrat\nH\u00e5ller tyst n\u00e4r \u00e5klagaren spelar smart\nFett schysst, st\u00e4ller upp f\u00f6r v\u00e5ran sak\nEn riktig brush brush, vad han lovar blir av\nOch blir det knas och du f\u00e5r sitta, \u00e4r han d\u00e4r\nHan hj\u00e4lper dina n\u00e4ra och han fixar fram cash\nD\u00e4r f\u00f6r en, aldrig den som sticker iv\u00e4g\nOch \u00e4r du abbsad, s\u00e5klart normalt han splittar sin bag\n\n[Refr\u00e4ng: Aki]\nF\u00f6r du \u00e4r min broder och jag backar dig till hundra procent\nJag sa du \u00e4r min syster och jag finns h\u00e4r f\u00f6r dig vad som \u00e4n h\u00e4nt\nJag kallar dig min bro-bro-bro-broder f\u00f6r du alltid st\u00e4ller upp f\u00f6r en v\u00e4n\nOch ja du \u00e4r min syster och jag finns h\u00e4r f\u00f6r dig vad som \u00e4n h\u00e4nt\nSyrran\n[Vers 2]\n[Syster Sol]\nBroderman, vad som \u00e4n h\u00e4nt finns alltid min famn\nVi har varann, i alla l\u00e4n jag backar dig man\nInga tricks, inga d\u00f6manden\nPalla s\u00e5nt, mina v\u00e4nner, eh\nOch min syster jag ser dig genom allt\nVad som \u00e4n h\u00e4nder vet jag v\u00e4nnen h\u00e5ller du min hand\nGenom tjockt, tunt, genom eldar och den hetaste lava\nN\u00e4r allt k\u00e4nns tungt ba\u2019 kom f\u00f6rbi och chilla, labababa\n\n[Jacco]\nS\u00e5l\u00e4nge vi \u00e4r v\u00e4nner ska du veta att du alltid kan k\u00e4nna dig trygg\nDu g\u00f6r f\u00f6r mig vad ingen annan kan f\u00f6r det du \u00e4r min bror, jag h\u00e5ller din rygg\nS\u00e5 du inte ramlar bak, om du \u00e4r vilsen s\u00e5 har du mig jag visar dig vart du ska\nS\u00e4g ba\u2019 vad du vill ha, jag st\u00e4ller upp f\u00f6r dig nu som du gjort sen vi var barn\n\n[Slag Fr\u00e5n Hj\u00e4rtat]\nFinns ingen b\u00e4ttre hand \u00e4n en hj\u00e4lpande hand av en broder\nVi kan leva f\u00f6r varann, v\u00e5rt broderskap kan inte k\u00f6pas n\u00e5nstans\nBroder till syster, syster till broder, broder till broder fr\u00e5n samma moder\nVakna upp och se till vad vi har, det finns s\u00e5 mycket k\u00e4rlek kvar\n\n[Donny Dread]\nKalla dig brorsan, bror i min breada, trots att vi inte har samma f\u00f6r\u00e4ldrar\nVi vandrar r\u00e4tt n\u00e4r vi \u00e4r vilseledda\nEy yo, jag h\u00e4lsar p\u00e5 min broder med en kram\nSt\u00e4ller upp vill inte ha n\u00e5nting tillbaks\nOm du vill ha om de n\u00e5nting jag har\nMitt \u00e4r ditt bror, normalt\n\n[Dajanko]\nEn riktig brorsa \u00e4r med dig p\u00e5 toppen n\u00e4r alltid g\u00e5r bra\nSamma brorsa \u00e4r med dig d\u00e4r p\u00e5 botten n\u00e4r det \u00e4r knas\nEller mittemellan, var du vill, bror sig bara till\nOm du har jidder och drama vi l\u00f6ser det, dagen \u00e4r din\nYo, vi kan gitta till v\u00e4nnerna och softa med familjen\nChilla grilla mannen leka med barnen och k\u00e4ka v\u00e4rsta maten\nBroderskapen vi \u00e4r mer \u00e4n ba\u2019 kamrater\nYo, riktiga brorser \u00e4r familj som det ska va\u2019, bre\n\n[Refr\u00e4ng: Amsie Brown, Dani M]\nDu \u00e4r min broder och ja backar dig till hundra procent\nDu \u00e4r min syster och jag finns d\u00e4r f\u00f6r dig vad som \u00e4n h\u00e4nt\nJag kallar dig min bro-bro-bro-broder f\u00f6r du alltid st\u00e4ller upp f\u00f6r en v\u00e4n\nEy yo, du \u00e4r min syster och ja' finns h\u00e4r f\u00f6r dig vad som \u00e4n h\u00e4nt, vad som \u00e4n h\u00e4nt\n\n[Vers 3]\n[Amsie Brown]\nDet spelar ingen roll vad det handlar om min v\u00e4n\nOm du fuckar ut totalt, h\u00e4r finns alltid en s\u00e4ng\nVi talar ut, lagar mat, sippar upp en sl\u00e4ng\nK\u00e4nn dig som hemma igen\nMin broder, f\u00f6rst\u00e5 mig om jag inte alltid kan bete mig som jag ska f\u00f6r ingenting \u00e4r l\u00e4tt idag\nEn broder drar mig upp ur kvicksand och tillsammans s\u00e5 tar vi oss mot b\u00e4ttre dar\n\n[General Knas]\nDet kvittar var du kommer fr\u00e5n, det kvittar var du bor\nDet kvittar vem du \u00e4r, ser ej p\u00e5 vilken gud du tror\nDet kvittar vem som \u00e4r din farsa vem som \u00e4r din mor\n\u00c4r du schysst mot mig kallar jag dig f\u00f6r bror\nV\u00e4lkommen in familjen den \u00e4r stor\nGemenskap finns, se dig mer som v\u00e5r bror\n\u00c4r du en av oss, se p\u00e5 dig d\u00e4r du bor, \u00e4r du schysst mot oss kallar vi dig f\u00f6r bror\n\n[Dani M]\nF\u00f6r om du satt dig sj\u00e4lv i skiten, du vet jag \u00e4r d\u00e4r\nHj\u00e4lper dig betala skulden, jobba av det d\u00e4r\nF\u00f6r du har gjort det tusen g\u00e5ngen n\u00e4r det saknats cash\nUtan att fr\u00e5ga ens, det \u00e4r inget jag beg\u00e4r\nS\u00e5 skulle aldrig aldrig aldrig m\u00e4tta min egen mage om du har tom tallrik\nOch skulle aldrig aldrig aldrig tveka p\u00e5 att bryta lagen, f\u00f6r att t\u00e4cka din rygg\n\n[Chords]\nJag ser framf\u00f6r mig hur mamma log\nN\u00e4r jag stod med storebrorsan och min andra bror\nSamma crew, vi s\u00e5g till att alla landa\u2019 smooth\nSamma blod s\u00e5 det kvittar vad n\u00e5n annan tror\nSanna ord, och mellan \u00e5ren gick hon flera brorsor\nDeras morsor blev som mina brorsor, flera morsor\nOch familjen expandera\u2019, vi blev flera\nVi kom fr\u00e5n samma aska, g\u00e5r till samma lera, f\u00f6r du \u00e4r min brorsa\n\n[Refr\u00e4ng: Chords]\nDu \u00e4r min broder och jag backar dig till hundra procent\nDu \u00e4r min syster och jag finns d\u00e4r f\u00f6r dig vad som \u00e4n h\u00e4nt\nJag kallar dig min bro-bro-bro-broder f\u00f6r du st\u00e4ller alltid upp f\u00f6r en v\u00e4n\nEy yo, du \u00e4r min syster och ja\u2019 finns h\u00e4r f\u00f6r dig vad som \u00e4n h\u00e4nt, vad som \u00e4n h\u00e4nt2Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/452632",
+   "artist_names": "Labyrint",
+   "full_title": "Jagbaes\u00e5n by\u00a0Labyrint",
+   "header_image_thumbnail_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.640x640x1.jpg",
+   "id": 452632,
+   "language": "sv",
+   "lyrics_owner_id": 793913,
+   "lyrics_state": "complete",
+   "path": "/Labyrint-jagbaesan-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Labyrint-jagbaesan-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 7,
+    "iq_earners": 5,
+    "transcribers": 4,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 10651
+   },
+   "title": "Jagbaes\u00e5n",
+   "title_with_featured": "Jagbaes\u00e5n",
+   "url": "https://genius.com/Labyrint-jagbaesan-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/24306",
+    "header_image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+    "id": 24306,
+    "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Labyrint",
+    "url": "https://genius.com/artists/Labyrint"
+   },
+   "apple_music_id": "1443272597",
+   "apple_music_player_url": "https://genius.com/songs/452632/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_452632' class='rg_embed_link' data-song-id='452632'>Read <a href='https://genius.com/Labyrint-jagbaesan-lyrics'>\u201cJagbaes\u00e5n\u201d by Labyrint</a> on Genius</div> <script crossorigin src='//genius.com/songs/452632/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/101941",
+    "cover_art_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.640x640x1.jpg",
+    "full_title": "Garalaowit by Labyrint",
+    "id": 101941,
+    "name": "Garalaowit",
+    "url": "https://genius.com/albums/Labyrint/Garalaowit",
+    "artist": {
+     "api_path": "/artists/24306",
+     "header_image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+     "id": 24306,
+     "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Labyrint",
+     "url": "https://genius.com/artists/Labyrint"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 793913,
+    "annotator_login": "koruptyg",
+    "api_path": "/referents/3715084",
+    "classification": "needs_exegesis",
+    "fragment": "Jagbaes\u00e5n",
+    "id": 3715084,
+    "is_description": true,
+    "path": "/3715084/Labyrint-jagbaesan/Jagbaesan",
+    "range": {
+     "content": "Jagbaes\u00e5n"
+    },
+    "song_id": 452632,
+    "url": "https://genius.com/3715084/Labyrint-jagbaesan/Jagbaesan",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/452632",
+     "client_timestamps": {
+      "updated_by_human_at": 1577131477,
+      "lyrics_updated_at": 1577131476
+     },
+     "context": "Labyrint",
+     "id": 452632,
+     "image_url": "https://images.genius.com/f396262d7415fe6920e886f9bdb997e1.640x640x1.jpg",
+     "link_title": "Jagbaes\u00e5n by\u00a0Labyrint",
+     "title": "Jagbaes\u00e5n",
+     "type": "Song",
+     "url": "https://genius.com/Labyrint-jagbaesan-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3715084",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3715084,
+      "pinned": false,
+      "share_url": "https://genius.com/3715084",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3715084/Labyrint-jagbaesan/Jagbaesan",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/793913",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1669064443",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1669064443",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1669064443",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "human_readable_role_for_display": null,
+         "id": 793913,
+         "iq": 91,
+         "login": "koruptyg",
+         "name": "koruptyg",
+         "role_for_display": null,
+         "url": "https://genius.com/koruptyg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=ohNdZ_agl-A"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Labyrint",
+   "lyrics": "Jagbaes\u00e5n Lyrics[VERS 1]\n\n[Dajanko]\nJag ba' \u00e9 s\u00e5n, cok soft men lite halish\nAlltid den som kritish f\u00f6rst men alltid sist och betalish\nUtnyttjar folk jag inte k\u00e4nner, yani, det \u00e4r gratis\nParasit p\u00e5 idijit, det \u00e4r inget nytt, det \u00e4r som vanligt\n\n[Aki]\nJag ba' \u00e9 s\u00e5n, trasiga strumpor p\u00e5 potatis\nBr\u00e4nnh\u00e5l p\u00e5 tr\u00f6jan, \u00e4h, det \u00e4r inte s\u00e5 farligt\nAbsad \u00e4r jag hatisk, stukad \u00e4r jag sympatisk\nJ\u00e4ttebebis, f\u00e5r kolik utan ari?)\n[Jacco]\nJag ba' \u00e9 s\u00e5n, svarar aldrig p\u00e5 min telefon\n\u00c4ven om du vill ha ditt l\u00e5n tillbaks\nJag ba' \u00e9 s\u00e5nd\u00e4r, fett sn\u00e4ll men ocks\u00e5 \u00e4cklig och hal\n\n[REFR\u00c4NG]\nVarf\u00f6r kan du aldrig h\u00e5lla tiden? Jag ba' \u00e9 s\u00e5n\nVarf\u00f6r r\u00f6ker du dig efterbliven? Jag ba' \u00e9 s\u00e5n\nIngen respekt f\u00f6r polisen\nTill och med \u00e4ckliga grisen vet\u2026\nJa dom ba' \u00e9 s\u00e5, mecka weedet i gatuh\u00f6rn\nDom ba' \u00e9 s\u00e5, som mamma varna dig f\u00f6r\nJa dom ba' \u00e9 s\u00e5, vad fan tar du mig f\u00f6r?\nSamma tills jag begraven och d\u00f6r, jag ba' \u00e9 s\u00e5n\n\n[VERS 2]\n\n[Aki]\nJag ba' \u00e9 s\u00e5n, tr\u00e5ngsynt, sv\u00e5r att f\u00f6rst\u00e5, bre\nF\u00f6rl\u00e5ter \u00e4nd\u00e5 l\u00e4tt, aye, vi gl\u00f6mmer ig\u00e5r, bre\nKan vara l\u00e5ngsint om minnet till\u00e5ter\nP\u00e5 scen bla-bla n\u00e5nting, gl\u00f6mmer texten till l\u00e5ten\n\n[Jacco]\nJag ba' \u00e9 s\u00e5n, har en jobbig svaghet f\u00f6r att ljuga\nOm du har problem med det s\u00e5 kan du suga\nVarit lika dan sen jag var ett barn\nProblembarn d\u00e5, problemvuxen idag\nYou might also like[Dajanko]\nJag ba' \u00e9 s\u00e5n: kort, stor n\u00e4sa och snea t\u00e4nder\nJag hittar inte stan, fr\u00e5ga mina v\u00e4nner\nRastl\u00f6s, har fuckat ur f\u00f6r ingenting, s\u00e5nt h\u00e4nder\nLack nu, fuck you, bak hur mitt hum\u00f6r sv\u00e4nger\n\n[Labyrint]\nPass p\u00e5 spela tunga, storma scenen f\u00f6r att sjunga\nOblyga, objudna n\u00e4r ni ser oss komma\nVi ba' \u00e9 s\u00e5na, tills vi \u00e4r nedg\u00e5ngna\nVi ba' \u00e9 s\u00e5na, du vet, annars fr\u00e5ga\n\n[REFR\u00c4NG]\nJa, s\u00e4g mig, varf\u00f6r f\u00e5r du alltid sparken? Jag ba' \u00e9 s\u00e5n\nH\u00e4mtar heggen och bara beckar i parken? Jag ba' \u00e9 s\u00e5n\nG\u00f6r en sv\u00e4ng p\u00e5 anstalten\nTill och med \u00e4ckliga pliten vet\nJa dom ba' \u00e9 s\u00e5, skrattar \u00e5t era regler\nDom ba' \u00e9 s\u00e5, haffar para med alla medel\nJa dom ba' \u00e9 s\u00e5,, vad fan tar du mig f\u00f6r?\nSamma tills jag begraven och d\u00f6r, jag ba' \u00e9 s\u00e5n\n\n[VERS 3]\n\n[Jacco]\nJag ba' \u00e9 s\u00e5n, h\u00e4nger halvt b\u00e4ng utanf\u00f6r Verona\nLetar efter cigg o knatch som jag kan l\u00e5na\nLovar att du f\u00e5r det tillbaka om en m\u00e5nad\nSluta va (?1*), sluta sn\u00e5la\n[Aki]\nJag ba' \u00e9 s\u00e5n, s\u00e4g att jag har r\u00e4tt, annars jag lackar ur\nFackar ur, diskussion med mig \u00e4r sv\u00e5r att backa ur\nImpulsiv, s\u00e4ger vad jag k\u00e4nner p\u00e5 plats nu\nSk\u00e4ller ut fans p\u00e5 Facebook, sug min fucking kuk\n\n[Daj]\nJag ba' \u00e9 s\u00e5n, taggar till hotellet med g\u00e4ri en stund\nPersonlighet undanbedes, som hon ska var skum\nFinns ingen pom-pom s\u00e5 finns ingen rum-rum\nHon sa jag va dum-dum? Pss! Ring taxi, wrom-wrom\n\n[REFR\u00c4NG]\nVarf\u00f6r kan du inte acceptera? Jag ba' \u00e9 s\u00e5n\nV\u00e4grar att kapitulerar, Jag ba' \u00e9 s\u00e5n\nVapnet \u00e4r musiken som ekar\nOch de \u00e4ckliga politikerna vet att\u2026\nJa dom ba' \u00e9 s\u00e5, professionella uppviglare\nJa dom ba' \u00e9 s\u00e5, men \u00e4nd\u00e5 sk\u00f6na lirare\nJa dom ba' \u00e9 s\u00e5, vad fan tar du mig f\u00f6r?\nSamma tills jag begraven d\u00f6d, jag ba' \u00e9 s\u00e5n2Embed"
+  },
+  {
+   "annotation_count": 6,
+   "api_path": "/songs/510038",
+   "artist_names": "Labyrint",
+   "full_title": "Ortens Favoriter by\u00a0Labyrint",
+   "header_image_thumbnail_url": "https://images.genius.com/9b155c16bb170d24b6a156471a1dec07.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9b155c16bb170d24b6a156471a1dec07.640x640x1.jpg",
+   "id": 510038,
+   "language": "sv",
+   "lyrics_owner_id": 263682,
+   "lyrics_state": "complete",
+   "path": "/Labyrint-ortens-favoriter-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Labyrint-ortens-favoriter-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/9b155c16bb170d24b6a156471a1dec07.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9b155c16bb170d24b6a156471a1dec07.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 6,
+    "iq_earners": 6,
+    "transcribers": 1,
+    "unreviewed_annotations": 4,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 8456
+   },
+   "title": "Ortens Favoriter",
+   "title_with_featured": "Ortens Favoriter",
+   "url": "https://genius.com/Labyrint-ortens-favoriter-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/24306",
+    "header_image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+    "id": 24306,
+    "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Labyrint",
+    "url": "https://genius.com/artists/Labyrint"
+   },
+   "apple_music_id": "1442818736",
+   "apple_music_player_url": "https://genius.com/songs/510038/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_510038' class='rg_embed_link' data-song-id='510038'>Read <a href='https://genius.com/Labyrint-ortens-favoriter-lyrics'>\u201cOrtens Favoriter\u201d by Labyrint</a> on Genius</div> <script crossorigin src='//genius.com/songs/510038/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/22601",
+    "cover_art_url": "https://images.genius.com/9b155c16bb170d24b6a156471a1dec07.640x640x1.jpg",
+    "full_title": "Labababa by Labyrint",
+    "id": 22601,
+    "name": "Labababa",
+    "url": "https://genius.com/albums/Labyrint/Labababa",
+    "artist": {
+     "api_path": "/artists/24306",
+     "header_image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+     "id": 24306,
+     "image_url": "https://images.genius.com/455e9c8f483fa6b05f28cf372310b27d.580x580x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Labyrint",
+     "url": "https://genius.com/artists/Labyrint"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 263682,
+    "annotator_login": "SlotsMasta",
+    "api_path": "/referents/3990273",
+    "classification": "needs_exegesis",
+    "fragment": "Ortens Favoriter",
+    "id": 3990273,
+    "is_description": true,
+    "path": "/3990273/Labyrint-ortens-favoriter/Ortens-favoriter",
+    "range": {
+     "content": "Ortens Favoriter"
+    },
+    "song_id": 510038,
+    "url": "https://genius.com/3990273/Labyrint-ortens-favoriter/Ortens-favoriter",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/510038",
+     "client_timestamps": {
+      "updated_by_human_at": 1611261253,
+      "lyrics_updated_at": 1449604745
+     },
+     "context": "Labyrint",
+     "id": 510038,
+     "image_url": "https://images.genius.com/9b155c16bb170d24b6a156471a1dec07.640x640x1.jpg",
+     "link_title": "Ortens Favoriter by\u00a0Labyrint",
+     "title": "Ortens Favoriter",
+     "type": "Song",
+     "url": "https://genius.com/Labyrint-ortens-favoriter-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3990273",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3990273,
+      "pinned": false,
+      "share_url": "https://genius.com/3990273",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3990273/Labyrint-ortens-favoriter/Ortens-favoriter",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/263682",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/26fa4aebd213a91e11d47d18151fbeb3.jpeg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/26fa4aebd213a91e11d47d18151fbeb3.jpeg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/26fa4aebd213a91e11d47d18151fbeb3.jpeg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/26fa4aebd213a91e11d47d18151fbeb3.jpeg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/26fa4aebd213a91e11d47d18151fbeb3.jpeg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 263682,
+         "iq": 1968,
+         "login": "SlotsMasta",
+         "name": "SlotsMasta",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/SlotsMasta",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/36309",
+     "header_image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "id": 36309,
+     "image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Masse",
+     "url": "https://genius.com/artists/Masse"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Labyrint",
+   "lyrics": "Ortens Favoriter Lyrics[Aki] Norra botkyrka, shit va tiden g\u00e5r bre\nKan inte fatta att jag flytta hit f\u00f6r mer \u00e4n 10 \u00e5r sen\nSett brorsan bli, s\u00f6nderstucken med kniv i omr\u00e5det\nHar s\u00e4tt grabbar v\u00e4xa upp fr\u00e5n att beckna zutt till att spreja fritidsg\u00e5rden\nBetongen, vart jag \u00e4n\ufeff g\u00e5r hamna jag d\u00e4r, om jag chillar i malm\u00f6 jag chillar helst p\u00e5 Ramels V\u00e4g\nK\u00e4nns som g-sunda annorlunda men samma som h\u00e4r, utanf\u00f6rskaps gemenskapen som invandrare b\u00e4r\nMen \u00e4ven knega svennar, ensamma mammor och g\u00e4ngmedlemmar\nTid har g\u00e5tt, m\u00e5nga bilar br\u00e4nda men inget har \u00e4ndrats\nOm jag chillar i GBG jag chillar i Angered eller Bergsj\u00f6n, Backa, Biskop och alla jag inte hann me\nF\u00f6r vi \u00e4r alla lika sammanslutna beefa med varandra\nR\u00e5sl\u00e4tt, Ersboda, \u00c5rby, R\u00e5by, Vivalla\nAlla som visar k\u00e4rlek f\u00f6r dom relaterar, v\u00e4rmer innuti f\u00f6r mitt folk samlas n\u00e4r vi spelar\nPass p\u00e5 era recensioner och priser, skiter i f\u00f6r vi \u00e4r Ortens favoriter! X2\nAlla vet, finns inga flos i musiken men de e lugnt, s\u00e5 l\u00e4nge vi \u00e4r: Ortens favoriter! x2\n\n[Dajanko] Du kan catcha mig i alby p\u00e5 h\u00f6jden d\u00e4r jag vandrar eller k\u00e4kar falafel med grabbarna p\u00e5 jallajalla\nM\u00f6llev\u00e5ngen, Sofielund, Roseng\u00e5rd vi tar oss runt\nLind\u00e4ngen vad h\u00e4nder? Vi drar till Nydala och h\u00e4nger och festar med v\u00e4nner, m\u00e5nga nya ox\u00e5 folk man inte k\u00e4nner\nMen \u00e4nd\u00e5 k\u00e4nner p\u00e5 n\u00e5t s\u00e4tt, eyo fan va fett\nVi kommer till orten och f\u00e5r k\u00e4rlek direkt. Fr\u00e4mlingar blir till br\u00f6der och bryter br\u00f6der som vi va sl\u00e4kt. (yo)\nBra folk i orten, \u00e4r n\u00e5t som det finns gott om. Ta bara bussen i din stad eller tuben i stockholm\nPendeln, gr\u00f6na, bl\u00e5a, r\u00f6da linjen de e f\u00f6r er vi skriver\nEyo vi glider p\u00e5 samma gata vi e som ni e\nOrtens favoriter skiter priser o vad e grammis? yo vi f\u00e5r k\u00e4rlek p\u00e5 gatan o b\u00e4sta pris p\u00e5 chamsis\nFr\u00e5n s\u00f6derh\u00f6jden i Jakan till gottsundasborna, skulle vilja reppa er alla men ni e bara f\u00f6r m\u00e5nga\n\nPass p\u00e5 era recensioner och priser, skiter i f\u00f6r vi \u00e4r Ortens favoriter! X2\nAlla vet, finns inga flos i musiken men de e lugnt, s\u00e5 l\u00e4nge vi \u00e4r: Ortens favoriter! x2\n\n[Jacco] Helt \u00e4rligt jag skiter i radiorotationen dom spelar oss fr\u00e5n Fl\u00f6jtv\u00e4gen till Bandstolen i MP3\nP\u00e5 jeepen i skogen dom sjunger med, n\u00e4r dom provskjuter pistoler o alla vet!\nAtt vi \u00e4r popul\u00e4ra i trakten, o alla h\u00e4r har gungat till takten\nN\u00e4r dom st\u00e5r och kickar spliff i trappen, eller n\u00e4r dom lyfter skrot ja de var ????\nJag h\u00f6r oss i en bil som \u00e5ker f\u00f6rbi\nI G\u00f6teborg e k\u00e4rleken finfin, Norrsken i Lule\u00e5 dom bjuder p\u00e5 weed\nEy Malm\u00f6br\u00f6der dom tecknar Labyrint!\nBryr mig inte om f\u00f6rs\u00e4ljningsstatisik, i Uppsala/Stockholm \u00e4r vi ortens favoriter\nBryr mig inte om f\u00f6rs\u00e4ljningsstatisik, f\u00f6r i hela Sverige \u00e4r vi ortens favoriter\nYou might also like\nPass p\u00e5 era recensioner och priser, skiter i f\u00f6r vi \u00e4r Ortens favoriter! X2\nAlla vet, finns inga flos i musiken men de e lugnt, s\u00e5 l\u00e4nge vi \u00e4r: Ortens favoriter! x2Embed"
+  }
+ ]
+}

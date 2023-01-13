@@ -1,0 +1,2188 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/365299",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+ "id": 365299,
+ "image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Addis Black Widow",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Addis-black-widow",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7083388",
+  "classification": "needs_exegesis",
+  "fragment": "Addis Black Widow",
+  "id": 7083388,
+  "is_description": true,
+  "path": "/7083388/Addis-black-widow/Addis-black-widow",
+  "range": {
+   "content": "Addis Black Widow"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7083388/Addis-black-widow/Addis-black-widow",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/365299",
+   "context": null,
+   "id": 365299,
+   "image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+   "link_title": "Addis Black Widow",
+   "title": "Addis Black Widow",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Addis-black-widow"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7083388",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7083388,
+    "pinned": false,
+    "share_url": "https://genius.com/7083388",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7083388/Addis-black-widow/Addis-black-widow",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1414164",
+   "artist_names": "Addis Black Widow",
+   "full_title": "Goes Around Comes Around by\u00a0Addis\u00a0Black Widow",
+   "header_image_thumbnail_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.500x500x1.jpg",
+   "id": 1414164,
+   "language": "en",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Addis-black-widow-goes-around-comes-around-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Addis-black-widow-goes-around-comes-around-sample",
+   "release_date_components": {
+    "year": 2001,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "2001",
+   "release_date_with_abbreviated_month_for_display": "2001",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Goes Around Comes Around",
+   "title_with_featured": "Goes Around Comes Around",
+   "url": "https://genius.com/Addis-black-widow-goes-around-comes-around-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/365299",
+    "header_image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+    "id": 365299,
+    "image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Addis Black Widow",
+    "url": "https://genius.com/artists/Addis-black-widow"
+   },
+   "apple_music_id": "42159290",
+   "apple_music_player_url": "https://genius.com/songs/1414164/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1414164' class='rg_embed_link' data-song-id='1414164'>Read <a href='https://genius.com/Addis-black-widow-goes-around-comes-around-lyrics'>\u201cGoes Around Comes Around\u201d by Addis\u00a0Black Widow</a> on Genius</div> <script crossorigin src='//genius.com/songs/1414164/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/265854",
+    "cover_art_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.500x500x1.jpg",
+    "full_title": "ABW by Addis Black Widow",
+    "id": 265854,
+    "name": "ABW",
+    "url": "https://genius.com/albums/Addis-black-widow/Abw",
+    "artist": {
+     "api_path": "/artists/365299",
+     "header_image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+     "id": 365299,
+     "image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Addis Black Widow",
+     "url": "https://genius.com/artists/Addis-black-widow"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Assistant Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1212964",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1212964,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jakob Nyg\u00e5rd",
+       "url": "https://genius.com/artists/Jakob-nygard"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/749754",
+       "header_image_url": "https://images.genius.com/6c7dc2d5b5e7d6dcc9d018f074360245.540x248x1.jpg",
+       "id": 749754,
+       "image_url": "https://images.genius.com/f688ba566f2e84d79f02f158b1ca2a2f.160x160x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ray Staff",
+       "url": "https://genius.com/artists/Ray-staff"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/1683400",
+       "header_image_url": "https://images.genius.com/13362ddd2ef103bddb6a80f1bbf0d1f5.400x400x1.jpg",
+       "id": 1683400,
+       "image_url": "https://images.genius.com/13362ddd2ef103bddb6a80f1bbf0d1f5.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Toby Chapman",
+       "url": "https://genius.com/artists/Toby-chapman"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1683400",
+       "header_image_url": "https://images.genius.com/13362ddd2ef103bddb6a80f1bbf0d1f5.400x400x1.jpg",
+       "id": 1683400,
+       "image_url": "https://images.genius.com/13362ddd2ef103bddb6a80f1bbf0d1f5.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Toby Chapman",
+       "url": "https://genius.com/artists/Toby-chapman"
+      },
+      {
+       "api_path": "/artists/2676016",
+       "header_image_url": "https://images.genius.com/9da40531c15c5cc450f03252cb8a7eb0.720x720x1.jpg",
+       "id": 2676016,
+       "image_url": "https://images.genius.com/9da40531c15c5cc450f03252cb8a7eb0.720x720x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Gary Wallis",
+       "url": "https://genius.com/artists/Gary-wallis"
+      },
+      {
+       "api_path": "/artists/1112691",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 1112691,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Andre Horstmann",
+       "url": "https://genius.com/artists/Andre-horstmann"
+      }
+     ]
+    },
+    {
+     "label": "Protools Mix Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1683400",
+       "header_image_url": "https://images.genius.com/13362ddd2ef103bddb6a80f1bbf0d1f5.400x400x1.jpg",
+       "id": 1683400,
+       "image_url": "https://images.genius.com/13362ddd2ef103bddb6a80f1bbf0d1f5.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Toby Chapman",
+       "url": "https://genius.com/artists/Toby-chapman"
+      },
+      {
+       "api_path": "/artists/2676016",
+       "header_image_url": "https://images.genius.com/9da40531c15c5cc450f03252cb8a7eb0.720x720x1.jpg",
+       "id": 2676016,
+       "image_url": "https://images.genius.com/9da40531c15c5cc450f03252cb8a7eb0.720x720x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Gary Wallis",
+       "url": "https://genius.com/artists/Gary-wallis"
+      },
+      {
+       "api_path": "/artists/3060900",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 3060900,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Armias \u201cPigeon\u201d Mamo",
+       "url": "https://genius.com/artists/Armias-pigeon-mamo"
+      }
+     ]
+    },
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/1683400",
+       "header_image_url": "https://images.genius.com/13362ddd2ef103bddb6a80f1bbf0d1f5.400x400x1.jpg",
+       "id": 1683400,
+       "image_url": "https://images.genius.com/13362ddd2ef103bddb6a80f1bbf0d1f5.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Toby Chapman",
+       "url": "https://genius.com/artists/Toby-chapman"
+      },
+      {
+       "api_path": "/artists/3060900",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 3060900,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Armias \u201cPigeon\u201d Mamo",
+       "url": "https://genius.com/artists/Armias-pigeon-mamo"
+      }
+     ]
+    },
+    {
+     "label": "Programmer",
+     "artists": [
+      {
+       "api_path": "/artists/1683400",
+       "header_image_url": "https://images.genius.com/13362ddd2ef103bddb6a80f1bbf0d1f5.400x400x1.jpg",
+       "id": 1683400,
+       "image_url": "https://images.genius.com/13362ddd2ef103bddb6a80f1bbf0d1f5.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Toby Chapman",
+       "url": "https://genius.com/artists/Toby-chapman"
+      },
+      {
+       "api_path": "/artists/2676016",
+       "header_image_url": "https://images.genius.com/9da40531c15c5cc450f03252cb8a7eb0.720x720x1.jpg",
+       "id": 2676016,
+       "image_url": "https://images.genius.com/9da40531c15c5cc450f03252cb8a7eb0.720x720x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Gary Wallis",
+       "url": "https://genius.com/artists/Gary-wallis"
+      },
+      {
+       "api_path": "/artists/3060900",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 3060900,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Armias \u201cPigeon\u201d Mamo",
+       "url": "https://genius.com/artists/Armias-pigeon-mamo"
+      }
+     ]
+    },
+    {
+     "label": "Percussion",
+     "artists": [
+      {
+       "api_path": "/artists/2676016",
+       "header_image_url": "https://images.genius.com/9da40531c15c5cc450f03252cb8a7eb0.720x720x1.jpg",
+       "id": 2676016,
+       "image_url": "https://images.genius.com/9da40531c15c5cc450f03252cb8a7eb0.720x720x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Gary Wallis",
+       "url": "https://genius.com/artists/Gary-wallis"
+      },
+      {
+       "api_path": "/artists/3060900",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 3060900,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Armias \u201cPigeon\u201d Mamo",
+       "url": "https://genius.com/artists/Armias-pigeon-mamo"
+      }
+     ]
+    },
+    {
+     "label": "Co-Producer",
+     "artists": [
+      {
+       "api_path": "/artists/1683400",
+       "header_image_url": "https://images.genius.com/13362ddd2ef103bddb6a80f1bbf0d1f5.400x400x1.jpg",
+       "id": 1683400,
+       "image_url": "https://images.genius.com/13362ddd2ef103bddb6a80f1bbf0d1f5.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Toby Chapman",
+       "url": "https://genius.com/artists/Toby-chapman"
+      },
+      {
+       "api_path": "/artists/2676016",
+       "header_image_url": "https://images.genius.com/9da40531c15c5cc450f03252cb8a7eb0.720x720x1.jpg",
+       "id": 2676016,
+       "image_url": "https://images.genius.com/9da40531c15c5cc450f03252cb8a7eb0.720x720x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Gary Wallis",
+       "url": "https://genius.com/artists/Gary-wallis"
+      },
+      {
+       "api_path": "/artists/3060901",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "id": 3060901,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dianne \u201cCream\u201d Wiston",
+       "url": "https://genius.com/artists/Dianne-cream-wiston"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5925279",
+    "classification": "needs_exegesis",
+    "fragment": "Goes Around Comes Around",
+    "id": 5925279,
+    "is_description": true,
+    "path": "/5925279/Addis-black-widow-goes-around-comes-around/Goes-around-comes-around",
+    "range": {
+     "content": "Goes Around Comes Around"
+    },
+    "song_id": 1414164,
+    "url": "https://genius.com/5925279/Addis-black-widow-goes-around-comes-around/Goes-around-comes-around",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1414164",
+     "client_timestamps": {
+      "updated_by_human_at": 1644825051,
+      "lyrics_updated_at": 1429830220
+     },
+     "context": "Addis Black Widow",
+     "id": 1414164,
+     "image_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.500x500x1.jpg",
+     "link_title": "Goes Around Comes Around by\u00a0Addis\u00a0Black Widow",
+     "title": "Goes Around Comes Around",
+     "type": "Song",
+     "url": "https://genius.com/Addis-black-widow-goes-around-comes-around-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5925279",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5925279,
+      "pinned": false,
+      "share_url": "https://genius.com/5925279",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5925279/Addis-black-widow-goes-around-comes-around/Goes-around-comes-around",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/3060900",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 3060900,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Armias \u201cPigeon\u201d Mamo",
+     "url": "https://genius.com/artists/Armias-pigeon-mamo"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Addis Black Widow",
+   "lyrics": "Goes Around Comes Around LyricsPigeon:\nI came home from a hard day's work now\nFound ma girl on da floor wid a man now\nCouldn't believe, ma eyes lost ma mind now\nTurned around an walked away 2 ma room now...\n\n- Did u tell her, tell her, tell her?\n- No I did not\n- What did u do, u do, u do?\n- Let me think no'\nChorus\nGoes around comes around\nHere u got it, now u got it\nWhat u gonna do about it???\n\nChorus\n\nCream:\nEveryday you're away from 9 to 5 now\nAfter dat'u come home wid ya work now\nI keep talKin' seems like there's no one listening\nI found out u got a girl on da side now!\n\n- Did u tell her, tell her, tell her?\n- No I did not\n- What did u do, u do, u do?\n- Let me think now...\n\nChorus x 2\n\nPigeon:\nIn ma room there's a picture on da wall now\nTook it down an lit a candle by da bed now\n\nCream:\nBefore u do any stupid foolish thangs now\nDa man u saw 's not a man its ya girl now\nYou might also like- Did u tell her, tell her, tell her?\n- No I did not\n- What did u do, u do, u do?\n-Let me think now...\n\nChorus til fade (oh oh oh I did not I did not)Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1229890",
+   "artist_names": "Addis Black Widow",
+   "full_title": "Wait in Summer by\u00a0Addis\u00a0Black Widow",
+   "header_image_thumbnail_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.500x500x1.jpg",
+   "id": 1229890,
+   "language": "en",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Addis-black-widow-wait-in-summer-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Addis-black-widow-wait-in-summer-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Wait in Summer",
+   "title_with_featured": "Wait in Summer",
+   "url": "https://genius.com/Addis-black-widow-wait-in-summer-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/365299",
+    "header_image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+    "id": 365299,
+    "image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Addis Black Widow",
+    "url": "https://genius.com/artists/Addis-black-widow"
+   },
+   "apple_music_id": "42159278",
+   "apple_music_player_url": "https://genius.com/songs/1229890/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1229890' class='rg_embed_link' data-song-id='1229890'>Read <a href='https://genius.com/Addis-black-widow-wait-in-summer-lyrics'>\u201cWait in Summer\u201d by Addis\u00a0Black Widow</a> on Genius</div> <script crossorigin src='//genius.com/songs/1229890/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/265854",
+    "cover_art_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.500x500x1.jpg",
+    "full_title": "ABW by Addis Black Widow",
+    "id": 265854,
+    "name": "ABW",
+    "url": "https://genius.com/albums/Addis-black-widow/Abw",
+    "artist": {
+     "api_path": "/artists/365299",
+     "header_image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+     "id": 365299,
+     "image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Addis Black Widow",
+     "url": "https://genius.com/artists/Addis-black-widow"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5733030",
+    "classification": "needs_exegesis",
+    "fragment": "Wait in Summer",
+    "id": 5733030,
+    "is_description": true,
+    "path": "/5733030/Addis-black-widow-wait-in-summer/Wait-in-summer",
+    "range": {
+     "content": "Wait in Summer"
+    },
+    "song_id": 1229890,
+    "url": "https://genius.com/5733030/Addis-black-widow-wait-in-summer/Wait-in-summer",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1229890",
+     "client_timestamps": {
+      "updated_by_human_at": 1479310828,
+      "lyrics_updated_at": 1429710796
+     },
+     "context": "Addis Black Widow",
+     "id": 1229890,
+     "image_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.500x500x1.jpg",
+     "link_title": "Wait in Summer by\u00a0Addis\u00a0Black Widow",
+     "title": "Wait in Summer",
+     "type": "Song",
+     "url": "https://genius.com/Addis-black-widow-wait-in-summer-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5733030",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5733030,
+      "pinned": false,
+      "share_url": "https://genius.com/5733030",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5733030/Addis-black-widow-wait-in-summer/Wait-in-summer",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Addis Black Widow",
+   "lyrics": "Wait in Summer LyricsI could wait in summer, wait in winter\nWait in spring or even fall\nIt may be so... i know\n\nCream:\nU don't know u...u...u..oughta know\nU should know..u shouldn't wait no more\nMore o these chains on da door\nChains on da door, get up on it, WAKE UP!!!! buckle up ya catchin a cold\nCatchin a cold if u wait until da summer an fall\nAn when da winter comes then shes all gone!\nWheres she? All gone\nWheres she? All gone..all gone. Wheres she?\nAll gone.. all gone..Where?\n(U be saying) ;\nWhos da cat? Who who who could be dat?\nWhos da brat? Who took her took her T-cat\nWho be dat who took an finger licked her?\nWho be dat? Who took her up in da sack?\nOnly cream can make a girl glad\nAn in a cake dats what they all grab\nSo pigeon if u want it real bad\nJust wait\nI could wait in summer, wait in winter\nWait in spring, or even fall\nIt may be so... I know\nIf i wait in summer, wait in winter\nWait in spring, or even fall\nYou might say no, i know\n\nPigeon:\nI was walkin around, then I saw her\nWhats ma name?\nITS pigeon\nTired of U wastin ma time...tired of watchin days go by\nWhile ya funnin an runnin an maybe out big timin\nA big flirt A BIG FLIRT!\nSo what U gonna do when I come for U?\nGot a plan or U gonna pass like a flue?\nWhats ya plan? I got a good feeling about U\nTell me now.. I don't need to be a bugaboo\nWhat should i do now?\n\nCream:\nNow from da first time dat we met\nI told U im free on next summer next\nWhy U wanna come an treat me like a pet\nYeah U got game an ya whole thangs set\nBut...only cream can make a girl glad\nAn in a cake dats what they all grab\nSo pigeon if U want it real bad\nJust wait\nYou might also likeI could wait in summer, wait in winter\nWait in spring, or even fall\nIt may be so... I know\nIf i wait in summer, wait in winter\nWait in spring, or even fall\nYou might say no, i know\n\nCream:\nIf u know it's me for sure\nAnd your mind is good to go\nIf you dreamt of this before\nThen you could be just summore\nIf you dunno hot from cold\nAnd you're set to hit the road\nIf you want to hurt the show\nThen u should not wait no more\n\nI could wait in summer, wait in winter\nWait in spring, or even fall\nIt may be so... I know\nIf i wait in summer, wait in winter\nWait in spring, or even fall\nYou might say no, i knowEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/906052",
+   "artist_names": "Addis Black Widow",
+   "full_title": "Son of a Gun by\u00a0Addis\u00a0Black Widow",
+   "header_image_thumbnail_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.500x500x1.jpg",
+   "id": 906052,
+   "language": "en",
+   "lyrics_owner_id": 5874520,
+   "lyrics_state": "complete",
+   "path": "/Addis-black-widow-son-of-a-gun-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Addis-black-widow-son-of-a-gun-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Son of a Gun",
+   "title_with_featured": "Son of a Gun",
+   "url": "https://genius.com/Addis-black-widow-son-of-a-gun-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/365299",
+    "header_image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+    "id": 365299,
+    "image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Addis Black Widow",
+    "url": "https://genius.com/artists/Addis-black-widow"
+   },
+   "apple_music_id": "42159287",
+   "apple_music_player_url": "https://genius.com/songs/906052/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_906052' class='rg_embed_link' data-song-id='906052'>Read <a href='https://genius.com/Addis-black-widow-son-of-a-gun-lyrics'>\u201cSon of a Gun\u201d by Addis\u00a0Black Widow</a> on Genius</div> <script crossorigin src='//genius.com/songs/906052/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/265854",
+    "cover_art_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.500x500x1.jpg",
+    "full_title": "ABW by Addis Black Widow",
+    "id": 265854,
+    "name": "ABW",
+    "url": "https://genius.com/albums/Addis-black-widow/Abw",
+    "artist": {
+     "api_path": "/artists/365299",
+     "header_image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+     "id": 365299,
+     "image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Addis Black Widow",
+     "url": "https://genius.com/artists/Addis-black-widow"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5388916",
+    "classification": "needs_exegesis",
+    "fragment": "Son of a Gun",
+    "id": 5388916,
+    "is_description": true,
+    "path": "/5388916/Addis-black-widow-son-of-a-gun/Son-of-a-gun",
+    "range": {
+     "content": "Son of a Gun"
+    },
+    "song_id": 906052,
+    "url": "https://genius.com/5388916/Addis-black-widow-son-of-a-gun/Son-of-a-gun",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/906052",
+     "client_timestamps": {
+      "updated_by_human_at": 1538378048,
+      "lyrics_updated_at": 1538378048
+     },
+     "context": "Addis Black Widow",
+     "id": 906052,
+     "image_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.500x500x1.jpg",
+     "link_title": "Son of a Gun by\u00a0Addis\u00a0Black Widow",
+     "title": "Son of a Gun",
+     "type": "Song",
+     "url": "https://genius.com/Addis-black-widow-son-of-a-gun-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5388916",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5388916,
+      "pinned": false,
+      "share_url": "https://genius.com/5388916",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5388916/Addis-black-widow-son-of-a-gun/Son-of-a-gun",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Addis Black Widow",
+   "lyrics": "Son of a Gun LyricsDon't stop runnin son of a gun\nI be right behind U runnin sun of a gun\nDon't stop runnin son of a gun\nNobodys chasin U so U don't need to run\n\nWake up, buckle up son of a gun. Whats dat? Packem up... gotta go - RUN\nFilled da tub wid da blood, WHAT HAVE I DONE??\nIts late, get ya coat, son of a gun\nMa teeth full of bees, honey & bun\nMa arms? collard greens- big as a pond\nBoth thighs & ma knees, (son of a gun) are WET FROM DA BLOOD\nWhat have I done ???\nU go & I be right wid U\nWatch too many movies, it will get U\nIf ya girls wanna cum, they could cum 2\nBless U if you go ATICHEW\n& run like forest gump, while ya girls can't hold their rump\n& we know phat Loodys do thump\nDa whole scene, I would give it two thumbs up!\n\nDon't stop runnin son of a gun\nI be right behind U runnin sun of a gun\nDon't stop runnin son of a gun\nNobodys chasin U so U don't need to run\n\nUp we go like super man & down we go like Mary Jane\n&walk on da wall like spiderman\nNo matter what U want, we could take U there\nIn 10 minutes its gonna be sunny\n& da men wid da suits & da big money, will be here\n& there be no use runnin\nGet ya coat gotta go when da heats cumin\n\nDon't stop runnin son of a gun\nI be right behind U runnin sun of a gun\nDon't stop runnin son of a gun\nNobodys chasin U so U don't need to run\nYou might also likeU go & I be right wid U\nWatch too many movies, it will get U\nIf ya girls wanna cum, they could cum 2\nBless U if you go ATICHEW\n& run like forest gump, while ya girls can't hold their rump\n& we know phat Loodys do thump\nDa whole scene, I would give it two thumbs up!\n\nDon't stop runnin son of a gun\nI be right behind U runnin sun of a gun\nDon't stop runnin son of a gun\nNobodys chasin U so U don't need to run\n\nDon't stop don't stop\nRunnin runnin runnin\nSon of a gun\n\n(U make me wanna)\nDon't stop runnin son of a gun\nI be right behind U runnin sun of a gun\nDon't stop runnin son of a gun\nNobodys chasin U so U don't need to runEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1695924",
+   "artist_names": "Addis Black Widow",
+   "full_title": "Come Back 2 You by\u00a0Addis\u00a0Black Widow",
+   "header_image_thumbnail_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.500x500x1.jpg",
+   "id": 1695924,
+   "language": "en",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Addis-black-widow-come-back-2-you-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Addis-black-widow-come-back-2-you-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Come Back 2 You",
+   "title_with_featured": "Come Back 2 You",
+   "url": "https://genius.com/Addis-black-widow-come-back-2-you-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/365299",
+    "header_image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+    "id": 365299,
+    "image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Addis Black Widow",
+    "url": "https://genius.com/artists/Addis-black-widow"
+   },
+   "apple_music_id": "42159305",
+   "apple_music_player_url": "https://genius.com/songs/1695924/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1695924' class='rg_embed_link' data-song-id='1695924'>Read <a href='https://genius.com/Addis-black-widow-come-back-2-you-lyrics'>\u201cCome Back 2 You\u201d by Addis\u00a0Black Widow</a> on Genius</div> <script crossorigin src='//genius.com/songs/1695924/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/265854",
+    "cover_art_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.500x500x1.jpg",
+    "full_title": "ABW by Addis Black Widow",
+    "id": 265854,
+    "name": "ABW",
+    "url": "https://genius.com/albums/Addis-black-widow/Abw",
+    "artist": {
+     "api_path": "/artists/365299",
+     "header_image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+     "id": 365299,
+     "image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Addis Black Widow",
+     "url": "https://genius.com/artists/Addis-black-widow"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6211103",
+    "classification": "needs_exegesis",
+    "fragment": "Come Back 2 You",
+    "id": 6211103,
+    "is_description": true,
+    "path": "/6211103/Addis-black-widow-come-back-2-you/Come-back-2-you",
+    "range": {
+     "content": "Come Back 2 You"
+    },
+    "song_id": 1695924,
+    "url": "https://genius.com/6211103/Addis-black-widow-come-back-2-you/Come-back-2-you",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1695924",
+     "client_timestamps": {
+      "updated_by_human_at": 1476929475,
+      "lyrics_updated_at": 1429904388
+     },
+     "context": "Addis Black Widow",
+     "id": 1695924,
+     "image_url": "https://images.genius.com/a84bb197f5f22c475f861cb4399c8b8b.500x500x1.jpg",
+     "link_title": "Come Back 2 You by\u00a0Addis\u00a0Black Widow",
+     "title": "Come Back 2 You",
+     "type": "Song",
+     "url": "https://genius.com/Addis-black-widow-come-back-2-you-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6211103",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6211103,
+      "pinned": false,
+      "share_url": "https://genius.com/6211103",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6211103/Addis-black-widow-come-back-2-you/Come-back-2-you",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Addis Black Widow",
+   "lyrics": "Come Back 2 You LyricsCream:\nLook inside yaself baby, Before you go'\nOh no\nSomethin there is surly callin me & dats foe sure\nOh no\nOh how I want you, how I want you dearly\nI hope you know ...\nOh no\nAnd if its quite awrite, if you change ya mind\nIm comin back, comin back to you\nChorus:\nCome back to you\nCome back ...oh ... back.. im comin back, im comin back to you\nCome back to you\nCome back ...oh ... back.. im comin back, im comin back to you\n\nPigeon:\nIve been watchin you baby, youve never known\nOh no\nBest of friends as could be, ive never shown\nOh no\nHere we graduatin , now maybe ? we might move (far) somewhere...\nAnd if its quite awrite, If you change ya mind\nIm runnin back, Im runnin back to you\n\nChorus:\nCome back to you\nCome back ...oh ... back.. im runnin back, im comin back to you\nCome back to you\nCome back ...oh ... back.. im runnin back, im comin back to you\n\nCream:\n( all da things dat you been through, all da hard work dat you do'\nIm here to stay with you! to hold you, to take care of you)\n\n(chorus)\nCream:\nDon't listen to anybody ... I love youYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1621885",
+   "artist_names": "Addis Black Widow",
+   "full_title": "Come Back 2 by\u00a0Addis\u00a0Black Widow",
+   "header_image_thumbnail_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.300x300x1.png",
+   "header_image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+   "id": 1621885,
+   "language": "en",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Addis-black-widow-come-back-2-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Addis-black-widow-come-back-2-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Come Back 2",
+   "title_with_featured": "Come Back 2",
+   "url": "https://genius.com/Addis-black-widow-come-back-2-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/365299",
+    "header_image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+    "id": 365299,
+    "image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Addis Black Widow",
+    "url": "https://genius.com/artists/Addis-black-widow"
+   },
+   "apple_music_id": "42159305",
+   "apple_music_player_url": "https://genius.com/songs/1621885/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1621885' class='rg_embed_link' data-song-id='1621885'>Read <a href='https://genius.com/Addis-black-widow-come-back-2-lyrics'>\u201cCome Back 2\u201d by Addis\u00a0Black Widow</a> on Genius</div> <script crossorigin src='//genius.com/songs/1621885/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6136706",
+    "classification": "needs_exegesis",
+    "fragment": "Come Back 2",
+    "id": 6136706,
+    "is_description": true,
+    "path": "/6136706/Addis-black-widow-come-back-2/Come-back-2",
+    "range": {
+     "content": "Come Back 2"
+    },
+    "song_id": 1621885,
+    "url": "https://genius.com/6136706/Addis-black-widow-come-back-2/Come-back-2",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1621885",
+     "client_timestamps": {
+      "updated_by_human_at": 1444656924,
+      "lyrics_updated_at": 1429900425
+     },
+     "context": "Addis Black Widow",
+     "id": 1621885,
+     "image_url": "https://images.genius.com/64011e4bf5d26db92c2e69d8033cbbf0.474x474x1.png",
+     "link_title": "Come Back 2 by\u00a0Addis\u00a0Black Widow",
+     "title": "Come Back 2",
+     "type": "Song",
+     "url": "https://genius.com/Addis-black-widow-come-back-2-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6136706",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6136706,
+      "pinned": false,
+      "share_url": "https://genius.com/6136706",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6136706/Addis-black-widow-come-back-2/Come-back-2",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Addis Black Widow",
+   "lyrics": "Come Back 2 LyricsCream:\n\nOh no\nSomethin there is surly callin me & dats foe sure\nOh no\nOh how I want you, how I want you dearly\nI hope you know ...\nOh no\nAnd if its quite awrite, if you change ya mind\nIm comin back, comin back to you\nChorus:\nCome back to you\nCome back \u2026oh \u2026 back.. im comin back, im comin back to you\nCome back to you\nCome back \u2026oh \u2026 back.. im comin back, im comin back to you\n\nPigeon:\nIve been watchin you baby, youve never known\nOh no\nBest of friends as could be, ive never shown\nOh no\nHere we graduatin , now maybe ? we might move (far) somewhere\u2026\nAnd if its quite awrite, If you change ya mind\nIm runnin back, Im runnin back to you\n\nChorus:\nCome back to you\nCome back \u2026oh \u2026 back.. im runnin back, im comin back to you\nCome back to you\nCome back \u2026oh \u2026 back.. im runnin back, im comin back to you\n\nCream:\n( all da things dat you been through, all da hard work dat you do\u2026\nIm here to stay with you! to hold you, to take care of you)\n\n(chorus)\nCream:\nDon't listen to anybody ... I love youYou might also likeEmbed"
+  }
+ ]
+}

@@ -1,0 +1,4671 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/104809",
+ "description": {
+  "plain": "Giganter p\u00e5 den svenska hiphop-scenen. Deras debutalbum V\u00e4lkommen till f\u00f6rorten som sl\u00e4pptes 1994 fick stor genomslagskraft i Sverige och \u00f6ppnade upp f\u00f6r svensk hiphop."
+ },
+ "facebook_name": null,
+ "followers_count": 2,
+ "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+ "id": 104809,
+ "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "The Latin Kings",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/The-latin-kings",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1969333,
+  "annotator_login": "tamburmajor",
+  "api_path": "/referents/6997668",
+  "classification": "unreviewed",
+  "fragment": "The Latin Kings",
+  "id": 6997668,
+  "is_description": true,
+  "path": "/6997668/The-latin-kings/The-latin-kings",
+  "range": {
+   "content": "The Latin Kings"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6997668/The-latin-kings/The-latin-kings",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/104809",
+   "context": null,
+   "id": 104809,
+   "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+   "link_title": "The Latin Kings",
+   "title": "The Latin Kings",
+   "type": "Artist",
+   "url": "https://genius.com/artists/The-latin-kings"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6997668",
+    "body": {
+     "plain": "Giganter p\u00e5 den svenska hiphop-scenen. Deras debutalbum V\u00e4lkommen till f\u00f6rorten som sl\u00e4pptes 1994 fick stor genomslagskraft i Sverige och \u00f6ppnade upp f\u00f6r svensk hiphop."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6997668,
+    "pinned": false,
+    "share_url": "https://genius.com/6997668",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/6997668/The-latin-kings/The-latin-kings",
+    "verified": false,
+    "votes_total": -2,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1969333",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1669064443",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1669064443",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1669064443",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+       "human_readable_role_for_display": null,
+       "id": 1969333,
+       "iq": 82,
+       "login": "tamburmajor",
+       "name": "tamburmajor",
+       "role_for_display": null,
+       "url": "https://genius.com/tamburmajor",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/288504",
+   "artist_names": "The Latin Kings",
+   "full_title": "Cashen dom tas by\u00a0The\u00a0Latin Kings",
+   "header_image_thumbnail_url": "https://images.genius.com/7f259bfd85934e2f75c7e2ba71a21440.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/7f259bfd85934e2f75c7e2ba71a21440.1000x1000x1.jpg",
+   "id": 288504,
+   "language": "sv",
+   "lyrics_owner_id": 204542,
+   "lyrics_state": "complete",
+   "path": "/The-latin-kings-cashen-dom-tas-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/The-latin-kings-cashen-dom-tas-sample",
+   "release_date_components": {
+    "year": 2003,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "2003",
+   "release_date_with_abbreviated_month_for_display": "2003",
+   "song_art_image_thumbnail_url": "https://images.genius.com/7f259bfd85934e2f75c7e2ba71a21440.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7f259bfd85934e2f75c7e2ba71a21440.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 7,
+    "iq_earners": 7,
+    "transcribers": 2,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 19540
+   },
+   "title": "Cashen dom tas",
+   "title_with_featured": "Cashen dom tas",
+   "url": "https://genius.com/The-latin-kings-cashen-dom-tas-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/104809",
+    "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+    "id": 104809,
+    "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "The Latin Kings",
+    "url": "https://genius.com/artists/The-latin-kings"
+   },
+   "apple_music_id": "1170465805",
+   "apple_music_player_url": "https://genius.com/songs/288504/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_288504' class='rg_embed_link' data-song-id='288504'>Read <a href='https://genius.com/The-latin-kings-cashen-dom-tas-lyrics'>\u201cCashen dom tas\u201d by The\u00a0Latin Kings</a> on Genius</div> <script crossorigin src='//genius.com/songs/288504/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/253929",
+    "cover_art_url": "https://images.genius.com/ef82f8f45afb75e0052cb2a7a2b66517.1000x1000x1.jpg",
+    "full_title": "Om\u00e9rta by The Latin Kings",
+    "id": 253929,
+    "name": "Om\u00e9rta",
+    "url": "https://genius.com/albums/The-latin-kings/Omerta",
+    "artist": {
+     "api_path": "/artists/104809",
+     "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+     "id": 104809,
+     "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Latin Kings",
+     "url": "https://genius.com/artists/The-latin-kings"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 204542,
+    "annotator_login": "morgann",
+    "api_path": "/referents/3748829",
+    "classification": "needs_exegesis",
+    "fragment": "Cashen dom tas",
+    "id": 3748829,
+    "is_description": true,
+    "path": "/3748829/The-latin-kings-cashen-dom-tas/Cashen-dom-tas",
+    "range": {
+     "content": "Cashen dom tas"
+    },
+    "song_id": 288504,
+    "url": "https://genius.com/3748829/The-latin-kings-cashen-dom-tas/Cashen-dom-tas",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/288504",
+     "client_timestamps": {
+      "updated_by_human_at": 1611677538,
+      "lyrics_updated_at": 1611677538
+     },
+     "context": "The Latin Kings",
+     "id": 288504,
+     "image_url": "https://images.genius.com/7f259bfd85934e2f75c7e2ba71a21440.1000x1000x1.jpg",
+     "link_title": "Cashen dom tas by\u00a0The\u00a0Latin Kings",
+     "title": "Cashen dom tas",
+     "type": "Song",
+     "url": "https://genius.com/The-latin-kings-cashen-dom-tas-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3748829",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3748829,
+      "pinned": false,
+      "share_url": "https://genius.com/3748829",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3748829/The-latin-kings-cashen-dom-tas/Cashen-dom-tas",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/204542",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1669064443",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1669064443",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1669064443",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "human_readable_role_for_display": null,
+         "id": 204542,
+         "iq": 208,
+         "login": "morgann",
+         "name": "morgann",
+         "role_for_display": null,
+         "url": "https://genius.com/morgann",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=xaKD8p1d6No"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/380152",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 380152,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rigo",
+     "url": "https://genius.com/artists/Rigo"
+    },
+    {
+     "api_path": "/artists/620674",
+     "header_image_url": "https://images.genius.com/857f82bbf2e7a06df34b93149e63e75b.580x345x1.jpg",
+     "id": 620674,
+     "image_url": "https://images.genius.com/5a7ca23bd76e70f8e350c17c500bd046.653x653x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Salla Salazar",
+     "url": "https://genius.com/artists/Salla-salazar"
+    },
+    {
+     "api_path": "/artists/1792225",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1792225,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chepe",
+     "url": "https://genius.com/artists/Chepe"
+    },
+    {
+     "api_path": "/artists/104810",
+     "header_image_url": "https://images.genius.com/15cfd66da99546ef3fe6ad592efbd87a.1000x667x1.jpg",
+     "id": 104810,
+     "image_url": "https://images.genius.com/f20f0eeda38468f8a446d5e1e3b9fcf7.340x340x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dogge Doggelito",
+     "url": "https://genius.com/artists/Dogge-doggelito"
+    },
+    {
+     "api_path": "/artists/104809",
+     "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+     "id": 104809,
+     "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Latin Kings",
+     "url": "https://genius.com/artists/The-latin-kings"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": [
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/1741513",
+       "artist_names": "STOR (Ft. AKI, Dani M, Linda Pira & Natty Silver)",
+       "full_title": "Mitt folk by\u00a0STOR (Ft.\u00a0AKI, Dani\u00a0M, Linda\u00a0Pira & Natty\u00a0Silver)",
+       "header_image_thumbnail_url": "https://images.genius.com/410d7eac0defd939345f0dbbbd2652ff.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/410d7eac0defd939345f0dbbbd2652ff.1000x1000x1.jpg",
+       "id": 1741513,
+       "language": "sv",
+       "lyrics_owner_id": 1247326,
+       "lyrics_state": "complete",
+       "path": "/Stor-mitt-folk-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Stor-mitt-folk-sample",
+       "release_date_components": {
+        "year": 2012,
+        "month": 11,
+        "day": 10
+       },
+       "release_date_for_display": "November 10, 2012",
+       "release_date_with_abbreviated_month_for_display": "Nov. 10, 2012",
+       "song_art_image_thumbnail_url": "https://images.genius.com/410d7eac0defd939345f0dbbbd2652ff.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/410d7eac0defd939345f0dbbbd2652ff.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false
+       },
+       "title": "Mitt folk",
+       "title_with_featured": "Mitt folk (Ft.\u00a0AKI, Dani\u00a0M, Linda\u00a0Pira & Natty\u00a0Silver)",
+       "url": "https://genius.com/Stor-mitt-folk-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/81306",
+         "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+         "id": 81306,
+         "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Linda Pira",
+         "url": "https://genius.com/artists/Linda-pira"
+        },
+        {
+         "api_path": "/artists/105301",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "id": 105301,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Natty Silver",
+         "url": "https://genius.com/artists/Natty-silver"
+        },
+        {
+         "api_path": "/artists/36959",
+         "header_image_url": "https://images.genius.com/a8aa5882acbaddf0c3edb83f7e34ffe2.1000x1000x1.jpg",
+         "id": 36959,
+         "image_url": "https://images.genius.com/a8aa5882acbaddf0c3edb83f7e34ffe2.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "AKI",
+         "url": "https://genius.com/artists/Aki"
+        },
+        {
+         "api_path": "/artists/24303",
+         "header_image_url": "https://images.genius.com/78b0c8fda314a857ef17abd9933b03eb.1000x563x1.jpg",
+         "id": 24303,
+         "image_url": "https://images.genius.com/a6dc72d1a9973bcf6dc34adcd12a0eb4.580x580x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Dani M",
+         "url": "https://genius.com/artists/Dani-m"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/16542",
+        "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+        "id": 16542,
+        "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "STOR",
+        "url": "https://genius.com/artists/Stor"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/4128286",
+       "artist_names": "Masse (Ft. AKI, Dani M, Erik Lundin, Jacco, Moms & Z.E)",
+       "full_title": "Cashen by\u00a0Masse (Ft.\u00a0AKI, Dani\u00a0M, Erik\u00a0Lundin, Jacco, Moms & Z.E)",
+       "header_image_thumbnail_url": "https://images.genius.com/3293290ba2207617793fcc4dc5a4d32c.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3293290ba2207617793fcc4dc5a4d32c.1000x1000x1.jpg",
+       "id": 4128286,
+       "language": "sv",
+       "lyrics_owner_id": 7120784,
+       "lyrics_state": "complete",
+       "path": "/Masse-cashen-lyrics",
+       "pyongs_count": 2,
+       "relationships_index_url": "https://genius.com/Masse-cashen-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 11,
+        "day": 30
+       },
+       "release_date_for_display": "November 30, 2018",
+       "release_date_with_abbreviated_month_for_display": "Nov. 30, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3293290ba2207617793fcc4dc5a4d32c.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3293290ba2207617793fcc4dc5a4d32c.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 31622
+       },
+       "title": "Cashen",
+       "title_with_featured": "Cashen (Ft.\u00a0AKI, Dani\u00a0M, Erik\u00a0Lundin, Jacco, Moms & Z.E)",
+       "url": "https://genius.com/Masse-cashen-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/569035",
+         "header_image_url": "https://images.genius.com/3888ba3068b6de4fdec2bba179e4baa4.1000x667x1.jpg",
+         "id": 569035,
+         "image_url": "https://images.genius.com/fd261dc81e8727da4c900b4b9bed125d.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Erik Lundin",
+         "url": "https://genius.com/artists/Erik-lundin"
+        },
+        {
+         "api_path": "/artists/36959",
+         "header_image_url": "https://images.genius.com/a8aa5882acbaddf0c3edb83f7e34ffe2.1000x1000x1.jpg",
+         "id": 36959,
+         "image_url": "https://images.genius.com/a8aa5882acbaddf0c3edb83f7e34ffe2.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "AKI",
+         "url": "https://genius.com/artists/Aki"
+        },
+        {
+         "api_path": "/artists/46373",
+         "header_image_url": "https://images.genius.com/6035bcb94f8eb01548778d4051ce45b6.320x320x1.jpg",
+         "id": 46373,
+         "image_url": "https://images.genius.com/6035bcb94f8eb01548778d4051ce45b6.320x320x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Jacco",
+         "url": "https://genius.com/artists/Jacco"
+        },
+        {
+         "api_path": "/artists/24303",
+         "header_image_url": "https://images.genius.com/78b0c8fda314a857ef17abd9933b03eb.1000x563x1.jpg",
+         "id": 24303,
+         "image_url": "https://images.genius.com/a6dc72d1a9973bcf6dc34adcd12a0eb4.580x580x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Dani M",
+         "url": "https://genius.com/artists/Dani-m"
+        },
+        {
+         "api_path": "/artists/1270597",
+         "header_image_url": "https://images.genius.com/5e602bd797d07c85ec86e2cdea7b32cd.800x531x1.jpg",
+         "id": 1270597,
+         "image_url": "https://images.genius.com/1dc89274be15c3efcc2ee334da9b0ab6.726x726x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Z.E",
+         "url": "https://genius.com/artists/Ze"
+        },
+        {
+         "api_path": "/artists/55390",
+         "header_image_url": "https://images.genius.com/30f9fb1109c9e45b09a5ccaf3a0ef073.331x331x1.jpg",
+         "id": 55390,
+         "image_url": "https://images.genius.com/30f9fb1109c9e45b09a5ccaf3a0ef073.331x331x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Moms",
+         "url": "https://genius.com/artists/Moms"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/36309",
+        "header_image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+        "id": 36309,
+        "image_url": "https://images.genius.com/69d3413e5022f51c82609a5f8ea0e62b.441x441x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Masse",
+        "url": "https://genius.com/artists/Masse"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/620674",
+     "header_image_url": "https://images.genius.com/857f82bbf2e7a06df34b93149e63e75b.580x345x1.jpg",
+     "id": 620674,
+     "image_url": "https://images.genius.com/5a7ca23bd76e70f8e350c17c500bd046.653x653x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Salla Salazar",
+     "url": "https://genius.com/artists/Salla-salazar"
+    },
+    {
+     "api_path": "/artists/104810",
+     "header_image_url": "https://images.genius.com/15cfd66da99546ef3fe6ad592efbd87a.1000x667x1.jpg",
+     "id": 104810,
+     "image_url": "https://images.genius.com/f20f0eeda38468f8a446d5e1e3b9fcf7.340x340x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dogge Doggelito",
+     "url": "https://genius.com/artists/Dogge-doggelito"
+    },
+    {
+     "api_path": "/artists/1792225",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1792225,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chepe",
+     "url": "https://genius.com/artists/Chepe"
+    }
+   ],
+   "artist": "The Latin Kings",
+   "lyrics": "Cashen dom tas Lyrics[Intro: Dogge Doggelito]\nInga cash, snabba para lockar f\u00f6r det g\u00e5r som en dans\nInga cash, utan para kommer man ju ingenstans, ingenstans\n\n[Refr\u00e4ng: Dogge Doggelito]\nTill alla shonar som inte har en sp\u00e4nn\nJobba h\u00e5rt min v\u00e4n, f\u00f6r cashen kommer sen\nTill alla shonar som har para knas\nFull gas i varje fas, f\u00f6r cashen dem tas\nTill alla shonar som inte har en sp\u00e4nn\nJobba h\u00e5rt, min v\u00e4n, f\u00f6r cashen kommer sen\nInget kommer gratis i dessa dagar av knas\nS\u00e5 full gas i varje fas, f\u00f6r cashen dem tas\n[Vers 1: Dogge Doggelito]\nIngen kredit, ja vill bara ha kontanter\nSmaragder, juveler och \u00e4kta diamanter\nF\u00f6r para \u00e4r nyckeln till alla l\u00e5sen\n\"Detta \u00e4r ett r\u00e5n s\u00e5 l\u00e4gg alla cashen i p\u00e5sen\"\nOch lighta gasen som Rally-Harry p\u00e5 E4:an\nFeta fickor kr\u00e4vs n\u00e4r man ska betala hyran\nIngen flash f\u00f6r aina b\u00f6rjar undra\nH\u00e5ll k\u00e4ften, h\u00e5ll utkik s\u00e5 vi kan plundra\nSena n\u00e4tter f\u00f6r i betongen man hustla\nKanske du kan konsten att f\u00e5 fickan att prassla\nMinns hur pank jag bruka va med en dr\u00f6m om b\u00e4ttre tider\nSitta p\u00e5 b\u00e4nken, mecka och genda cider\nJobba h\u00e5rt, inget kommer gratis dessa dagar\nM\u00e5ste fylla fler hungriga magar\nSom ocks\u00e5 vill ha dyra dojor och m\u00e4rkestr\u00f6jor\nCred och respekt betalar inte mitt barns bl\u00f6jor\nS\u00e5 ta din vegomat, l\u00e4sk och gratis b\u00e4rs\nF\u00f6r Latin Kings, vi rappar bara f\u00f6r cash\n\n[Refr\u00e4ng: Dogge Doggelito]\nTill alla shonar som inte har en sp\u00e4nn\nJobba h\u00e5rt min v\u00e4n, f\u00f6r cashen kommer sen\nTill alla shonar som har para knas\nFull gas i varje fas, f\u00f6r cashen dem tas\nTill alla shonar som inte har en sp\u00e4nn\nJobba h\u00e5rt min v\u00e4n, f\u00f6r cashen kommer sen\nInget kommer gratis i dessa dagar av knas\nS\u00e5 full gas i varje fas, f\u00f6r cashen dem tas\nYou might also like[Vers 2: Dogge Doggelito]\nCash delar folk i olika grader\nCash betalar dessa underbara rader\nCash f\u00e5r folk till vansinning stress\nCash kan va livets krydda med finess\nMen kan ocks\u00e5 f\u00e5 dej att komma ur balans\nS\u00e5 sumpa inte bort den, ta vara p\u00e5 din chans\nF\u00f6r benim har gjort heml\u00e4xan med alla r\u00e4tt\nL\u00e4rt sig allt om mycket, om vett och etikett\nSpringer inte l\u00e4ngre runt och bara \u00e4ventyrar\nT\u00e4nker f\u00f6rst innan jag taggar ut och bara yrar\nD\u00e5rar vill alltid s\u00e4tta k\u00e4ppar i hjulet\nSabbar solen som skiner s\u00e5 de blir mulet\nN\u00e4r cash spenderas s\u00e5 \u00e4r de vid din sida\nN\u00e4r fickan har h\u00e5l de bazz dig som slida\nEl Capitano kickar inte l\u00e4ngre fristil\nAlltid hungrig och stabil, GLS, cash-stil\n\n[Refr\u00e4ng: Dogge Doggelito]\nTill alla shonar som inte har en sp\u00e4nn\nJobba h\u00e5rt min v\u00e4n f\u00f6r cashen kommer sen\nTill alla shonar som har para knas\nFull gas i varje fas, f\u00f6r cashen dem tas\nTill alla shonar som inte har en sp\u00e4nn\nJobba h\u00e5rt min v\u00e4n f\u00f6r cashen kommer sen\nInget kommer gratis i dessa dagar av knas\nS\u00e5 full gas i varje fas, f\u00f6r cashen dem tas\n[Vers 3: Dogge Doggelito]\nAlla vill ha cash, guzzar och feta bilar\nMateriella dr\u00f6mmar och unika stilar\nPararushen har inga gr\u00e4nser dessa tider\nDe robbar dig i gr\u00e4nder f\u00f6r du \u00e4r gniden\nHosta eller de k\u00e4kar dig som mellanm\u00e5l\nAmerican med i g\u00f6ten med rostfritt st\u00e5l\nS\u00e5 vem \u00e4r clownen som vill stoppa pararushen?\nDet blir Tony Montana-style med motors\u00e5g i duschen\nEfter m\u00f6rkrets inbrott kommer t\u00e5rarna fram\nSuger av dig duktigt f\u00f6r n\u00e5ra billiga gram\nSnuskgubbar spelar dumma, de vill k\u00f6pa sex\nFr\u00e5n sm\u00e5 guzzar som levererar som bex\nMucho trabajo y poco dinero\nAllt \u00e4r inte en dans i livets polero\nMusiken f\u00e5r mej att gl\u00f6mma allt mitt knas\nS\u00e5 pumpa din bas, f\u00f6r cashen dem tas\n\n[Outro: Dogge Doggelito]\nInga cash, snabba para lockar f\u00f6r det g\u00e5r som en dans\nInga cash, utan para kommer man ju ingenstans, ingenstans1Embed"
+  },
+  {
+   "annotation_count": 12,
+   "api_path": "/songs/1547951",
+   "artist_names": "The Latin Kings",
+   "full_title": "De E Knas by\u00a0The\u00a0Latin Kings",
+   "header_image_thumbnail_url": "https://images.genius.com/e1f22629bc5083469bbed2cc5afabdb8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e1f22629bc5083469bbed2cc5afabdb8.1000x1000x1.jpg",
+   "id": 1547951,
+   "language": "sv",
+   "lyrics_owner_id": 3451107,
+   "lyrics_state": "complete",
+   "path": "/The-latin-kings-de-e-knas-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/The-latin-kings-de-e-knas-sample",
+   "release_date_components": {
+    "year": 2000,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "2000",
+   "release_date_with_abbreviated_month_for_display": "2000",
+   "song_art_image_thumbnail_url": "https://images.genius.com/e1f22629bc5083469bbed2cc5afabdb8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e1f22629bc5083469bbed2cc5afabdb8.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 8,
+    "iq_earners": 7,
+    "transcribers": 2,
+    "unreviewed_annotations": 12,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 12112
+   },
+   "title": "De E Knas",
+   "title_with_featured": "De E Knas",
+   "url": "https://genius.com/The-latin-kings-de-e-knas-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/104809",
+    "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+    "id": 104809,
+    "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "The Latin Kings",
+    "url": "https://genius.com/artists/The-latin-kings"
+   },
+   "apple_music_id": "1167597881",
+   "apple_music_player_url": "https://genius.com/songs/1547951/apple_music_player",
+   "description": {
+    "plain": "It is a very chill song"
+   },
+   "embed_content": "<div id='rg_embed_link_1547951' class='rg_embed_link' data-song-id='1547951'>Read <a href='https://genius.com/The-latin-kings-de-e-knas-lyrics'>\u201cDe E Knas\u201d by The\u00a0Latin Kings</a> on Genius</div> <script crossorigin src='//genius.com/songs/1547951/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/272247",
+    "cover_art_url": "https://images.genius.com/e1f22629bc5083469bbed2cc5afabdb8.1000x1000x1.jpg",
+    "full_title": "Mitt Kvarter by The Latin Kings",
+    "id": 272247,
+    "name": "Mitt Kvarter",
+    "url": "https://genius.com/albums/The-latin-kings/Mitt-kvarter",
+    "artist": {
+     "api_path": "/artists/104809",
+     "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+     "id": 104809,
+     "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Latin Kings",
+     "url": "https://genius.com/artists/The-latin-kings"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8095895,
+    "annotator_login": "OscarHammarqvist",
+    "api_path": "/referents/6062524",
+    "classification": "unreviewed",
+    "fragment": "De E Knas",
+    "id": 6062524,
+    "is_description": true,
+    "path": "/6062524/The-latin-kings-de-e-knas/De-e-knas",
+    "range": {
+     "content": "De E Knas"
+    },
+    "song_id": 1547951,
+    "url": "https://genius.com/6062524/The-latin-kings-de-e-knas/De-e-knas",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1547951",
+     "client_timestamps": {
+      "updated_by_human_at": 1608679320,
+      "lyrics_updated_at": 1608679320
+     },
+     "context": "The Latin Kings",
+     "id": 1547951,
+     "image_url": "https://images.genius.com/e1f22629bc5083469bbed2cc5afabdb8.1000x1000x1.jpg",
+     "link_title": "De E Knas by\u00a0The\u00a0Latin Kings",
+     "title": "De E Knas",
+     "type": "Song",
+     "url": "https://genius.com/The-latin-kings-de-e-knas-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6062524",
+      "body": {
+       "plain": "It is a very chill song"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 6062524,
+      "pinned": false,
+      "share_url": "https://genius.com/6062524",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/6062524/The-latin-kings-de-e-knas/De-e-knas",
+      "verified": false,
+      "votes_total": -5,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8095895",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/d8791c454c0fc82a3ac04d9e4e61e08e",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/d8791c454c0fc82a3ac04d9e4e61e08e",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/d8791c454c0fc82a3ac04d9e4e61e08e",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/d8791c454c0fc82a3ac04d9e4e61e08e",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/d8791c454c0fc82a3ac04d9e4e61e08e",
+         "human_readable_role_for_display": null,
+         "id": 8095895,
+         "iq": 102,
+         "login": "OscarHammarqvist",
+         "name": "OscarHammarqvist",
+         "role_for_display": null,
+         "url": "https://genius.com/OscarHammarqvist",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=GhykwQY24Qk"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1776474",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1776474,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DJ Salla",
+     "url": "https://genius.com/artists/Dj-salla"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 5,
+       "api_path": "/songs/1945798",
+       "artist_names": "Dani M",
+       "full_title": "En s\u00e5n som mej by\u00a0Dani\u00a0M",
+       "header_image_thumbnail_url": "https://images.genius.com/2eacc95545a297f1b3fa11e6988f93bf.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/2eacc95545a297f1b3fa11e6988f93bf.580x580x1.jpg",
+       "id": 1945798,
+       "language": "sv",
+       "lyrics_owner_id": 3310877,
+       "lyrics_state": "complete",
+       "path": "/Dani-m-en-san-som-mej-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Dani-m-en-san-som-mej-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/2eacc95545a297f1b3fa11e6988f93bf.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/2eacc95545a297f1b3fa11e6988f93bf.580x580x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 5,
+        "hot": false,
+        "pageviews": 7215
+       },
+       "title": "En s\u00e5n som mej",
+       "title_with_featured": "En s\u00e5n som mej",
+       "url": "https://genius.com/Dani-m-en-san-som-mej-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/24303",
+        "header_image_url": "https://images.genius.com/78b0c8fda314a857ef17abd9933b03eb.1000x563x1.jpg",
+        "id": 24303,
+        "image_url": "https://images.genius.com/a6dc72d1a9973bcf6dc34adcd12a0eb4.580x580x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Dani M",
+        "url": "https://genius.com/artists/Dani-m"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5331620",
+       "artist_names": "24K (Ft. Willow (SWE))",
+       "full_title": "Det G\u00e5r Snabbt by\u00a024K (Ft.\u00a0Willow\u00a0(SWE))",
+       "header_image_thumbnail_url": "https://images.genius.com/8a505477ec5ad22d2237698753a4630f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8a505477ec5ad22d2237698753a4630f.800x800x1.jpg",
+       "id": 5331620,
+       "language": "sv",
+       "lyrics_owner_id": 7868347,
+       "lyrics_state": "complete",
+       "path": "/24k-det-gar-snabbt-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/24k-det-gar-snabbt-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 12,
+        "day": 18
+       },
+       "release_date_for_display": "December 18, 2015",
+       "release_date_with_abbreviated_month_for_display": "Dec. 18, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/8a505477ec5ad22d2237698753a4630f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8a505477ec5ad22d2237698753a4630f.800x800x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Det G\u00e5r Snabbt",
+       "title_with_featured": "Det G\u00e5r Snabbt (Ft.\u00a0Willow\u00a0(SWE))",
+       "url": "https://genius.com/24k-det-gar-snabbt-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/2139184",
+         "header_image_url": "https://images.genius.com/42b08b51fb03a7162adae65219b22596.682x682x1.jpg",
+         "id": 2139184,
+         "image_url": "https://images.genius.com/42b08b51fb03a7162adae65219b22596.682x682x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Willow (SWE)",
+         "url": "https://genius.com/artists/Willow-swe"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1629799",
+        "header_image_url": "https://images.genius.com/360e137c4c9a80bc838d889603937e5d.1000x563x1.png",
+        "id": 1629799,
+        "image_url": "https://images.genius.com/cef982e6b55658daa2eb265128d83033.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "24K",
+        "url": "https://genius.com/artists/24k"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/620674",
+     "header_image_url": "https://images.genius.com/857f82bbf2e7a06df34b93149e63e75b.580x345x1.jpg",
+     "id": 620674,
+     "image_url": "https://images.genius.com/5a7ca23bd76e70f8e350c17c500bd046.653x653x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Salla Salazar",
+     "url": "https://genius.com/artists/Salla-salazar"
+    },
+    {
+     "api_path": "/artists/104810",
+     "header_image_url": "https://images.genius.com/15cfd66da99546ef3fe6ad592efbd87a.1000x667x1.jpg",
+     "id": 104810,
+     "image_url": "https://images.genius.com/f20f0eeda38468f8a446d5e1e3b9fcf7.340x340x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dogge Doggelito",
+     "url": "https://genius.com/artists/Dogge-doggelito"
+    },
+    {
+     "api_path": "/artists/1792225",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1792225,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chepe",
+     "url": "https://genius.com/artists/Chepe"
+    }
+   ],
+   "artist": "The Latin Kings",
+   "lyrics": "De E Knas Lyrics[Intro]\nVarje g\u00e5ng vi dyker upp, s\u00e5 blir det knas (blir det knas, blir det knas)\n\n[Refr\u00e4ng]\nDet e knas, sj\u00e4lar i f\u00f6rorten tar mig under\nInga lugna stunder, f\u00f6r m\u00e5nga pundar-under\nDet e knas, sj\u00e4lar i f\u00f6rorten tar mig under\nInga lugna stunder, f\u00f6r m\u00e5nga pundar-under\nDet e knas, sj\u00e4lar i f\u00f6rorten tar mig under\nInga lugna stunder, f\u00f6r m\u00e5nga pundar-under\nDet e knas, sj\u00e4lar i f\u00f6rorten tar mig under\nInga lugna stunder, f\u00f6r m\u00e5nga pundar-under\n[Vers 1]\nH\u00e4nger i betongen, inget e p\u00e5 g\nSoftar duktigt med grabbarna som h\u00e4nger brev\u00e9\nM\u00e5ste fixa para, m\u00e5ste fixa flouse\nTr\u00f6tt p\u00e5 k\u00e4rringarna som h\u00e4nger uppe p\u00e5 soc\nMen jag e baxare, s\u00e5 det ska inte va problem, fr\u00e5n betongen\nS\u00e5 man kan inte va klen\nFarbror bl\u00e5 spanar, men hittar inte i labyrinten\nJag kan terr\u00e4ngen som min innerficka, vilken fint len\nTr\u00e4ffa shunon p\u00e5 en ny-baxad cross\nHan fr\u00e5ga om jag ska ha skjuts, \u00e5 bjussa p\u00e5 ett bloss\nKnatcha knatchen, f\u00f6r det finns inga cash l\u00e4n\nLanga upp den f\u00f6r du vet att jag inte kysser arslen\nF\u00f6r mycket j\u00e4vla hamish, du tror jag skojar\nNojig, f\u00f6r en fet j\u00e4vla paranoia\nM\u00e5ste h\u00e5lla mig lugn, f\u00f6r jag e ung\nIngen f\u00e4rsking som ska greppa micken \u00e5 spela tung\nI dag e det fett, det e super, det e kalas\nMen i morgon blir det v\u00e4rre f\u00f6r vi sitter i knas\n\n[Refr\u00e4ng]\nDet e knas, sj\u00e4lar i f\u00f6rorten tar mig under\nInga lugna stunder, f\u00f6r m\u00e5nga pundar-under\nDet e knas, sj\u00e4lar i f\u00f6rorten tar mig under\nInga lugna stunder, f\u00f6r m\u00e5nga pundar-under\nDet e knas, sj\u00e4lar i f\u00f6rorten tar mig under\nInga lugna stunder, f\u00f6r m\u00e5nga pundar-under\nDet e knas, sj\u00e4lar i f\u00f6rorten tar mig under\nInga lugna stunder, f\u00f6r m\u00e5nga pundar-under\nYou might also like[Vers 2]\nVem kunde veta, att vi kom hit f\u00f6r att svettas \u00e5 bl\u00f6da\nH\u00e4rdat all skit, min stolthet kan ingen d\u00f6da\nSt\u00e4dat toaletter \u00e5 kontor \u00e5t rika\nVart lojal familjen kan man inte svika\nPass p\u00e5 lumpen, har bott i djungeln i 23 \u00e5r\nHar redan testat allt som man inte f\u00e5r\nS\u00e5 h\u00e5ll dig i form, f\u00f6r vi drabbas av en storm\nPr\u00e4sten har kl\u00e4tt ut sig i polisuniform\nHan lockar med knark och pengar , allt g\u00e5r s\u00e5 fort\nMan hinner inte fatta vad man har gjort\nFattigdomen axar med stoltheten\nMan byter ut l\u00f6gner mot verkligheten\nInget flum s\u00f6ver k\u00e4nslan av tomhet\nBerusningen h\u00e4rskar, man tror ingen vet\nDj\u00e4vulen bes\u00f6ker mig n\u00e4r ingen ser\nJag har n\u00e4stan korsat linjen, och ramlat ner\nHan bj\u00f6d ett h\u00f6gt pris f\u00f6r min sj\u00e4l\nMen Gud skyddade mig v\u00e4l\nHan satte oss h\u00e4r p\u00e5 Jorden, som utvalda\nAtt leda hiphop inom Norden, och s\u00e4tta standard\nMed v\u00e5r arm\u00e9 fr\u00e5n betongen, tillbaks fulladdad\nF\u00f6r tredje g\u00e5ngen, verkligheten ingen kan fly\nNorra B, knas, varje dag p\u00e5 v\u00e5r meny\n\n[Refr\u00e4ng]\nDet e knas, sj\u00e4lar i f\u00f6rorten tar mig under\nInga lugna stunder, f\u00f6r m\u00e5nga pundar-under\nDet e knas, sj\u00e4lar i f\u00f6rorten tar mig under\nInga lugna stunder, f\u00f6r m\u00e5nga pundar-under\nDet e knas, sj\u00e4lar i f\u00f6rorten tar mig under\nInga lugna stunder, f\u00f6r m\u00e5nga pundar-under\nDet e knas, sj\u00e4lar i f\u00f6rorten tar mig under\nInga lugna stunder, f\u00f6r m\u00e5nga pundar-under\n[Vers 3]\nVilsna sj\u00e4lar finns tjockt f\u00f6r m\u00e5nga i min f\u00f6rort\nDom v\u00e4ljer smala v\u00e4gen, n\u00e4r dom lever allt f\u00f6r fort\nDet \u00e4r f\u00f6r l\u00e4tt, att skylla allting p\u00e5 samh\u00e4llet\nMen kolla p\u00e5 dig sj\u00e4lv, och b\u00f6rja softa ner med gn\u00e4llet\nF\u00f6r du \u00e4r inte hel, du k\u00f6r f\u00f6r mycket sk\u00e5despel\nAllt du g\u00f6r blir fel, det \u00e4r n\u00e4stan slut f\u00f6r din del\nDu har inga ambitioner, ditt sinne som i dvala\nDu forts\u00e4tter att dala, men det \u00e4r n\u00e5n som ska betala\nDet \u00e4r dags att vakna upp, och konfrontera verkligheten\nDet finns inget hopp n\u00e4r du sitter fast i smeten\nS\u00e5 upp med huvud morre, ge aldrig upp s\u00e5 j\u00e4vla l\u00e4tt\nG\u00f6r det som \u00e4r r\u00e4tt \u00e5 tappa aldrig din kassett\nF\u00f6r tiden v\u00e4ntar aldrig p\u00e5 n\u00e5n shuno att agera\nS\u00e5 slut och fantisera, och ditt liv att sabotera\n\n[Refr\u00e4ng]\nDet e knas, sj\u00e4lar i f\u00f6rorten tar mig under\nInga lugna stunder, f\u00f6r m\u00e5nga pundar-under\nDet e knas, sj\u00e4lar i f\u00f6rorten tar mig under\nInga lugna stunder, f\u00f6r m\u00e5nga pundar-under\nDet e knas, sj\u00e4lar i f\u00f6rorten tar mig under\nInga lugna stunder, f\u00f6r m\u00e5nga pundar-under\nDet e knas, sj\u00e4lar i f\u00f6rorten tar mig under\nInga lugna stunder, f\u00f6r m\u00e5nga pundar-under\n\n[Outro]\nVarje g\u00e5ng vi dyker upp, s\u00e5 blir det knas (knas, knas, knas)Embed"
+  },
+  {
+   "annotation_count": 5,
+   "api_path": "/songs/1383171",
+   "artist_names": "The Latin Kings (Ft. Daddy Boastin\u2019)",
+   "full_title": "Snubben by\u00a0The\u00a0Latin Kings (Ft.\u00a0Daddy\u00a0Boastin\u2019)",
+   "header_image_thumbnail_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+   "id": 1383171,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/The-latin-kings-snubben-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/The-latin-kings-snubben-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 5,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 7477
+   },
+   "title": "Snubben",
+   "title_with_featured": "Snubben (Ft.\u00a0Daddy\u00a0Boastin\u2019)",
+   "url": "https://genius.com/The-latin-kings-snubben-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/378708",
+     "header_image_url": "https://images.genius.com/515cf861247567e1cf666afd4c6ef812.1000x563x1.jpg",
+     "id": 378708,
+     "image_url": "https://images.genius.com/bffd38c66b865a2493a51ae250fa20b4.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Daddy Boastin\u2019",
+     "url": "https://genius.com/artists/Daddy-boastin"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/104809",
+    "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+    "id": 104809,
+    "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "The Latin Kings",
+    "url": "https://genius.com/artists/The-latin-kings"
+   },
+   "apple_music_id": "212924143",
+   "apple_music_player_url": "https://genius.com/songs/1383171/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1383171' class='rg_embed_link' data-song-id='1383171'>Read <a href='https://genius.com/The-latin-kings-snubben-lyrics'>\u201cSnubben\u201d by The\u00a0Latin Kings</a> on Genius</div> <script crossorigin src='//genius.com/songs/1383171/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/202865",
+    "cover_art_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+    "full_title": "V\u00e4lkommen till f\u00f6rorten by The Latin Kings",
+    "id": 202865,
+    "name": "V\u00e4lkommen till f\u00f6rorten",
+    "url": "https://genius.com/albums/The-latin-kings/Valkommen-till-fororten",
+    "artist": {
+     "api_path": "/artists/104809",
+     "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+     "id": 104809,
+     "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Latin Kings",
+     "url": "https://genius.com/artists/The-latin-kings"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5892406",
+    "classification": "needs_exegesis",
+    "fragment": "Snubben",
+    "id": 5892406,
+    "is_description": true,
+    "path": "/5892406/The-latin-kings-snubben/Snubben",
+    "range": {
+     "content": "Snubben"
+    },
+    "song_id": 1383171,
+    "url": "https://genius.com/5892406/The-latin-kings-snubben/Snubben",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1383171",
+     "client_timestamps": {
+      "updated_by_human_at": 1576011471,
+      "lyrics_updated_at": 1538067004
+     },
+     "context": "The Latin Kings",
+     "id": 1383171,
+     "image_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+     "link_title": "Snubben by\u00a0The\u00a0Latin Kings (Ft.\u00a0Daddy\u00a0Boastin\u2019)",
+     "title": "Snubben",
+     "type": "Song",
+     "url": "https://genius.com/The-latin-kings-snubben-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5892406",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5892406,
+      "pinned": false,
+      "share_url": "https://genius.com/5892406",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5892406/The-latin-kings-snubben/Snubben",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "The Latin Kings",
+   "lyrics": "Snubben Lyrics[H\u00f6r nu p\u00e5 go v\u00e4nner s\u00e5 ska jag f\u00f6r er ber\u00e4tta..]\n\n(Vers 1):\nNi har sett mig f\u00f6rr, men ni minns ej n\u00e4r\nKanske va de n\u00e4r ni s\u00f6g den h\u00e4r?\nSk\u00e4mt \u00e5 sido, s\u00e5 kanske ni minns\nAtt ja \u00e9 medlem i The Latin Kings\nS\u00e5 se d\u00e5 till \u00e5 h\u00e4nga me\nDe fattas bara att du r\u00e4knar till 3:\n1\u00e52, 1\u00e52, 1\u00e52- resultatet de blir 3!\n[H\u00f6r nu p\u00e5 go v\u00e4nner s\u00e5 ska jag f\u00f6r er ber\u00e4tta..]\n\n(Vers 2):\nKungsgatan, stanna upp \u00e5 kolla klockan\nDen va redan kvart i tio\nJa kunde g\u00e5tt p\u00e5 bio\nF\u00f6r sent ja skulle m\u00f6ta Salla\nN\u00e4r n\u00e5ra idioter dykte upp \u00e5 trodde de va balla\nKnuffa till me, \u00e5 sa sig upp i jalla!\nHan va me polarna s\u00e5 han m\u00e5ste stajla\nEfter knuffen, en sm\u00e4ll i ryggen ja fick\nSom resultatet av en bra reflex s\u00e5 gav ja han en horsekick\nMen ja ville inte ha br\u00e5k s\u00e5 ja sa urs\u00e4kta\nTydligen f\u00f6rsent\nF\u00f6r snubben hade redan tagit upp sin splitternya Baretta. klick, klick\n\n(Refr. 4x):\nSnubben trodde han va cool, f\u00f6r han hade en pistol!\n\n[H\u00f6r nu p\u00e5 go v\u00e4nner s\u00e5 ska jag f\u00f6r er ber\u00e4tta..]\n\n(Vers 3):\nGrabbens pistol var en pluggad kopia\nN\u00e4r ja tog upp min Uzi utbrast han; Mamma mia!\nOch sprang som ett uppskr\u00e4mt djur\nHan hade tur att ja hade humor\nOch inte ville sl\u00f6sa kulor\nYou might also like(Refr. 4x)\n\n[H\u00f6r nu p\u00e5 go v\u00e4nner s\u00e5 ska jag f\u00f6r er ber\u00e4tta..]\n\n(Vers 4):\nHoppa upp, hoppa upp, hoppa upp, hoppa ner!\nDe \u00e9 DJ Salla ni h\u00e5ller p\u00e5 \u00e5 se\nHan \u00e9 h\u00e4r f\u00f6r att rasismen sprids mer \u00e5 mer\nS\u00e5 vi m\u00e5ste se till att bli starkare \u00e5 fler\nDe h\u00e4r \u00e9 ingen lek eller spel\nTror du de s\u00e5 tror du verkligen fel\nVisst \u00e9 ja svarth\u00e5rd \u00e5 m\u00f6rkare hud\n\u00c5 \u00e9 latinamerikan \u00e5 tror p\u00e5 gud\nDu tycker att ja \u00e9 en konstig filur\nBara f\u00f6r ja kommer fr\u00e5n en annan kultur\nTror du verkligen ja odlar l\u00f6k i vardagsrummet\nEller badar en g\u00e5ng om \u00e5ret?\nHur l\u00e4nge ska ja vara lugn \u00e5 tolerant?\nHur l\u00e4nge t\u00e4nker du vara ignorant?\nVakna upp, vakna upp, vakna upp Carl Bildt\nHur m\u00e5nga liter blod har lasermannen spillt?\nDet finns m\u00e5nga av er, sjuka rasister\nMen bara n\u00e5gra f\u00e5 fega nynazister\nS\u00e5 var inte r\u00e4dd, fast folk f\u00f6rs\u00f6ker vara man\nVi svartskallar m\u00e5ste enas och sluta sl\u00e5ss me varann\nVi m\u00e5ste sluta sl\u00e5ss me varann\n(Refr. 4x)\n\n[H\u00f6r nu p\u00e5 go v\u00e4nner s\u00e5 ska jag f\u00f6r er ber\u00e4tta..]\n(H\u00e4r kommer n\u00e5n helt of\u00f6rst\u00e5elig ragga av Daddy Boastin\nMen det \u00e4r s\u00e4kert inget viktigt, bara det l\u00e5ter ballt)\n\n(Refr. 4x)\n\nDaddy Boastin igenEmbed"
+  },
+  {
+   "annotation_count": 11,
+   "api_path": "/songs/1053686",
+   "artist_names": "The Latin Kings",
+   "full_title": "Blend Dom by\u00a0The\u00a0Latin Kings",
+   "header_image_thumbnail_url": "https://images.genius.com/e1f22629bc5083469bbed2cc5afabdb8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e1f22629bc5083469bbed2cc5afabdb8.1000x1000x1.jpg",
+   "id": 1053686,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/The-latin-kings-blend-dom-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/The-latin-kings-blend-dom-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/e1f22629bc5083469bbed2cc5afabdb8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e1f22629bc5083469bbed2cc5afabdb8.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 7,
+    "iq_earners": 6,
+    "transcribers": 1,
+    "unreviewed_annotations": 11,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Blend Dom",
+   "title_with_featured": "Blend Dom",
+   "url": "https://genius.com/The-latin-kings-blend-dom-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/104809",
+    "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+    "id": 104809,
+    "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "The Latin Kings",
+    "url": "https://genius.com/artists/The-latin-kings"
+   },
+   "apple_music_id": "1167597638",
+   "apple_music_player_url": "https://genius.com/songs/1053686/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1053686' class='rg_embed_link' data-song-id='1053686'>Read <a href='https://genius.com/The-latin-kings-blend-dom-lyrics'>\u201cBlend Dom\u201d by The\u00a0Latin Kings</a> on Genius</div> <script crossorigin src='//genius.com/songs/1053686/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/272247",
+    "cover_art_url": "https://images.genius.com/e1f22629bc5083469bbed2cc5afabdb8.1000x1000x1.jpg",
+    "full_title": "Mitt Kvarter by The Latin Kings",
+    "id": 272247,
+    "name": "Mitt Kvarter",
+    "url": "https://genius.com/albums/The-latin-kings/Mitt-kvarter",
+    "artist": {
+     "api_path": "/artists/104809",
+     "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+     "id": 104809,
+     "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Latin Kings",
+     "url": "https://genius.com/artists/The-latin-kings"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5550986",
+    "classification": "needs_exegesis",
+    "fragment": "Blend Dom",
+    "id": 5550986,
+    "is_description": true,
+    "path": "/5550986/The-latin-kings-blend-dom/Blend-dom",
+    "range": {
+     "content": "Blend Dom"
+    },
+    "song_id": 1053686,
+    "url": "https://genius.com/5550986/The-latin-kings-blend-dom/Blend-dom",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1053686",
+     "client_timestamps": {
+      "updated_by_human_at": 1626015381,
+      "lyrics_updated_at": 1626045483
+     },
+     "context": "The Latin Kings",
+     "id": 1053686,
+     "image_url": "https://images.genius.com/e1f22629bc5083469bbed2cc5afabdb8.1000x1000x1.jpg",
+     "link_title": "Blend Dom by\u00a0The\u00a0Latin Kings",
+     "title": "Blend Dom",
+     "type": "Song",
+     "url": "https://genius.com/The-latin-kings-blend-dom-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5550986",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5550986,
+      "pinned": false,
+      "share_url": "https://genius.com/5550986",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5550986/The-latin-kings-blend-dom/Blend-dom",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1436433",
+       "artist_names": "Ben E. King",
+       "full_title": "What Is Soul by\u00a0Ben\u00a0E. King",
+       "header_image_thumbnail_url": "https://images.genius.com/0a9286fabc3a09b71072f04d4a4611b8.300x305x1.jpg",
+       "header_image_url": "https://images.genius.com/0a9286fabc3a09b71072f04d4a4611b8.985x1000x1.jpg",
+       "id": 1436433,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Ben-e-king-what-is-soul-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Ben-e-king-what-is-soul-sample",
+       "release_date_components": {
+        "year": 1967,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1967",
+       "release_date_with_abbreviated_month_for_display": "1967",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0a9286fabc3a09b71072f04d4a4611b8.300x305x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0a9286fabc3a09b71072f04d4a4611b8.985x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "What Is Soul",
+       "title_with_featured": "What Is Soul",
+       "url": "https://genius.com/Ben-e-king-what-is-soul-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/19688",
+        "header_image_url": "https://images.genius.com/469flyng83mlexo1nrpbo5qsn.500x418x1.jpg",
+        "id": 19688,
+        "image_url": "https://images.genius.com/469flyng83mlexo1nrpbo5qsn.500x418x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Ben E. King",
+        "url": "https://genius.com/artists/Ben-e-king"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "The Latin Kings",
+   "lyrics": "Blend Dom LyricsBoastin (???)\n\nJag ska skildra verkligheten som en spegel\n\u00c5 bryta ny mark \u00e5 s\u00e4tta ny pr\u00e4gel\nSom vi gjort sen sm\u00e5 kaxiga sm\u00e5glin\nM\u00e4starnas m\u00e4stare av ceremonin\nJag e deff \u00e5 du e keff\nJag siktar p\u00e5 m\u00e5let s\u00e5 det blir fulltr\u00e4ff\nS\u00e5 upp med h\u00e4nderna i luften \u00e5 klappa, bre\nS\u00e5 ni kan njuta av rapparnas rappare\nJag brukar g\u00f6ra shower \u00e5 inte f\u00e5 en sp\u00e4nn\nMen skit i det f\u00f6r jag \u00e5 mina grabbar h\u00e5ller \u00e4n\nShunar s\u00e4ger \"ey len, din stil e fallen\"\nMen samma shunar f\u00e5r smaka feta ballen\nDet e avundsjukan som har gjort er blinda\n\u00c5 ni suger mer \u00e4n Libresse binda\nDu snacka skit men sluta snacka n\u00e4r jag kom\nEyo Boastin det e dags att blenda dom\nBlend dom\nSom talar v\u00e5ran hemslum\nBlend dom\nI v\u00e5ran laboratorium\nBlend dom\nMed v\u00e5ran tredje album\nBlend dom\nI deras territorium\n\nAlla vet boastin jag e veteran\nH\u00e5rd och tuff original som fan\nRaggamuffin p\u00e5 svenska boastin e faan\nH\u00e4nga p\u00e5 landet mecka p\u00e5 stan\nF\u00f6r vuxna, ton\u00e5ring ocks\u00e5 f\u00f6r barn\nAlla k\u00f6tt\u00e4tare ocks\u00e5 vegan\nF\u00f6r buddhist \u00e5 hindu, kristna, islam\nDaddy boastin make them rock come come on\nBoastin bakom ratten dags att k\u00f6ra om\nAtt k\u00f6ra om vissa mc med l\u00e4tt och lagom\nBoastin kan vara deras v\u00e4rsta mardr\u00f6m\nKan explodera som en musical bomb\n??? color phantom\nVi l\u00e4mnar dom stolt, denna omg\u00e5ng\n\nBlend dom\nSom talar v\u00e5ran hemslum\nBlend dom\nI v\u00e5ran laboratorium\nBlend dom\nMed v\u00e5ran tredje album\nBlend dom\nI deras territorium\nYou might also likeBlenda shonarna som vill spela mangas\nEn Osman i din skalle och det blir en conga\nDu \u00e4r en babblish som bara vill kritisera\nVa h\u00e4ftig f\u00f6r gussarna och imponera\nDet g\u00e5r bra d\u00e4r du bor men inte i mina kvarter\nDom boastar dig i r\u00f6ven sen ser vi dig aldrig mer\nEy len \u00f6ppna lampan f\u00f6r den e sl\u00e4ckt\nBrist i respekt smaka svampen \u00e5 bli kl\u00e4ckt\nAlla shunor som sover dags f\u00f6r er att VAKNA!\nBlattarnas blattar som ni \u00e4lskar att sakna\nF\u00f6r latin kings h\u00e5ller det alltid f\u00f6rorten\nFlexar alla g\u00e5rdar g\u00e5r i alla forten\nPlundrar alla slotten, rest sig fr\u00e5n botten\nH\u00e4rskar fr\u00e5n toppen, lagt av med keff-brotten\n24 timmar om inget hueco maricon\n\nBlend dom\nSom talar v\u00e5ran hemslum\nBlend dom\nI v\u00e5ran laboratorium\nBlend dom\nMed v\u00e5ran tredje album\nBlend dom\nI deras territorium\n\nVi e \u00e4pplet alla salatas biter av\nSom sen f\u00f6rs\u00f6ker skina p\u00e5 vad vi har\nS\u00e5 dags f\u00f6r Latin Kings vi g\u00e5r \u00e5 greppar mikrofon\nDu kan se det som ett r\u00e5n eller ett avslutat l\u00e5n\nDags f\u00f6r solens son att f\u00f6rvandlas till cyklon\nNi tror ni kan m\u00e4ta er med \u00e4kta ghettoidiits\nSom pudlar som sk\u00e4ller inte chans att ni bits\nF\u00e4rsking gr\u00f6nare \u00e4n ICA's bananer\nMytomaner, keffa rimkleptomaner\nSom f\u00f6rs\u00f6ker va som Sveriges rapveteraner\nS\u00e5 softa brorsan som en j\u00e4vla flummare\nEller \u00f6ppna k\u00e4ften och bevisa att du \u00e4r dummare\nL\u00e5t ist\u00e4llet en svartskalle f\u00e5 skina\nSjall mina ord och ni vet att dom e mina\nVi blendar dom s\u00e5 dom inte kan se\n1, 4, 5, r\u00f6da linjen, Norra B\nBlend dom\nSom talar v\u00e5ran hemslum\nBlend dom\nI v\u00e5ran laboratorium\nBlend dom\nMed v\u00e5ran tredje album\nBlend dom\nI deras territorium...Embed"
+  },
+  {
+   "annotation_count": 6,
+   "api_path": "/songs/1351821",
+   "artist_names": "The Latin Kings",
+   "full_title": "Mecka by\u00a0The\u00a0Latin Kings",
+   "header_image_thumbnail_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+   "id": 1351821,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/The-latin-kings-mecka-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/The-latin-kings-mecka-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 6,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Mecka",
+   "title_with_featured": "Mecka",
+   "url": "https://genius.com/The-latin-kings-mecka-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/104809",
+    "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+    "id": 104809,
+    "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "The Latin Kings",
+    "url": "https://genius.com/artists/The-latin-kings"
+   },
+   "apple_music_id": "212924107",
+   "apple_music_player_url": "https://genius.com/songs/1351821/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1351821' class='rg_embed_link' data-song-id='1351821'>Read <a href='https://genius.com/The-latin-kings-mecka-lyrics'>\u201cMecka\u201d by The\u00a0Latin Kings</a> on Genius</div> <script crossorigin src='//genius.com/songs/1351821/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/202865",
+    "cover_art_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+    "full_title": "V\u00e4lkommen till f\u00f6rorten by The Latin Kings",
+    "id": 202865,
+    "name": "V\u00e4lkommen till f\u00f6rorten",
+    "url": "https://genius.com/albums/The-latin-kings/Valkommen-till-fororten",
+    "artist": {
+     "api_path": "/artists/104809",
+     "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+     "id": 104809,
+     "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Latin Kings",
+     "url": "https://genius.com/artists/The-latin-kings"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5859228",
+    "classification": "needs_exegesis",
+    "fragment": "Mecka",
+    "id": 5859228,
+    "is_description": true,
+    "path": "/5859228/The-latin-kings-mecka/Mecka",
+    "range": {
+     "content": "Mecka"
+    },
+    "song_id": 1351821,
+    "url": "https://genius.com/5859228/The-latin-kings-mecka/Mecka",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1351821",
+     "client_timestamps": {
+      "updated_by_human_at": 1521200835,
+      "lyrics_updated_at": 1521200835
+     },
+     "context": "The Latin Kings",
+     "id": 1351821,
+     "image_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+     "link_title": "Mecka by\u00a0The\u00a0Latin Kings",
+     "title": "Mecka",
+     "type": "Song",
+     "url": "https://genius.com/The-latin-kings-mecka-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5859228",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5859228,
+      "pinned": false,
+      "share_url": "https://genius.com/5859228",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5859228/The-latin-kings-mecka/Mecka",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/4945888",
+       "artist_names": "Allyawan",
+       "full_title": "Mecka 2019 by\u00a0Allyawan",
+       "header_image_thumbnail_url": "https://images.genius.com/3a7b12e82127dc4661cf76ab18ec1a70.300x300x1.png",
+       "header_image_url": "https://images.genius.com/3a7b12e82127dc4661cf76ab18ec1a70.1000x1000x1.png",
+       "id": 4945888,
+       "language": "sv",
+       "lyrics_owner_id": 6612308,
+       "lyrics_state": "complete",
+       "path": "/Allyawan-mecka-2019-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Allyawan-mecka-2019-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 10,
+        "day": 9
+       },
+       "release_date_for_display": "October 9, 2019",
+       "release_date_with_abbreviated_month_for_display": "Oct. 9, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3a7b12e82127dc4661cf76ab18ec1a70.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/3a7b12e82127dc4661cf76ab18ec1a70.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Mecka 2019",
+       "title_with_featured": "Mecka 2019",
+       "url": "https://genius.com/Allyawan-mecka-2019-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/24301",
+        "header_image_url": "https://images.genius.com/96bd71259f1d4a0be11717cec84f86d3.960x600x1.jpg",
+        "id": 24301,
+        "image_url": "https://images.genius.com/5fca51cff915dc00d2c3d1937afd97c1.999x999x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Allyawan",
+        "url": "https://genius.com/artists/Allyawan"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "The Latin Kings",
+   "lyrics": "Mecka LyricsJag meckar en, jag meckar tv\u00e5, jag meckar tre (x4)\n\nJag komma till Sverige, jag s\u00f6ka asylen\nJag hamnar r\u00e4tt i Botkyrkabyggen\nJag g\u00e5r till Chabba tr\u00e4ffar massor me hagga\nJag g\u00f6r min showen, jag sjunga ragga\nMen mitt namn e inte Shabba\nJag g\u00f6r ragga p\u00e5 svenska\nJag g\u00f6r ragga till svenska \u00e5 utl\u00e4ndska\nJag tr\u00e4ffa m\u00e5nga flickor i Stockholmsstaden\nJag g\u00f6r alla flicka massor av barnen\nS\u00e5 jag f\u00e5r mycke barnbidragen\nJag s\u00e4tta min freestyle jag lyssna Bob Marley\nJag tr\u00e4ffa kompis han heter Gary\nVi g\u00e5r till kiosken vi k\u00f6per Rizzla\nResten av historien, den f\u00e5r ni gissa!\nJag meckar en, jag meckar tv\u00e5, jag meckar tre (x4)\n\nDaddy Boastin (??)\n\nJag meckar en, jag meckar tv\u00e5, jag meckar tre (x4)\n\nJag gitta hemifr\u00e5n, jag komma till centrum\nJag komma tunnelbanan k\u00e4nner suttla parfymen\nSer kompisen me r\u00f6da \u00f6gonen\nHan s\u00e4ger \"300 \u00e5 du ska f\u00e5 fem\"\nJag fixar para imorron du ska f\u00e5 dom sen\nHan s\u00e4ger \"Ok, men vi delar p\u00e5 den\"\nMeckishen Meckish Zut zut\nGe mig rizzlan\nJag tittar fickan fy fan den f\u00f6rsvann!\nJag s\u00e4ger ... Kom ge mig rizzlan\nF\u00f6rl\u00e5t att jag har inte men du f\u00e5r pipan\nKompis r\u00f6da \u00f6gon meckish den sen\nN\u00e5gon s\u00e4ger aina d\u00e4r kommer bengen!\n\nVi meckar en, vi meckar tv\u00e5, vi meckar tre...You might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1207560",
+   "artist_names": "The Latin Kings",
+   "full_title": "Fint V\u00e4der by\u00a0The\u00a0Latin Kings",
+   "header_image_thumbnail_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+   "id": 1207560,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/The-latin-kings-fint-vader-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/The-latin-kings-fint-vader-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Fint V\u00e4der",
+   "title_with_featured": "Fint V\u00e4der",
+   "url": "https://genius.com/The-latin-kings-fint-vader-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/104809",
+    "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+    "id": 104809,
+    "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "The Latin Kings",
+    "url": "https://genius.com/artists/The-latin-kings"
+   },
+   "apple_music_id": "212924147",
+   "apple_music_player_url": "https://genius.com/songs/1207560/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1207560' class='rg_embed_link' data-song-id='1207560'>Read <a href='https://genius.com/The-latin-kings-fint-vader-lyrics'>\u201cFint V\u00e4der\u201d by The\u00a0Latin Kings</a> on Genius</div> <script crossorigin src='//genius.com/songs/1207560/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/202865",
+    "cover_art_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+    "full_title": "V\u00e4lkommen till f\u00f6rorten by The Latin Kings",
+    "id": 202865,
+    "name": "V\u00e4lkommen till f\u00f6rorten",
+    "url": "https://genius.com/albums/The-latin-kings/Valkommen-till-fororten",
+    "artist": {
+     "api_path": "/artists/104809",
+     "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+     "id": 104809,
+     "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Latin Kings",
+     "url": "https://genius.com/artists/The-latin-kings"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5710047",
+    "classification": "needs_exegesis",
+    "fragment": "Fint V\u00e4der",
+    "id": 5710047,
+    "is_description": true,
+    "path": "/5710047/The-latin-kings-fint-vader/Fint-vader",
+    "range": {
+     "content": "Fint V\u00e4der"
+    },
+    "song_id": 1207560,
+    "url": "https://genius.com/5710047/The-latin-kings-fint-vader/Fint-vader",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1207560",
+     "client_timestamps": {
+      "updated_by_human_at": 1473351814,
+      "lyrics_updated_at": 1429695409
+     },
+     "context": "The Latin Kings",
+     "id": 1207560,
+     "image_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+     "link_title": "Fint V\u00e4der by\u00a0The\u00a0Latin Kings",
+     "title": "Fint V\u00e4der",
+     "type": "Song",
+     "url": "https://genius.com/The-latin-kings-fint-vader-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5710047",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5710047,
+      "pinned": false,
+      "share_url": "https://genius.com/5710047",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5710047/The-latin-kings-fint-vader/Fint-vader",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "The Latin Kings",
+   "lyrics": "Fint V\u00e4der LyricsV\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4der, det va fint v\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4der\nDet va fint v\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4\u00e4der det va fint v\u00e4\u00e4\u00e4\u00e4der\n\nDet va fint v\u00e4der jag satte p\u00e5 mina kl\u00e4der\nOch best\u00e4mde mig f\u00f6r att g\u00e5 ut jag t\u00e4nkte\n\"ey jag m\u00e5ste sola innan sommaren tar slut\"\nS\u00e5 jag gick ner till stranden o la mig p\u00e5 sanden\nMina \u00f6gon domnade jag tror jag somnade\nS\u00e5sm\u00e5ningen blev jag v\u00e4ckt\nF\u00f6r att inte s\u00e4ga hmm.. f\u00f6rskr\u00e4ckt\nN\u00e5gon hade r\u00e5kat trampa mina t\u00e5r\nMen det gjorde ingenting hon hade fina l\u00e5r\nJag hade v\u00e4rsta turen det var b\u00e4sta bruden\nHon bad mig om urs\u00e4kt ja hon sa urs\u00e4kta\nMen jag trodde det var en dr\u00f6m s\u00e5 jag tog f\u00f6r mig\nMen hon var \u00e4kta, mm, hon va \u00e4kta\nS\u00e5 kommer refr\u00e4ngen h\u00e4r igen...\nFint v\u00e4\u00e4\u00e4\u00e4der.......\n\nHon kalla mig snuskhummer och gav mig en sm\u00e4ll\nSmack\nMen det r\u00e4ckte inte hon gick o h\u00e4mta Kjell\nKjell var ett muskelberg som gick p\u00e5 anabola\nVilken tur att jag hade tagit med min pistola\nF\u00f6r nu var det min tur \u00e5 spela cool\nF\u00f6r jag hade tagit med min vatten pistol\nJag spruta vatten i hans \u00f6gon o gav han\nEn h\u00f6ger, en h\u00f6ger, en h\u00f6ger, en h\u00f6ger, en h\u00f6ger, en h\u00f6ger, en h\u00f6ger\nOch slutligen en v\u00e4nster\nSedan fortsatte jag att njuta av min semester\nMin semester\nDet var fint v\u00e4der den dagen ja det var det faktiskt\n\nV\u00e4\u00e4\u00e4\u00e4der....\n\nNu sjunger vi me allihopa ett tv\u00e5 tre kniiip stj\u00e4rten s\u00e5 k\u00f6r vi\n\nFint v\u00e4\u00e4\u00e4\u00e4der.....You might also likeEmbed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/908401",
+   "artist_names": "The Latin Kings",
+   "full_title": "Kompisar fr\u00e5n f\u00f6rr by\u00a0The\u00a0Latin Kings",
+   "header_image_thumbnail_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+   "id": 908401,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/The-latin-kings-kompisar-fran-forr-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/The-latin-kings-kompisar-fran-forr-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Kompisar fr\u00e5n f\u00f6rr",
+   "title_with_featured": "Kompisar fr\u00e5n f\u00f6rr",
+   "url": "https://genius.com/The-latin-kings-kompisar-fran-forr-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/104809",
+    "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+    "id": 104809,
+    "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "The Latin Kings",
+    "url": "https://genius.com/artists/The-latin-kings"
+   },
+   "apple_music_id": "212924103",
+   "apple_music_player_url": "https://genius.com/songs/908401/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_908401' class='rg_embed_link' data-song-id='908401'>Read <a href='https://genius.com/The-latin-kings-kompisar-fran-forr-lyrics'>\u201cKompisar fr\u00e5n f\u00f6rr\u201d by The\u00a0Latin Kings</a> on Genius</div> <script crossorigin src='//genius.com/songs/908401/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/202865",
+    "cover_art_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+    "full_title": "V\u00e4lkommen till f\u00f6rorten by The Latin Kings",
+    "id": 202865,
+    "name": "V\u00e4lkommen till f\u00f6rorten",
+    "url": "https://genius.com/albums/The-latin-kings/Valkommen-till-fororten",
+    "artist": {
+     "api_path": "/artists/104809",
+     "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+     "id": 104809,
+     "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Latin Kings",
+     "url": "https://genius.com/artists/The-latin-kings"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5391347",
+    "classification": "needs_exegesis",
+    "fragment": "Kompisar fr\u00e5n f\u00f6rr",
+    "id": 5391347,
+    "is_description": true,
+    "path": "/5391347/The-latin-kings-kompisar-fran-forr/Kompisar-fran-forr",
+    "range": {
+     "content": "Kompisar fr\u00e5n f\u00f6rr"
+    },
+    "song_id": 908401,
+    "url": "https://genius.com/5391347/The-latin-kings-kompisar-fran-forr/Kompisar-fran-forr",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/908401",
+     "client_timestamps": {
+      "updated_by_human_at": 1611260695,
+      "lyrics_updated_at": 1546956789
+     },
+     "context": "The Latin Kings",
+     "id": 908401,
+     "image_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+     "link_title": "Kompisar fr\u00e5n f\u00f6rr by\u00a0The\u00a0Latin Kings",
+     "title": "Kompisar fr\u00e5n f\u00f6rr",
+     "type": "Song",
+     "url": "https://genius.com/The-latin-kings-kompisar-fran-forr-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5391347",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5391347,
+      "pinned": false,
+      "share_url": "https://genius.com/5391347",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5391347/The-latin-kings-kompisar-fran-forr/Kompisar-fran-forr",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/5246925",
+       "artist_names": "Z.E & ICEKIID",
+       "full_title": "EXAKT by\u00a0Z.E\u00a0& ICEKIID",
+       "header_image_thumbnail_url": "https://images.genius.com/0acec5d786a144e68c33c8db8cb981d5.300x300x1.png",
+       "header_image_url": "https://images.genius.com/0acec5d786a144e68c33c8db8cb981d5.1000x1000x1.png",
+       "id": 5246925,
+       "language": "da",
+       "lyrics_owner_id": 5788985,
+       "lyrics_state": "complete",
+       "path": "/Ze-and-icekiid-exakt-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Ze-and-icekiid-exakt-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 2,
+        "day": 20
+       },
+       "release_date_for_display": "February 20, 2020",
+       "release_date_with_abbreviated_month_for_display": "Feb. 20, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0acec5d786a144e68c33c8db8cb981d5.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/0acec5d786a144e68c33c8db8cb981d5.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "EXAKT",
+       "title_with_featured": "EXAKT",
+       "url": "https://genius.com/Ze-and-icekiid-exakt-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2119899",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+        "id": 2119899,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Z.E & ICEKIID",
+        "url": "https://genius.com/artists/Ze-and-icekiid"
+       }
+      },
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/1741513",
+       "artist_names": "STOR (Ft. AKI, Dani M, Linda Pira & Natty Silver)",
+       "full_title": "Mitt folk by\u00a0STOR (Ft.\u00a0AKI, Dani\u00a0M, Linda\u00a0Pira & Natty\u00a0Silver)",
+       "header_image_thumbnail_url": "https://images.genius.com/410d7eac0defd939345f0dbbbd2652ff.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/410d7eac0defd939345f0dbbbd2652ff.1000x1000x1.jpg",
+       "id": 1741513,
+       "language": "sv",
+       "lyrics_owner_id": 1247326,
+       "lyrics_state": "complete",
+       "path": "/Stor-mitt-folk-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Stor-mitt-folk-sample",
+       "release_date_components": {
+        "year": 2012,
+        "month": 11,
+        "day": 10
+       },
+       "release_date_for_display": "November 10, 2012",
+       "release_date_with_abbreviated_month_for_display": "Nov. 10, 2012",
+       "song_art_image_thumbnail_url": "https://images.genius.com/410d7eac0defd939345f0dbbbd2652ff.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/410d7eac0defd939345f0dbbbd2652ff.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false
+       },
+       "title": "Mitt folk",
+       "title_with_featured": "Mitt folk (Ft.\u00a0AKI, Dani\u00a0M, Linda\u00a0Pira & Natty\u00a0Silver)",
+       "url": "https://genius.com/Stor-mitt-folk-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/81306",
+         "header_image_url": "https://images.genius.com/b509c66442aa1967581ae7b4a04dafd0.1000x500x1.jpg",
+         "id": 81306,
+         "image_url": "https://images.genius.com/cafb6813fc6b6fe2d20e7d18b864e0b5.512x512x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Linda Pira",
+         "url": "https://genius.com/artists/Linda-pira"
+        },
+        {
+         "api_path": "/artists/105301",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "id": 105301,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Natty Silver",
+         "url": "https://genius.com/artists/Natty-silver"
+        },
+        {
+         "api_path": "/artists/36959",
+         "header_image_url": "https://images.genius.com/a8aa5882acbaddf0c3edb83f7e34ffe2.1000x1000x1.jpg",
+         "id": 36959,
+         "image_url": "https://images.genius.com/a8aa5882acbaddf0c3edb83f7e34ffe2.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "AKI",
+         "url": "https://genius.com/artists/Aki"
+        },
+        {
+         "api_path": "/artists/24303",
+         "header_image_url": "https://images.genius.com/78b0c8fda314a857ef17abd9933b03eb.1000x563x1.jpg",
+         "id": 24303,
+         "image_url": "https://images.genius.com/a6dc72d1a9973bcf6dc34adcd12a0eb4.580x580x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Dani M",
+         "url": "https://genius.com/artists/Dani-m"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/16542",
+        "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+        "id": 16542,
+        "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "STOR",
+        "url": "https://genius.com/artists/Stor"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "The Latin Kings",
+   "lyrics": "Kompisar fr\u00e5n f\u00f6rr Lyrics[Den h\u00e4r l\u00e5ten till\u00e4gnar jag alla det g\u00e5tt snett f\u00f6r.... ni vet vilka ni \u00e4r.... jag gl\u00f6mmer inte]\n\nIdiot idiit idiiter h\u00e4nger i centrum i plugget dom skiter\nN\u00e5gra h\u00e4nger i g\u00e4ng n\u00e5gra dilar knark\nN\u00e5gra st\u00e5r och tittar p\u00e5 n\u00e4r det fight\nBland dom fanns en g\u00e5ng en tjack-pundare\nSom ville b\u00f6rja leva n\u00e5got sundare\nHan skr\u00f6t ofta om dom brott han begick\nHur snabbt.... hur kvickt...\nMen ingen i g\u00e4nget trodde va han sa\nF\u00f6r det enda han kunde var att stj\u00e4la och ta\nPundaren skaffa sig en pistolatrapp\nHan gick in i en aff\u00e4r - han gick till attack\nHan r\u00e5nade skitet - han fick pengar s\u00e5 det r\u00e4ckte\nIdag g\u00e5r han kl\u00e4dd som den perfekte\nSm\u00e5killarna i g\u00e4nget ser nu upp till han\nDet \u00e4r det va dom anser e en man\nS\u00e5 g\u00e5r det n\u00e4r man har en d\u00e5lig start\nEn dag s\u00e5 g\u00f6r dom alla lika dant\nUtan farsa, en farsgestalt\nDet \u00e4r d\u00e4rf\u00f6r dom b\u00f6rjar med knark\nSitt liv dom f\u00f6rst\u00f6r, det var kompisar fr\u00e5n f\u00f6rr\nRefr\u00e4ng:\n[kom igen d\u00e5]\nKompis fr\u00e5n f\u00f6rr, kompis fr\u00e5n f\u00f6rr...\nN\u00e5gra lyckas n\u00e5gra d\u00f6r\nKompis fr\u00e5n f\u00f6rr, kompis fr\u00e5n f\u00f6rr...\nN\u00e5gra lyckas n\u00e5gra d\u00f6r\nKompis fr\u00e5n f\u00f6rr, kompis fr\u00e5n f\u00f6rr...\nN\u00e5gra lyckas n\u00e5gra d\u00f6r\nKo-ko-ko...-kompis fr\u00e5n f\u00f6rr\nN\u00e5gra lyckas n\u00e5gra d\u00f6r\n\nStilett, butterfly, bazooka i Norra Botkyrka dom \u00e4r inte kloka\nH\u00e4r vill alla ha respekt\nD\u00e4rf\u00f6r g\u00e5r alla bev\u00e4pnade med stilett\nMen det hj\u00e4lper inte, det blir bara v\u00e4rre\nN\u00e5gon blir cuttad dessv\u00e4rre\nEn annan idiit sparkar ner en pension\u00e4r\nKanske han trodde han skulle bli miljon\u00e4r\nEn s\u00e5n d\u00e4r t\u00f6nt som bara g\u00e5r mot dom svaga\nSedan p\u00e5 samh\u00e4llet han klaga\nTill viss m\u00e5n har han r\u00e4tt\nMen ingen r\u00e4tt att sparka ner en gammal med k\u00e4pp\nDu vill g\u00e5 kl\u00e4dd som maffia - slips, kavaj , fluga, du vill duga\nOch ha en fet sedelbunt i din ficka\nOch en fotomodell som flicka\nMen du hamnar bara i klister\nDu hamnar i ett brottsregister\nN\u00e5gon tjollar bil n\u00e5gon k\u00f6r\nDet var kompisar fr\u00e5n f\u00f6rr...\nDet var kompisar fr\u00e5n f\u00f6rr...\nYou might also likeRefr\u00e4ng\n\nJag t\u00e4nker ofta p\u00e5 kompisar fr\u00e5n f\u00f6rr\nH\u00e5ller dom fortfarande p\u00e5 - saboterar och f\u00f6rst\u00f6r\nSitt liv springer runt med kniv och hotar och skryter f\u00f6r varandra\nKanske sitter tapp och r\u00f6ker en ganja\nTvungen att visa att man var stark inte svag\nS\u00e5 man skolkar n\u00e4stan varje dag\nMobbning skolk och br\u00e5k var vardagsmat\nInom en fanns bara vrede och hat\nSom sedan gick ut \u00f6ver vikarien som var flat\nMan knocka idiiter \u00e4ven en kamrat\nVar man ledare f\u00f6r ett g\u00e4ng - fick man l\u00e4tt en brud i s\u00e4ng\nN\u00e5gra lyckas n\u00e5gra d\u00f6r\nDet var kompisar fr\u00e5n f\u00f6rr...\nDet var kompisar fr\u00e5n f\u00f6rr...\n\nDet var kompisar fr\u00e5n f\u00f6rr...\nKompisar fr\u00e5n f\u00f6rr...\nX4\n\n(Heja Daddy...)\n\nRefr\u00e4ngEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1689028",
+   "artist_names": "The Latin Kings",
+   "full_title": "Borta I Tankar by\u00a0The\u00a0Latin Kings",
+   "header_image_thumbnail_url": "https://images.genius.com/8f8282926204c17a6445eca54400ac95.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8f8282926204c17a6445eca54400ac95.1000x1000x1.jpg",
+   "id": 1689028,
+   "language": "sv",
+   "lyrics_owner_id": 2383329,
+   "lyrics_state": "complete",
+   "path": "/The-latin-kings-borta-i-tankar-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/The-latin-kings-borta-i-tankar-sample",
+   "release_date_components": {
+    "year": 1996,
+    "month": 2,
+    "day": 11
+   },
+   "release_date_for_display": "February 11, 1996",
+   "release_date_with_abbreviated_month_for_display": "Feb. 11, 1996",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8f8282926204c17a6445eca54400ac95.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8f8282926204c17a6445eca54400ac95.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Borta I Tankar",
+   "title_with_featured": "Borta I Tankar",
+   "url": "https://genius.com/The-latin-kings-borta-i-tankar-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/104809",
+    "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+    "id": 104809,
+    "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "The Latin Kings",
+    "url": "https://genius.com/artists/The-latin-kings"
+   },
+   "apple_music_id": "1168063575",
+   "apple_music_player_url": "https://genius.com/songs/1689028/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1689028' class='rg_embed_link' data-song-id='1689028'>Read <a href='https://genius.com/The-latin-kings-borta-i-tankar-lyrics'>\u201cBorta I Tankar\u201d by The\u00a0Latin Kings</a> on Genius</div> <script crossorigin src='//genius.com/songs/1689028/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1996-02-11",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/209855",
+    "cover_art_url": "https://images.genius.com/8f8282926204c17a6445eca54400ac95.1000x1000x1.jpg",
+    "full_title": "I skuggan av betongen by The Latin Kings",
+    "id": 209855,
+    "name": "I skuggan av betongen",
+    "url": "https://genius.com/albums/The-latin-kings/I-skuggan-av-betongen",
+    "artist": {
+     "api_path": "/artists/104809",
+     "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+     "id": 104809,
+     "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Latin Kings",
+     "url": "https://genius.com/artists/The-latin-kings"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6204142",
+    "classification": "needs_exegesis",
+    "fragment": "Borta I Tankar",
+    "id": 6204142,
+    "is_description": true,
+    "path": "/6204142/The-latin-kings-borta-i-tankar/Borta-i-tankar",
+    "range": {
+     "content": "Borta I Tankar"
+    },
+    "song_id": 1689028,
+    "url": "https://genius.com/6204142/The-latin-kings-borta-i-tankar/Borta-i-tankar",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1689028",
+     "client_timestamps": {
+      "updated_by_human_at": 1611260688,
+      "lyrics_updated_at": 1555334087
+     },
+     "context": "The Latin Kings",
+     "id": 1689028,
+     "image_url": "https://images.genius.com/8f8282926204c17a6445eca54400ac95.1000x1000x1.jpg",
+     "link_title": "Borta I Tankar by\u00a0The\u00a0Latin Kings",
+     "title": "Borta I Tankar",
+     "type": "Song",
+     "url": "https://genius.com/The-latin-kings-borta-i-tankar-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6204142",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6204142,
+      "pinned": false,
+      "share_url": "https://genius.com/6204142",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6204142/The-latin-kings-borta-i-tankar/Borta-i-tankar",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Mb6mgzdjlhg"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1776474",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "id": 1776474,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669064443",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DJ Salla",
+     "url": "https://genius.com/artists/Dj-salla"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5246299",
+       "artist_names": "Dani M (Ft. Keya)",
+       "full_title": "Gata by\u00a0Dani\u00a0M (Ft.\u00a0Keya)",
+       "header_image_thumbnail_url": "https://images.genius.com/6ec94e57693c0e8aeb9c3d81a452ab4c.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/6ec94e57693c0e8aeb9c3d81a452ab4c.575x575x1.jpg",
+       "id": 5246299,
+       "language": "sv",
+       "lyrics_owner_id": 7868347,
+       "lyrics_state": "complete",
+       "path": "/Dani-m-gata-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Dani-m-gata-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 12,
+        "day": 25
+       },
+       "release_date_for_display": "December 25, 2014",
+       "release_date_with_abbreviated_month_for_display": "Dec. 25, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/6ec94e57693c0e8aeb9c3d81a452ab4c.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6ec94e57693c0e8aeb9c3d81a452ab4c.575x575x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Gata",
+       "title_with_featured": "Gata (Ft.\u00a0Keya)",
+       "url": "https://genius.com/Dani-m-gata-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/63398",
+         "header_image_url": "https://images.genius.com/1ed82200955279d76b0a4f3641a56521.960x960x1.jpg",
+         "id": 63398,
+         "image_url": "https://images.genius.com/5ae5ed25a4e0430e73b5f08d84f16072.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Keya",
+         "url": "https://genius.com/artists/Keya"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/24303",
+        "header_image_url": "https://images.genius.com/78b0c8fda314a857ef17abd9933b03eb.1000x563x1.jpg",
+        "id": 24303,
+        "image_url": "https://images.genius.com/a6dc72d1a9973bcf6dc34adcd12a0eb4.580x580x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Dani M",
+        "url": "https://genius.com/artists/Dani-m"
+       }
+      },
+      {
+       "annotation_count": 14,
+       "api_path": "/songs/63641",
+       "artist_names": "Ison & Fille (Ft. Aleks & STOR)",
+       "full_title": "Stationen by\u00a0Ison\u00a0& Fille (Ft.\u00a0Aleks & STOR)",
+       "header_image_thumbnail_url": "https://images.genius.com/af0501048cd19f04ea265f105234bcf9.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/af0501048cd19f04ea265f105234bcf9.640x640x1.jpg",
+       "id": 63641,
+       "language": "sv",
+       "lyrics_owner_id": 36646,
+       "lyrics_state": "complete",
+       "path": "/Ison-and-fille-stationen-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Ison-and-fille-stationen-sample",
+       "release_date_components": {
+        "year": 2011,
+        "month": 5,
+        "day": 11
+       },
+       "release_date_for_display": "May 11, 2011",
+       "release_date_with_abbreviated_month_for_display": "May. 11, 2011",
+       "song_art_image_thumbnail_url": "https://images.genius.com/af0501048cd19f04ea265f105234bcf9.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/af0501048cd19f04ea265f105234bcf9.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 7,
+        "hot": false,
+        "pageviews": 27084
+       },
+       "title": "Stationen",
+       "title_with_featured": "Stationen (Ft.\u00a0Aleks & STOR)",
+       "url": "https://genius.com/Ison-and-fille-stationen-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/16543",
+         "header_image_url": "https://images.genius.com/7af359965aaa5ae6fdcccaa17ec7e1cc.533x533x1.jpg",
+         "id": 16543,
+         "image_url": "https://images.genius.com/7af359965aaa5ae6fdcccaa17ec7e1cc.533x533x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Aleks",
+         "url": "https://genius.com/artists/Aleks"
+        },
+        {
+         "api_path": "/artists/16542",
+         "header_image_url": "https://images.genius.com/f1369d1f848cb60e95562187c9f6d68c.812x1000x1.jpg",
+         "id": 16542,
+         "image_url": "https://images.genius.com/69f6cef3de593c786fe3e23b595d3fba.640x640x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "STOR",
+         "url": "https://genius.com/artists/Stor"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/16544",
+        "header_image_url": "https://s3.amazonaws.com/rapgenius/Ison-Fille.jpg",
+        "id": 16544,
+        "image_url": "https://s3.amazonaws.com/rapgenius/Ison-Fille.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Ison & Fille",
+        "url": "https://genius.com/artists/Ison-and-fille"
+       }
+      },
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/2061011",
+       "artist_names": "Petter",
+       "full_title": "F\u00e4ller en t\u00e5r by\u00a0Petter",
+       "header_image_thumbnail_url": "https://images.genius.com/32446cb6a283f027a4c9d250618f3259.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/32446cb6a283f027a4c9d250618f3259.640x640x1.jpg",
+       "id": 2061011,
+       "language": "sv",
+       "lyrics_owner_id": 4753899,
+       "lyrics_state": "complete",
+       "path": "/Petter-faller-en-tar-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Petter-faller-en-tar-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/32446cb6a283f027a4c9d250618f3259.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/32446cb6a283f027a4c9d250618f3259.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 6058
+       },
+       "title": "F\u00e4ller en t\u00e5r",
+       "title_with_featured": "F\u00e4ller en t\u00e5r",
+       "url": "https://genius.com/Petter-faller-en-tar-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/32186",
+        "header_image_url": "https://images.genius.com/5b17af2472027230c57703099bcaea53.690x460x1.jpg",
+        "id": 32186,
+        "image_url": "https://images.genius.com/130d989ab7c246949373a089ecc5a951.960x960x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Petter",
+        "url": "https://genius.com/artists/Petter"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5331620",
+       "artist_names": "24K (Ft. Willow (SWE))",
+       "full_title": "Det G\u00e5r Snabbt by\u00a024K (Ft.\u00a0Willow\u00a0(SWE))",
+       "header_image_thumbnail_url": "https://images.genius.com/8a505477ec5ad22d2237698753a4630f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8a505477ec5ad22d2237698753a4630f.800x800x1.jpg",
+       "id": 5331620,
+       "language": "sv",
+       "lyrics_owner_id": 7868347,
+       "lyrics_state": "complete",
+       "path": "/24k-det-gar-snabbt-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/24k-det-gar-snabbt-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 12,
+        "day": 18
+       },
+       "release_date_for_display": "December 18, 2015",
+       "release_date_with_abbreviated_month_for_display": "Dec. 18, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/8a505477ec5ad22d2237698753a4630f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8a505477ec5ad22d2237698753a4630f.800x800x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Det G\u00e5r Snabbt",
+       "title_with_featured": "Det G\u00e5r Snabbt (Ft.\u00a0Willow\u00a0(SWE))",
+       "url": "https://genius.com/24k-det-gar-snabbt-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/2139184",
+         "header_image_url": "https://images.genius.com/42b08b51fb03a7162adae65219b22596.682x682x1.jpg",
+         "id": 2139184,
+         "image_url": "https://images.genius.com/42b08b51fb03a7162adae65219b22596.682x682x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Willow (SWE)",
+         "url": "https://genius.com/artists/Willow-swe"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1629799",
+        "header_image_url": "https://images.genius.com/360e137c4c9a80bc838d889603937e5d.1000x563x1.png",
+        "id": 1629799,
+        "image_url": "https://images.genius.com/cef982e6b55658daa2eb265128d83033.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "24K",
+        "url": "https://genius.com/artists/24k"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/104810",
+     "header_image_url": "https://images.genius.com/15cfd66da99546ef3fe6ad592efbd87a.1000x667x1.jpg",
+     "id": 104810,
+     "image_url": "https://images.genius.com/f20f0eeda38468f8a446d5e1e3b9fcf7.340x340x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dogge Doggelito",
+     "url": "https://genius.com/artists/Dogge-doggelito"
+    }
+   ],
+   "artist": "The Latin Kings",
+   "lyrics": "Borta I Tankar LyricsIbland vill man bara f\u00f6rsvinna\nMan och keff, att aldrig f\u00e5 vinna\nL\u00e4gga sig ner och aldrig mer vakna\nMan t\u00e4nker h\u00e4r p\u00e5 jorden finns inget jag ska sakna\nMen efter regnet, s\u00e5 kommer solsken\n\u00c4ven om mitt hj\u00e4rta e h\u00e5rt som sten\nTv\u00e5 personligheter som en schitzofren\nAggresivitet, svikelse \u00e5 frustration\nGreppar mikrofonen exploderar som en kanon\nDet finns inga v\u00e4nner n\u00e4r man ligger svag p\u00e5 botten\nV\u00e4nnerna kommer n\u00e4r du n\u00e4rmar dig toppen\nPrecis som n\u00e4r man var liten\nVille alla ha st\u00f6rsta biten\nMen ist\u00e4llet s\u00e5 e alla skit len\nOrmar, vesslor, gamar och knas\nVarje g\u00e5ng ni dyker upp, s\u00e5 blir det knas\nSlingra er iv\u00e4g, stick iv\u00e4g, schas!\nJag greppar mikrofonen och s\u00e4tter er p\u00e5 plats\nSom Dogge Marziano i en tolv ronders match\nDet enda jag h\u00f6r i mitt hj\u00e4rta som bankar\nJag e f\u00f6r l\u00e5ngt borta i mina egna j\u00e4vla tankar\n[Ref.]\nJag e f\u00f6r l\u00e5ngt borta i mina egna tankar (x3)\n\nN\u00e4r man \u00e4r liten, s\u00e5 vill man vara stor\nN\u00e4r man \u00e4r stor, s\u00e5 vill man vara liten\nMan s\u00f6ker efter sanningen men sanningen g\u00f6r ont\nAllt k\u00e4nns f\u00f6r j\u00e4vligt, ensamt och tomt\nVar finns svaren p\u00e5 livets alla fr\u00e5gor?\nTankarna bara str\u00f6mmar som v\u00e5gor\nDen h\u00e4r g\u00e5r tillbaks n\u00e4r jag var 13 \u00e5r\nHungrig som ett lejon som slickar sina s\u00e5r\nMan f\u00f6rs\u00f6kte ta sig upp men ingen str\u00e4ckte fram handen\nMen nuf\u00f6rtiden kan ingen j\u00e4vel str\u00e4cka banden\nBetongen runt omkring mig, de tog mig p\u00e5 djupet\nDet blev bara b\u00f6rjan p\u00e5 livet inte slutet\nMan ville vara som de stora legenderna\nB\u00e4st att h\u00e5lla sig till spelet annars fl\u00f6g t\u00e4nderna\nS\u00e5 l\u00e4mna skitsnacket, s\u00e5 l\u00e4nge mitt hj\u00e4rta bankar\nJag e f\u00f6r l\u00e5ngt borta i mina egna j\u00e4vla tankar\n\n[Ref.]\n\nCirkulerar i betongen d\u00e4r allting en g\u00e5ng startat\nT\u00e4nker p\u00e5 minnena som jag brukar hata\nHur man alltid str\u00e4vade efter lycka och elegans\nDet g\u00e4llde att ta f\u00f6r sig om man skulle ha n\u00e5n chans\nSnabba para lockar f\u00f6r det g\u00e5r som en dans\nF\u00f6r utan para kommer man ju ingenstans\nMan ska vara med fr\u00e5n b\u00f6rjan och l\u00e4ra sig grunden\nOch sen v\u00e4nta och spana till den r\u00e4tta stunden\nD\u00e5 e de l\u00e4tt n\u00e4r man kl\u00e4ttrat upp som en spindel\nMen akta len, s\u00e5 du inte f\u00e5r svindel\nSv\u00e5righeten det e m\u00f6rkt men jag trivs i m\u00f6rkret\nJag kan kan se igenom problemen som jag s\u00e5g igenom f\u00f6nster\nSofta p\u00e5 stationen inga cash s\u00e5 jag plankar\nJag \u00e4r f\u00f6r l\u00e5ngt borta i mina egna j\u00e4vla tankar\nYou might also like[Ref.]Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/1623337",
+   "artist_names": "The Latin Kings",
+   "full_title": "Halva Inne by\u00a0The\u00a0Latin Kings",
+   "header_image_thumbnail_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+   "id": 1623337,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/The-latin-kings-halva-inne-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/The-latin-kings-halva-inne-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Halva Inne",
+   "title_with_featured": "Halva Inne",
+   "url": "https://genius.com/The-latin-kings-halva-inne-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/104809",
+    "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+    "id": 104809,
+    "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "The Latin Kings",
+    "url": "https://genius.com/artists/The-latin-kings"
+   },
+   "apple_music_id": "212924139",
+   "apple_music_player_url": "https://genius.com/songs/1623337/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1623337' class='rg_embed_link' data-song-id='1623337'>Read <a href='https://genius.com/The-latin-kings-halva-inne-lyrics'>\u201cHalva Inne\u201d by The\u00a0Latin Kings</a> on Genius</div> <script crossorigin src='//genius.com/songs/1623337/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/202865",
+    "cover_art_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+    "full_title": "V\u00e4lkommen till f\u00f6rorten by The Latin Kings",
+    "id": 202865,
+    "name": "V\u00e4lkommen till f\u00f6rorten",
+    "url": "https://genius.com/albums/The-latin-kings/Valkommen-till-fororten",
+    "artist": {
+     "api_path": "/artists/104809",
+     "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+     "id": 104809,
+     "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Latin Kings",
+     "url": "https://genius.com/artists/The-latin-kings"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6138165",
+    "classification": "needs_exegesis",
+    "fragment": "Halva Inne",
+    "id": 6138165,
+    "is_description": true,
+    "path": "/6138165/The-latin-kings-halva-inne/Halva-inne",
+    "range": {
+     "content": "Halva Inne"
+    },
+    "song_id": 1623337,
+    "url": "https://genius.com/6138165/The-latin-kings-halva-inne/Halva-inne",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1623337",
+     "client_timestamps": {
+      "updated_by_human_at": 1611260667,
+      "lyrics_updated_at": 1546957035
+     },
+     "context": "The Latin Kings",
+     "id": 1623337,
+     "image_url": "https://images.genius.com/778fff1491db78e6cebdd95656a4dfee.1000x1000x1.jpg",
+     "link_title": "Halva Inne by\u00a0The\u00a0Latin Kings",
+     "title": "Halva Inne",
+     "type": "Song",
+     "url": "https://genius.com/The-latin-kings-halva-inne-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6138165",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6138165,
+      "pinned": false,
+      "share_url": "https://genius.com/6138165",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6138165/The-latin-kings-halva-inne/Halva-inne",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "The Latin Kings",
+   "lyrics": "Halva Inne Lyrics\u00c5 bebis du f\u00e5r mig att l\u00e4ngta\n\u00c5 sn\u00e4lla ta den i din mun\n\u00c5 \u00e4lskling vill ej l\u00e4ngre l\u00e4ngta\nJag vill ju bara fylla din brunn\n\u00c5 du \u00e4r sexig \u00e5 du har hj\u00e4rna, du har klass\nDu ringer bara mig s\u00e5 fort du vill ha baz\nDu snackar om en snubbe, jag tror han heter P\u00e5l\nS\u00e5 varf\u00f6r \u00e4r ditt nummer alltid p\u00e5 min minicall?\n\n(Ref.)\nJag s\u00e4ger Ahhh, jag har mer \u00e4n halva inne\nJag vill ha din glass \u00e5 du vill ha min slickepinne\nS\u00e4ger Ahhh, jag har mer \u00e4n halva inne\nJag vill ha din glass \u00e5 du vill ha min slickepinne\nVi satt sent en kv\u00e4ll \u00e5 kolla TV 1000 (Ylvaaa)\nDu sa att du brann djupt inne, ringde 90000\n\u00c5 brandmannen kom med sin hj\u00e4lm i sin regnrock\nHan sl\u00e4ckte elden h\u00e5rt att du var tvungen s\u00e4ga stopp\n\u00c5 din bror, han kalla mig f\u00f6r dj\u00e4vla blatte\nF\u00f6r jag g\u00f6r att du l\u00e5ter l\u00e5ngt in p\u00e5 natten\nStackars du helt trasig, jag luktar din parfym\nRodde, Cheppe, Salla, Dogge ta mig \"baks till byn?\"\n\nJag s\u00e4ger Ahhh, jag har mer \u00e4n halva inne\nJag vill ha din glass \u00e5 du vill ha min slickepinne\nS\u00e4ger Ahhh, jag har mer \u00e4n halva inne\nJag vill ha din glass \u00e5 du vill ha min slickepinne\n\nHalva inne, inne\n\nJag tr\u00e4ffa dig f\u00f6rsta g\u00e5ngen p\u00e5 en fest\nDu tog mig f\u00f6r test\nJag fick ditt nummer - du tog mig f\u00f6r en dum en\nDet hela gick s\u00e5 fort - du tog mig f\u00f6r en, idiot!\nDu sa du \u00e4lskar mig, jag sa jag \u00e4lskar dig\nJag kl\u00e4dde av mig naken, dingel tangel\nDu kalla' mig benrangel men n\u00e4r jag tog fram slangen\nVille du att jag skulle vattna p\u00e5 momangen\nDu ville habbelibabbeli f\u00f6rsta kv\u00e4llen\nVi gick hem till dig\nJag tror du hette Helle'n\nDu blev p\u00e5 sm\u00e4llen du blev gravid\nJag blev helt schizoid, jag blev helt paranoid\nJag hade hela inne, efter jag haft halva\nSedan, \"ost\u00f6rt\"?, bara f\u00f6r dig att kalva\nMedan jag, jag kl\u00e4mde en finne\nDet \u00e9 priset man f\u00e5r ta f\u00f6r n\u00e4r man har halva inne\nYou might also likeRef\n\nDom var in, dom var ut, dom var h\u00e4r dom var d\u00e4r\nDu fixa b\u00e4sta gussar du s\u00e4ger du sv\u00e4r\nMen jag \u00e9 inte som dig, jag blir inte k\u00e4r \u00e5 skit\nF\u00f6r n\u00e5gong\u00e5ng tar du fel \u00e5 du f\u00e5r nit\nSom gussen som var din strulis, du borde gjort slutis\nHon var s\u00e5 fulis\nSedan kallar du mig f\u00f6r nolla\nMen vem \u00e4r det verkligen som \u00e9 en fjolla?\nDu doppar allting som g\u00e5r p\u00e5 tv\u00e5 ben\nDu har s\u00e4msta smaken, den \u00e9 som min v\u00e4nstra\nDet \u00e4r d\u00e4rf\u00f6r du alltid f\u00e5r dom s\u00e4msta\nMedan \"grabbar\" fr\u00e5n Alby, han f\u00e5r dom b\u00e4sta, \u00e5 du\nDu doppar den d\u00e4r madrassen hon \u00e4r gussen av l\u00e4gsta klassen\nMedan jag, jag doppar n\u00e4sta, tar en teqiula, forts\u00e4tter att festa\nTr\u00e4ffar en gus, tar av hennes linne\nDet \u00e4r Dogge fr\u00e5n Alby n\u00e4r han har halva inne\n\nRef\n\nJag har mer \u00e4n halva inne, \u00e4n vad jag beh\u00f6ver\nP\u00e5 \u00f6stermalm, kungsholmen, \u00e5 s\u00f6der\nS\u00e5 om du gus h\u00f6r allt detta, har fantasier, kom \u00e5 ber\u00e4tta\nAlla dina dr\u00f6mmar ska jag uppfylla med dig\nS\u00e5 om du ser mig p\u00e5 stan, vinka, blinka \u00e5 s\u00e4g hej\nDu beh\u00f6ver inte sk\u00e4mmas jag tar dig hur du vill\n69:an. italienarn, mission\u00e4r och m\u00e5nga till\nEfter kommer du fr\u00e5ga om jag \u00e9 din men jag s\u00e4ger\n- nej, nej, jag ville bara in!\nMen det \u00e9 n\u00e5nting du s\u00e4llan kommer att gl\u00f6mma\nAtt Dogge var d\u00e4r \u00e5 han b\u00f6rja t\u00f6mma\nS\u00e5 om du h\u00f6r detta \u00e5 vill ha ett fint minne\n\u00c9 det bara komma fram s\u00e5 ska du f\u00e5 halva inne\nRef x 4Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2196438",
+   "artist_names": "The Latin Kings",
+   "full_title": "Ainaziz by\u00a0The\u00a0Latin Kings",
+   "header_image_thumbnail_url": "https://images.genius.com/e1f22629bc5083469bbed2cc5afabdb8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e1f22629bc5083469bbed2cc5afabdb8.1000x1000x1.jpg",
+   "id": 2196438,
+   "language": "sv",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/The-latin-kings-ainaziz-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/The-latin-kings-ainaziz-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/e1f22629bc5083469bbed2cc5afabdb8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e1f22629bc5083469bbed2cc5afabdb8.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ainaziz",
+   "title_with_featured": "Ainaziz",
+   "url": "https://genius.com/The-latin-kings-ainaziz-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/104809",
+    "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+    "id": 104809,
+    "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "The Latin Kings",
+    "url": "https://genius.com/artists/The-latin-kings"
+   },
+   "apple_music_id": "1167597887",
+   "apple_music_player_url": "https://genius.com/songs/2196438/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2196438' class='rg_embed_link' data-song-id='2196438'>Read <a href='https://genius.com/The-latin-kings-ainaziz-lyrics'>\u201cAinaziz\u201d by The\u00a0Latin Kings</a> on Genius</div> <script crossorigin src='//genius.com/songs/2196438/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/272247",
+    "cover_art_url": "https://images.genius.com/e1f22629bc5083469bbed2cc5afabdb8.1000x1000x1.jpg",
+    "full_title": "Mitt Kvarter by The Latin Kings",
+    "id": 272247,
+    "name": "Mitt Kvarter",
+    "url": "https://genius.com/albums/The-latin-kings/Mitt-kvarter",
+    "artist": {
+     "api_path": "/artists/104809",
+     "header_image_url": "https://images.genius.com/0b390f11465ee4bbedac1348193a0d09.1000x563x1.jpg",
+     "id": 104809,
+     "image_url": "https://images.genius.com/0003adfe62df4bd0211a69152b26954e.427x427x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Latin Kings",
+     "url": "https://genius.com/artists/The-latin-kings"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7300397",
+    "classification": "needs_exegesis",
+    "fragment": "Ainaziz",
+    "id": 7300397,
+    "is_description": true,
+    "path": "/7300397/The-latin-kings-ainaziz/Ainaziz",
+    "range": {
+     "content": "Ainaziz"
+    },
+    "song_id": 2196438,
+    "url": "https://genius.com/7300397/The-latin-kings-ainaziz/Ainaziz",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2196438",
+     "client_timestamps": {
+      "updated_by_human_at": 1611260659,
+      "lyrics_updated_at": 1436819652
+     },
+     "context": "The Latin Kings",
+     "id": 2196438,
+     "image_url": "https://images.genius.com/e1f22629bc5083469bbed2cc5afabdb8.1000x1000x1.jpg",
+     "link_title": "Ainaziz by\u00a0The\u00a0Latin Kings",
+     "title": "Ainaziz",
+     "type": "Song",
+     "url": "https://genius.com/The-latin-kings-ainaziz-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7300397",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7300397,
+      "pinned": false,
+      "share_url": "https://genius.com/7300397",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7300397/The-latin-kings-ainaziz/Ainaziz",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "The Latin Kings",
+   "lyrics": "Ainaziz LyricsEn arm\u00e9 som vill f\u00e5 dig att f\u00f6rst\u00e5 var sk\u00e5pet ska st\u00e5\n\nAinaziz greppar bollar som bollkalle\nBakv\u00e4gen stylish, som showen nalle\nS\u00e5 pass f\u00f6r aina, pass f\u00f6r anus, pass f\u00f6r span\nDe h\u00e4r shonnarna \u00e4r f\u00f6r alltid ghettobarn\nDet g\u00e5r aldrig att l\u00e4ra gamla hundar att sitta\nMen schyssta aine e ocks\u00e5 en j\u00e4vla fitta\nEn spelar dum och en spelar sn\u00e4ll\nMen i b\u00e5das \u00f6gon e du svartskalle \u00e5 kriminell\nS\u00e5 snacka snacket men snacka inte med n\u00e5n\nOm aina dyker upp b\u00e4st \u00e5 h\u00e5lla din mun\nF\u00f6r tala e silver, men tiga \u00e4r guld\nBaxa upp hela haket \u00e5 betala din skuld\nLatin kings e ligan som inte g\u00e5r \u00e5 spr\u00e4cka\nEn g\u00e5ta som aina \u00e4r f\u00f6r dumma f\u00f6r \u00e5 kn\u00e4cka\nVi gittar vidare f\u00f6r \u00e5 knega p\u00e5 kv\u00e4llen\nRond 2 - knockout - aina f\u00e5r suga kantarellen\nAinaziz ser till att du finns p list\nAlltid hamna sist, alltid f\u00e5 minst\nDom vill se oss utan vinst men vi forts\u00e4tter k\u00e4mpa\nTror ni vi ska gola h\u00e4r finns ingenting \u00e5 h\u00e4mta\nAinaziz e riktiga mammas b\u00f6g bangare\nSer mig i centrum \u00e5 st\u00e4mplar mig som langare\nAlla grabbar i betongen e inte kriminella\nMen jiddrar ni med oss s\u00e5 kommere \u00e5 sm\u00e4lla\n\nK\u00e4nn beaten greppar som en riktig pp\nIngen bl\u00f6j-pop som du brukar se p\u00e5 tv\nIngen pop-s\u00e5ngare, betongen av h\u00f6gsta rang\nOch aina en tjooock vilsna som kling \u00e5 klang\nVeckoturister i deras egna distrikt\n\"stopp i lagens namn\"\n\"h\u00e4r styr gitt\"\nDe kan inte se skillnad p\u00e5 alla j\u00e4vla blattar\nFlexar med brickor ni s\u00e4llan fattar\nTror de \u00e4r miami vice i en j\u00e4vla deckare\nBehandlar alla illa \u00e5 f\u00f6rs\u00f6ker kn\u00e4cka dig\nJag bor h\u00e4r i ghettot lilla kommissarie\nHan gillar inte blattar men han solar solarie\n\nHan f\u00e5r betalt f\u00f6r att gripa kriminella\nMen trakasserar fattiga knegare som e sn\u00e4lla\nM\u00e5nga f\u00e4llor, men det g\u00f6r mig bara starkare\nDe vill att vi ska va kriminella \u00e5 knarkare\nYou might also likeRef\n\nM\u00f6rka gatugr\u00e4nder\nSt\u00e5r och hoppas allting v\u00e4nder\nDag in dag ut alltid samma skit som h\u00e4nder\nFille han e lugn f\u00f6rs\u00f6ker bara f\u00e5nga dagen\nTror f\u00f6r att man bryter att man ocks\u00e5 bryter lagen\nKl\u00e4dd som en bandit i allafall de e s\u00e5 dom ser dig\nTa en titt omkring \u00e5 se dig sj\u00e4lv i spegeln\nPass p\u00e5 skitfolk, jag e med grabbar som e reko\nSkuggan av betongen d\u00e4r siren h\u00f6rs ett eko\nKnas i orten\nDet g\u00e4ller \u00e5 st\u00e5 pall\nDanza sk\u00f6ter sitt\nGendish och tar det kallt\nRespekt till allt\nIfr\u00e5n knegare till baxare\nParran styr\nS\u00e5 man m\u00e5ste g\u00f6ra laxare\nAinaziz e fagish\nBazza dig i skallen\nAtt s\u00e4tta dit grabbarna\nG\u00f6r han h\u00e5rd i ballen\nTyck det du vill tycka\nS\u00e4g det du vill s\u00e4ga\nDe e latin kings - vi spottarom i fejan!\nReinkarneras i n\u00e4sta liv som \u00e4nnu mer kriminell\nSkriker knulla aina s\u00e5 det h\u00f6rs fr\u00e5n min cell\nTill norra b's kvarter, d\u00e4r grabbar jagas ihop\nP\u00e5 redline sl\u00e4ngs alla krimmare \u00f6ver bord\n\u00c5 alla golare som steker sina v\u00e4nner\nKommer f\u00e5 betala priset med utslagna t\u00e4nder\nMen grabbar som e \u00e4kta, l\u00e4mnar l\u00e4ppa spr\u00e4ckta\n\u00c5 ger aldrig b\u00e4ngen n\u00f6jet \u00e5 se dem kn\u00e4ckta\nTiderna e h\u00e5rda, s\u00e5 krille skyr inga medel\nF\u00f6r \u00e5 g\u00f6ra varje sm\u00e5mynt till en sedel\nMen varf\u00f6r drar ni alla \u00f6ver en kam\nOch skickar hundarna p\u00e5 grabbar som aldrig n\u00e5nsin becknat ett gram\nPissa p\u00e5 gubbarna vid makten\nSom skickar uniformer f\u00f6r att trakassera trakten\nVi e produkten av ett samh\u00e4lle som\nInte bryr sig om skiten som p\u00e5g\u00e5r i v\u00e5r betong\n\nRefEmbed"
+  }
+ ]
+}
